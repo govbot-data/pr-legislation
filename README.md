@@ -1,4 +1,4 @@
-# 🏛️ pr legislation file tree
+# 🏛️ Puerto Rico legislation file tree
 
 Download a copy of your states legislation.
 
