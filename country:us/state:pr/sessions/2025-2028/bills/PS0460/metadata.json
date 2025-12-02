@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0460",
-  "title": "Para crear la \u201cLey para la Utilizaci\u00f3n de la Licencia de Conducir Virtual\u201d, a los fines de que se permita la utilizaci\u00f3n de la licencia de conducir virtual, como identificaci\u00f3n v\u00e1lida al momento de realizar alguna gesti\u00f3n ya sea en el sector p\u00fablico y privado, y se considere igualmente v\u00e1lida que la licencia de conducir f\u00edsica. Adem\u00e1s, se pueda utilizar al momento de ser detenido por un agente del orden p\u00fablico, para validar que la persona tiene el permiso para conducir veh\u00edculos de motor y se puedan llevar a cabo los procesos ordinarios de igual forma que con la licencia f\u00edsica y enmendar el Articulo 323 (h) de la ley 22 del 7 de enero de 2000 ley de \u201cVeh\u00edculos y Tr\u00e1nsito de Puerto Rico\u201d, y para otros fines.",
+  "title": "Para enmendar los Art\u00edculos 3.13-A y 3.23 de la Ley 22-2000, seg\u00fan enmendada, conocida como \"Ley de \nVeh\u00edculos y Tr\u00e1nsito de Puerto Rico\", con el prop\u00f3sito de establecer que la licencia de conducir \nvirtual sea v\u00e1lida como m\u00e9todo de identificaci\u00f3n en Puerto Rico, exceptuando aquellos casos en que, \npor Ley o reglamentaci\u00f3n federal, se disponga de alguna forma o m\u00e9todo de identificaci\u00f3n contrario \na este; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -264,15 +264,25 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:47Z"
       }
+    },
+    {
+      "description": "Ley 131-2025",
+      "date": "2025-11-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T22:01:16Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -292,11 +302,11 @@
       "organization_id": null
     },
     {
-      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -389,6 +399,17 @@
       ],
       "date": "2025-10-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 131-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154665/Ley 131-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-25",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -407,6 +428,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:47Z"
+    "logs_latest_update": "2025-12-02T22:01:16Z"
   }
 }

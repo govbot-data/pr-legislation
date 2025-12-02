@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0622",
-  "title": "Para establecer la \u201cLey de Concienciaci\u00f3n sobre la Miastenia Gravis\u201d; disponer la pol\u00edtica p\u00fablica del Gobierno de Puerto Rico respecto a la importancia de la detecci\u00f3n temprana y el manejo adecuado de los pacientes; asignar responsabilidades al Departamento de Salud en cuanto a la educaci\u00f3n continuada sobre Miastenia Gravis; establecer reglamentaci\u00f3n que promueva su inclusi\u00f3n en los programas acad\u00e9micos de las correspondientes ramas de medicina y profesiones de la salud; desarrollar o implementar gu\u00edas m\u00e9dicas sobre su diagn\u00f3stico y tratamiento; promover investigaciones sobre sus causas y tratamientos; declarar el mes de junio como el \u201cMes de la Concienciaci\u00f3n sobre la Miastenia Gravis\u201d; ordenar al Departamento de Salud promover actividades educativas dirigidas a estudiantes y profesionales de la salud en conmemoraci\u00f3n de este mes; y para otros fines relacionados",
+  "title": "Para establecer la \"Ley de Concienciaci\u00f3n sobre la Miastenia Gravis\"; disponer la pol\u00edtica p\u00fablica \ndel Gobierno de Puerto Rico respecto a la importancia de la detecci\u00f3n  temprana  y  el  manejo  \nadecuado  de  los  pacientes;  asignar responsabilidades al Departamento de Salud en cuanto a la \neducaci\u00f3n continuada sobre Miastenia Gravis; establecer reglamentaci\u00f3n que promueva su inclusi\u00f3n en \nlos programas acad\u00e9micos de las correspondientes ramas de medicina y profesiones de la salud; \ndesarrollar o implementar gu\u00edas m\u00e9dicas sobre su diagn\u00f3stico  y  h\u00b7atamiento;  promover  \ninvestigaciones sobre sus  causas  y h\u00b7atamientos; declarar el mes de junio como el \"Mes de la \nConcienciaci\u00f3n sobre la Miastenia Gravis\"; ordenar al Departamento de Salud promover actividades \neducativas dirigidas a estudiantes y profesionales de la salud en conmemoraci\u00f3n de este mes; y para \noh\u00b7os fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -257,12 +257,12 @@
     },
     {
       "description": "Firmado por el Presidente del Senado",
-      "date": "2025-10-20T04:00:00+00:00",
+      "date": "2025-10-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:39:46Z"
+        "log_file_created": "2025-12-02T22:01:16Z"
       }
     },
     {
@@ -273,6 +273,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:39:46Z"
+      }
+    },
+    {
+      "description": "Ley 133-2025",
+      "date": "2025-11-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T22:01:16Z"
       }
     }
   ],
@@ -397,6 +407,17 @@
       ],
       "date": "2025-10-14",
       "classification": ""
+    },
+    {
+      "note": "Ley 133-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155682/Ley 133-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -415,6 +436,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:46Z"
+    "logs_latest_update": "2025-12-02T22:01:16Z"
   }
 }

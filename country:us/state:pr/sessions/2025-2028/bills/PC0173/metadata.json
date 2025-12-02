@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0173",
-  "title": "Para a\u00f1adir una nueva Regla 57.5 y renumerar las actuales Reglas 57.5, 57.6 y 57.7 como Reglas 57.6, 57.7 y 57.8 de las de Procedimiento Civil de Puerto Rico, seg\u00fan enmendadas, a los fines de armonizar su lenguaje con la jurisprudencia del Tribunal Supremo y disponer los criterios que deber\u00e1 considerar el tribunal antes de expedir un injunction permanente; y, para otros fines relacionados.",
+  "title": "Para a\u00f1adir una nueva Regla 57.5 y renumerar las actuales Reglas 57.5, 57.6 y 57.7 como Reglas \n57.6, 57.7 y 57.8 de las Reglas de Procedimiento Civil de Puerto Rico, seg\u00fan enmendadas,  a\u00f1adir  \nun  nuevo  inciso  (8)  al  Art\u00edculo  677  del  C\u00f3digo  de Enjuiciamiento Civil de 1933, seg\u00fan \nenmendado, a los fines de disponer los criterios que deber\u00e1 considerar el h\u00b7ibunal antes de expedir \nun injunction permanente; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -276,6 +276,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:44Z"
       }
+    },
+    {
+      "description": "Ley 132-2025",
+      "date": "2025-11-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T22:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -399,6 +409,17 @@
       ],
       "date": "2025-10-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 132-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152814/Ley 132-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-25",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -417,6 +438,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:44Z"
+    "logs_latest_update": "2025-12-02T22:01:16Z"
   }
 }

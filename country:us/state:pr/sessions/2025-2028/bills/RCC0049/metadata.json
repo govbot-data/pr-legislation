@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0049",
-  "title": "Para ordenarle la Programa de Empresas de Adiestramiento, Trabajo y Cooperativas, adscrita al Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n, que explore la viabilidad y desarrolle la oferta de cursos en arbitraje deportivo como alternativa para el empleo o el auto-empleo.",
+  "title": "Para ordenarle al Departamento  de Correcci\u00f3n y Rehabilitaci\u00f3n que, a  trav\u00e9s del Programa de \nEmpresas de Adiesh\u00b7ainiento, Trabajo y Cooperativas explore la viabilidad  de desarrollar  una \noferta de  cursos en arbitraje deportivo como alternativa para el empleo o el autoempleo.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -286,6 +286,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:43Z"
       }
+    },
+    {
+      "description": "Res. Conj.  44-2025",
+      "date": "2025-11-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T22:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -417,6 +427,17 @@
       ],
       "date": "2025-10-23",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  44-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153541/Res. Conj. 44-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-25",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -435,6 +456,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:43Z"
+    "logs_latest_update": "2025-12-02T22:01:16Z"
   }
 }

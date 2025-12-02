@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0337",
-  "title": "Para enmendar los art\u00edculos 9 y 10, a\u00f1adir unos nuevos art\u00edculos 13, 14, 15, 16, 17, 18 y 19, y reenumerar los actuales art\u00edculos del 13 al 35, como los art\u00edculos del 20 al 42, respectivamente, en la Ley 171-2014, seg\u00fan enmendada, mediante la cual, entre otras cosas, se establece el Programa de Desarrollo de la Juventud, como parte integral de la estructura del Departamento de Desarrollo Econ\u00f3mico y Comercio, a los fines de consolidar en dicha Ley, aquellos otros deberes y funciones, que le fueran conferidas mediante diversas leyes adicionales; hacer correcciones t\u00e9cnicas, en consideraci\u00f3n al estado de derecho que rige actualmente; derogar la Ley N\u00fam. 22 de\n20 de mayo de 1987, seg\u00fan enmendada, conocida como \u201cLey de la Medalla de la Juventud Puertorrique\u00f1a\u201d, la Ley 35-2003, seg\u00fan enmendada, a trav\u00e9s de la cual se conceden pr\u00e9stamos a j\u00f3venes para cursar estudios t\u00e9cnicos y vocacionales o para iniciar un negocio propio, la Ley 418-2004, seg\u00fan enmendada, conocida como \u201cLey de Cooperaci\u00f3n Mutua de Investigaci\u00f3n y Estudios sobre la Juventud\u201d, la Ley 503-2004, seg\u00fan enmendada, conocida como \u201cLey para crear la Cumbre Anual de la Juventud Puertorrique\u00f1a (CAJUP)\u201d, la Ley 191-2008, seg\u00fan enmendada, conocida como \u201cGu\u00eda de Servicios para el Joven\u201d, la Ley 1-2010, seg\u00fan enmendada, mediante la\ncual se crea el \u201cPrograma de Internados en Pol\u00edtica P\u00fablica Carlos Romero Barcel\u00f3\u201d, y la Ley 36-2014, conocida como \u201cLey de la Primera Oportunidad de Empleo Juvenil en Puerto Rico\u201d; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 9, a\u00f1adir unos nuevos Art\u00edculos 13, 14, 15, 16, 17, 18 y 19, y renumerar \nlos actuales Art\u00edculos del 13 al 35, como los Art\u00edculos del 20 al 42, respectivamente, en la Ley \n171-2014, seg\u00fan enmendada, mediante la cual, entre otras cosas, se establece el Programa de \nDesarrollo de la Juventud, como parte integral de la estructura del Departamento de Desarrollo \nEcon\u00f3mico y Comercio, a los fines de consolidar en dicha Ley, aquellos otros deberes y funciones, \nque le fueran conferidas mediante diversas leyes adicionales; hacer correcciones t\u00e9cnicas, en \nconsideraci\u00f3n al estado de derecho que rige actualmente; derogar la Ley N\u00fam. 22 de 20 de mayo de \n1987, seg\u00fan enmendada, conocida corno \"Ley de la Medalla de la Juventud Puertorrique\u00f1a\", la Ley \n35-2003, seg\u00fan enmendada, a trav\u00e9s de la cual se conceden pr\u00e9stamos a j\u00f3venes para cursar estudios \nt\u00e9cnicos y vocacionales o para iniciar un negocio propio, la Ley 418-2004, seg\u00fan enmendada, \nconocida como \"Ley de Cooperaci\u00f3n Mutua de Investigaci\u00f3n y Estudios sobre la Juventud\", la Ley \n503-2004, seg\u00fan enmendada, conocida como \"Ley para crear la Cumbre Anual  de  la  Juventud  \nPuertorrique\u00f1a  (CAJUP)\",  la  Ley  191-2008,  seg\u00fan enmendada, conocida como \"Gu\u00eda de Servicios \npara el Joven\", la Ley 1-2010, seg\u00fan enmendada, mediante la cual se crea el \"Programa de Internados \nen Pol\u00edtica P\u00fablica Carlos Romero Barcel\u00f3\", y la Ley 36-2014, conocida corno \"Ley de la Primera \nOportunidad de Empleo Juvenil en Puerto Rico\"; y para otros fines relacionados.\n20 de mayo de 1987, seg\u00fan enmendada, conocida como \u201cLey de la Medalla de la Juventud Puertorrique\u00f1a\u201d, la Ley 35-2003, seg\u00fan enmendada, a trav\u00e9s de la cual se conceden pr\u00e9stamos a j\u00f3venes para cursar estudios t\u00e9cnicos y vocacionales o para iniciar un negocio propio, la Ley 418-2004, seg\u00fan enmendada, conocida como \u201cLey de Cooperaci\u00f3n Mutua de Investigaci\u00f3n y Estudios sobre la Juventud\u201d, la Ley 503-2004, seg\u00fan enmendada, conocida como \u201cLey para crear la Cumbre Anual de la Juventud Puertorrique\u00f1a (CAJUP)\u201d, la Ley 191-2008, seg\u00fan enmendada, conocida como \u201cGu\u00eda de Servicios para el Joven\u201d, la Ley 1-2010, seg\u00fan enmendada, mediante la\ncual se crea el \u201cPrograma de Internados en Pol\u00edtica P\u00fablica Carlos Romero Barcel\u00f3\u201d, y la Ley 36-2014, conocida como \u201cLey de la Primera Oportunidad de Empleo Juvenil en Puerto Rico\u201d; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -242,6 +242,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:46Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-11-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T22:01:16Z"
+      }
+    },
+    {
+      "description": "Ley 134-2025",
+      "date": "2025-11-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T22:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -343,6 +363,17 @@
       ],
       "date": "2025-10-16",
       "classification": ""
+    },
+    {
+      "note": "Ley 134-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153845/Ley 134-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -361,6 +392,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:46Z"
+    "logs_latest_update": "2025-12-02T22:01:16Z"
   }
 }
