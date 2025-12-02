@@ -242,9 +242,27 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:46Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2025-11-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T08:42:34Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "\u00c1ngel  A. Fourquet Cordero - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel  A. Fourquet Cordero - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Tatiana  P\u00e9rez Ram\u00edrez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -262,11 +280,11 @@
       "organization_id": null
     },
     {
-      "name": "\u00c1ngel  A. Fourquet Cordero - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Ensol  Rodr\u00edguez Torres - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"\\u00c1ngel  A. Fourquet Cordero - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Ensol  Rodr\\u00edguez Torres - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -275,14 +293,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Estrella   Mart\\u00ednez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ensol  Rodr\u00edguez Torres - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Ensol  Rodr\\u00edguez Torres - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -393,6 +403,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:46Z"
+    "logs_latest_update": "2025-12-02T08:42:34Z"
   }
 }

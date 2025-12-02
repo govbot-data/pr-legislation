@@ -240,6 +240,16 @@
       }
     },
     {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T08:42:34Z"
+      }
+    },
+    {
       "description": "Cuerpo recibe 2do informe parcial rendido",
       "date": "2025-11-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -360,6 +370,17 @@
       ],
       "date": "2025-10-30",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152473/rs0001a-25 enmendada por la RS 275 y 367.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -378,6 +399,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:43Z"
+    "logs_latest_update": "2025-12-02T08:42:34Z"
   }
 }
