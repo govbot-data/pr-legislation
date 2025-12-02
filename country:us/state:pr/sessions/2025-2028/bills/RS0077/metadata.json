@@ -156,6 +156,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:43Z"
       }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T16:37:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -224,6 +234,17 @@
       ],
       "date": "2025-04-07",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154007/rs0077a-25 enmendada por la RS 375.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -242,6 +263,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T12:31:21Z"
+    "logs_latest_update": "2025-12-02T16:37:47Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0428",
-  "title": "Para a\u00f1adir un nuevo inciso (24) del Art\u00edculo 61.020; renumerar los subsiguientes incisos y a\u00f1adir un nuevo Art\u00edculo 61.051 a la Ley N\u00fam. 77 del 19 de junio de 1957, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Seguros de Puerto Rico\u201d, para crear las Subclases 3-M, 4-M y 5-M, aplicables a los aseguradores internacionales que suscriban o asuman riesgos en reaseguro residentes, localizados o a ejecutarse en otro estado o territorio de Estados Unidos; alinear los par\u00e1metros de regulaci\u00f3n bajo los cuales estas subclases podr\u00e1n hacer negocios de seguros en otro estado o territorio de Estados Unidos conforme los est\u00e1ndares uniformes de regulaci\u00f3n de solvencia financiera promulgados por la \u201cNational Association of Insurance Commissioners\u201d (NAIC); y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo inciso (5) del Art\u00edculo 61.020; renumerar los subsiguientes incisos y a\u00f1adir un nuevo Art\u00edculo 61.051 a la Ley N\u00fam. 77 del 19 de junio de 1957, seg\u00fan enmendada, conocida como \"C\u00f3digo de Seguros de Puerto Rico\", para crear las Subclases 3-M, 4-M y 5-M, aplicables a los aseguradores internacionales que  operen  como  Aseguradoras  Internacionales  Multiestatales; alinear  los par\u00e1metros de regulaci\u00f3n bajo los cuales estas subclases podr\u00e1n hacer negocios de seguros en otro estado o territorio de Estados Unidos conforme los est\u00e1ndares uniformes de regulaci\u00f3n de solvencia financiera promulgados por la \"National Association  of  Insurance  Commissioners\"  (NAIC);  y  para  otros  fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -282,6 +282,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:45Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T16:37:47Z"
+      }
+    },
+    {
+      "description": "Ley 130-2025",
+      "date": "2025-11-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T16:37:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -402,6 +422,17 @@
       ],
       "date": "2025-11-12",
       "classification": ""
+    },
+    {
+      "note": "Ley 130-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154349/Ley 130-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-24",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -420,6 +451,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T12:31:21Z"
+    "logs_latest_update": "2025-12-02T16:37:47Z"
   }
 }

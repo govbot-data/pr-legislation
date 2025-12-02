@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0051",
-  "title": "Para designar el edificio e instalaciones donde ubica el \u201cComplejo de Seguridad P\u00fablica\u201d, sito en la PR-846 en el municipio de Trujillo Alto, con el nombre de Pedro A. Padilla Ayala; y para otros fines relacionados.",
+  "title": "Para designar el edificio e instalaciones donde ubica el \"Complejo de Seguridad P\u00fablica\", sito en \nla PR-846 en el Municipio de Trujillo Alto, con el nombre de Pedro A. Padilla Ayala; y para otros \nfines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -244,6 +244,16 @@
       }
     },
     {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T16:37:46Z"
+      }
+    },
+    {
       "description": "Res. Conj.  41-2025",
       "date": "2025-11-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -366,8 +376,8 @@
       "note": "Res. Conj.  41-2025",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/153745/0041c0051.docx",
-          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153745/RC 41-2025.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "2025-11-01",
@@ -390,6 +400,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:43Z"
+    "logs_latest_update": "2025-12-02T16:37:46Z"
   }
 }

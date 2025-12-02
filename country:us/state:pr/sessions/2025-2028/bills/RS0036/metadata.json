@@ -194,6 +194,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:43Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Roberto \"Bobby\" Rexach Ben\u00edtez",
+      "date": "2025-12-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T16:37:46Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Roberto \"Bobby\" Rexach Ben\u00edtez",
+      "date": "2025-12-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T16:37:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -291,6 +311,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:43Z"
+    "logs_latest_update": "2025-12-02T16:37:46Z"
   }
 }
