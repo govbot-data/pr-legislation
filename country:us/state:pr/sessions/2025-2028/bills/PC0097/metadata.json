@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0097",
-  "title": "Para a\u00f1adir un nuevo inciso (p) al Art\u00edculo 2.1 y a\u00f1adir un nuevo Art\u00edculo 2.1-C, a la Ley N\u00fam. 54 de 15 de agosto de 1989, seg\u00fan enmendada, conocida como \u201cLey para la Prevenci\u00f3n e Intervenci\u00f3n con la Violencia Dom\u00e9stica\u201d, a los fines de establecer la obligatoriedad de entregar a la v\u00edctima un plan de acci\u00f3n al momento de expedir una orden de protecci\u00f3n, as\u00ed como para establecer los par\u00e1metros de dicho plan; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo inciso (q) al Art\u00edculo 1.3 y renombrar los subsiguientes; a\u00f1adir un nuevo \ninciso (p) al Art\u00edculo 2.1; y a\u00f1adir un nuevo Art\u00edculo 2.1-C, a la Ley N\u00fam. 54 de 15 de agosto de \n1989, seg\u00fan enmendada, conocida como \"Ley para la Prevenci\u00f3n e  Intervenci\u00f3n  con  la  Violencia  \nDom\u00e9stica\",  a  los  fines  de  establecer  la obligatoriedad de entregar a la v\u00edctima un plan de \nacci\u00f3n al momento de expedir una orden de protecci\u00f3n, as\u00ed como para establecer los par\u00e1metros de \ndicho plan; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -372,6 +372,16 @@
       "_processing": {
         "log_file_created": "2025-12-02T16:37:47Z"
       }
+    },
+    {
+      "description": "Ley 138-2025",
+      "date": "2025-12-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-05T22:07:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -525,6 +535,17 @@
       ],
       "date": "2025-10-30",
       "classification": ""
+    },
+    {
+      "note": "Ley 138-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152721/0138c0097.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -543,6 +564,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T16:37:47Z"
+    "logs_latest_update": "2025-12-05T22:07:38Z"
   }
 }

@@ -318,6 +318,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:45Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2025-12-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-05T22:07:38Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2025-12-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-05T22:07:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -481,6 +501,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:45Z"
+    "logs_latest_update": "2025-12-05T22:07:38Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0100",
-  "title": "Para crear la \u201cLey para Establecer el Protocolo para la Atenci\u00f3n y Prevenci\u00f3n de Situaciones de Violencia Intra y Extrafamiliar en los Refugios\u201d; determinar las gu\u00edas que deber\u00e1n regir el Protocolo; fijar los par\u00e1metros para su cumplimiento; y para otros fines relacionados.",
+  "title": "Para crear la \"Ley para Establecer el Protocolo para la Atenci\u00f3n y Prevenci\u00f3n de Situaciones de \nViolencia Intra y Extrafamiliar en los Refugios\"; determinar las gu\u00edas que deber\u00e1n regir el \nProtocolo; fijar los par\u00e1metros para su cumplimiento; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -276,6 +276,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:46Z"
       }
+    },
+    {
+      "description": "Ley 139-2025",
+      "date": "2025-12-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-05T22:07:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -399,6 +409,17 @@
       ],
       "date": "2025-10-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 139-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152725/0139c0100.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -417,6 +438,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:46Z"
+    "logs_latest_update": "2025-12-05T22:07:38Z"
   }
 }

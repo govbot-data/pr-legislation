@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0096",
-  "title": "Para enmendar el Art\u00edculo 2 de la Ley 99-2009, seg\u00fan enmendada, conocida como \u201cLey para Crear el Programa de Vigilancia, Protecci\u00f3n y Prevenci\u00f3n de Violencia Dom\u00e9stica\u201d, a los fines de asegurar la imposici\u00f3n de vigilancia electr\u00f3nica para la protecci\u00f3n de la v\u00edctima; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 2 de la Ley 99-2009, seg\u00fan enmendada, conocida como \"Ley para Crear el \nPrograma de Vigilancia, Protecci\u00f3n y Prevenci\u00f3n de Violencia Dom\u00e9stica\"; la Regla 6.1 (b) y la \nRegla 218 (a) de las Reglas de Procedimiento Criminal; y el Art\u00edculo 25 (g) del Plan 2-2011, seg\u00fan \nenmendado, conocido como \"Plan de Reorganizaci\u00f3n del Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n de \n2011\"; a los fines de asegurar la imposici\u00f3n de vigilancia electr\u00f3nica para la protecci\u00f3n de la \nv\u00edctima; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -352,6 +352,16 @@
       "_processing": {
         "log_file_created": "2025-12-02T16:37:47Z"
       }
+    },
+    {
+      "description": "Ley 137-2025",
+      "date": "2025-12-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-05T22:07:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -486,6 +496,17 @@
       ],
       "date": "2025-10-30",
       "classification": ""
+    },
+    {
+      "note": "Ley 137-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152720/0137c0096.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -504,6 +525,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T16:37:47Z"
+    "logs_latest_update": "2025-12-05T22:07:38Z"
   }
 }
