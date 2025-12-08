@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0038",
-  "title": "\u201cPara denominar el puente que ubica en la Carretera Estatal PR-856, km 0.2 al km 0.5, en el\nbarrio Barraza del Municipio de Carolina, com\u00fanmente conocido como \u201cLa Cuesta de los\nFlacos\u201d, con el nombre de Don Jaime Fern\u00e1ndez Morales (QEPD), a prop\u00f3sito de honrar la vida\ny legado de este destacado servidor p\u00fablico del Departamento de Obras P\u00fablicas del antes\nmencionado Municipio de Carolina; y para otros fines relacionados.\u201d",
+  "title": "Para designar la Carretera Estatal PR-856 del Municipio de Carolina, con el nombre de \"Don Jaime \nFern\u00e1ndez Morales (QEPD)\", con el prop\u00f3sito de honrnr la vida y legado de este destacado servidor \np\u00fablico del Departamento de Obras P\u00fablicas del mencionado Municipio de Carolina; y para otros fines \nrelacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -446,6 +446,26 @@
       "_processing": {
         "log_file_created": "2025-12-02T16:37:46Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-12-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T21:53:28Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  45-2025",
+      "date": "2025-12-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T21:53:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -623,11 +643,22 @@
       "note": "Se dispone que sea enrolado",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/154679/rcs0038e-25.doc",
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154679/rcs0038-e (Conf).doc",
           "media_type": "application/msword"
         }
       ],
       "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Res. Conj.  45-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154679/Res. Conj. 45-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-07",
       "classification": ""
     }
   ],
@@ -647,6 +678,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T16:37:47Z"
+    "logs_latest_update": "2025-12-08T21:53:28Z"
   }
 }

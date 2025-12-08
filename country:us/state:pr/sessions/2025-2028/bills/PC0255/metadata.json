@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0255",
-  "title": "Para enmendar el Art\u00edculo 5 de la Ley 82-2023 conocida como la \u201cLey sobre la Pol\u00edtica P\u00fablica del Cuidado Informal del Estado Libre Asociado de Puerto Rico\u201d con el prop\u00f3sito de reconocer como un derecho de todo cuidador informal o cuidador a ser la primera alternativa para ser contratado como cuidador formal cuando alguna entidad gubernamental asigne fondos para el cuidado de alg\u00fan adulto mayor.",
+  "title": "Para enmendar los Art\u00edculos 3 y 5 de la Ley 82-2023 conocida como la \"Ley sobre la Pol\u00edtica P\u00fablica \ndel Cuidado Informal de Puerto Rico\" con el prop\u00f3sito de reconocer como un derecho de todo cuidador \n\u00fc\u00faormal o cuidador a ser considerado como la primera alternativa para ser conh\u00b7atado como cuidador \nincidental cuando alguna entidad gubernamental asigne fondos para el cuidado de alg\u00fan adulto mayor; \ny para oh'os fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -266,6 +266,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:44Z"
       }
+    },
+    {
+      "description": "Ley 147-2025",
+      "date": "2025-12-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T21:53:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -378,6 +388,17 @@
       ],
       "date": "2025-10-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 147-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153165/Ley 147-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-07",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -396,6 +417,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:44Z"
+    "logs_latest_update": "2025-12-08T21:53:28Z"
   }
 }

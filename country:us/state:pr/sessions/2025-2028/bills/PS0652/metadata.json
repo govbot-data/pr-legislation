@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0652",
-  "title": "\u201cPara enmendar los art\u00edculos 2, 3, 4, 5, 8 y 9, crear los nuevos art\u00edculos 12, 13 y 14 y renumerar\nlos art\u00edculos 12, 13, 14 y 15 de la Ley N\u00fam. 82-2023, seg\u00fan enmendada, mejor conocida como la\n\u201cLey sobre la Pol\u00edtica P\u00fablica del Cuidado Informal de Puerto Rico\", a la luz de las\ndisposiciones de la Ley federal equivalente, conocida como The Recognize, Assist, Include,\nSupport, & Engage (RAISE) Family Caregivers Act of 2017, (Public Law 115-119) con el fin de\nexpandir el alcance de la Ley 82-2023 en cuanto a las \u00e1reas de atenci\u00f3n a la poblaci\u00f3n de\ncuidadores informales en Puerto Rico con las disposiciones pertinentes; y para otros fines\nrelacionados.\u201d",
+  "title": "Para enmendar los Art\u00edculos 2, 3, 4, 5, 8 y 9, crear los nuevos Art\u00edculos 12, 13 y 14 y\nrenumerar los Art\u00edculos 12, 13, 14 y 15 como Art\u00edculos 15, 16, 17 y 18 de la Ley N\u00fam. 82-2023, \nseg\u00fan enmendada, mejor conocida como la \"Ley sobre la Pol\u00edtica P\u00fablica del Cuidado Informal de \nPuerto Rico\", a la luz de las disposiciones de la Ley federal equivalente, conocida como The \nRecognize, Assist, Include, Support, & Engage (RAISE) Family Caregivers Act of 2017, (Public Law \n115-119), con el fin de expandir el alcance de la Ley 82-2023 en cuanto a las \u00e1reas de atenci\u00f3n a \nla poblaci\u00f3n de cuidadores informales en Puerto Rico con las disposiciones pertinentes; y para \notros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -264,17 +264,29 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:43Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-11-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T21:53:28Z"
+      }
+    },
+    {
+      "description": "Ley 151-2025",
+      "date": "2025-12-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T21:53:28Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -284,11 +296,19 @@
       "organization_id": null
     },
     {
-      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -300,11 +320,11 @@
       "organization_id": null
     },
     {
-      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -397,6 +417,17 @@
       ],
       "date": "2025-10-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 151-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156278/Ley 151-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-07",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -415,6 +446,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:43Z"
+    "logs_latest_update": "2025-12-08T21:53:28Z"
   }
 }

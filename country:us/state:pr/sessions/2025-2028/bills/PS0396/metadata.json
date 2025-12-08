@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0396",
-  "title": "\u201cPara a\u00f1adir un nuevo Art\u00edculo 6 a la Ley N\u00fam. 94 de 22 de junio de 1977, seg\u00fan enmendada,\nconocida como la \u201cLey de Establecimientos para Personas de Edad Avanzada\u201d, a los fines de\nestablecer y aclarar el proceso que deber\u00e1 llevar a cabo el Departamento de la Familia para\ninspeccionar y certificar que toda instituci\u00f3n para adultos mayores que opere en Puerto Rico\ncumpla cabalmente con los requisitos estatutarios y reglamentarios de esta Ley; que cuente con los\nabastos necesarios para atender cualquier emergencia; que cuente con un generador el\u00e9ctrico o\nsistema de placas solares y una cisterna de agua potable adecuados y en funcionamiento \u00f3ptimo,\ninspeccionados por personal t\u00e9cnico autorizado antes del comienzo de la temporada de huracanes; y\npara otros fines relacionados.\u201d",
+  "title": "Para a\u00f1adir un nuevo Art\u00edculo 6 a la Ley N\u00fam. 94 de 22 de junio de 1977, seg\u00fan enmendada, conocida \ncomo la \"Ley de Establecimientos para Personas de Edad Avanzada\", a los fines de establecer y \naclarar el proceso que deber\u00e1 llevar a cabo el Departamento de la Familia para inspeccionar y \ncertificar que toda instituci\u00f3n para adultos mayores que opere en Puerto Rico cumpla cabalmente con \nlos requisitos estatutarios  y reglamentarios de esta  Ley; establecer  requisitos de  inspecci\u00f3n \nperi\u00f3dica, disponibilidad de energ\u00eda alterna certificada, sistemas de agua potable, almacenamiento  \nde  suministros  y  otras  condiciones  de  preparaci\u00f3n  en  los establecimientos autorizados bajo \ndicha ley antes del comienzo de la temporada de huracanes; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -242,6 +242,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:47Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-11-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T21:53:28Z"
+      }
+    },
+    {
+      "description": "Ley 148-2025",
+      "date": "2025-12-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T21:53:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -343,6 +363,17 @@
       ],
       "date": "2025-10-20",
       "classification": ""
+    },
+    {
+      "note": "Ley 148-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154124/Ley 148-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-07",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -361,6 +392,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:47Z"
+    "logs_latest_update": "2025-12-08T21:53:28Z"
   }
 }

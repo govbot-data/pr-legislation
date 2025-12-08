@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0542",
-  "title": "Para enmendar el Art\u00edculo 2 de la Ley 140 de 23 de julio de 1974, seg\u00fan enmendada, conocida como \u201cLey sobre Controversias y Estados Provisionales de Derecho\u201d; a los fines de aclarar el alcance del t\u00e9rmino \u201cvecinos\u201d en cuanto a la resoluci\u00f3n provisional de controversias entre vecinos que afecten la convivencia y el orden social; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 2 de la Ley N\u00fam. 140 de 23 de julio de 1974, seg\u00fan enmendada, conocida \ncomo \"Ley sobre Conh\u00b7oversias y Estados Provisionales de Derecho\", con el prop\u00f3sito de aclarar el \nalcance del t\u00e9rmino \"vecinos\", en la resoluci\u00f3n provisional de conh\u00b7oversias que afecten la \nconvivencia y el orden social; y para oh\u00b7os fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -264,6 +264,16 @@
       "_processing": {
         "log_file_created": "2025-12-02T16:37:47Z"
       }
+    },
+    {
+      "description": "Ley 145-2025",
+      "date": "2025-12-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T21:53:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -365,6 +375,17 @@
       ],
       "date": "2025-11-06",
       "classification": ""
+    },
+    {
+      "note": "Ley 145-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155259/Ley 145-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -383,6 +404,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T16:37:47Z"
+    "logs_latest_update": "2025-12-08T21:53:28Z"
   }
 }

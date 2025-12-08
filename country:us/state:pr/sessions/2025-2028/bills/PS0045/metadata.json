@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0045",
-  "title": "Para a\u00f1adir un inciso (d) al Art\u00edculo 32 a la Ley 146-2012, seg\u00fan enmendada, conocida como \"C\u00f3digo Penal de Puerto Rico\", a los fines de reconocer como una de las causas de exclusi\u00f3n de responsabilidad penal a las v\u00edctimas de Trata Humana por haber participado en actividades il\u00edcitas en la medida en que esa participaci\u00f3n ha sido causada por su situaci\u00f3n de v\u00edctima; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un inciso (d) al Art\u00edculo 32 de la Ley 146-2012, seg\u00fan enmendada, conocida como \"C\u00f3digo \nPenal de Puerto Rico\", a los fines de reconocer como una de las causas de exclusi\u00f3n de \nresponsabilidad penal a las v\u00edctimas de trata humana por haber participado en actividades il\u00edcitas \nen la medida en que esa participaci\u00f3n fue causada por su situaci\u00f3n de v\u00edctima; y para otros fines \nrelacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -289,24 +289,26 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2025-11-18T04:00:00+00:00",
+      "date": "2025-11-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:39:47Z"
+        "log_file_created": "2025-12-08T21:53:28Z"
+      }
+    },
+    {
+      "description": "Ley 141-2025",
+      "date": "2025-12-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T21:53:28Z"
       }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Joanne  Rodr\u00edguez Veve - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -321,6 +323,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -435,6 +445,17 @@
       ],
       "date": "2025-10-27",
       "classification": ""
+    },
+    {
+      "note": "Ley 141-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152435/Ley 141-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -453,6 +474,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:47Z"
+    "logs_latest_update": "2025-12-08T21:53:28Z"
   }
 }

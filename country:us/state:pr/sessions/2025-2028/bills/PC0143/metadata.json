@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0143",
-  "title": "Para enmendar los art\u00edculos 2.04, 11.03 y 11.04 de la Ley 85-2018, seg\u00fan enmendada, conocida como \u201cLey de Reforma Educativa de Puerto Rico\u201d, con el prop\u00f3sito de ampliar la gama de personas y grupos que podr\u00e1n prestarle sus servicios al Departamento de Educaci\u00f3n, para ofrecerle a los estudiantes charlas, adiestramientos o mentor\u00edas sobre la planificaci\u00f3n y el manejo de las finanzas; enmendar las secciones 1033.10 y 1033.15 de la Ley 1-2011, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Rentas Internas de Puerto Rico de 2011\u201d, a los fines de otorgarle a las personas naturales, corporaciones o sociedades que participen en los programas de Integraci\u00f3n Comunitaria o Alianzas Corporativas del Departamento de Educaci\u00f3n, una deducci\u00f3n contributiva por el monto del valor de la aportaci\u00f3n, inversi\u00f3n o servicio realizado; y para otros fines relacionados.",
+  "title": "Para emnendar los art\u00edculos 2.04, 11.03 y 11.04 de la Ley 85-2018, seg\u00fan enmendada, conocida como \n\"Ley de Reforma Educativa de Puerto Rico\", con el prop\u00f3sito de ampliar la gama de  personas y \ngrupos que podr\u00e1n prestar sus servicios al Departamento  de  Educaci\u00f3n,  para  ofrecer  a  los  \nestudiantes  charlas, adiesh\u00b7amientos o mentor\u00edas sobre la planificaci\u00f3n y el manejo de las \nfinanzas; y para oh\u00b7os fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -298,23 +298,33 @@
       "_processing": {
         "log_file_created": "2025-12-02T16:37:47Z"
       }
+    },
+    {
+      "description": "Ley 144-2025",
+      "date": "2025-12-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T21:53:28Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "\u00c1ngel  Morey Noble - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"\\u00c1ngel  Morey Noble - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Tatiana  P\u00e9rez Ram\u00edrez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Tatiana  P\\u00e9rez Ram\\u00edrez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "\u00c1ngel  Morey Noble - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel  Morey Noble - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -429,6 +439,17 @@
       ],
       "date": "2025-10-30",
       "classification": ""
+    },
+    {
+      "note": "Ley 144-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152782/Ley 144-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -447,6 +468,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T16:37:47Z"
+    "logs_latest_update": "2025-12-08T21:53:28Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0048",
-  "title": "Para enmendar los Art\u00edculos 15, 16, 17, 18, 19, 20 y 37 de la Ley 135-2020, seg\u00fan enmendada, conocida como \u201cLey del Instituto de Ciencias Forenses de Puerto Rico\u201d, a los fines de eliminar el t\u00e9rmino de juez instructor como persona facultada para realizar la investigaci\u00f3n y autorizaci\u00f3n del levantamiento de cad\u00e1veres; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 15, 16, 17, 18, 19, 20 y 37 de la Ley 135-2020, seg\u00fan enmendada, \nconocida como \"Ley del Instituto de Ciencias Forenses de Puerto Rico\", a los fines de eliminar el \nt\u00e9rmino de juez instructor como persona facultada para realizar la investigaci\u00f3n y autorizaci\u00f3n del \nlevantamiento de cad\u00e1veres; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -221,12 +221,22 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2025-11-18T04:00:00+00:00",
+      "date": "2025-11-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:39:45Z"
+        "log_file_created": "2025-12-08T21:53:28Z"
+      }
+    },
+    {
+      "description": "Ley 142-2025",
+      "date": "2025-12-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T21:53:28Z"
       }
     }
   ],
@@ -307,6 +317,17 @@
       ],
       "date": "2025-10-27",
       "classification": ""
+    },
+    {
+      "note": "Ley 142-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152437/Ley 142-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -325,6 +346,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:45Z"
+    "logs_latest_update": "2025-12-08T21:53:28Z"
   }
 }
