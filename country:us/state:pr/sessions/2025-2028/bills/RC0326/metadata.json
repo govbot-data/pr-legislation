@@ -164,6 +164,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:47Z"
       }
+    },
+    {
+      "description": "Informe Final rendido Comisi\u00f3n(es)",
+      "date": "2025-12-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:04:07Z"
+      }
+    },
+    {
+      "description": "Informe Final Remitido a Comisi\u00f3n de Calendarios y Reglas Especiales de Debate de la C\u00e1mara",
+      "date": "2025-12-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:04:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -210,6 +230,17 @@
       ],
       "date": "2025-06-27",
       "classification": ""
+    },
+    {
+      "note": "Informe Final rendido Comisi\u00f3n(es)",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155756/RC0326-i.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-12-09",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -228,6 +259,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:47Z"
+    "logs_latest_update": "2025-12-14T21:04:07Z"
   }
 }

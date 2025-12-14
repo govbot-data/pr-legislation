@@ -252,6 +252,16 @@
       "_processing": {
         "log_file_created": "2025-12-02T16:37:47Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-12-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:04:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -361,6 +371,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158097/PC0816 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -379,6 +400,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T16:37:47Z"
+    "logs_latest_update": "2025-12-14T21:04:07Z"
   }
 }
