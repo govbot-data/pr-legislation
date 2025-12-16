@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0198",
-  "title": "Para designar con el nombre de Juan Benabe Guzm\u00e1n, el tramo de la Carretera Estatal PR-991 que transcurre por el Municipio de Luquillo, con el prop\u00f3sito de honrar y reconocer su trayectoria de servicio p\u00fablico, su compromiso con el desarrollo de su comunidad, y su invaluable aportaci\u00f3n al bienestar de los ciudadanos luquillenses; autorizar la instalaci\u00f3n de r\u00f3tulos; autorizar el pareo de fondos; y para otros fines relacionados",
+  "title": "Para designar con el nombre de Juan Benabe Guzm\u00e1n, el tramo de la Carretera Estatal PR-991, que \ntranscurre por el Municipio de Luquillo, con el prop\u00f3sito de honrar y reconocer su h\u00b7ayectoria de \nservicio p\u00fablico, su compromiso con el desarrollo de su comunidad, y su invaluable aportaci\u00f3n al \nbienestar de los ciudadanos luquillenses; autorizar la instalaci\u00f3n de r\u00f3tulos; autorizar el pareo \nde fondos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -250,6 +250,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Res. Conj.  46-2025",
+      "date": "2025-12-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-16T08:54:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -351,6 +361,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  46-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158418/Res. Conj. 46-2015.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-12-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -369,6 +390,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2025-12-16T08:54:52Z"
   }
 }
