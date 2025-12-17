@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0213",
-  "title": "Para enmendar los incisos 1 y 7 del Art\u00edculo 3, de la Ley N\u00fam. 271 de 25 de septiembre de 2012, conocida como \u201cLey para la Creaci\u00f3n de un Sistema Expedito de Reconocimiento por Endoso de Licencias Profesionales de C\u00f3nyuges de Militares y Empleados Federales\u201d o, \u201cLicense Portability Act of Puerto Rico\u201d; a los fines de reconocer en dicho estatuto la existencia de la nueva rama de las Fuerzas Armadas, el \u201cSpace Force\u201d; reconocer que estos beneficios aplican c\u00f3nyuges de militares reservistas o miembros de la guardia nacional; y para otros fines relacionados.",
+  "title": "Para enmendar los incisos 1 y 7 del Art\u00edculo 3, de la Ley N\u00fam. 271- 2012, conocida como \"Ley para \nla Creaci\u00f3n de un Sistema Expedito de Reconocimiento por Endoso de Licencias Profesionales de \nC\u00f3nyuges de Militares y Empleados Federales\" o, \"License Portability Act of Puerto Rico\"; a los \nfines de reconocer en dicho estatuto la existencia de la nueva rama de las Fuerzas Armadas, el \n\"Space Force\"; reconocer que estos beneficios aplican a c\u00f3nyuges de militares, reservistas o \nmiembros de la guardia nacional; y para oh'os fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -276,6 +276,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 158-2025",
+      "date": "2025-12-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T08:53:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -385,6 +395,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152976/PC0213 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 158-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152976/Ley 158-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -403,6 +435,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2025-12-17T08:53:59Z"
   }
 }

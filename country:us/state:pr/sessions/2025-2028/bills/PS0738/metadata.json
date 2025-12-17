@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0738",
-  "title": "Para crear la \u201cLey Uniforme de Derechos Suplementarios para la Poblaci\u00f3n con Diversidad Funcional y Adultos Mayores\u201d, a los fines de uniformar la identificaci\u00f3n y los derechos de las personas con diversidad funcional y adultos mayores; enmendar el Art\u00edculo 3 de la Ley N\u00fam. 297-2018, seg\u00fan enmendada, conocida como Ley Uniforme Sobre Filas de Servicio Expreso y Cesi\u00f3n de Turnos de Prioridad; derogar la Ley N\u00fam. 108 de 12 de julio de 1985, seg\u00fan enmendada; derogar la Ley 107-1998, seg\u00fan enmendada y para otros fines relacionados.",
+  "title": "Para crear la \"Ley  Uniforme  de  Derechos Suplementarios para la Poblaci\u00f3n con Diversidad  \nFuncional  y  Adultos  Mayores\",  a  los  fines  de  uniformar  la identificaci\u00f3n y los derechos de \nlas personas con diversidad funcional y adultos mayores; enmendar el Art\u00edculo 3 de la Ley N\u00fam. \n297-2018, seg\u00fan enmendada, conocida como \"Ley Uniforme Sobre Filas de Servicio Expreso y Cesi\u00f3n de \nTurnos de Prioridad\"; derogar la Ley N\u00fam. 108 de 12 de julio de 1985, seg\u00fan enmendada; derogar la \nLey 107-1998, seg\u00fan enmendada; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -276,23 +276,33 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:47Z"
       }
+    },
+    {
+      "description": "Ley 160-2025",
+      "date": "2025-12-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T08:53:59Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -407,6 +417,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Ley 160-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158720/Ley 160-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -425,6 +446,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:47Z"
+    "logs_latest_update": "2025-12-17T08:53:59Z"
   }
 }

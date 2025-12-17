@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0702",
-  "title": "Para enmendar los Art\u00edculos 2 y 3; a\u00f1adir un nuevo Art\u00edculo 4; renumerar y enmendar los Art\u00edculos 4 y 5 como Art\u00edculos 5 y 6, respectivamente; y renumerar el Art\u00edculo 6 como Art\u00edculo 7 de la Ley N\u00fam. 180-2024, conocida como la \u201cLey del Mes y D\u00eda de la Manufactura en Puerto Rico\u201d a los fines de atemperar la designaci\u00f3n al primer viernes del mes de octubre de cada a\u00f1o; establecer la obligaci\u00f3n de la Gobernadora de emitir una proclama a estos efectos; facultar al Secretario del Departamento de Desarrollo Econ\u00f3mico y Comercio a promocionar el D\u00eda y Mes de la Manufactura; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 2 y 3; a\u00f1adir unos nuevos Art\u00edculos 4 y 7; renumerar y enmendar los \nArt\u00edculos 4 y 5 como Art\u00edculos 5 y 6, respectivamente; y renumerar el Art\u00edculo 6 como Art\u00edculo 8, \nde la Ley N\u00fam. 180-2024, conocida como la \"Ley del Mes y D\u00eda de la Manufactura en Puerto Rico\" a \nlos fines de atemperar la designaci\u00f3n del D\u00eda de la Manufactura al primer viernes del mes de \noctubre de cada a\u00f1o, seg\u00fan se ha establecido en los Estados Unidos de Am\u00e9rica; establecer la \nobligaci\u00f3n de la Gobernadora de emitir una proclama a estos efectos; facultar al Secretario del \nDepartamento de Desarrollo Econ\u00f3mico y Comercio a promocionar el D\u00eda y Mes de la Manufactura; y \npara oh'os fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -330,6 +330,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 159-2025",
+      "date": "2025-12-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T08:53:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -464,6 +474,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156229/PC0702 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 159-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156229/Ley 159-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -482,6 +514,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2025-12-17T08:53:59Z"
   }
 }
