@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0706",
-  "title": "Para declarar la semana del 22 al 29 de junio de cada a\u00f1o como la \u201cSemana del Inspector e Inspectora de Transporte P\u00fablico\u201d; unir al Gobierno de Puerto Rico a las actividades de reconocimiento que honran la labor de estos servidores p\u00fablicos; con el prop\u00f3sito de promover, concienciar, educar y resaltar la importancia de su funci\u00f3n fiscalizadora y preventiva en el sistema de transportaci\u00f3n p\u00fablica y comercial del pa\u00eds; y para otros fines relacionados.",
+  "title": "Para declarar la semana del 22 al 29 de junio de cada a\u00f1o como la \"Semana del Inspector e \nInspectora de Servicio P\u00fablico\"; disponer que el Gobierno de Puerto Rico participe en las \nactividades de reconocimiento que honran la labor de estos servidores p\u00fablicos; con el prop\u00f3sito de \npromover, concienciar, educar y resaltar la importancia de su funci\u00f3n fiscalizadora y preventiva en \nel sistema de transportaci\u00f3n p\u00fablica y comercial de Puerto Rico; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -254,6 +254,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 163-2025",
+      "date": "2025-12-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-18T09:09:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -355,6 +365,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156403/PC0706 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 163-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156403/0163c0706.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-16",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -373,6 +405,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2025-12-18T09:09:06Z"
   }
 }

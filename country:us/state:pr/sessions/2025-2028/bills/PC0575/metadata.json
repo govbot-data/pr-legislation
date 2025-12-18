@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0575",
-  "title": "Para enmendar el Art\u00edculo 3.14 de la Ley 22-2000, seg\u00fan enmendada, conocida como \u201cLey de Veh\u00edculos y Tr\u00e1nsito de Puerto Rico\u201d, a los fines de extender la vigencia de las licencias de conducir de aquellos miembros de las Fuerzas Armadas de los Estados Unidos de Am\u00e9rica o de la Reserva de las Fuerzas Armadas o de la Guardia Nacional de Puerto Rico domiciliados en Puerto Rico, a quienes se les venzan las mismas, mientras se encontrasen activados y movilizados a prestar servicios; otorgarles un t\u00e9rmino de tiempo de ciento veinte (120) d\u00edas, una vez culminen su periodo de activaci\u00f3n y movilizaci\u00f3n y regresen a Puerto Rico, para realizar los tr\u00e1mites de rigor para renovar sus licencias de conducir; ordenar al Secretario del Departamento de Transportaci\u00f3n y Obras P\u00fablicas a establecer los mecanismos que sean necesarios para que en estos casos, la licencia pueda ser renovada en l\u00ednea; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 3.14 de la Ley 22-2000, seg\u00fan enmendada, conocida como \"Ley de Veh\u00edculos \ny Tr\u00e1nsito de Puerto Rico\", a los fines de extender la vigencia de las licencias de conducir de \naquellos miembros de las Fuerzas Armadas de los Estados Unidos de Am\u00e9rica o de la Reserva de las \nFuerzas Armadas o de la Guardia Nacional de Puerto Rico domiciliados en Puerto Rico, a quienes se \nles venzan las mismas, mientras se encontrasen activados y movilizados a prestar servicios; \notorgarles un t\u00e9rmino de tiempo de ciento veinte (120) d\u00edas, una vez culminen su periodo de \nactivaci\u00f3n y movilizaci\u00f3n y regresen a Puerto Rico, para realizar los tr\u00e1mites de rigor para \nrenovar sus licencias de conducir; ordenar al Secretario del Departamento de Transportaci\u00f3n y Obras \nP\u00fablicas a establecer los mecanismos que sean necesarios para que en estos casos, la licencia pueda \nser renovada en l\u00ednea; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -276,6 +276,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 162-2025",
+      "date": "2025-12-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-18T09:09:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -396,6 +406,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Ley 162-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155456/0162c0575.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-15",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -414,6 +435,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2025-12-18T09:09:06Z"
   }
 }
