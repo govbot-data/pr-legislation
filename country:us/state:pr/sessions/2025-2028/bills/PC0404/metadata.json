@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0404",
-  "title": "Para enmendar el Art\u00edculo 1.033 de la Ley 107-2020, mejor conocida como el \u201cC\u00f3digo Municipal de Puerto Rico\u201d, a los fines de establecer doce (12) d\u00edas a la Licencia de Legisladores Municipales; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 1.033 de la Ley 107-2020, seg\u00fan emnendada, conocida como \"C\u00f3digo \nMunicipal de Puerto Rico\", a los fines de aumentar a doce (12) d\u00edas la Licencia  disponible  para  \nLegisladores  Municipales;  y  para  oh\u00b7os  fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -238,6 +238,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 164-2025",
+      "date": "2025-12-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-19T08:53:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -336,6 +346,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154245/PC0404 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 164-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154245/Ley 164-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-17",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -354,6 +386,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2025-12-19T08:53:35Z"
   }
 }

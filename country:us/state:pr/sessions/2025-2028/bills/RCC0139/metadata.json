@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0139",
-  "title": "Para designar con el nombre de Manuel L\u00f3pez Vargas, la cancha de la Escuela Bernardo Gonz\u00e1lez, ubicado en el Municipio de Utuado.",
+  "title": "Para designar con el nombre de Manuel L\u00f3pez Vargas, la cancha de la Escuela Bernardo Gonz\u00e1lez, \nubicado en el Municipio de Utuado.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -254,6 +254,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Res. Conj.  48-2025",
+      "date": "2025-12-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-19T08:53:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -366,6 +376,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  48-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156096/Res. Conj. 48-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-17",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -384,6 +405,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2025-12-19T08:53:35Z"
   }
 }
