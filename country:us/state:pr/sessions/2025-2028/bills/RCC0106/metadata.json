@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0106",
-  "title": "Para ordenar al Comisionado del Negociado de la Polic\u00eda de Puerto Rico que imparta instrucciones al Negociado de Patrullas de Carreteras y a las dem\u00e1s divisiones del Negociado para que sus agentes del orden p\u00fablico acepten como v\u00e1lida la registraci\u00f3n o licencia de veh\u00edculo virtual producida por la aplicaci\u00f3n de CESCO Digital.",
+  "title": "Para ordenar al Secretario del Departamento de Transportaci\u00f3n y Obras P\u00fablicas que imparta las \ninstrucciones al Centro de Servicios al Conductor, para que incluyan en la plataforma de CESCO \nDigital el registro o licencia de vel\u00faculo virtual; y ordenar al Superintendente de la Polic\u00eda de \nPuerto Rico que imparta instrucciones al Negociado de Patrullas de Carreteras o su entidad sucesora \ny a las dem\u00e1s divisiones de la Polic\u00eda para que sus agentes del orden p\u00fablico acepten como v\u00e1lida \nla evidencia de vigencia de la registraci\u00f3n o licencia de veh\u00edculo virtual, reflejada mediante el \nmarbete digital o los registros electr\u00f3nicos disponibles en la aplicaci\u00f3n de CESCO Digital.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -264,6 +264,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Res. Conj.  54-2025",
+      "date": "2025-12-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -365,6 +375,17 @@
       ],
       "date": "2025-11-10",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  54-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155285/0054c0106.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -383,6 +404,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }

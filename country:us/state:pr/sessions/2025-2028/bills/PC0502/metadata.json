@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0502",
-  "title": "Para enmendar la Secci\u00f3n 6060.05 de la Ley 60-2019, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Incentivos de Puerto Rico\u201d con el fin de aclarar las disposiciones sobre la exenci\u00f3n de contribuci\u00f3n sobre ingresos de la ganancia realizada en la venta de propiedad inmueble localizada en Puerto Rico que constituya la residencia principal del vendedor; y para otros fines relacionados.",
+  "title": "Para emnendar la Secci\u00f3n 6060.05 de la Ley 60-2019, seg\u00fan emnendada, conocida como \"C\u00f3digo de \nIncentivos de Puerto Rico\", con el fin de aclarar las disposiciones sobre la exenci\u00f3n de \nconh\u00b7ibuci\u00f3n sobre ingresos de la ganancia realizada en la venta de propiedad imnueble localizada \nen Puerto Rico que  constituya  la residencia principal del vendedor; y para oh\u00b7os fines \nrelacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -264,23 +264,33 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 180-2025",
+      "date": "2025-12-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -384,6 +394,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154923/PC0502 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 180-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154923/Ley 180-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -402,6 +434,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }

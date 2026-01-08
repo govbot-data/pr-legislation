@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0808",
-  "title": "Para prohibir el uso de dispositivos electr\u00f3nicos personales por parte de los estudiantes en las instituciones educativas p\u00fablicas de Puerto Rico hasta octavo grado; establecer las excepciones a dicha prohibici\u00f3n; y para otros fines relacionados",
+  "title": "Para prohibir el uso de dispositivos electr\u00f3nicos personales por parte de los estudiantes en las \ninstituciones educativas p\u00fablicas de Puerto Rico hasta octavo grado; establecer las excepciones a \ndicha prohibici\u00f3n; y para oh\u00b7os fines relacionados",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -272,6 +272,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 185-2025",
+      "date": "2025-12-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -381,6 +391,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158083/PC0808 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 185-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158083/0185c0808.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -399,6 +431,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }

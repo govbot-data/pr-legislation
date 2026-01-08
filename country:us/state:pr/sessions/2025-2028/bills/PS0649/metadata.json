@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0649",
-  "title": "Para enmendar los Art\u00edculos 3 y 8 de la Ley N\u00fam. 29-2009, seg\u00fan enmendada, mejor conocida como \u201cLey de las Alianzas P\u00fablico Privadas\u201d con el prop\u00f3sito de incluir como objeto para convertirse en Contrato de Alianza la construcci\u00f3n, mantenimiento u operaci\u00f3n viviendas para personas de edad avanzada y para la construcci\u00f3n, mantenimiento u operaci\u00f3n de edificaciones cuyo \u00fanico prop\u00f3sito sea el establecimiento de hogares sustitutitos, grupales o centros de cuido prolongado para adultos mayores para personas de edad avanzada en Puerto Rico; establecer la composici\u00f3n del Comit\u00e9 de Alianza para este prop\u00f3sito; enmendar los Art\u00edculos 5.01 6 5.06 de la\nLey N\u00fam. 26-2017, seg\u00fan enmendada, conocida como la \u201cLey de Cumplimiento con el Plan Fiscal\u201d, a los fines de autorizar la utilizaci\u00f3n de edificios gubernamentales y escuelas en desuso para estos prop\u00f3sitos; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 3 y 8 de la Ley 29-2009, seg\u00fan enmendada, mejor conocida como \"Ley de \nlas Alianzas P\u00fablico Privadas\" con el prop\u00f3sito de incluir como objeto para convertirse en Contrato \nde Alianza la construcci\u00f3n, mantenimiento u operaci\u00f3n de  viviendas  para  personas  de  edad  \navanzada  y  para  la  construcci\u00f3n, mantenimiento  u  operaci\u00f3n  de  edificaciones  cuyo  \u00fanico  \nprop\u00f3sito  sea  el establecimiento de hogares sustitutos, grupales o centros de cuido prolongado \npara adultos mayores en Puerto Rico; establecer la composici\u00f3n del Comit\u00e9 de Alianza para este \nprop\u00f3sito; enmendar los Art\u00edculos 5.01 y 5.06 de la Ley 26-2017, seg\u00fan enmendada, conocida como la \n\"Ley de Cumplimiento con el Plan Fiscal\", a los fines de autorizar la utilizaci\u00f3n de edificios \ngubernamentales y escuelas en desuso para estos prop\u00f3sitos; y para otros fines relacionados.\nLey N\u00fam. 26-2017, seg\u00fan enmendada, conocida como la \u201cLey de Cumplimiento con el Plan Fiscal\u201d, a los fines de autorizar la utilizaci\u00f3n de edificios gubernamentales y escuelas en desuso para estos prop\u00f3sitos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -314,15 +314,25 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:44Z"
       }
+    },
+    {
+      "description": "Ley 181-2025",
+      "date": "2025-12-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -334,11 +344,11 @@
       "organization_id": null
     },
     {
-      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -464,6 +474,17 @@
       ],
       "date": "2025-11-10",
       "classification": ""
+    },
+    {
+      "note": "Ley 181-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156275/Ley 181-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -482,6 +503,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:44Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }

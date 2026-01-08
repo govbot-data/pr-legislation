@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0614",
-  "title": "Para enmendar el Art\u00edculo 7 de la Ley 187-2024 conocida como la \u201cLey de Internados del Gobierno del Estado Libre Asociado de Puerto Rico\u201d para incluir dos (2) estudiantes dotados en sus requisitos; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 7 de la Ley 187-2024 conocida como la \"Ley de Internados del Gobierno del \nEstado Libre Asociado de Puerto Rico\" para incluir un n\u00fanimo de dos (2) estudiantes dotados en sus \nrequisitos; y para oh\u00b7os fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -286,6 +286,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 184-2025",
+      "date": "2025-12-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -387,6 +397,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155672/PC0614 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 184-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155672/0184c0614.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -405,6 +437,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }

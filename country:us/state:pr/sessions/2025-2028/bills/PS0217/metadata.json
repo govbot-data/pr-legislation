@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0217",
-  "title": "Para a\u00f1adir un nuevo Articulo 1.85-A y enmendar el Articulo 6.19 de la Ley 22-2000,\nseg\u00fan enmendada, conocida como \"Ley de Veh\u00edculos y Tr\u00e1nsito de Puerto Rico\",\ncon el prop\u00f3sito de prohibir el estacionamiento de vehiculos de motor en un espacio\nque sirva como punto de recarga de veh\u00edculos impulsados mayormente por\nelectricidad, salvo que el vehiculo ahi estacionado se encuentre conectado y en uso\ndel dispositivo de carga; definir que es un \"Punto de Recarga de Vehiculos\nImpulsados Mayormente por Electricidad\" ; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo Art\u00edculo 1.86-A y enmendar el Art\u00edculo 6.19 de la Ley 22-2000, seg\u00fan \nenmendada, conocida como \"Ley de Veh\u00edculos y Tr\u00e1nsito de Puerto Rico\", con el prop\u00f3sito de prohibir \nel estacionamiento de veh\u00edculos de motor en un espacio que sirva como punto de recarga de veh\u00edculos \nimpulsados mayormente por electricidad, salvo que el veh\u00edculo ah\u00ed estacionado se encuentre \nconectado y en uso del dispositivo de carga; definir qu\u00e9 es un \"Punto de Recarga de Veh\u00edculos \nImpulsados Mayormente por Electricidad\", para efectos de esta Ley; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -274,6 +274,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:48Z"
       }
+    },
+    {
+      "description": "Ley 170-2025",
+      "date": "2025-12-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -397,6 +407,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Ley 170-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152911/Ley 170-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -415,6 +436,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:48Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }

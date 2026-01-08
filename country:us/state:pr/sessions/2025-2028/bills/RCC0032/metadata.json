@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0032",
-  "title": "Para ordenar al Departamento de Agricultura y a la Junta de Planificaci\u00f3n de Puerto Rico, a proceder con la liberaci\u00f3n de las condiciones y restricciones de la parcela de Terreno marcada con el n\u00famero tres (3) en el plano de subdivisi\u00f3n del Proyecto Plato Indio, sita en el barrio Rio Ca\u00f1as del t\u00e9rmino municipal de Las Mar\u00edas, Puerto Rico y seg\u00fan consta en la Certificaci\u00f3n de T\u00edtulo otorgada por la Corporaci\u00f3n para el Desarrollo Rural de Puerto Rico a favor de Do\u00f1a Milagros Avil\u00e9s Vicenty y Don Pascual P\u00e9rez P\u00e9rez; y para otros fines pertinentes.",
+  "title": "Para ordenar al Departamento de Agricultura y a la Junta de Planificaci\u00f3n de Puerto Rico, a \nproceder con la liberaci\u00f3n de las condiciones y restricciones de la parcela de terreno marcada con \nel n\u00famero tres (3) en el plano de subdivisi\u00f3n del Proyecto Plato Indio, sita en el barrio Rio Ca\u00f1as \ndel t\u00e9rmino municipal de Las Mar\u00edas, Puerto Rico y seg\u00fan consta en la Certificaci\u00f3n de T\u00edtulo \notorgada por la Corporaci\u00f3n para el Desarrollo Rural de Puerto Rico a favor de Do\u00f1a Milagros Avil\u00e9s \nVicenty y Don Pascual P\u00e9rez P\u00e9rez; y para otros fines pertinentes.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -264,6 +264,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Res. Conj.  53-2025",
+      "date": "2025-12-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -376,6 +386,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  53-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153048/0053c0032.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -394,6 +415,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }

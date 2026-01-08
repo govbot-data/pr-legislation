@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0504",
-  "title": "Para enmendar los Art\u00edculos 67, 69 y 70 de la Ley 55\u20132020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Civil de Puerto Rico\u201d con el fin de clarificar que el ser humano en gestaci\u00f3n o nasciturus es persona natural para todos los efectos que le sean favorables tanto durante el tiempo de gestaci\u00f3n como despu\u00e9s de su nacimiento; que los derechos hereditarios que la ley reconoce a favor del nasciturus est\u00e1n subordinados al acontecimiento del nacimiento y que los derechos que se reconocen al nasciturus no menoscaban la potestad de la mujer gestante a tomar decisiones sobre su embarazo conforme a la Ley y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 67, 69 y 70 de la Ley 55-2020, seg\u00fan enmendada, conocida como \"C\u00f3digo \nCivil de Puerto Rico\", con el fin de clarificar que el ser humano en gestaci\u00f3n o nnsciturus es \npersona natural incluyendo al concebido en cualquier etapa de gestaci\u00f3n dentro del \u00fatero materno; \nque los derechos hereditarios que la ley reconoce a favor del nnsciturus est\u00e1n subordinados al \nacontecimiento del nacimiento y que los derechos que se reconocen al nnsciturus no menoscaban la \npotestad de la mujer gestante a tomar decisiones sobre su embarazo conforme a la Ley; y para otros \nfines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -228,15 +228,25 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:46Z"
       }
+    },
+    {
+      "description": "Ley 183-2025",
+      "date": "2025-12-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -256,11 +266,11 @@
       "organization_id": null
     },
     {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -342,6 +352,17 @@
       ],
       "date": "2025-11-13",
       "classification": ""
+    },
+    {
+      "note": "Ley 183-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155081/Ley 183-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-20",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -360,6 +381,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:46Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }

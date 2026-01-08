@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0096",
-  "title": "Para enmendar la Secci\u00f3n 9-A de la Ley N\u00fam. 221 de 15 de mayo de 1948, seg\u00fan enmendada, conocida como la \u201cLey de Juegos de Azar y Autorizaci\u00f3n de M\u00e1quinas Tragamonedas en los Casinos\u201d, a los fines de atemperar sus disposiciones y delitos al sistema de penas establecido en la Ley 146-2012, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Penal de Puerto Rico\u201d; y para otros fines relacionados.",
+  "title": "Para enmendar la Secci\u00f3n 9-A de la Ley N\u00fam. 221 de 15 de mayo de 1948, seg\u00fan enmendada, conocida \ncomo la \"Ley de Juegos de Azar y Autorizaci\u00f3n de M\u00e1quinas Tragamonedas en los Casinos\", a los fines \nde atemperar sus disposiciones y delitos al sistema de penas establecido en la Ley 146-2012, seg\u00fan \nenmendada, conocida como \"C\u00f3digo Penal de Puerto Rico\"; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -298,6 +298,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:46Z"
       }
+    },
+    {
+      "description": "Ley 168-2025",
+      "date": "2025-12-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -429,6 +439,17 @@
       ],
       "date": "2025-11-10",
       "classification": ""
+    },
+    {
+      "note": "Ley 168-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152527/Ley 168-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -447,6 +468,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:46Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }

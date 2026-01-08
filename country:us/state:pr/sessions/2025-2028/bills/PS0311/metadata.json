@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0311",
-  "title": "Para enmendar el Art\u00edculo 1, derogar los Art\u00edculos 2, 3, 4, 5 y 8, y enmendar y reenumerar los Art\u00edculos 6 como 2, 7 como 3, 9 como 4, 10 como 5, 11 como 6, 12 como 7 y 13 como 8 de la Ley 235-2014, conocida como \u201cLey Para Crear la Junta Revisora de Propiedad Inmueble del Estado Libre Asociado de Puerto Rico\u201d, con el prop\u00f3sito de disolver la Junta Revisora de Propiedad Inmueble y asignar sus funciones a la Oficina de Gerencia y Presupuesto y al Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Bienes Inmuebles creado en la Ley 26-2017, conocida como la \u201cLey de Cumplimiento con el Plan Fiscal\u201d; enmendar el Art\u00edculo 5.06 de la Ley 26-2017, supra; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 1, derogar los Art\u00edculos 2, 3, 4, 5 y 8, y enmendar y\nreenumerar los Art\u00edculos 6 como 2, 7 como 3, 9 como 4, 10 como 5, 11 como 6, 12\ncomo 7 y 13 como 8 de la Ley 235-2014; enmendar el Art\u00edculo 5.06 de la Ley 26-2017, seg\u00fan \nenmendada, conocida como \"Ley de Cumplimiento con el Plan Fiscal\", con el prop\u00f3sito de disolver a \nla Junta Revisora de Propiedad Inmueble y asignar sus funciones a la Oficina de Gerencia y \nPresupuesto y al Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Bienes Inmuebles; y para otros fines \nrelacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -276,6 +276,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:46Z"
       }
+    },
+    {
+      "description": "Ley 171-2025",
+      "date": "2025-12-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -399,6 +409,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Ley 171-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153641/Ley 171-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -417,6 +438,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:46Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }

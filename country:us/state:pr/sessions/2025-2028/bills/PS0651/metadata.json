@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0651",
-  "title": "Para enmendar la Subsecci\u00f3n E de la Ley N\u00fam. 60-2019, seg\u00fan enmendada, el \u201cC\u00f3digo de Incentivos de Puerto Rico\u201d, con el prop\u00f3sito de actualizarla de conformidad a la Ley 121 de 1 de agosto de 2019, seg\u00fan enmendada; crear una nueva secci\u00f3n 2025.03 en dicha Subsecci\u00f3n E de la Ley 60-2019, con el prop\u00f3sito de uniformar la pol\u00edtica p\u00fablica para el desarrollo empresarial intergeneracional y encomendar al Departamento de Desarrollo Econ\u00f3mico y Comercio (DDEC) la implantaci\u00f3n de la pol\u00edtica p\u00fablica establecida por esta ley; y para otros fines relacionados.",
+  "title": "Para enmendar el Subcap\u00edtulo E de la Ley N\u00fam. 60-2019, seg\u00fan enmendada, conocida\ncomo el \"C\u00f3digo de Incentivos de Puerto Rico\", con el prop\u00f3sito de actualizarla de conformidad a  \nla Ley 121-2019, seg\u00fan enmendada; crear una nueva secci\u00f3n 2025.03 en dicho Subcap\u00edtulo E de la Ley \n60-2019, con el prop\u00f3sito de uniformar la pol\u00edtica p\u00fablica para el desarrollo empresarial \nintergeneracional y encomendar al Departamento de Desarrollo Econ\u00f3mico y Comercio (DDEC) la \nimplantaci\u00f3n de la pol\u00edtica p\u00fablica establecida por esta ley; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -220,15 +220,33 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:45Z"
       }
+    },
+    {
+      "description": "Ley 175-2025",
+      "date": "2025-12-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -248,19 +266,11 @@
       "organization_id": null
     },
     {
-      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -331,6 +341,17 @@
       ],
       "date": "2025-11-13",
       "classification": ""
+    },
+    {
+      "note": "Ley 175-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156277/Ley 175-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -349,6 +370,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:45Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }

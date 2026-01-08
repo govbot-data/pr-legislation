@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0494",
-  "title": "Para enmendar la Secci\u00f3n 1033.15, de la Ley N\u00fam. 1-2011, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Rentas Internas de Puerto Rico de 2011 para a\u00f1adir un nuevo p\u00e1rrafo (7) al inciso (H) con el fin de conceder un aumento en la deducci\u00f3n de aportaciones a Cuentas de Retiro Individual; y para otros fines relacionados.",
+  "title": "Para enmendar la Secci\u00f3n 1033.15 de la Ley N\u00fam. 1-2011, seg\u00fan enmendada, conocida como \"C\u00f3digo de \nRentas Internas de Puerto Rico de 2011\", para a\u00f1adir un nuevo p\u00e1rrafo (7) al inciso (H) con el fin \nde conceder un aumento en la deducci\u00f3n de aportaciones a Cuentas de Retiro Individual; y para otros \nfines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -286,6 +286,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:45Z"
       }
+    },
+    {
+      "description": "Ley 179-2025",
+      "date": "2025-12-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -417,6 +427,17 @@
       ],
       "date": "2025-11-05",
       "classification": ""
+    },
+    {
+      "note": "Ley 179-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154985/Ley 179-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -435,6 +456,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:45Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }

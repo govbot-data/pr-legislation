@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0642",
-  "title": "Para enmendar la Secci\u00f3n 3 de la Ley N\u00fam. 293 de 20 de mayo de 1945, seg\u00fan enmendada, mejor conocida como \u201cLey de Contabilidad P\u00fablica de 1945\u201d, a los efectos de establecer los requisitos de educaci\u00f3n y experiencia profesional en los sectores de la contabilidad p\u00fablica, privada o acad\u00e9mica para la solicitud de licencia de Contador\nP\u00fablico Autorizado en reciprocidad a la Ley Modelo de Contabilidad P\u00fablica adoptada y endosada por el Instituto Americano de Contadores P\u00fablicos Autorizados y la Asociaci\u00f3n Nacional de Juntas Estatales de Contabilidad y las Juntas de Contabilidad de los Estados Unidos de Am\u00e9rica; y para otros fines relacionados.",
+  "title": "Para enmendar la Secci\u00f3n 3 de la Ley N\u00fam. 293 de 20 de mayo de 1945, seg\u00fan enmendada, conocida como \n\"Ley de Contabilidad P\u00fablica de 1945\", a los efectos de establecer los requisitos de educaci\u00f3n y \nexperiencia profesional en los sectores de la contabilidad p\u00fablica, privada o acad\u00e9mica para la \nsolicitud de licencia de Contador P\u00fablico Autorizado en reciprocidad a la Ley Modelo de \nContabilidad P\u00fablica adoptada y endosada por el Instituto Americano de Contadores P\u00fablicos \nAutorizados y la Asociaci\u00f3n Nacional de Juntas Estatales de Contabilidad y las Juntas de \nContabilidad de los Estados Unidos de Am\u00e9rica; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -232,23 +232,33 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:43Z"
       }
+    },
+    {
+      "description": "Ley 174-2025",
+      "date": "2025-12-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:31:11Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Jos\u00e9 Luis  Dalmau Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jos\\u00e9 Luis  Dalmau Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -330,6 +340,17 @@
       ],
       "date": "2025-11-13",
       "classification": ""
+    },
+    {
+      "note": "Ley 174-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156094/Ley 174-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -348,6 +369,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:43Z"
+    "logs_latest_update": "2026-01-08T12:31:11Z"
   }
 }
