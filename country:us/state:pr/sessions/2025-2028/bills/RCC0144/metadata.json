@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0144",
-  "title": "Para designar con el nombre de \u201cDoctor Hern\u00e1n Ortiz Camacho\u201d, la carretera PR-679, que transcurre desde la intersecci\u00f3n de la carretera PR-2 en el barrio Espinosa, hasta la intersecci\u00f3n con las carreteras PR- 820 y PR-828 del sector Los Rodr\u00edguez en la jurisdicci\u00f3n del Municipio de Dorado, en un merecido reconocimiento a este dorade\u00f1o destacado por su trayectoria en la medicina y amor por su pueblo; establecer sobre la se\u00f1alizaci\u00f3n de la v\u00eda; y para otros fines relacionados.",
+  "title": "Para designar con el nombre de \"Doctor Hern\u00e1n Ortiz Camacho\", la carretera estatal PR-679 en su \ntotalidad, a sus 2.8 kil\u00f3meh\u00b7os, en el Municipio de Dorado, en un merecido reconocimiento a este \ndorade\u00f1o, destacado por su h\u00b7ayectoria en la medicina y amor por su pueblo; establecer sobre la \nse\u00f1alizaci\u00f3n de la v\u00eda; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -298,6 +298,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Res. Conj.  1-2026",
+      "date": "2026-01-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -421,6 +431,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  1-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156414/Res. Conj. 1-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -439,6 +460,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:00Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0773",
-  "title": "Para a\u00f1adir un nuevo subinciso (9) y renumerar los subincisos (9) y (10) como subincisos (10) y (11), respectivamente, del inciso (b) del Art\u00edculo 2.02; y enmendar el subinciso (2) del inciso (a) del Art\u00edculo 2.03 de la Ley N\u00fam. 255-2002, seg\u00fan enmendada, conocida como \"Ley Sociedades Cooperativas de Ahorro y Cr\u00e9dito de 2002\", a los fines de permitir que las cooperativas de ahorro y cr\u00e9dito ofrezcan l\u00edneas de cr\u00e9dito y tarjetas de cr\u00e9dito comerciales tanto a socios como no socios y entidades con fines de lucro, sujetas a garant\u00edas personales debidamente evaluadas.",
+  "title": "Para a\u00f1adir un nuevo subinciso (9) y renumerar los subincisos (9) y (10) como subincisos\n(10) y (11), respectivamente, del inciso (b) del Art\u00edculo 2.02; y enmendar el subinciso (2) del \ninciso (a) del Art\u00edculo 2.03 de  la Ley N\u00fam. 255-2002, seg\u00fan enmendada, conocida como \"Ley de \nSociedades Cooperativas de Ahorro y Cr\u00e9dito de 2002\" a los fines de permitir que las cooperativas de ahorro y cr\u00e9dito ofrezcan l\u00edneas de cr\u00e9dito y taijetas de cr\u00e9dito comerciales tanto a socios como no socios y entidades con \nfines de lucro, sujetas a garant\u00edas personales debidamente evaluadas.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -316,9 +316,27 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 15-2026",
+      "date": "2026-01-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:01Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Emilio   Carlo  Acosta - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -333,14 +351,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Christian  Muriel S\\u00e1nchez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -455,6 +465,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Ley 15-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/157806/Ley 15-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-07",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -473,6 +494,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:01Z"
   }
 }

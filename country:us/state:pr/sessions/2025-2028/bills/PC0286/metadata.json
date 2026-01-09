@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0286",
-  "title": "Para crear la Ley que establece el registro digital p\u00fablico de Agricultores Bonafide de Puerto Rico y los productos que cosechan, adscrito al Departamento de Agricultura, con el objetivo principal de promover el acceso de la ciudadan\u00eda a informaci\u00f3n sobre los agricultores bonafide y los productos que cosechan; ordenar al Departamento de Agricultura llevar a cabo su desarrollo, implementaci\u00f3n y operaci\u00f3n; establecer la pol\u00edtica p\u00fablica a favor del acceso a productos locales; y para otros fines relacionados..",
+  "title": "Para crear la \"Ley del Registro Digital de Agricultores y Productos Locales\", con el prop\u00f3sito de \nestablecer un registro digital p\u00fablico de Agricultores Bonafide de Puerto Rico y los productos que \ncosechan, adscrito al Departamento de Agricultura, con el objetivo principal de promover el acceso \nde la ciudadania a informaci\u00f3n sobre los agricultores bonafide y los productos que cosechan; \nordenar al Departamento de Agricultura, llevar a cabo su desarrollo, implementaci\u00f3n y operaci\u00f3n; \nestablecer la pol\u00edtica p\u00fablica a favor del acceso a productos locales; y para otros fines \nrelacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -296,6 +296,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 12-2026",
+      "date": "2026-01-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -416,6 +426,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153433/PC0286 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 12-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153433/Ley 12-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -434,6 +466,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:01Z"
   }
 }

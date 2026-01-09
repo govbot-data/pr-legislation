@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0103",
-  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP), en coordinaci\u00f3n con el Puerto Rico Innovation and Technology Service (PRITS), que realicen la programaci\u00f3n necesaria para que se puedan eliminar a trav\u00e9s de la aplicaci\u00f3n de CESCO Digital los grav\u00e1menes de venta condicional de los t\u00edtulos de veh\u00edculos de motor.",
+  "title": "Para  ordenar  al  Departamento  de  Transportaci\u00f3n y Obras P\u00fablicas  (DTOP),  en coordinaci\u00f3n con \nel Puerto Rico Innovation and Technology Service (PRITS), que realicen la programaci\u00f3n necesaria \npara que se puedan eliminar a trav\u00e9s de la aplicaci\u00f3n de CESCO Digital, los grav\u00e1menes de venta \ncondicional de los t\u00edtulos de veh\u00edculos de motor; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -276,6 +276,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Res. Conj.  3-2026",
+      "date": "2026-01-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -399,6 +409,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  3-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155272/Res. Conj. 3-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -417,6 +438,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:01Z"
   }
 }

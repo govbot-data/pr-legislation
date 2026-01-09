@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0424",
-  "title": "Para a\u00f1adir un subinciso (69) al inciso (b) del Art\u00edculo 2.04 de la Ley N\u00fam. 85-2018, seg\u00fan enmendada, conocida como \u201cLey de Reforma Educativa de Puerto Rico\u201d; reenumerar el actual inciso (aa) como inciso (bb) y a\u00f1adir un nuevo inciso (aa) al Art\u00edculo 18 de la Ley N\u00fam. 205-2004, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica del Departamento de Justicia\u201d; a\u00f1adir un inciso (v) al Art\u00edculo 2.04 de la Ley N\u00fam. 20-2017, seg\u00fan enmendada conocida como \u201cLey del Departamento de Seguridad P\u00fablica de Puerto Rico\u201d y a\u00f1adir un inciso (gg) al Art\u00edculo 6 de la Ley N\u00fam. 75-2019; a los fines de disponer entre las funciones del Departamento de Educaci\u00f3n, el desarrollar e implantar, en colaboraci\u00f3n con el Departamento de Justicia, el Negociado de la Polic\u00eda de Puerto Rico y la Puerto Rico Innovation and Techonology Service, campa\u00f1as educativas anuales en escuelas sobre el uso seguro de la Internet y los medios electr\u00f3nicos y los delitos cibern\u00e9ticos; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un subinciso (69) al inciso (b) del Art\u00edculo 2.04 de la Ley N\u00fam. 85-2018, seg\u00fan enmendada, conocida como \u201cLey de Reforma Educativa de Puerto Rico\u201d; reenumerar el actual inciso (aa) como inciso (bb) y a\u00f1adir un nuevo inciso (aa) al Art\u00edculo 18 de la Ley N\u00fam. 205-2004, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica del Departamento de Justicia\u201d; a\u00f1adir un nuevo inciso (bb) y reenumerar el actual inciso (bb) como (cc) en el Art\u00edculo 5 de la Ley N\u00fam. 83-2025, mejor conocida como \u201cLey de la Polic\u00eda de Puerto Rico\u201d; y a\u00f1adir un inciso (gg) al Art\u00edculo 6 de la Ley N\u00fam. 75-2019, seg\u00fan enmendada, mejor conocida como \u201cLey de la Puerto Rico Innovation and Technology Service (PRITS)\u201d; a los fines de disponer entre las funciones del Departamento de Educaci\u00f3n, el desarrollar e implantar, en colaboraci\u00f3n con el Departamento de Justicia, la Polic\u00eda de Puerto Rico y la Puerto Rico Innovation and Techonology Service, campa\u00f1as educativas anuales en escuelas sobre el uso seguro de la Internet y los medios electr\u00f3nicos y los delitos cibern\u00e9ticos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -286,6 +286,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 3-2026",
+      "date": "2026-01-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -398,6 +408,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154325/PC0424 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 3-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154325/Ley 3-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -416,6 +448,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:01Z"
   }
 }

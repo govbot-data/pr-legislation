@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0156",
-  "title": "Para derogar la Ley 209-2004, conocida como \u201cLey de la Corporaci\u00f3n para la Revitalizaci\u00f3n de los Centros Urbanos y \u00c1reas Urbanas\u201d, la cual se cre\u00f3 con los prop\u00f3sitos principales de dise\u00f1ar, tramitar, coordinar e implantar de manera ordenada, planes y mecanismos para la Revitalizaci\u00f3n de los Centros Urbanos, \u00c1reas Urbanas y \u00c1reas Especiales de Desarrollo Urbano establecidas en los Planes de Uso de Terrenos de la Junta de Planificaci\u00f3n o los Planes Territoriales municipales, seg\u00fan sea el caso, por medio del proceso de adquisici\u00f3n de terrenos, inclusive por el m\u00e9todo de expropiaci\u00f3n forzosa, la emisi\u00f3n de solicitudes y adjudicaci\u00f3n de propuestas de desarrollo de \u00e9stos, el desarrollo en conjunto de propiedades entre el sector p\u00fablico y privado, y la asistencia y participaci\u00f3n en la obtenci\u00f3n de las facilidades de financiamiento necesarias para dichos proyectos, por ser esta Ley obsoleta e inoficiosa.",
+  "title": "Para derogar la Ley N\u00fam. 209-2004, conocida como \"Ley de la Corporaci\u00f3n para la Revitalizaci\u00f3n  de  \nlos  Centros  Urbanos  y  \u00c1reas  Urbanas\",  y  disolver  la Corporaci\u00f3n para la Rehabilitaci\u00f3n de \nlos Centros Urbanos y \u00c1reas Urbanas, adscrita al Departamento de la Vivienda.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -328,6 +328,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 5-2026",
+      "date": "2026-01-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -462,6 +472,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Ley 5-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152798/Ley 5-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -480,6 +501,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:00Z"
   }
 }

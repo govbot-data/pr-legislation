@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0299",
-  "title": "Para establecer la \u201cLey del Reconocimiento a los Militares Prisioneros de Guerra y Desaparecidos en Acci\u00f3n\u201d; establecer su pol\u00edtica p\u00fablica; ordenar el despliegue de la bandera que se adopte para tales fines en ciertos edificios p\u00fablicos del Gobierno de Puerto Rico; concientizar sobre el significado de este d\u00eda en las comunidades escolares del Departamento de Educaci\u00f3n de Puerto Rico; declarar el tercer viernes de septiembre como el \u201cD\u00eda de Reconocimiento de los Militares POW/MIA\u201d; y para otros fines relacionados.",
+  "title": "Para establecer la \u201cLey del Reconocimiento a los Militares Prisioneros de Guerra y Desaparecidos en Acci\u00f3n\u201d; establecer su pol\u00edtica p\u00fablica; ordenar el despliegue de la bandera POW/MIA en ciertos edificios p\u00fablicos del Gobierno de Puerto Rico; concientizar sobre el significado de este d\u00eda en las comunidades escolares del Departamento de Educaci\u00f3n de Puerto Rico; declarar el tercer viernes de septiembre como el \u201cD\u00eda de Reconocimiento de los Militares POW/MIA\u201d; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -288,39 +288,25 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 6-2026",
+      "date": "2026-01-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:01Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Domingo  J. Torres Garc\u00eda - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Edgardo   Feliciano S\u00e1nchez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Domingo  J. Torres Garc\\u00eda - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ricardo  R. Ocasio  Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Ricardo  R. Ocasio  Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Gabriel   Rodr\u00edguez  Aguil\u00f3 - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Gabriel   Rodr\\u00edguez  Aguil\\u00f3 - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Gretchen M. Hau - - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Gretchen M. Hau - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Edgardo   Feliciano S\\u00e1nchez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -332,11 +318,27 @@
       "organization_id": null
     },
     {
-      "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Gabriel   Rodr\u00edguez  Aguil\u00f3 - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Gabriel   Rodr\\u00edguez  Aguil\\u00f3 - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Domingo  J. Torres Garc\u00eda - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Domingo  J. Torres Garc\\u00eda - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gretchen M. Hau - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gretchen M. Hau - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -356,11 +358,27 @@
       "organization_id": null
     },
     {
-      "name": "Edgardo   Feliciano S\u00e1nchez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Edgardo   Feliciano S\\u00e1nchez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joel   Franqui Atiles - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joel   Franqui Atiles - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ricardo  R. Ocasio  Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ricardo  R. Ocasio  Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -377,14 +395,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jos\\u00e9 E. Torres Zamora - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Joel   Franqui Atiles - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Joel   Franqui Atiles - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -499,6 +509,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Ley 6-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153525/Ley 6-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-03",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -517,6 +538,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:01Z"
   }
 }

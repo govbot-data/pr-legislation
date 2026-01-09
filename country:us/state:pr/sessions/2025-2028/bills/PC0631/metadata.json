@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0631",
-  "title": "Para a\u00f1adir un nuevo Art\u00edculo 1.21 a la Ley 20-2017, seg\u00fan enmendada, conocida como \u201cLey del Departamento de Seguridad P\u00fablica de Puerto Rico\u201d y reenumerar el Art\u00edculo 1.21 como el Art\u00edculo 1.22, con el prop\u00f3sito de establecer el Programa Experience del Departamento de Seguridad P\u00fablica, un programa educativo, preventivo y de reclutamiento dise\u00f1ado para j\u00f3venes de 14 a 18 a\u00f1os; facultar al Secretario a establecer sus prop\u00f3sitos, organizaci\u00f3n y requisitos; establecer la obligaci\u00f3n de los Comisionados de colaborar y promover el programa; autorizar la aprobaci\u00f3n de reglamentos u \u00f3rdenes administrativas para cumplir con los prop\u00f3sitos de la Ley; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo Art\u00edculo 1.21 a la Ley 20-2017, seg\u00fan enmendada, conocida como \u201cLey del Departamento de Seguridad P\u00fablica de Puerto Rico\u201d y reenumerar el Art\u00edculo 1.21 como el Art\u00edculo 1.22, con el prop\u00f3sito de establecer el Programa Experience del Departamento de Seguridad P\u00fablica, un programa educativo, preventivo y de reclutamiento dise\u00f1ado para j\u00f3venes de  15 a 18 a\u00f1os; facultar al Secretario a establecer sus prop\u00f3sitos, organizaci\u00f3n y requisitos; establecer la obligaci\u00f3n de los Comisionados de colaborar y promover el programa; autorizar la aprobaci\u00f3n de reglamentos u \u00f3rdenes administrativas para cumplir con los prop\u00f3sitos de la Ley; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -264,6 +264,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 9-2026",
+      "date": "2026-01-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -387,6 +397,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Ley 9-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155720/Ley 9-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -405,6 +426,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:00Z"
   }
 }

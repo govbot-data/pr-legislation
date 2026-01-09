@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0781",
-  "title": "Para enmendar el Art\u00edculo 2, de la Ley N\u00fam. 8 de 20 de enero de 2010, conocida como \u201cLey del Profesional Combatiente\u201d \u201d a los fines de reconocer en dicho estatuto la existencia de la nueva rama de las Fuerzas Armadas, el \u201cSpace Force\u201d; reconocer que estos beneficios a miembros de dicha nueva rama; aclarar que esta Ley, tambi\u00e9n ser\u00e1 de aplicaci\u00f3n en activaciones de \u201cMisiones humanitarias\u201d y \u201cMisiones de mantenimiento de paz y estabilizaci\u00f3n\u201d realizadas dom\u00e9sticamente; y para otros fines relacionados.",
+  "title": "Para enmendar los incisos (a), (f), (j), (k) y (l) del Art\u00edculo 2, de la Ley 8 -2010, conocida como \u201cLey del Profesional Combatiente\u201d a los fines de reconocer en dicho estatuto la existencia de la nueva rama de las Fuerzas Armadas, el \u201cSpace Force\u201d; reconocer estos beneficios a miembros de dicha nueva rama; aclarar que esta Ley, tambi\u00e9n ser\u00e1 de aplicaci\u00f3n en activaciones de \u201cMisiones humanitarias\u201d y \u201cMisiones de mantenimiento de paz y estabilizaci\u00f3n\u201d realizadas dom\u00e9sticamente; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -286,6 +286,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 7-2026",
+      "date": "2026-01-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -398,6 +408,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158006/PC0781 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 7-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158006/Ley 7-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-03",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -416,6 +448,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:00Z"
   }
 }

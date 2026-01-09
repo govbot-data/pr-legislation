@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0193",
-  "title": "Para ordenar a la Autoridad de Energ\u00eda El\u00e9ctrica (\u201cAEE\u201d) y/o el operador de la red el\u00e9ctrica LUMA Energy, LLC. (\u201cLUMA\u201d) cesar el cobro de todo cargo por concepto de Estudio Suplementario y por mejoras a la red que hubiese sido requerido para sistemas de hasta 25 kilovatios por el Reglamento N\u00famero 8915, Reglamento para Interconectar Generadores con el Sistema de Distribuci\u00f3n El\u00e9ctrica de la Autoridad de Energ\u00eda El\u00e9ctrica y Participar En Los Programas De Medici\u00f3n Neta del 6 de febrero de 2017, incluyendo pero sin limitarse a los cargos dispuestos en la Secci\u00f3n V, Art\u00edculo B de dicho Reglamento 8915; y ordenar al Negociado de Energ\u00eda de Puerto Rico a adoptar un nuevo reglamento de interconexi\u00f3n consistente con la Ley 17 de 2019, Ley de Pol\u00edtica P\u00fablica Energ\u00e9tica de Puerto Rico y con esta Ley dentro de un t\u00e9rmino de tiempo espec\u00edfico",
+  "title": "Para ordenar a la Autoridad de Energ\u00eda El\u00e9ctrica (\u201cAEE\u201d) y/o el operador de la red\nel\u00e9ctrica LUMA Energy, LLC. (\u201cLUMA\u201d) cesar el cobro de todo cargo por concepto\nde Estudio Suplementario y por mejoras a la red que hubiese sido requerido para\nsistemas de hasta 25 kilovatios por el Reglamento N\u00famero 8915, Reglamento para\nInterconectar Generadores con el Sistema de Distribuci\u00f3n El\u00e9ctrica de la\nAutoridad de Energ\u00eda El\u00e9ctrica y Participar en los Programas de Medici\u00f3n Neta\ndel 6 de febrero de 2017, incluyendo pero sin limitarse a los cargos dispuestos en\nla Secci\u00f3n V, Art\u00edculo B de dicho Reglamento 8915; y ordenar al Negociado de\nEnerg\u00eda de Puerto Rico a adoptar un nuevo reglamento de interconexi\u00f3n\nconsistente con la Ley 17 de 2019, Ley de Pol\u00edtica P\u00fablica Energ\u00e9tica de Puerto Rico\ny con esta Resoluci\u00f3n dentro de un t\u00e9rmino de tiempo espec\u00edfico.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -312,17 +312,19 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Res. Conj.  5-2026",
+      "date": "2026-01-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:01Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "H\u00e9ctor E. Ferrer Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"H\\u00e9ctor E. Ferrer Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Denis   M\u00e1rquez Lebr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -332,11 +334,27 @@
       "organization_id": null
     },
     {
-      "name": "Nelie  Lebr\u00f3n Robles - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Nelie  Lebr\\u00f3n Robles - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "H\u00e9ctor E. Ferrer Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor E. Ferrer Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miembros  PPD - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros  PPD - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -356,14 +374,6 @@
       "organization_id": null
     },
     {
-      "name": "Miembros  PPD - - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Miembros  PPD - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "V\u00edctor  L Par\u00e9s Otero - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
@@ -372,11 +382,11 @@
       "organization_id": null
     },
     {
-      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Nelie  Lebr\u00f3n Robles - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Nelie  Lebr\\u00f3n Robles - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -480,6 +490,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158287/RCC0193 - Conferencia.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Res. Conj.  5-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158287/Res. Conj. 5-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-07",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -498,6 +530,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:01Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0806",
-  "title": "Para enmendar los art\u00edculos 3, 4, y 5, de la Ley N\u00fam. 204-2024, que crea el \u201cPrograma de Acopio, Re\u00faso y Reciclaje de Asientos Protectores\u201d, para disponer que el Negociado de Bomberos y la Comisi\u00f3n de Seguridad en el Tr\u00e1nsito podr\u00e1n recibir y reusar asientos protectores o asientos protectores elevados, al amparo de dicha Ley sin necesidad de que estos sean acompa\u00f1ados con su correspondiente manual de instrucciones; y para otros fines relacionados.",
+  "title": "Para enmendar los art\u00edculos 3, 4, y 5, de la Ley 204-2024, conocida como \"Ley del Programa de \nAcopio, Re\u00faso y Reciclaje de Asientos Protectores\", con el prop\u00f3sito de autorizar, tanto al \nNegociado del Cuerpo de Bomberos de Puerto Rico, as\u00ed como a la Comisi\u00f3n para la Seguridad en el \nTr\u00e1nsito, a recibir y reusar asientos protectores o asientos protectores elevados, sin necesidad de \nque estos sean acompa\u00f1ados con su correspondiente manual de instrucciones; y para otros fines \nrelacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -296,6 +296,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 2-2026",
+      "date": "2026-01-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -416,6 +426,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158081/PC0806 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 2-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158081/Ley 2-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -434,6 +466,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:01Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0680",
-  "title": "Para enmendar los Art\u00edculos 3, 4.-101, 4.-102, 4.-104, 4.107, 4.-108, 4.-111, 4.-112, 6, 7.-101 y 7.103, a\u00f1adir los nuevos Art\u00edculos 4.115, 4.116, 9.-101, 9.-102, 9.-103, 9.-104, y 9.-105 y renumerar los subsiguientes Art\u00edculos de la Ley N\u00fam. 249-2008, seg\u00fan enmendada, conocida como la \u201cLey de Condohoteles de Puerto Rico\u201d, a los fines de aclarar disposiciones de la ley relacionadas con su alcance y a la administraci\u00f3n de Condohoteles; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 3, 4.-101, 4.-102, 4.-104, 4.-107, 4.-108, 4.-111, 4.-112, 6, 7.-101 y 7.-103, a\u00f1adir los nuevos Art\u00edculos 4.-115, 4.-116, 9.-101, 9.-102, 9.-103, 9.-104, y 9.-105 y renumerar los subsiguientes Art\u00edculos de la Ley N\u00fam. 249-2008, seg\u00fan enmendada, conocida como la \u201cLey de Condohoteles de Puerto Rico\u201d, a los fines de aclarar disposiciones de la ley relacionadas con su alcance y a la administraci\u00f3n de Condohoteles; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -286,23 +286,33 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 11-2026",
+      "date": "2026-01-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:00Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Axel  Roque Gracia - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Axel  Roque Gracia - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Axel  Roque Gracia - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Axel  Roque Gracia - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -417,6 +427,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Ley 11-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155897/Ley 11-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -435,6 +456,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:00Z"
   }
 }

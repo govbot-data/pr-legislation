@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0001",
-  "title": "Para enmendar los Art\u00edculos 2, 3 y 4 de la Ley 7-2019, conocida como \u201cLey de Transparencia en el Precio de Medicamentos Recetados\u201d; para atemperar la misma a la intenci\u00f3n legislativa original; ordenar al Departamento de Asuntos del Consumidor a que recopile una muestra de los precios al detal de los cincuenta (50) medicamentos recetados con m\u00e1s frecuencia, que se despachan en las farmacias autorizadas a operar en Puerto Rico a pacientes sin cubierta m\u00e9dica cuyo valor al detal sobrepasen los cien (100) d\u00f3lares; requerir el establecimiento de formatos que mejor faciliten el someter la informaci\u00f3n; requerir al Comit\u00e9 el establecer las garant\u00edas de confidencialidad para el manejo de la informaci\u00f3n recibida de parte de las farmacias; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 2, 3 y 4 de la Ley 7-2019, conocida como \"Ley de Transparencia en el \nPrecio de Medicamentos Recetados\"; para atemperar la misma a la intenci\u00f3n legislativa original; \nordenar al Departamento de Asuntos del Consumidor a que recopile una muestra de los precios al \ndetal de los cien (100) medicamentos recetados con m\u00e1s frecuencia, que se despachan en las \nfarmacias autorizadas a operar en Puerto Rico cuyo valor al detal sobrepasen los cien (100) \nd\u00f3lares; requerir que el Departamento de Asuntos del Consumidor (DACO) y la Puerto Rico Innovation \nand Technology Service (PRITS) dise\u00f1en el formulario que ser\u00e1 utilizado para que la informaci\u00f3n sea \n sometida; incluir en el Comit\u00e9 Interagencial  a  un  farmac\u00e9utico  licenciado,  designado  por  el \n Colegio  de Farmac\u00e9uticos de Puerto Rico; requerir al Comit\u00e9 el establecer las garant\u00edas de \nconfidencialidad para el manejo de la informaci\u00f3n recibida de parte de las farmacias; y para otros \nfines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -348,6 +348,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 17-2026",
+      "date": "2026-01-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -501,6 +511,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152384/PC0001-Conferencia.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 17-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152384/Ley 17-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-07",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -519,6 +551,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:00Z"
   }
 }

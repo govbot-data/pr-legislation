@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0123",
-  "title": "Para designar con el nombre de Pedro A. \u201cPey\u00edn\u201d L\u00f3pez Maldonado, el tramo entre los kil\u00f3metros 5.5 y 6.0 de la carretera PR693, conocida como Calle Industria, dentro de la jurisdicci\u00f3n del Municipio de Dorado, en un merecido reconocimiento a este dorade\u00f1o destacado por su trayectoria de Servicio Militar, liderazgo comunitario, administrativo y su aportaci\u00f3n al desarrollo agr\u00edcola de Puerto Rico; autorizar la instalaci\u00f3n de r\u00f3tulos; y para otros fines relacionados.",
+  "title": "Para designar con el nombre de Pedro A. \"Pey\u00edn\" L\u00f3pez Maldonado, el tramo conocido como Calle \nIndustria, que discurre entre el Desv\u00edo Felisa Rinc\u00f3n de Gautier y la Calle M\u00e9ndez Vigo de la \nCarretera Estatal PR-6693, dentro de la jurisdicci\u00f3n del Municipio de Dorado, en un merecido \nreconocimiento a este dorade\u00f1o destacado por su trayectoria de Servicio Militar, liderazgo \ncomunitario, administrativo y su aportaci\u00f3n al desarrollo agr\u00edcola de Puerto Rico; autorizar la \ninstalaci\u00f3n de r\u00f3tulos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -340,6 +340,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Res. Conj.  2-2026",
+      "date": "2026-01-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -485,6 +495,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  2-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155565/Res. Conj. 2-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -503,6 +524,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:00Z"
   }
 }

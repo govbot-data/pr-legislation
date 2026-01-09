@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0226",
-  "title": "Para enmendar el Art\u00edculo 3 de la Ley 21-2008, seg\u00fan enmendada, conocida como \u201cLa Ley para Establecer el Protocolo para Tratamiento al Uso y Dependencia al Tabaco y sus Derivados\u201d, a los fines de hacer compulsorio el suministro anual de informaci\u00f3n a la Divisi\u00f3n de Control de Tabaco, adscrita al Departamento de Salud de Puerto Rico, en cuanto a las cubiertas para el tratamiento del uso y dependencia al tabaco y sus derivados; establecer las penalidades por incumplimiento; y para otros fines relacionados.",
+  "title": "Para emnendar el Art\u00edculo 3 de la Ley 21-2008, conocida como \"Ley del Protocolo para Tratamiento al \nUso y Dependencia al Tabaco y sus Derivados\", a los fines de hacer compulsorio el suministro anual \nde informaci\u00f3n a la Divisi\u00f3n de Conh\u00b7ol de Tabaco, adscrita al Departamento de Salud de Puerto \nRico, en cuanto a las cubiertas para el tratamiento del uso y dependencia al tabaco y sus \nderivados; establecer las penalidades por incumplimiento; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -264,6 +264,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 10-2026",
+      "date": "2026-01-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -365,6 +375,28 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153005/PC0226 enrolado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Ley 10-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153005/Ley 10-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -383,6 +415,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:00Z"
   }
 }

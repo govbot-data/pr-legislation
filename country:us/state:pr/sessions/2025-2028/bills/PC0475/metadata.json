@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0475",
-  "title": "Para enmendar el Art\u00edculo 9.10 de la Ley N\u00fam. 85-2018, seg\u00fan enmendada, conocida como \u201cLey de Reforma Educativa de Puerto Rico\u201d, a los fines de establecer que dentro de los talleres y campa\u00f1as educativas sobre estilos de vida saludables y buenas pr\u00e1cticas nutricionales dispuestos en dicho Art\u00edculo, se incluya orientaci\u00f3n y educaci\u00f3n con respecto a la prevenci\u00f3n de trastornos alimenticios, tales como la anorexia, la bulimia y trastornos por atrac\u00f3n, entre otros; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 9.11 de la Ley N\u00fam. 85-2018, seg\u00fan enmendada, conocida como \u201cLey de Reforma Educativa de Puerto Rico\u201d, a los fines de establecer que dentro de los talleres y campa\u00f1as educativas sobre estilos de vida saludables y buenas pr\u00e1cticas nutricionales dispuestos en dicho Art\u00edculo, se incluya orientaci\u00f3n y educaci\u00f3n con respecto a la prevenci\u00f3n de trastornos de la conducta alimentaria, tales como la anorexia nerviosa, la bulimia nerviosa y el trastorno por atrac\u00f3n, entre otros; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -274,6 +274,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Ley 4-2026",
+      "date": "2026-01-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:30:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -397,6 +407,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Ley 4-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154707/Ley 4-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -415,6 +436,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-01-09T12:30:00Z"
   }
 }
