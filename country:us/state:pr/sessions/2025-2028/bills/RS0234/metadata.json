@@ -134,6 +134,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:44Z"
       }
+    },
+    {
+      "description": "Inspecci\u00f3n Ocular: Cantera Aggregate, Inc. Carr. PR 853 Km 21, Carolina",
+      "date": "2026-01-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-13T12:31:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -228,6 +238,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:44Z"
+    "logs_latest_update": "2026-01-13T12:31:19Z"
   }
 }
