@@ -34,6 +34,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:48Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-01-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:30:53Z"
+      }
+    },
+    {
+      "description": "Derrotada por el Senado en Votaci\u00f3n Final",
+      "date": "2026-01-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:30:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +78,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Derrotada por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159438/rs373vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -76,6 +107,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:48Z"
+    "logs_latest_update": "2026-01-14T12:30:53Z"
   }
 }

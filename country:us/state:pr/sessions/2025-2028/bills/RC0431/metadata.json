@@ -120,6 +120,18 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:31:20Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:30:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -155,6 +167,17 @@
       ],
       "date": "2025-12-03",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158439/RC0431 ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-01-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -173,6 +196,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:31:20Z"
+    "logs_latest_update": "2026-01-14T12:30:53Z"
   }
 }

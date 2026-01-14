@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0373",
-  "title": "Para ordenar a las Comisiones de Adultos Mayores y Bienestar Social; y de Educaci\u00f3n de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n sobre la disponibilidad, accesibilidad, alcance y efectividad del modelo \u201clifelong learning\u201d o aprendizaje a lo largo de la vida; su implementaci\u00f3n en Puerto Rico, su pertinencia ante la nueva realidad demogr\u00e1fica y su impacto en el desarrollo humano, la inclusi\u00f3n social y la reintegraci\u00f3n laboral de personas mayores y de otros sectores de la poblaci\u00f3n; los programas existentes, si alguno, impulsados por el sistema educativo y las instituciones acad\u00e9micas p\u00fablicas y privadas a todos los niveles para fomentar el aprendizaje a lo largo de la vida;  la viabilidad de establecer una pol\u00edtica p\u00fablica que garantice el acceso a esta modalidad educativa, reconociendo su car\u00e1cter voluntario, electivo y centrado en el mejoramiento personal y profesional; y para otros fines relacionados.",
+  "title": "Para ordenar a las Comisiones de Adultos Mayores y Bienestar Social; y de Educaci\u00f3n de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n sobre la disponibilidad, accesibilidad, alcance y efectividad del modelo \u201clifelong learning\u201d o aprendizaje a lo largo de la vida; su implementaci\u00f3n en Puerto Rico, su pertinencia ante la nueva realidad demogr\u00e1fica y su impacto en el desarrollo humano, la inclusi\u00f3n social y la reintegraci\u00f3n laboral de personas mayores y de otros sectores de la poblaci\u00f3n; los programas existentes, si alguno, impulsados por el sistema educativo y las instituciones acad\u00e9micas p\u00fablicas y privadas a todos los niveles para fomentar el aprendizaje a lo largo de la vida; la viabilidad de establecer una pol\u00edtica p\u00fablica que garantice el acceso a esta modalidad educativa, reconociendo su car\u00e1cter voluntario, electivo y centrado en el mejoramiento personal y profesional; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -122,6 +122,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:44Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-08-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:30:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -168,6 +180,17 @@
       ],
       "date": "2025-08-12",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156575/RC0373 -ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-08-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -186,6 +209,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:44Z"
+    "logs_latest_update": "2026-01-14T12:30:53Z"
   }
 }
