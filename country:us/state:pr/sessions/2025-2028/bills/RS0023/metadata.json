@@ -148,6 +148,26 @@
       "_processing": {
         "log_file_created": "2025-12-02T22:01:16Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-01-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:30:29Z"
+      }
+    },
+    {
+      "description": "Cuerpo aprueba informe final rendido",
+      "date": "2026-01-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:30:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -216,6 +236,17 @@
       ],
       "date": "2025-12-01",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo aprueba informe final rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153491/rs23 inf final vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -234,6 +265,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T22:01:16Z"
+    "logs_latest_update": "2026-01-15T12:30:29Z"
   }
 }

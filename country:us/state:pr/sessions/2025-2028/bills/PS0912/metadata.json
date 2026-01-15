@@ -46,6 +46,26 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:31:20Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Leopoldo Figueroa",
+      "date": "2026-01-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:30:29Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Leopoldo Figueroa",
+      "date": "2026-01-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:30:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -96,6 +116,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:31:20Z"
+    "logs_latest_update": "2026-01-15T12:30:29Z"
   }
 }
