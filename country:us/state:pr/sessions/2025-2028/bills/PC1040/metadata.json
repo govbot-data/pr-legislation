@@ -46,6 +46,28 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:30:29Z"
       }
+    },
+    {
+      "description": "Relevado de Comisi\u00f3n(es)",
+      "date": "2026-01-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-20T12:33:21Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-20T12:33:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,7 +81,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159701/PC1040.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-01-13",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -76,6 +110,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:30:29Z"
+    "logs_latest_update": "2026-01-20T12:33:21Z"
   }
 }

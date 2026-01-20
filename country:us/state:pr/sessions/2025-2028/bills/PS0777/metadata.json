@@ -122,6 +122,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:47Z"
       }
+    },
+    {
+      "description": "Reuni\u00f3n Ejecutiva: Sal\u00f3n de Audiencias #1",
+      "date": "2026-01-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-20T12:33:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -140,8 +150,8 @@
       "note": "Radicado",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/159052/ps0777-25.pdf",
-          "media_type": "application/pdf"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159052/ps0777-25.doc",
+          "media_type": "application/msword"
         }
       ],
       "date": "2025-10-14",
@@ -186,6 +196,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:47Z"
+    "logs_latest_update": "2026-01-20T12:33:21Z"
   }
 }
