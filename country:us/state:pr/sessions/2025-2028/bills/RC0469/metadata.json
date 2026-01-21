@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0469",
-  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Este Central a realizar una investigaci\u00f3n exhaustiva sobre la falta de alumbrado en la Carretera PR-53, particularmente en la intersecci\u00f3n con la Carretera PR-906, en el Barrio Aguacate del Municipio de Yabucoa, a fin de evaluar los riesgos a la seguridad vial, las causas de la deficiencia en el alumbrado y proponer medidas correctivas inmediatas en coordinaci\u00f3n con las agencias pertinentes.",
+  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Este Central realizar una investigaci\u00f3n exhaustiva sobre la falta de alumbrado p\u00fablico en la Carretera PR-53, particularmente en la intersecci\u00f3n con la Carretera PR-906, en el Barrio Aguacate del Municipio de Yabucoa, con la finalidad de evaluar su impacto en la seguridad vial, identificar las posibles causas de las deficiencias en el servicio de alumbrado el\u00e9ctrico y formular recomendaciones y acciones correctivas inmediatas en coordinaci\u00f3n con las agencias pertinentes.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -132,6 +132,18 @@
       "_processing": {
         "log_file_created": "2026-01-20T12:33:21Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:33:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,6 +190,17 @@
       ],
       "date": "2025-12-15",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158916/RC0469-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-01-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -196,6 +219,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-20T12:33:21Z"
+    "logs_latest_update": "2026-01-21T12:33:21Z"
   }
 }
