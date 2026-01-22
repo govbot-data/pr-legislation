@@ -208,6 +208,42 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:33:21Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-01-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:32:59Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-01-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:32:59Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2026-01-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:32:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -287,6 +323,17 @@
       ],
       "date": "2025-10-22",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152789/PC149vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-20",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -305,6 +352,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:33:21Z"
+    "logs_latest_update": "2026-01-22T12:32:59Z"
   }
 }

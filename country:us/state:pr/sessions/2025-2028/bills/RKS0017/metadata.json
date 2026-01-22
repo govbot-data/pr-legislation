@@ -48,28 +48,6 @@
       }
     },
     {
-      "description": "Retirada por su Autor",
-      "date": "2026-01-20T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "withdrawal"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-21T12:33:21Z"
-      }
-    },
-    {
-      "description": "Relevado de Comisi\u00f3n(es): \u00b0",
-      "date": "2026-01-20T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-21T12:33:21Z"
-      }
-    },
-    {
       "description": "Descargado en Senado",
       "date": "2026-01-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -88,23 +66,35 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:33:21Z"
       }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2026-01-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:32:59Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -138,6 +128,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:33:21Z"
+    "logs_latest_update": "2026-01-22T12:32:59Z"
   }
 }

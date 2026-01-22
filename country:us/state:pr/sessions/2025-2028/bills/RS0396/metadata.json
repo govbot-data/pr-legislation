@@ -44,6 +44,26 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:33:21Z"
       }
+    },
+    {
+      "description": "Aprobado por el Senado conforme a la Regla 18.3",
+      "date": "2026-01-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:32:59Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-01-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:32:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,6 +88,17 @@
       ],
       "date": "2026-01-14",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado conforme a la Regla 18.3",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159736/RS396.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-20",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -86,6 +117,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:33:21Z"
+    "logs_latest_update": "2026-01-22T12:32:59Z"
   }
 }

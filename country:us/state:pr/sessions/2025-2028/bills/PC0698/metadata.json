@@ -170,6 +170,38 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:47Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-01-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:32:59Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-01-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:32:59Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-01-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:32:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -238,6 +270,28 @@
       ],
       "date": "2025-08-25",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156170/pc0698-Inf.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-01-21",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156170/pc0698-ent.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-01-21",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -256,6 +310,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:47Z"
+    "logs_latest_update": "2026-01-22T12:32:59Z"
   }
 }
