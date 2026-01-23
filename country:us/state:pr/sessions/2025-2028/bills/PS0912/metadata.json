@@ -66,6 +66,26 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:30:29Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Luis A. Negr\u00f3n L\u00f3pez",
+      "date": "2026-01-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:32:00Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Miguel Angel Garc\u00eda M\u00e9ndez",
+      "date": "2026-01-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:32:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -92,8 +112,8 @@
       "note": "Radicado",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/159625/ps0912-26 (A-087).pdf",
-          "media_type": "application/pdf"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159625/ps0912-26 (A-087).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
       "date": "2026-01-12",
@@ -116,6 +136,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:30:29Z"
+    "logs_latest_update": "2026-01-23T12:32:00Z"
   }
 }
