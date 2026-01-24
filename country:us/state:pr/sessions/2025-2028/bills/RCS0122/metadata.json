@@ -76,6 +76,28 @@
       "_processing": {
         "log_file_created": "2026-01-23T12:32:00Z"
       }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2026-01-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-24T12:27:16Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2026-01-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-24T12:27:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -102,7 +124,18 @@
       "note": "Radicado",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/159951/rcs0122-26 (A-106).pdf",
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159951/rcs0122-26 (A-106).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-01-22",
+      "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159951/votrcs122.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -126,6 +159,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:32:00Z"
+    "logs_latest_update": "2026-01-24T12:27:16Z"
   }
 }

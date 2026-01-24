@@ -174,6 +174,16 @@
       "_processing": {
         "log_file_created": "2026-01-23T12:32:00Z"
       }
+    },
+    {
+      "description": "Cuerpo aprueba informe final rendido",
+      "date": "2026-01-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-24T12:27:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -264,6 +274,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo aprueba informe final rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154151/finalrs92.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-22",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -282,6 +303,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:32:00Z"
+    "logs_latest_update": "2026-01-24T12:27:16Z"
   }
 }
