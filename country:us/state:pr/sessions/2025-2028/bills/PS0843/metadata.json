@@ -56,23 +56,33 @@
       "_processing": {
         "log_file_created": "2026-01-24T12:27:16Z"
       }
+    },
+    {
+      "description": "Comisi\u00f3n concurre con informe que rindi\u00f3 Comisi\u00f3n(es)",
+      "date": "2026-01-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -93,11 +103,22 @@
       "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/159365/ps0843-Inf (negativo).docx",
-          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159365/ps0843-Inf (negativo).pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "2026-01-23",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n concurre con informe que rindi\u00f3 Comisi\u00f3n(es)",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159365/ps0843-Inf (negativo 2da Inst).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-26",
       "classification": ""
     }
   ],
@@ -117,6 +138,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-24T12:27:16Z"
+    "logs_latest_update": "2026-01-28T12:33:31Z"
   }
 }

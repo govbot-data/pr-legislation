@@ -214,6 +214,16 @@
       "_processing": {
         "log_file_created": "2025-12-02T16:37:46Z"
       }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-01-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -293,6 +303,17 @@
       ],
       "date": "2025-08-25",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153565/rs0036a-25 enmendada por la RS 272 y 411.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -311,6 +332,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T16:37:46Z"
+    "logs_latest_update": "2026-01-28T12:33:31Z"
   }
 }

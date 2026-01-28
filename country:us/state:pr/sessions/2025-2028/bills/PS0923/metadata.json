@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0923",
-  "title": "Para enmendar el Art\u00edculo 92 de la Ley 146-2012, seg\u00fan enmendada, conocida como \n\u201cC\u00f3digo Penal de Puerto Rico\u201d, a los fines de establecer que para prop\u00f3sito de lo \ndispuesto en los incisos (g) y (h) del Art\u00edculo 93 de dicha ley, se considerar\u00e1 ser \nhumano al concebido en cualquier etapa de gestaci\u00f3n dentro del \u00fatero materno; y \npara otros fines relacionados",
+  "title": "Para enmendar el Art\u00edculo 92 de la Ley 146-2012, seg\u00fan enmendada, conocida como \n\u201cC\u00f3digo Penal de Puerto Rico\u201d, a los fines de establecer que para prop\u00f3sito de lo \ndispuesto en los incisos (g) y (h) del Art\u00edculo 93 de dicha ley, se considerar\u00e1 ser \nhumano al concebido en cualquier etapa de gestaci\u00f3n dentro del \u00fatero materno; y \npara otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -100,6 +100,74 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:30:29Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "Descargado en C\u00e1mara",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -118,6 +186,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
+    },
+    {
+      "name": "Joanne  Rodr\u00edguez Veve - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joanne  Rodr\\u00edguez Veve - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -126,8 +202,8 @@
       "note": "Radicado",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/159681/ps0923-26 (A-098).pdf",
-          "media_type": "application/pdf"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159681/ps0923-26 (A-098).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
       "date": "2026-01-12",
@@ -139,6 +215,17 @@
         {
           "url": "https://sutra.oslpr.org/SutraFilesGen/159681/ps923vot.pdf",
           "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159681/ps0923a-26 (A-098).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
       "date": "2026-01-14",
@@ -161,6 +248,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:30:29Z"
+    "logs_latest_update": "2026-01-28T12:33:31Z"
   }
 }

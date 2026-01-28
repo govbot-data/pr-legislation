@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC1066",
-  "title": "Para enmendar los Art\u00edculos 1, 2 y 4 de la Ley N\u00fam. 134 de 19 de julio de 1960, seg\u00fan enmendada, conocida como \u201cLey para Autorizar el Descuento de Cuotas de Asociaciones, Federaciones o Uniones de los Empleados del Gobierno de Puerto Rico\u201d, a los fines de extender el derecho al descuento de cuotas a los empleados y las empleadas de carrera de la Rama Judicial.",
+  "title": "Para establecer que, en caso de fallecimiento de un miembro activo de la Polic\u00eda de Puerto Rico, sus hijos menores de edad recibir\u00e1n el cien por ciento (100%) de la pensi\u00f3n que le hubiese correspondido al agente; disponer que dicha pensi\u00f3n se otorgar\u00e1 hasta que los hijos beneficiarios cumplan dieciocho (18) a\u00f1os, o hasta los veinti\u00fan (21) a\u00f1os si est\u00e1n matriculados en una instituci\u00f3n educativa reconocida luego de haberse graduado de escuela superior; establecer que este beneficio aplicar\u00e1 independientemente de si el fallecimiento ocurri\u00f3 en cumplimiento del deber o por causas no relacionadas al servicio; y para otros fines relacionados",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -22,6 +22,30 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:33:21Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -35,7 +59,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159789/PC1066.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-01-19",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -52,6 +88,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:33:21Z"
+    "logs_latest_update": "2026-01-28T12:33:31Z"
   }
 }

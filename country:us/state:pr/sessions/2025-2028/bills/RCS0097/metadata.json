@@ -134,17 +134,33 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:32:59Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "H\u00e9ctor  J. S\u00e1nchez \u00c1lvarez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -154,27 +170,11 @@
       "organization_id": null
     },
     {
-      "name": "Migdalia   Padilla Alvelo - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "H\u00e9ctor  J. S\u00e1nchez \u00c1lvarez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Migdalia   Padilla Alvelo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -183,14 +183,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Carmelo  R\u00edos Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carmelo  R\\u00edos Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -207,6 +199,38 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carmelo  R\u00edos Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carmelo  R\\u00edos Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Migdalia   Padilla Alvelo - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Migdalia   Padilla Alvelo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -255,6 +279,17 @@
       ],
       "date": "2026-01-20",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159020/rcs0097a-26.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-01-20",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -273,6 +308,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:32:59Z"
+    "logs_latest_update": "2026-01-28T12:33:31Z"
   }
 }

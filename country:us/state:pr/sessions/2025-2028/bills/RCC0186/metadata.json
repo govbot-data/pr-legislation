@@ -167,34 +167,78 @@
     },
     {
       "description": "3er Informe Comisi\u00f3n rendido con enmiendas",
-      "date": "2026-01-19T04:00:00+00:00",
+      "date": "2026-01-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-20T12:33:21Z"
+        "log_file_created": "2026-01-28T12:33:31Z"
       }
     },
     {
       "description": "Entirillado del Informe",
-      "date": "2026-01-19T04:00:00+00:00",
+      "date": "2026-01-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-20T12:33:21Z"
+        "log_file_created": "2026-01-28T12:33:31Z"
       }
     },
     {
       "description": "Remitido a Comisi\u00f3n de Calendarios de la C\u00e1mara",
-      "date": "2026-01-19T04:00:00+00:00",
+      "date": "2026-01-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-20T12:33:21Z"
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
       }
     }
   ],
@@ -258,11 +302,11 @@
       "note": "3er Informe Comisi\u00f3n rendido con enmiendas",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/158186/RCC0186-i 3ero.docx",
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158186/RCC0186-i 3ro.docx",
           "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
-      "date": "2026-01-19",
+      "date": "2026-01-23",
       "classification": ""
     },
     {
@@ -273,7 +317,7 @@
           "media_type": "application/msword"
         }
       ],
-      "date": "2026-01-19",
+      "date": "2026-01-23",
       "classification": ""
     }
   ],
@@ -293,6 +337,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-20T12:33:21Z"
+    "logs_latest_update": "2026-01-28T12:33:31Z"
   }
 }

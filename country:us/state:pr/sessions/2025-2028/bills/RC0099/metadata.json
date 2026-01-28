@@ -134,33 +134,23 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:47Z"
       }
-    },
-    {
-      "description": "Inspecci\u00f3n Ocular:  Carr. PR 6678 y Barrio Maricao, Vega Alta",
-      "date": "2026-01-27T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-27T12:32:48Z"
-      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Jerry   Nieves Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jerry   Nieves Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jerry   Nieves Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jerry   Nieves Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -216,6 +206,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:32:48Z"
+    "logs_latest_update": "2026-01-28T12:33:31Z"
   }
 }

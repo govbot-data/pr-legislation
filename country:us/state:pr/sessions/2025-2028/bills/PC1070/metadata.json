@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC1070",
-  "title": "Para ordenar a la Comisi\u00f3n de Recreaci\u00f3n y Deportes de la C\u00e1mara de Representantes del Gobierno de Puerto Rico, realizar una investigaci\u00f3n sobre el inventario de facilidades recreativas, deportivas y de cualquier otro uso que sean de la titularidad o que est\u00e9n adscritas al Departamento de Recreaci\u00f3n y Deportes, espec\u00edficamente las que se encuentran localizadas en los municipios de Dorado, Vega Alta y Vega Baja; para que se informe detalladamente el estado o condici\u00f3n actual de dichas facilidades, los proyectos de mejoras en progreso y los pr\u00f3ximos a iniciar y/o proyectados; y para otros fines relacionados.",
+  "title": "Para crear la \u201cLey para reglamentar la venta de vaporizadores en Puerto Rico\u201d a los fines de prohibir la venta de vaporizadores a menores de veinti\u00fan (21) a\u00f1os; prohibir la venta de toda sustancia l\u00edquida o cartucho con sabor y/o aroma distinto a la nicotina para uso de dispositivos de \u201cvapeo\u201d en Puerto Rico; prohibir la venta en l\u00ednea de vaporizadores o cualquier sustancia l\u00edquida o cartucho a menores de veinti\u00fan (21) a\u00f1os; conceder al Departamento de Salud la facultad de reglamentar, establecer multas y autorizar la confiscaci\u00f3n y disposici\u00f3n de los productos que est\u00e9n en contravenci\u00f3n de esta Ley; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -21,6 +21,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-24T12:27:16Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
       }
     }
   ],
@@ -43,7 +67,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160008/PC1070.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-01-21",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -60,6 +96,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-24T12:27:16Z"
+    "logs_latest_update": "2026-01-28T12:33:31Z"
   }
 }

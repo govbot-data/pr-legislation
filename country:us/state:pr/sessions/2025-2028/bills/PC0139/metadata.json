@@ -264,23 +264,55 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:47Z"
       }
+    },
+    {
+      "description": "2do Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-01-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-01-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-01-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:33:31Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Swanny  E. Vargas Laureano - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Swanny  E. Vargas Laureano - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "\u00c1ngel  Morey Noble - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"\\u00c1ngel  Morey Noble - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Swanny  E. Vargas Laureano - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Swanny  E. Vargas Laureano - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -373,6 +405,28 @@
       ],
       "date": "2025-11-12",
       "classification": ""
+    },
+    {
+      "note": "2do Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152778/pc0139-Inf (2do).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-26",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152778/pc0139-ent (2do).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -391,6 +445,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:47Z"
+    "logs_latest_update": "2026-01-28T12:33:31Z"
   }
 }
