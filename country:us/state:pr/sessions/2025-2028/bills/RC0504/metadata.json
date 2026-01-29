@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0504",
-  "title": "Para ordenar a la Comisi\u00f3n de lo Jur\u00eddico a investigar la aplicaci\u00f3n de la Ley N\u00fam. 54-1989, en casos que involucren menores de edad y su compatibilidad con los derechos constitucionales de los menores; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de lo Jur\u00eddico de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva en torno a la aplicaci\u00f3n de la Ley N\u00fam. 54 de 15 de agosto de 1989, seg\u00fan enmendada, en casos que involucren menores de edad y su compatibilidad con los derechos constitucionales de los menores; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -132,6 +132,18 @@
       "_processing": {
         "log_file_created": "2026-01-28T12:33:31Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:39:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -194,6 +206,17 @@
       ],
       "date": "2026-01-19",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159409/RC0504-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-01-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -212,6 +235,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:33:31Z"
+    "logs_latest_update": "2026-01-29T12:39:08Z"
   }
 }

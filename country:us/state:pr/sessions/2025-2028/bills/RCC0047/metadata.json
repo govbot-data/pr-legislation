@@ -180,6 +180,16 @@
       }
     },
     {
+      "description": "Se retira 1er Informe",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:39:08Z"
+      }
+    },
+    {
       "description": "Devuelto a la Comisi\u00f3n(es)",
       "date": "2025-11-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -187,6 +197,38 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:39:44Z"
+      }
+    },
+    {
+      "description": "Qued\u00f3 Pendiente de Acci\u00f3n Posterior en el Senado",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:39:08Z"
+      }
+    },
+    {
+      "description": "2do Informe Comisi\u00f3n rendido sin enmiendas",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:39:08Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:39:08Z"
       }
     }
   ],
@@ -256,6 +298,17 @@
       ],
       "date": "2025-10-17",
       "classification": ""
+    },
+    {
+      "note": "2do Informe Comisi\u00f3n rendido sin enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153521/rcc0047-Inf (2do).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -274,6 +327,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:44Z"
+    "logs_latest_update": "2026-01-29T12:39:08Z"
   }
 }

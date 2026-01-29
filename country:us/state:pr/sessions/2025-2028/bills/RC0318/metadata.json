@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0318",
-  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Oeste y a la Comisi\u00f3n de Transportaci\u00f3n e Infraestructura de la C\u00e1mara de Representantes del Gobierno del Estado Libre Asociado de Puerto Rico, realizar una investigaci\u00f3n sobre el estado actual, posibles soluciones y/o reparaciones de las carreteras municipales y estatales en los municipios de Aguada, A\u00f1asco, Rinc\u00f3n y Moca que componen el Distrito Representativo N\u00famero 18.",
+  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Oeste de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre el estado actual de la infraestructura vial, con el prop\u00f3sito de identificar reparaciones necesarias en las carreteras municipales y estatales en los municipios de Aguada, A\u00f1asco, Rinc\u00f3n y Moca que componen el Distrito Representativo N\u00famero 18.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -122,6 +122,18 @@
       "_processing": {
         "log_file_created": "2026-01-28T12:33:31Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:39:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -168,6 +180,17 @@
       ],
       "date": "2026-01-19",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155748/RC0318-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-01-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -186,6 +209,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:33:31Z"
+    "logs_latest_update": "2026-01-29T12:39:08Z"
   }
 }
