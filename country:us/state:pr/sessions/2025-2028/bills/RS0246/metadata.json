@@ -176,6 +176,16 @@
       "_processing": {
         "log_file_created": "2026-01-16T12:29:59Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-02-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-03T12:41:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -235,7 +245,7 @@
       "note": "Aprobado por el Senado en Votaci\u00f3n Final",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/156554/MeasuresAndVotes (1)-8.pdf",
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156554/rs246vot.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -281,6 +291,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:29:59Z"
+    "logs_latest_update": "2026-02-03T12:41:13Z"
   }
 }

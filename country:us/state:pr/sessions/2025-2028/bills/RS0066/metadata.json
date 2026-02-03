@@ -146,6 +146,16 @@
       }
     },
     {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-01-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-03T12:41:13Z"
+      }
+    },
+    {
       "description": "Vista P\u00fablica: Sal\u00f3n Mar\u00eda Mart\u00ednez de P\u00e9rez Almiroty",
       "date": "2026-02-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -241,6 +251,17 @@
       ],
       "date": "2025-09-15",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153936/rs0066a-25 enmendada por la RS 295 y 415.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -259,6 +280,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:32:00Z"
+    "logs_latest_update": "2026-02-03T12:41:13Z"
   }
 }
