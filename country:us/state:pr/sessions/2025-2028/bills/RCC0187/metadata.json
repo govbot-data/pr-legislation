@@ -92,7 +92,7 @@
       }
     },
     {
-      "description": "Aprobado con enmiendas del informe",
+      "description": "Aprobado con enmiendas en sala",
       "date": "2026-02-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -104,15 +104,25 @@
       }
     },
     {
-      "description": "Aprobado con enmiendas en sala",
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
       "date": "2026-02-02T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "amendment-passage"
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-03T12:41:13Z"
+        "log_file_created": "2026-02-04T12:41:01Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "date": "2026-02-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:41:01Z"
       }
     }
   ],
@@ -149,6 +159,17 @@
       ],
       "date": "2025-10-23",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158197/RCC0187 votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -167,6 +188,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-03T12:41:13Z"
+    "logs_latest_update": "2026-02-04T12:41:01Z"
   }
 }
