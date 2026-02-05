@@ -154,6 +154,28 @@
       "_processing": {
         "log_file_created": "2026-02-03T12:41:13Z"
       }
+    },
+    {
+      "description": "1er Informe Parcial rendido",
+      "date": "2026-02-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-05T12:42:38Z"
+      }
+    },
+    {
+      "description": "Informe Parcial Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-02-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-05T12:42:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -233,6 +255,17 @@
       ],
       "date": "2026-01-29",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155761/rs0187-Inf (1er Parcial).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -251,6 +284,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-03T12:41:13Z"
+    "logs_latest_update": "2026-02-05T12:42:38Z"
   }
 }
