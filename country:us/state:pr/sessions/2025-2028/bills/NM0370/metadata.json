@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "NM0370",
-  "title": "Dr. Edward R. Moreno Alonso como Miembro de la Junta de Instituciones Postsecundarias.",
+  "title": "Dr. Edward R. Moreno Alonso como Miembro y Presidente de la Junta de Instituciones Postsecundarias.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "appointment"
@@ -32,6 +32,16 @@
       "_processing": {
         "log_file_created": "2026-02-06T12:41:00Z"
       }
+    },
+    {
+      "description": "Nombramiento enmendado",
+      "date": "2026-02-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:32:07Z"
+      }
     }
   ],
   "sponsorships": [],
@@ -46,6 +56,17 @@
         }
       ],
       "date": "2026-02-04",
+      "classification": ""
+    },
+    {
+      "note": "Nombramiento enmendado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160368/0370 - enmendado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-05",
       "classification": ""
     }
   ],
@@ -65,6 +86,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:41:00Z"
+    "logs_latest_update": "2026-02-07T12:32:07Z"
   }
 }
