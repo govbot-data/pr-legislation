@@ -46,6 +46,16 @@
       "_processing": {
         "log_file_created": "2026-02-03T12:41:13Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Mar\u00eda Mart\u00ednez de P\u00e9rez Almiroty",
+      "date": "2026-02-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T12:55:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -88,6 +98,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-03T12:41:13Z"
+    "logs_latest_update": "2026-02-10T12:55:36Z"
   }
 }

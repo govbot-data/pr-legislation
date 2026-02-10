@@ -266,17 +266,29 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:41:01Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen no concurre con enmiendas",
+      "date": "2026-02-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T12:55:36Z"
+      }
+    },
+    {
+      "description": "Se solicita Comit\u00e9 de Conferencia",
+      "date": "2026-02-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T12:55:36Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -291,6 +303,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Ricardo  R. Ocasio  Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -401,6 +421,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:41:01Z"
+    "logs_latest_update": "2026-02-10T12:55:36Z"
   }
 }

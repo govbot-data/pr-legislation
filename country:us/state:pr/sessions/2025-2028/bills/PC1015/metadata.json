@@ -46,6 +46,16 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:31:19Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica:  Sal\u00f3n de Audiencias #2",
+      "date": "2026-02-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T12:55:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -67,7 +77,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159626/PC1015 (A-88).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-01-12",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -84,6 +106,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:31:19Z"
+    "logs_latest_update": "2026-02-10T12:55:36Z"
   }
 }

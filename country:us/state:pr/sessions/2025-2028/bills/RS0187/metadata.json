@@ -176,6 +176,26 @@
       "_processing": {
         "log_file_created": "2026-02-05T12:42:38Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-02-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T12:55:36Z"
+      }
+    },
+    {
+      "description": "Cuerpo recibe 1er informe parcial rendido",
+      "date": "2026-02-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T12:55:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -284,6 +304,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T12:42:38Z"
+    "logs_latest_update": "2026-02-10T12:55:36Z"
   }
 }
