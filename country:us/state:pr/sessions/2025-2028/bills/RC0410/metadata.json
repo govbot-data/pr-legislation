@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0410",
-  "title": "Para solicitar a la Agencia de Protecci\u00f3n Ambiental (EPA, por sus siglas en ingles) y a la Autoridad de Acueductos y Alcantarillados (AAA) informen sobre el estatus de los procedimientos en cuanto a la Orden Administrativa de Cumplimiento CWA-02-2016-31-3 emitida al amparo de la Ley de Aguas Limpias (Clean Water Act) se\u00f1alando violaciones con relaci\u00f3n al Sistema de Colecci\u00f3n de Aguas Usadas del Desarrollo Quintas de Dorado.",
+  "title": "Para ordenar a la Comisi\u00f3n de Recursos Naturales de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva en torno al cumplimiento con la Orden Administrativa de Cumplimiento CWA-02-2016-31-3 emitida al amparo de la Ley de Aguas Limpias (Clean Water Act) por parte de la Agencia de Protecci\u00f3n Ambiental de los Estados Unidos de Am\u00e9rica (EPA, por sus siglas en ingl\u00e9s) y la Autoridad de Acueductos y Alcantarillados de Puerto Rico (AAA); e identificar las medidas correctivas y de mitigaci\u00f3n necesarias para el buen funcionamiento del Sistema de Colecci\u00f3n de Aguas Usadas del Desarrollo Quintas de Dorado. ubicado en el Municipio de Dorado, Puerto Rico.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -132,6 +132,18 @@
       "_processing": {
         "log_file_created": "2026-02-06T12:41:00Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-02-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T12:45:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,6 +190,17 @@
       ],
       "date": "2025-12-04",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158126/RC0410-ee.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-02-05",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -196,6 +219,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:41:00Z"
+    "logs_latest_update": "2026-02-12T12:45:34Z"
   }
 }
