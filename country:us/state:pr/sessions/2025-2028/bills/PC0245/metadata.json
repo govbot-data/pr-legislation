@@ -194,13 +194,33 @@
       }
     },
     {
-      "description": "Pendiente de Votaci\u00f3n Final en Senado",
+      "description": "Qued\u00f3 Pendiente de Acci\u00f3n Posterior en el Senado",
       "date": "2025-10-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:39:44Z"
+        "log_file_created": "2026-02-13T12:40:09Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-02-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:40:09Z"
+      }
+    },
+    {
+      "description": "Devuelto a la Comisi\u00f3n de Reglas y Calendarios del Senado",
+      "date": "2026-02-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:40:09Z"
       }
     }
   ],
@@ -299,6 +319,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:44Z"
+    "logs_latest_update": "2026-02-13T12:40:09Z"
   }
 }

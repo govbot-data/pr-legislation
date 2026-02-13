@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0122",
-  "title": "Para designar con el nombre \u201cAvenida Carlos Iv\u00e1n Beltr\u00e1n\u201d, la Carr. PR 670 que discurre\nfrente al Acr\u00f3polis de Manat\u00ed, en reconocimiento a su exaltaci\u00f3n al Sal\u00f3n de la Fama\ndel Beisbol de Grandes Ligas y su excelente trayectoria deportiva, filantr\u00f3pica y\nciudadana; para ordenar la realizaci\u00f3n de una actividad para develar el nombre de\nla avenida y la colocaci\u00f3n de una se\u00f1alizaci\u00f3n vial que anuncie el mismo, que estar\u00e1\na cargo del Departamento de Transportaci\u00f3n y Obras P\u00fablicas y el Municipio\nAut\u00f3nomo de Manat\u00ed; y para otros fines relacionados.",
+  "title": "Para designar con el nombre \u201cAvenida Carlos Iv\u00e1n Beltr\u00e1n\u201d, la Carretera PR 670 que discurre frente al Acr\u00f3polis de Manat\u00ed, en reconocimiento a su exaltaci\u00f3n al Sal\u00f3n de la Fama del Beisbol de Grandes Ligas y su excelente trayectoria deportiva, filantr\u00f3pica y ciudadana; para ordenar la realizaci\u00f3n de una actividad para develar el nombre de la avenida y la colocaci\u00f3n de una se\u00f1alizaci\u00f3n vial que anuncie el mismo, que estar\u00e1 a cargo del Departamento de Transportaci\u00f3n y Obras P\u00fablicas y el Municipio Aut\u00f3nomo de Manat\u00ed; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -204,6 +204,16 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:41:01Z"
       }
+    },
+    {
+      "description": "Res. Conj.  9-2026",
+      "date": "2026-02-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:40:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -280,6 +290,17 @@
       ],
       "date": "2026-01-27",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  9-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159951/0009s0122.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -298,6 +319,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:41:01Z"
+    "logs_latest_update": "2026-02-13T12:40:09Z"
   }
 }
