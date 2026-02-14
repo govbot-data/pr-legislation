@@ -76,16 +76,6 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:43Z"
       }
-    },
-    {
-      "description": "Aprobado sin enmiendas",
-      "date": "2025-02-03T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:39:43Z"
-      }
     }
   ],
   "sponsorships": [
@@ -128,6 +118,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:43Z"
+    "logs_latest_update": "2026-02-14T12:31:20Z"
   }
 }
