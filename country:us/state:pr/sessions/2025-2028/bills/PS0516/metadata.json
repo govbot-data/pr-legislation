@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0516",
-  "title": "Para enmendar el inciso (n) del Art\u00edculo 3.4 de la Ley 10-2017, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica de la Oficina para el Desarrollo Socioecon\u00f3mico y Comunitario de Puerto Rico\u201d, a los fines de disponer para la creaci\u00f3n, actualizaci\u00f3n y publicaci\u00f3n de un cat\u00e1logo digital sobre todos los programas, beneficios, servicios, actividades e instalaciones disponibles para las personas de edad avanzada, tanto en las agencias gubernamentales, as\u00ed como, en entidades privadas; y para otros fines relacionados.",
+  "title": "Para enmendar el inciso (n) del Art\u00edculo 3.4 de la Ley 10-2017, seg\u00fan enmendada, conocida como \"Ley \nOrg\u00e1nica de la Oficina para el Desarrollo Socioecon\u00f3mico y Comunitario de Puerto Rico\", a los fines \nde establecer, actualizar y publicar digitalmente en la p\u00e1gina cibern\u00e9tica oficial de la Oficina \nlos programas, beneficios, servicios, actividades e instalaciones disponibles para  los adultos \nmayores, tanto en las agencias gubernamentales, as\u00ed como en entidades privadas; adem\u00e1s, incluir un \nlistado actualizado de las comunidades especiales por distrito para facilitar y acceder a canales \nde comunicaci\u00f3n efectivos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -247,32 +247,42 @@
     },
     {
       "description": "Firmado por el Presidente de la C\u00e1mara",
-      "date": "2026-02-09T04:00:00+00:00",
+      "date": "2026-02-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-10T12:55:36Z"
+        "log_file_created": "2026-02-18T12:43:56Z"
       }
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-02-09T04:00:00+00:00",
+      "date": "2026-02-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-11T12:51:47Z"
+        "log_file_created": "2026-02-18T12:43:56Z"
+      }
+    },
+    {
+      "description": "Ley 20-2026",
+      "date": "2026-02-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:43:56Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -281,6 +291,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -305,14 +323,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -405,6 +415,17 @@
       ],
       "date": "2026-01-29",
       "classification": ""
+    },
+    {
+      "note": "Ley 20-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155093/Ley 20-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -423,6 +444,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T12:51:47Z"
+    "logs_latest_update": "2026-02-18T12:43:56Z"
   }
 }
