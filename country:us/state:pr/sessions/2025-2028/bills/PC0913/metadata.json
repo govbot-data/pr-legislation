@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0913",
-  "title": "Para demarcar la extensi\u00f3n del Frente Mar\u00edtimo del Municipio Aut\u00f3nomo de Cata\u00f1o, incluyendo el Malec\u00f3n Edwin Rivera Sierra, como \u201cZona de Turismo Gastron\u00f3mico\u201d, comprendiendo la Avenida Las Nereidas, desde la Calle Destino hasta la Avenida Barbosa, y la Avenida Barbosa, desde la Calle Jos\u00e9 I. Correa hasta La Puntilla de Cata\u00f1o; establecer un Comit\u00e9 de Trabajo de la Compa\u00f1\u00eda de Turismo de Puerto Rico, para que pueda identificar, tomar acci\u00f3n afirmativa y dar debido cumplimiento a todos los requerimientos dispuestos en esta Ley; incluyendo el establecimiento de acuerdos colaborativos con el Municipio de Cata\u00f1o y/o cualquier otra entidad p\u00fablica o privada; desarrollar los planes de mercadeo y promoci\u00f3n que se estime necesario; someter un Informe Anual ante la Asamblea Legislativa pormenorizando su cumplimiento con los requerimientos y exigencias de esta Ley; coordinar con otras agencias; y para otros fines relacionados.",
+  "title": "Para demarcar la extensi\u00f3n del Frente Mar\u00edtimo del Municipio Aut\u00f3nomo de Cata\u00f1o, incluyendo  el  \nMalec\u00f3n  Edwin  Rivera  Sierra,  como  \"Zona  de  Turismo Gastron\u00f3mico\", comprendiendo la Avenida \nLas Nereidas, desde la Calle Destino hasta la Avenida Barbosa, y la Avenida Barbosa, desde la Calle \nJos\u00e9 l. Correa hasta La Puntilla de Cata\u00f1o; establecer un Comit\u00e9 de Trabajo de la Compa\u00f1\u00eda de \nTurismo de Puerto Rico, para que pueda identificar, tomar acci\u00f3n affrmativa y dar debido  \ncumplimiento  a  todos  los requerimientos dispuestos  en  esta  Ley; incluyendo el establecimiento \nde acuerdos colaborativos con el Municipio de Cata\u00f1o y/ o cualquier oh\u00b7a entidad p\u00fablica o privada; \ndesarrollar los planes de mercadeo y promoci\u00f3n que se estime necesario; someter un Informe Anual \nante la Asamblea Legislativa pormenorizando su cumplimiento con los requerimientos y exigencias  de \n esta  Ley; coordinar  con otras agencias;  y  para  otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -232,23 +232,33 @@
       "_processing": {
         "log_file_created": "2026-02-14T12:31:20Z"
       }
+    },
+    {
+      "description": "Ley 24-2026",
+      "date": "2026-02-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:40:21Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "\u00c1ngel  Morey Noble - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"\\u00c1ngel  Morey Noble - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Pedro  J. Santiago Guzm\u00e1n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Pedro  J. Santiago Guzm\\u00e1n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "\u00c1ngel  Morey Noble - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel  Morey Noble - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -330,6 +340,17 @@
       ],
       "date": "2026-01-12",
       "classification": ""
+    },
+    {
+      "note": "Ley 24-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159026/0024c0913.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-17",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -348,6 +369,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-14T12:31:20Z"
+    "logs_latest_update": "2026-02-20T12:40:21Z"
   }
 }

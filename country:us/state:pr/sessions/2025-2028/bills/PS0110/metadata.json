@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0110",
-  "title": "Para enmendar el inciso (a) del Art\u00edculo 12 y a\u00f1adir un nuevo Art\u00edculo 12.2 a la Ley N\u00fam. 194 de 4 de agosto de 1979, seg\u00fan enmendada, mejor conocida como \u201cLey del Ejercicio de la Medicina Veterinaria de Puerto Rico\u201d, a los fines de establecer un nuevo protocolo para la acreditaci\u00f3n de estudiantes veterinarios graduados de escuelas no acreditadas por la American Veterinary Medical Association en Puerto Rico.",
+  "title": "Para enmendar los Art\u00edculos 3 y 12; y a\u00f1adir un nuevo Art\u00edculo 12.2 a la Ley N\u00fam. 194 de 4 de agosto de 1979, seg\u00fan enmendada, conocida como \u201cLey del Ejercicio de la Medicina Veterinaria de Puerto Rico\u201d, a los fines de aclarar y precisar los requisitos para solicitar los ex\u00e1menes de rev\u00e1lidas, as\u00ed como obtener licencias provisionales\nbajo esta Ley; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -342,6 +342,16 @@
       "_processing": {
         "log_file_created": "2026-02-14T12:31:20Z"
       }
+    },
+    {
+      "description": "Ley 25-2026",
+      "date": "2026-02-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:40:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -476,6 +486,17 @@
       ],
       "date": "2026-02-05",
       "classification": ""
+    },
+    {
+      "note": "Ley 25-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152642/0025s0110.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -494,6 +515,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-14T12:31:20Z"
+    "logs_latest_update": "2026-02-20T12:40:21Z"
   }
 }
