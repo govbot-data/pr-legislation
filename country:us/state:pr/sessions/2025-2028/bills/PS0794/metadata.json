@@ -46,6 +46,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:46Z"
       }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2026-02-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:30:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,8 +76,8 @@
       "note": "Radicado",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/159112/ps0794-25.pdf",
-          "media_type": "application/pdf"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159112/ps0794-25.doc",
+          "media_type": "application/msword"
         }
       ],
       "date": "2025-10-16",
@@ -88,6 +100,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:46Z"
+    "logs_latest_update": "2026-02-21T12:30:54Z"
   }
 }
