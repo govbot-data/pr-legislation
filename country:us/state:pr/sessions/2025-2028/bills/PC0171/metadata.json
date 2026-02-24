@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0171",
-  "title": "Para enmendar la Regla 9.3 de las de Procedimiento Civil de Puerto Rico, seg\u00fan enmendadas, a los fines de a\u00f1adir un nuevo p\u00e1rrafo en el que se establezcan los factores a ser considerados por el tribunal cuando una parte solicite la descalificaci\u00f3n de un abogado; y, para otros fines relacionados.",
+  "title": "Para enmendar la Regla 9.3 de las Reglas de Procedimiento Civil de Puerto Rico, seg\u00fan enmendadas, a \nlos fines de a\u00f1adir los criterios a ser considerados por el tribunal cuando una parte solicite la \ndescalificaci\u00f3n de un abogado; y, para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -308,6 +308,16 @@
       "_processing": {
         "log_file_created": "2026-02-14T12:31:20Z"
       }
+    },
+    {
+      "description": "Ley 22-2026",
+      "date": "2026-02-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T12:45:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -431,6 +441,17 @@
       ],
       "date": "2026-02-02",
       "classification": ""
+    },
+    {
+      "note": "Ley 22-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152812/0022c0171.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-15",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -449,6 +470,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-14T12:31:20Z"
+    "logs_latest_update": "2026-02-24T12:45:24Z"
   }
 }

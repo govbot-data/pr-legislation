@@ -354,6 +354,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:46Z"
       }
+    },
+    {
+      "description": "Inspecci\u00f3n Ocular: Cuartel de la Polic\u00eda Rio Piedras",
+      "date": "2026-02-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T12:45:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -488,6 +498,28 @@
       ],
       "date": "2025-10-28",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 4to informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154128/RS81(4).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 5to informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154128/RS81(5).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -506,6 +538,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:46Z"
+    "logs_latest_update": "2026-02-24T12:45:24Z"
   }
 }

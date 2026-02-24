@@ -42,6 +42,58 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:32:07Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+      "date": "2026-02-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T12:45:24Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-02-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T12:45:24Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-02-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T12:45:24Z"
+      }
+    },
+    {
+      "description": "Confirmado por Senado",
+      "date": "2026-02-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T12:45:24Z"
+      }
+    },
+    {
+      "description": "Notificado a la Gobernadora",
+      "date": "2026-02-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T12:45:24Z"
+      }
     }
   ],
   "sponsorships": [],
@@ -68,6 +120,17 @@
       ],
       "date": "2026-02-05",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160368/0370-informe.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -86,6 +149,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:32:07Z"
+    "logs_latest_update": "2026-02-24T12:45:24Z"
   }
 }
