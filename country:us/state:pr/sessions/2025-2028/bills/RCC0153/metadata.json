@@ -56,9 +56,27 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:30:46Z"
       }
+    },
+    {
+      "description": "Reuni\u00f3n Ejecutiva:  Oficina de la Comisi\u00f3n",
+      "date": "2026-02-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:45:12Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Tatiana  P\u00e9rez Ram\u00edrez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tatiana  P\\u00e9rez Ram\\u00edrez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -98,6 +116,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:30:46Z"
+    "logs_latest_update": "2026-02-26T12:45:12Z"
   }
 }
