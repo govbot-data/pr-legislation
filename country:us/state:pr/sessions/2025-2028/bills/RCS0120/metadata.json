@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0120",
-  "title": "Para ordenar a la Comisi\u00f3n de Transportaci\u00f3n, Telecomunicaciones, Servicios P\u00fablicos y Asuntos del Consumidor del Senado de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre la reconfiguraci\u00f3n de plazas de peaje en expresos y autopistas de Puerto Rico a sistemas bidireccionales, incluyendo la metodolog\u00eda de cobro aplicada; determinar si las tarifas vigentes reflejan el cobro \u00edntegro en ambas direcciones o una distribuci\u00f3n proporcional del costo total por tramo; analizar comparativamente los recibos emitidos antes y despu\u00e9s de dicha conversi\u00f3n; verificar el cumplimiento con los requisitos de rotulaci\u00f3n y divulgaci\u00f3n del tarifario vigente; y para otros fines relacionados.",
+  "title": "Para ordenar al Secretario del Departamento de la Vivienda a rendir un informe detallado a esta Asamblea Legislativa sobre el desarrollo, avances, estado fiscal actual y plan de acci\u00f3n a corto plazo del Programa Infraestructura Geoespacial de Puerto Rico (GeoFrame), financiado con fondos CDBG-DR; disponer la celebraci\u00f3n de audiencias p\u00fablicas si fuere necesario; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -46,6 +46,38 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:33:21Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-02-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:38:17Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-02-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:38:17Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-02-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:38:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,11 +96,33 @@
       "note": "Radicado",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/159752/rcs0120-26.pdf",
-          "media_type": "application/pdf"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159752/rcs0120-26.doc",
+          "media_type": "application/msword"
         }
       ],
       "date": "2026-01-15",
+      "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159752/rcs0120-Inf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-27",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159752/rcs0120-ent.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-27",
       "classification": ""
     }
   ],
@@ -88,6 +142,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:33:21Z"
+    "logs_latest_update": "2026-03-04T12:38:17Z"
   }
 }

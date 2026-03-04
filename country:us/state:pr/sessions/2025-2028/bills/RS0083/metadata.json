@@ -146,17 +146,31 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:47Z"
       }
+    },
+    {
+      "description": "1er Informe Parcial rendido",
+      "date": "2026-03-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:38:17Z"
+      }
+    },
+    {
+      "description": "Informe Parcial Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-03-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:38:17Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -171,6 +185,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -230,6 +252,17 @@
       ],
       "date": "2025-09-29",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154130/rs0083-Inf (1er parcial).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-03",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -248,6 +281,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:47Z"
+    "logs_latest_update": "2026-03-04T12:38:17Z"
   }
 }

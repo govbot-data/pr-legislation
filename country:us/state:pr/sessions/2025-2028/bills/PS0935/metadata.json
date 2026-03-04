@@ -46,6 +46,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:30:29Z"
       }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2026-02-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:38:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,7 +69,30 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159742/ps0935-26.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159742/ps0935-Inf (neg).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-27",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -76,6 +109,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:30:29Z"
+    "logs_latest_update": "2026-03-04T12:38:17Z"
   }
 }

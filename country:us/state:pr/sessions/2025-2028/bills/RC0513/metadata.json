@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0513",
-  "title": "Para investigar el cumplimiento con la Ley N\u00fam. 266-1998, conocida como \u201cLey de Fluoruraci\u00f3n de las Aguas Potables en Puerto Rico\u201d, y su efectividad; y para otros fines relacionados.",
+  "title": "Para ordenar a las comisiones de Reorganizaci\u00f3n, Eficiencia y Diligencia; y de Salud de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n sobre todo lo relacionado a la implementaci\u00f3n de la Ley 266-1998, conocida como \u201cLey de Fluoruraci\u00f3n de las Aguas Potables en Puerto Rico\u201d, incluyendo pero sin limitarse al cumplimiento con las disposiciones de esta ley; el rendimiento o resultado obtenido con su implementaci\u00f3n o ausencia de implementaci\u00f3n; la viabilidad de su implementaci\u00f3n con la realidad actual; la posici\u00f3n de la comunidad cient\u00edfica con relaci\u00f3n a la fluoruraci\u00f3n del agua potable en Puerto Rico y los Estados Unidos de Am\u00e9rica; la posici\u00f3n del Gobierno de los Estados Unidos de Am\u00e9rica, as\u00ed como cualquier otro asunto relacionado, sea directa o indirectamente.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -134,23 +134,35 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:40:17Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-02-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:38:17Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Lisie J. Burgos Mu\u00f1iz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Lisie J. Burgos Mu\\u00f1iz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "\u00c1ngel  Morey Noble - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"\\u00c1ngel  Morey Noble - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisie J. Burgos Mu\u00f1iz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lisie J. Burgos Mu\\u00f1iz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -188,6 +200,17 @@
       ],
       "date": "2026-02-13",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159433/RC0513-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -206,6 +229,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:40:17Z"
+    "logs_latest_update": "2026-03-04T12:38:17Z"
   }
 }
