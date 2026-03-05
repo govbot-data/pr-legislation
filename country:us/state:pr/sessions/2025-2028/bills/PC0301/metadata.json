@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0301",
-  "title": "Para establecer la \u201cLey de Alivio en el Pago del Dep\u00f3sito para las Acometidas de la Autoridad de Acueductos y Alcantarillados\u201d; enmendar la Secci\u00f3n 4 de la Ley N\u00fam. 40 de 1 de mayo de 1945, seg\u00fan enmendada, mejor conocida como la \u201cLey de Acueductos y Alcantarillados de Puerto Rico\u201d; ordenar se enmiende el Reglamento 8901 y cualquier otro reglamento que as\u00ed sea pertinente; a los fines de que todo nuevo cliente o usuario de la Autoridad de Acueductos y Alcantarillados pueda tener la opci\u00f3n de poder prorratear el pago del dep\u00f3sito o fianza de la acometida requerida para comenzar a recibir los servicios de acueductos y alcantarillado sanitario o de ambos, sea por un t\u00e9rmino de tres (3) o de seis (6) meses y para otros fines.",
+  "title": "Para establecer la \"Ley de Alivio en el Pago del Dep\u00f3sito para las Acometidas de la Autoridad de \nAcueductos y Alcantarillados\"; emnendar la Secci\u00f3n 4 de la Ley Num. 40 de 1 de mayo de 1945, segun \nenmendada, mejor conocida como la \"Ley de Acueductos y Alcantarillados de Puerto Rico\"; a los \nfines de que todo nuevo cliente residencial de la Autoridad de Acueductos y Alcantarillados pueda \ntener la opci\u00f3n de prorratear el pago de las solicitudes de acometida, requerido para comenzar a \nrecibir los servicios de acueductos y alcantarillado sanitario ode ambos, sea por un termino que \nno excedera los seis (6) meses y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -264,23 +264,33 @@
       "_processing": {
         "log_file_created": "2026-02-24T12:45:24Z"
       }
+    },
+    {
+      "description": "Ley 27-2026",
+      "date": "2026-02-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:56Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Axel  Roque Gracia - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Axel  Roque Gracia - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Gretchen M. Hau - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Gretchen M. Hau - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Axel  Roque Gracia - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Axel  Roque Gracia - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -384,6 +394,17 @@
       ],
       "date": "2026-02-09",
       "classification": ""
+    },
+    {
+      "note": "Ley 27-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153527/Ley 27-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -402,6 +423,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T12:45:24Z"
+    "logs_latest_update": "2026-03-05T12:41:56Z"
   }
 }
