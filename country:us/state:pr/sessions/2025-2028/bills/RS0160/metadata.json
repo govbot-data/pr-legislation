@@ -176,17 +176,19 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:41:56Z"
       }
+    },
+    {
+      "description": "Cuerpo recibe 1er informe parcial rendido",
+      "date": "2026-03-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:37:32Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Jos\u00e9 Luis  Dalmau Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jos\\u00e9 Luis  Dalmau Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Carmelo  R\u00edos Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -201,6 +203,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Eliezer  Molina P\\u00e9rez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jos\u00e9 Luis  Dalmau Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jos\\u00e9 Luis  Dalmau Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -300,6 +310,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:41:56Z"
+    "logs_latest_update": "2026-03-06T12:37:32Z"
   }
 }
