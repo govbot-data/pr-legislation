@@ -82,6 +82,16 @@
       }
     },
     {
+      "description": "Se retira informe y se devuelve a Comisi\u00f3n",
+      "date": "2026-02-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:30:53Z"
+      }
+    },
+    {
       "description": "2do Informe Comisi\u00f3n rendido sin enmiendas",
       "date": "2026-02-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -100,26 +110,6 @@
       "classification": [
         "referral-committee"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-27T12:40:17Z"
-      }
-    },
-    {
-      "description": "Se retira 1er Informe",
-      "date": "2026-02-26T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-27T12:40:17Z"
-      }
-    },
-    {
-      "description": "Devuelto a la Comisi\u00f3n(es)",
-      "date": "2026-02-26T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-27T12:40:17Z"
@@ -188,6 +178,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:40:17Z"
+    "logs_latest_update": "2026-03-07T12:30:53Z"
   }
 }
