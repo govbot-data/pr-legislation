@@ -296,6 +296,18 @@
       "_processing": {
         "log_file_created": "2026-02-24T12:45:24Z"
       }
+    },
+    {
+      "description": "Veto Expreso",
+      "date": "2026-03-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:41:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -347,7 +359,7 @@
       "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/153520/PC0296.pdf",
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153520/PC0296 votacion.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -419,6 +431,17 @@
       ],
       "date": "2026-02-09",
       "classification": ""
+    },
+    {
+      "note": "Veto Expreso",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153520/PC0296 Veto Expreso.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -437,6 +460,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T12:45:24Z"
+    "logs_latest_update": "2026-03-10T12:41:56Z"
   }
 }

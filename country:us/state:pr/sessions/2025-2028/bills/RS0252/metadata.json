@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0252",
-  "title": "Para ordenar a las comisiones de Vivienda y Bienestar Social; y de Asuntos Municipales del Senado de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre el estado actual de las propiedades abandonadas, el manejo de estorbos p\u00fablicos y expropiaciones forzosas, el cumplimiento de la Ley 114-2024 y el Art\u00edculo 4.011 de la Ley 107-2020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Municipal de Puerto Rico\u201d, as\u00ed como la evaluaci\u00f3n de modelos exitosos en el manejo de propiedades abandonadas, incluyendo los implementados por organizaciones sin fines de lucro y municipios.",
+  "title": "Para ordenar a las comisiones de Vivienda y Bienestar Social; y de Asuntos Municipales\ndel Senado de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre el estado\nactual de las propiedades abandonadas, el manejo de estorbos p\u00fablicos y\nexpropiaciones forzosas, el cumplimiento de la Ley 114-2024 y el Art\u00edculo 4.011 de\nla Ley 107-2020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Municipal de Puerto\nRico\u201d, as\u00ed como la evaluaci\u00f3n de modelos exitosos en el manejo de propiedades\nabandonadas, incluyendo los implementados por organizaciones sin fines de lucro\ny municipios.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -166,6 +166,28 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:44:53Z"
       }
+    },
+    {
+      "description": "1er Informe Conjunto Parcial rendido",
+      "date": "2026-03-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:41:56Z"
+      }
+    },
+    {
+      "description": "Informe Parcial Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-03-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:41:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -253,6 +275,17 @@
       ],
       "date": "2026-02-23",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Conjunto Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156565/rs0252-Inf (1er Parcial conjunto).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-09",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -271,6 +304,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:44:53Z"
+    "logs_latest_update": "2026-03-10T12:41:56Z"
   }
 }
