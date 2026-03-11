@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0875",
-  "title": "Para enmendar el inciso (A) de la Secci\u00f3n 2 de la Ley N\u00fam. 221 de 15 de mayo de 1948, seg\u00fan enmendada, a los fines de imponer penalidades m\u00e1s severas por violaciones a dicha Ley; y para otros fines relacionados.",
+  "title": "Para enmendar el inciso (A) de la Secci\u00f3n 2 de la Ley Num. 221 de 15 de mayo de 1948, seg\u00fan \nenmendada, a los fines de imponer penalidades mas severas por violaciones a dicha Ley; y para otros \nfines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -298,6 +298,16 @@
       "_processing": {
         "log_file_created": "2026-02-24T12:45:24Z"
       }
+    },
+    {
+      "description": "Ley 30-2026",
+      "date": "2026-03-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:41:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -421,6 +431,17 @@
       ],
       "date": "2026-02-02",
       "classification": ""
+    },
+    {
+      "note": "Ley 30-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158750/0030c0875.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -439,6 +460,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T12:45:24Z"
+    "logs_latest_update": "2026-03-11T12:41:41Z"
   }
 }

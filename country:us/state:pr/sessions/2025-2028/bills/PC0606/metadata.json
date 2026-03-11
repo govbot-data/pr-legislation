@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0606",
-  "title": "Para a\u00f1adir el inciso (p) al Art\u00edculo 5 de la Ley 60-2014, seg\u00fan enmendada, conocida como \u201cLey Uniforme de Veh\u00edculos Oficiales del Gobierno de Puerto Rico\u201d, a los fines de exceptuar de sus disposiciones a los comisionados auxiliares, comandantes de zona, jefes de distrito y al director de transportaci\u00f3n del Negociado del Cuerpo de Bomberos de Puerto Rico, en consideraci\u00f3n a las facultades, poderes y deberes que ejercen dichos funcionarios; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir el inciso (q) al Art\u00edculo 5 de la Ley 60-2014, seg\u00fan enmendada, conocida como \"Ley Uniforme de Veh\u00edculos Oficiales del Gobierno de Puerto Rico\", a los fines  de  exceptuar  de  sus  disposiciones  a  los  comisionados  auxiliares, comandantes de zona, jefes de distrito y al director de transportaci\u00f3n del Negociado del Cuerpo de Bomberos de Puerto Rico, en consideraci\u00f3n a las facultades, poderes y deberes que ejercen dichos funcionarios; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -272,6 +272,16 @@
       "_processing": {
         "log_file_created": "2026-02-24T12:45:24Z"
       }
+    },
+    {
+      "description": "Ley 35-2026",
+      "date": "2026-03-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:41:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -373,6 +383,17 @@
       ],
       "date": "2026-02-02",
       "classification": ""
+    },
+    {
+      "note": "Ley 35-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155615/0035c0606.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -391,6 +412,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T12:45:24Z"
+    "logs_latest_update": "2026-03-11T12:41:41Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0473",
-  "title": "Para enmendar el Art\u00edculo 3.13-A, los incisos (h), (s) y (t) del Art\u00edculo 23.05, el Art\u00edculo 25.01; derogar el Art\u00edculo 25.02 y sustituir por uno nuevo; y enmendar el Art\u00edculo 25.03 de la Ley 22-2000, seg\u00fan enmendada, a los fines de establecer mediante ley que las multas de tr\u00e1nsito podr\u00e1n ser notificadas a trav\u00e9s de la app m\u00f3vil (app) del Departamento de Transportaci\u00f3n y Obras P\u00fablicas para las licencias virtuales, CESCO Digital, o cualquier otro sistema digital autorizado por el Secretario con prop\u00f3sitos de notificaci\u00f3n ciudadana; disponer la informaci\u00f3n m\u00ednima que deber\u00e1 contener dicha notificaci\u00f3n; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 3.13-A, los incisos (h), (s) y (t) del Art\u00edculo 23.05, y el Art\u00edculo 25.01, derogar el Articulo 25.02 y sustituir por uno nuevo, y enmendar el Art\u00edculo 25.03 de la Ley 22-2000, seg\u00fan enmendada, conocida como la \"Ley de Veh\u00edculos y Tr\u00e1nsito de Puerto Rico\", a los fines de establecer que las multas de tr\u00e1nsito deber\u00e1n ser notificadas a trav\u00e9s de la aplicaci\u00f3n m\u00f3vil (app) del Departamento de Transportaci\u00f3n y Obras P\u00fablicas para las licencias virtuales, CESCO Digital, o cualquier otro sistema digital autorizado por el Secretario con prop\u00f3sitos de notificaci\u00f3n ciudadana; disponer la informaci\u00f3n m\u00ednima que deber\u00e1 contener dicha notificaci\u00f3n; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -306,6 +306,16 @@
       "_processing": {
         "log_file_created": "2026-02-24T12:45:24Z"
       }
+    },
+    {
+      "description": "Ley 29-2026",
+      "date": "2026-03-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:41:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -429,6 +439,17 @@
       ],
       "date": "2026-01-27",
       "classification": ""
+    },
+    {
+      "note": "Ley 29-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154701/0029c0473.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -447,6 +468,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T12:45:24Z"
+    "logs_latest_update": "2026-03-11T12:41:41Z"
   }
 }

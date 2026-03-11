@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0097",
-  "title": "Para ordenar a la Autoridad de Carreteras y Transportaci\u00f3n y al Departamento de Transportaci\u00f3n y Obras P\u00fablicas de Puerto Rico, realizar un an\u00e1lisis sobre el tr\u00e1nsito entre la Carretera Estatal PR-177 (Avenida Los Filtros) en el Municipio de Guaynabo y la intersecci\u00f3n con la Carretera Estatal PR-833 (\u00e1rea del sem\u00e1foro donde ubica el \u201cHogar Crea\u201d), con el prop\u00f3sito de identificar alternativas viables dirigidas a descongestionar el tr\u00e1nsito de veh\u00edculos de motor en dicha \u00e1rea; y para otros fines relacionados.",
+  "title": "Para ordenar a la Autoridad de Carreteras y Transportaci\u00f3n y al Departamento de\nTransportaci\u00f3n y Obras P\u00fablicas de Puerto Rico, realizar un estudio de transito entre la Carretera \nEstatal PR-177 (Avenida Los Filtros) y la intersecci\u00f3n con la Carretera Estatal PR-833 (\u00e1rea del \nsem\u00e1foro donde ubica el \"Hogar Crea\") en el Municipio de Guaynabo, con el prop\u00f3sito de identificar \nalternativas viables dirigidas a descongestionar el tr\u00e1nsito de veh\u00edculos de motor en dicha \u00e1rea; y \npara otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -286,6 +286,16 @@
       "_processing": {
         "log_file_created": "2026-02-24T12:45:24Z"
       }
+    },
+    {
+      "description": "Res. Conj.  15-2026",
+      "date": "2026-03-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:41:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -409,6 +419,17 @@
       ],
       "date": "2026-01-29",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  15-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154785/0015c0097.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -427,6 +448,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T12:45:24Z"
+    "logs_latest_update": "2026-03-11T12:41:41Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0176",
-  "title": "Para designar el tramo del Ramal 8 que discurre en un extremo por el Municipio de San Juan, al lado del \u201cMall of San Juan\u201d; y al otro extremo por el Municipio de Carolina, con el nombre de Alba Iris \"Albita\" Rivera Ram\u00edrez, en honor a su entrega en la defensa y creaci\u00f3n por los derechos de los diferentes sectores sociales de Puerto Rico; y para otros fines relacionados.",
+  "title": "Para designar la Carretera Estatal PR-8, con el nombre de Alba Iris \"Albita\" Rivera Ram\u00edrez, en reconocimiento a su defensa y creaci\u00f3n de derechos para diversos sectores sociales de Puerto Rico; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -338,6 +338,16 @@
       "_processing": {
         "log_file_created": "2026-02-24T12:45:24Z"
       }
+    },
+    {
+      "description": "Res. Conj.  17-2026",
+      "date": "2026-03-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:41:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -491,6 +501,17 @@
       ],
       "date": "2026-01-29",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  17-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158060/0017c0176.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -509,6 +530,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T12:45:24Z"
+    "logs_latest_update": "2026-03-11T12:41:41Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0241",
-  "title": "Para enmendar la Secci\u00f3n 6042.08 de la Ley 1-2011, seg\u00fan enmendada, conocida como el \u201cC\u00f3digo de Rentas Internas de Puerto Rico de 2011\u201d, con el prop\u00f3sito de disponer para la suspensi\u00f3n de la licencia para traficar cigarrillos, al por mayor o al detal, o cualquier otra licencia relacionada con cigarrillos, por un t\u00e9rmino de doce (12) meses, y para imponerle multa administrativa de diez mil (10,000) d\u00f3lares por cada incidente, sin perjuicio de lo establecido en la \u201cLey para Corregir la Explotaci\u00f3n de Ni\u00f1os Menores de Edad\u201d, a toda persona, natural o jur\u00eddica, o due\u00f1o o administrador de un negocio o establecimiento comercial que, no solo venda, done, dispense, despache o distribuya, sino que intente realizar acciones inequ\u00edvocas e inmediatamente dirigidas a vender, donar, dispensar o distribuir cigarrillos, cigarrillos electr\u00f3nicos, cigarros, tabaco para mascar o cualquier preparaci\u00f3n de tabaco que se inhale o mastique a personas menores de veinti\u00fan (21) a\u00f1os; aplicar la pena antes descrita a quien induzca, aconseje, incite, persuada, tiente, manipule, coaccione o ayude o que intente inducir, aconsejar, incitar, persuadir, tentar, manipular, coaccionar o ayudar a personas menores de veinti\u00fan (21) a\u00f1os de edad a adquirir cigarrillos o cigarrillos electr\u00f3nicos, cigarros, tabaco para mascar o cualquier preparaci\u00f3n de tabaco que se inhale o mastique, entre otros; y para otros fines relacionados.",
+  "title": "Para enmendar la Secci\u00f3n 6042.08 de la Ley 1-2011, seg\u00fan enmendada, conocida como el \u201cC\u00f3digo de Rentas Internas de Puerto Rico de 2011\u201d, con el prop\u00f3sito de disponer para la suspensi\u00f3n de la licencia para traficar cigarrillos, al por mayor o al detal, o cualquier otra licencia relacionada con cigarrillos, por un t\u00e9rmino de doce (12)\nmeses, y para imponerle multa administrativa de diez mil (10,000) d\u00f3lares por cada incidente, sin perjuicio de lo establecido en la \u201cLey para Corregir la Explotaci\u00f3n de Ni\u00f1os Menores de Edad\u201d, a toda persona, natural o jur\u00eddica, o\ndue\u00f1o o administrador de un negocio o establecimiento comercial que, no solo venda, done, dispense, despache o distribuya, sino que intente realizar acciones inequ\u00edvocas e inmediatamente dirigidas a vender, donar, dispensar o distribuir cigarrillos, cigarrillos electr\u00f3nicos, cigarros, tabaco para mascar o cualquier preparaci\u00f3n de tabaco que se inhale o mastique a personas menores de veinti\u00fan (21) a\u00f1os; aplicar la pena antes descrita a quien induzca, aconseje, incite, persuada, tiente, manipule, coaccione o ayude o que intente inducir, aconsejar, incitar,\npersuadir, tentar, manipular, coaccionar o ayudar a personas menores de veinti\u00fan (21) a\u00f1os de edad a adquirir cigarrillos o cigarrillos electr\u00f3nicos, cigarros, tabaco para mascar o cualquier preparaci\u00f3n de tabaco que se inhale o mastique, entre otros; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -252,15 +252,25 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:44:53Z"
       }
+    },
+    {
+      "description": "Ley 36-2026",
+      "date": "2026-03-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:41:41Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Migdalia   Padilla Alvelo - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Migdalia   Padilla Alvelo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -272,11 +282,11 @@
       "organization_id": null
     },
     {
-      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Migdalia   Padilla Alvelo - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Migdalia   Padilla Alvelo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -369,6 +379,17 @@
       ],
       "date": "2026-02-09",
       "classification": ""
+    },
+    {
+      "note": "Ley 36-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152961/0036s0241.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -387,6 +408,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:44:53Z"
+    "logs_latest_update": "2026-03-11T12:41:41Z"
   }
 }

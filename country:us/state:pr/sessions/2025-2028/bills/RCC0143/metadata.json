@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0143",
-  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP) y al Departamento de Hacienda poner en vigor lo establecido en la Ley 96-2022, la cual enmienda la Ley 22-2000, seg\u00fan enmendada, conocida como \u201cLey de Veh\u00edculos y Tr\u00e1nsito de Puerto Rico\u201d, para que cuando un ciudadano haya presentado un recurso de revisi\u00f3n relacionado con las faltas administrativas o multas de tr\u00e1nsito, y no prevalezca, los t\u00e9rminos que tienen las personas para acogerse a los descuentos provistos en el Art. 23.05 comiencen a decursar cuando la resoluci\u00f3n o sentencia dictada por el Tribunal correspondiente advenga final, firme e inapelable; y para otros fines relacionados.",
+  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP) y al Departamento de Hacienda, poner en vigor lo establecido en la Ley 96-2022, la cual enmienda la Ley 22-2000, seg\u00fan enmendada, conocida como \u201cLey de Veh\u00edculos y Tr\u00e1nsito de Puerto Rico\u201d, para que cuando un ciudadano haya presentado un recurso de revisi\u00f3n relacionado con las faltas administrativas o multas de tr\u00e1nsito, y no prevalezca, los t\u00e9rminos que tienen las personas para acogerse a los descuentos provistos en el Art\u00edculo 23.05 de la precitada Ley 22-2000, comiencen a decursar cuando la resoluci\u00f3n o sentencia dictada por el Tribunal correspondiente advenga final, firme e inapelable; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -274,6 +274,16 @@
       "_processing": {
         "log_file_created": "2026-02-24T12:45:24Z"
       }
+    },
+    {
+      "description": "Res. Conj.  16-2026",
+      "date": "2026-03-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:41:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -397,6 +407,17 @@
       ],
       "date": "2026-01-29",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  16-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156288/0016c0143.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -415,6 +436,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T12:45:24Z"
+    "logs_latest_update": "2026-03-11T12:41:41Z"
   }
 }

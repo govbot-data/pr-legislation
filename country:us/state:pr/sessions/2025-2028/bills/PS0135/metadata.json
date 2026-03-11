@@ -200,9 +200,53 @@
       "_processing": {
         "log_file_created": "2026-03-07T12:30:53Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-03-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:41:41Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-03-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:41:41Z"
+      }
+    },
+    {
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "date": "2026-03-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:41:41Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Joanne  Rodr\u00edguez Veve - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -212,19 +256,11 @@
       "organization_id": null
     },
     {
-      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -236,11 +272,11 @@
       "organization_id": null
     },
     {
-      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -322,6 +358,17 @@
       ],
       "date": "2026-02-26",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152669/PS0135 votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-09",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -340,6 +387,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:30:53Z"
+    "logs_latest_update": "2026-03-11T12:41:41Z"
   }
 }

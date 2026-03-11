@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0430",
-  "title": "Para enmendar el inciso (v) del Art\u00edculo 1.018 de la Ley 107-2020, conocida como \u201cC\u00f3digo Municipal de Puerto Rico\u201d, a los fines de establecer que, al decretarse un estado de emergencia en un municipio, la notificaci\u00f3n que tiene que hacer el Alcalde o su representante a la corporaci\u00f3n p\u00fablica correspondiente, cuando determine iniciar labores dirigidas a normalizar o restablecer el sistema de energ\u00eda el\u00e9ctrica, as\u00ed como las instalaciones para el suministro y tratamiento de agua y aguas residuales, seg\u00fan corresponda, se realizar\u00e1 en el t\u00e9rmino de 24 horas previas al inicio de dichos trabajos; para establecer una excepci\u00f3n al cumplimiento de notificaci\u00f3n dentro de este t\u00e9rmino por justa causa; y para otros fines relacionados.",
+  "title": "Para enmendar el inciso (v) del Art\u00edculo 1.018 de la Ley 107-2020, seg\u00fan enmendada, conocida como \"C\u00f3digo Municipal de Puerto Rico\", a los fines de establecer que, cuando se declare un estado de emergencia en un municipio, el Alcalde o su representante deber\u00e1 notificar a la corporaci\u00f3n publica correspondiente, con al menos veinticuatro (24) horas de anticipaci\u00f3n al inicio de cualquier trabajo dirigido a normalizar o restablecer el sistema de energ\u00eda el\u00e9ctrica o instalaciones de suministro y tratamiento de agua potable y aguas residuales; establecer el contenido para dicha notificaci\u00f3n; disponer la responsabilidad de formalizar acuerdos colaborativos conforme a los requisitos federales aplicables; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -294,6 +294,16 @@
       "_processing": {
         "log_file_created": "2026-02-24T12:45:24Z"
       }
+    },
+    {
+      "description": "Ley 32-2026",
+      "date": "2026-03-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:41:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -417,6 +427,17 @@
       ],
       "date": "2026-01-29",
       "classification": ""
+    },
+    {
+      "note": "Ley 32-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154352/0032c0430.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -435,6 +456,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T12:45:24Z"
+    "logs_latest_update": "2026-03-11T12:41:41Z"
   }
 }
