@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0543",
-  "title": "Para enmendar el Art\u00edculo 10 de la Ley 148-2015, conocida como \u201cLey para la Protecci\u00f3n de las V\u00edctimas de Violencia Sexual en Puerto Rico\u201d; a los fines de tipificar como delito grave el incumplimiento de \u00f3rdenes de protecci\u00f3n emitidas a favor de v\u00edctimas de violencia sexual uniformando dicha Ley con la Ley 54 de 15 de agosto de 1989, seg\u00fan enmendada, conocida como la \u201cLey para la Prevenci\u00f3n e Intervenci\u00f3n con la Violencia Dom\u00e9stica\u201d y la Ley 284 de 21 de agosto de 1999, seg\u00fan enmendada, conocida como la \u201cLey Contra el Acecho en Puerto Rico\u201d; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 10 de la Ley 148-2015, conocida como, \"Ley para la Protecci\u00f3n de las V\u00edctimas de Violencia Sexual en Puerto Rico\" a los fines de tipificar como delito grave el incumplimiento de \u00f3rdenes de protecci\u00f3n emitidas a favor de v\u00edctimas de violencia sexual; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -434,6 +434,16 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:38:17Z"
       }
+    },
+    {
+      "description": "Ley 40-2026",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:40:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -590,6 +600,17 @@
       ],
       "date": "2026-02-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 40-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155260/0040c0543.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -608,6 +629,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:38:17Z"
+    "logs_latest_update": "2026-03-12T12:40:55Z"
   }
 }

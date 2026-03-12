@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0317",
-  "title": "Para enmendar los incisos 9 y 10; del Art\u00edculo 7 de la Ley N\u00fam. 430 de 21 de Diciembre de 2000, seg\u00fan enmendada conocida como \u201cLey de Navegaci\u00f3n y Seguridad Acu\u00e1tica de Puerto Rico\u201d; para establecer que las personas de dieciocho (18) a veinte (20) a\u00f1os de edad no podr\u00e1n operar un embarcaci\u00f3n o veh\u00edculo de navegaci\u00f3n cuando el contenido del alcohol en la sangre sea de dos cent\u00e9simas del uno por ciento (0.02%); aclarar que el ocho cent\u00e9simas del uno por ciento (0.08%) es aplicable personas mayores de veinti\u00fan (21) a\u00f1os; prohibir que un empleado o funcionario p\u00fablico opere o haga funcionar una embarcaci\u00f3n o veh\u00edculo de navegaci\u00f3n, propiedad del Gobierno de Puerto Rico, conteniendo dos cent\u00e9simas del 1% (.02%) o m\u00e1s de alcohol en su sangre; y para otros fines relacionados",
+  "title": "Para enmendar los incisos 9 y 10 del Art\u00edculo 7 de la Ley N\u00fam. 430-2000, seg\u00fan enmendada conocida como \"Ley de Navegaci\u00f3n y Seguridad Acu\u00e1tica de Puerto Rico\"; para establecer que las personas de dieciocho (18) a veinte (20) a\u00f1os de edad no podr\u00e1n operar una embarcaci\u00f3n o veh\u00edculo de navegaci\u00f3n cuando el contenido del alcohol en la sangre sea de dos cent\u00e9simas del uno por ciento (0.02%); aclarar que el ocho cent\u00e9simas del uno por ciento (0.08 % ) es aplicable a personas mayores de veinti\u00fan (21) a\u00f1os; prohibir que un empleado o funcionario p\u00fablico opere o haga funcionar una embarcaci6n o veh\u00edculo de navegaci\u00f3n, propiedad del Gobierno de Puerto Rico, con cualquier cantidad de alcohol en su sangre; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -318,6 +318,16 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:38:17Z"
       }
+    },
+    {
+      "description": "Ley 41-2026",
+      "date": "2026-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:40:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -441,6 +451,17 @@
       ],
       "date": "2026-02-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 41-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153651/0041c0317.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -459,6 +480,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:38:17Z"
+    "logs_latest_update": "2026-03-12T12:40:55Z"
   }
 }
