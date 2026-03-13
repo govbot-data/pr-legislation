@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS1127",
-  "title": "Para crear la \u201cLey del Registro de Personas Convictas Reincidentes por Violaciones a la\nLey N\u00fam. 54-1989\u201d, con el prop\u00f3sito de establecer un registro oficial de personas\nque hayan sido convictas en dos (2) o m\u00e1s ocasiones por delitos tipificados en la\nLey N\u00fam. 54-1989, seg\u00fan enmendada, conocida como la \u201cLey para la Prevenci\u00f3n\ne Intervenci\u00f3n con la Violencia Dom\u00e9stica\u201d; establecer un sistema de recopilaci\u00f3n\ny monitoreo de informaci\u00f3n administrado por la Polic\u00eda de Puerto Rico en\ncoordinaci\u00f3n con el Departamento de Justicia; crear un portal electr\u00f3nico de acceso\np\u00fablico limitado; disponer deberes de notificaci\u00f3n y actualizaci\u00f3n de informaci\u00f3n;\nestablecer el t\u00e9rmino de inscripci\u00f3n en el registro; fij",
+  "title": "Para crear la \u201cLey del Registro de Personas Convictas Reincidentes por Violaciones a la\nLey N\u00fam. 54-1989\u201d, con el prop\u00f3sito de establecer un registro oficial de personas\nque hayan sido convictas en dos (2) o m\u00e1s ocasiones por delitos tipificados en la\nLey N\u00fam. 54-1989, seg\u00fan enmendada, conocida como la \u201cLey para la Prevenci\u00f3n\ne Intervenci\u00f3n con la Violencia Dom\u00e9stica\u201d; establecer un sistema de recopilaci\u00f3n\ny monitoreo de informaci\u00f3n administrado por la Polic\u00eda de Puerto Rico en\ncoordinaci\u00f3n con el Departamento de Justicia; crear un portal electr\u00f3nico de acceso\np\u00fablico limitado; disponer deberes de notificaci\u00f3n y actualizaci\u00f3n de informaci\u00f3n;\nestablecer el t\u00e9rmino de inscripci\u00f3n en el registro; fijar penalidades por\nincumplimiento; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -21,6 +21,42 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-10T12:41:56Z"
+      }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:39:50Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:39:50Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:39:50Z"
       }
     }
   ],
@@ -64,6 +100,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:41:56Z"
+    "logs_latest_update": "2026-03-13T12:39:50Z"
   }
 }
