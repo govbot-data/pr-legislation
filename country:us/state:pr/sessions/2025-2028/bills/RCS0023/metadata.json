@@ -265,12 +265,24 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-03-05T04:00:00+00:00",
+      "date": "2026-03-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-06T12:37:32Z"
+        "log_file_created": "2026-03-14T12:34:02Z"
+      }
+    },
+    {
+      "description": "Veto Expreso",
+      "date": "2026-03-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:34:02Z"
       }
     }
   ],
@@ -373,6 +385,17 @@
       ],
       "date": "2026-02-17",
       "classification": ""
+    },
+    {
+      "note": "Veto Expreso",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153575/rcs0023-Veto Expreso.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -391,6 +414,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:37:32Z"
+    "logs_latest_update": "2026-03-14T12:34:02Z"
   }
 }
