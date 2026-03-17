@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0357",
-  "title": "\u201cPara a\u00f1adir un nuevo inciso (r) en el Art\u00edculo 3 de la Ley 17-2017, conocida como \u201cLey para la\nPromoci\u00f3n de Puerto Rico como Destino\u201d, con el prop\u00f3sito de establecer que, como parte de sus\nestrategias, la Corporaci\u00f3n para la Promoci\u00f3n de Puerto Rico como Destino, pueda desarrollar\niniciativas dirigidas a mercadear a Puerto Rico, como un destino accesible e inclusivo; enmendar el\ninciso (o) del Art\u00edculo 4 de la Ley N\u00fam. 10 de 18 de junio de 1970, seg\u00fan enmendada, conocida como\n\u201cLey de la Oficina de Turismo del Departamento de Desarrollo Econ\u00f3mico y Comercio del Gobierno\nde Puerto Rico\u201d, a los fines de establecer, entre otras estrategias e iniciativas que puedan desarrollarse\npor la Oficina de Turismo, mercadear a Puerto Rico como un destino accesible e inclusivo; y para otros\nfines relacionados.\u2019",
+  "title": "Para a\u00f1adir un nuevo inciso (r) en el Art\u00edculo 3 de la Ley 17-2017, conocida como \u201cLey para la Promoci\u00f3n de Puerto Rico como Destino\u201d, con el prop\u00f3sito de establecer que, como parte de sus estrategias, la Corporaci\u00f3n para la Promoci\u00f3n de Puerto Rico como Destino, pueda desarrollar iniciativas dirigidas a mercadear a Puerto Rico, como un destino accesible e inclusivo; enmendar el inciso (o) del Art\u00edculo 4 de la Ley N\u00fam. 10 de 18 de junio de 1970, seg\u00fan enmendada, conocida como \u201cLey de la Oficina de Turismo del Departamento de Desarrollo Econ\u00f3mico y Comercio del Gobierno de Puerto Rico\u201d, a los fines de establecer, entre otras estrategias e iniciativas que puedan desarrollarse por la Oficina de Turismo, mercadear a Puerto Rico como un destino accesible e  incluyente; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -235,22 +235,32 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-03-05T04:00:00+00:00",
+      "date": "2026-03-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-06T12:37:32Z"
+        "log_file_created": "2026-03-17T12:53:26Z"
+      }
+    },
+    {
+      "description": "Ley 43-2026",
+      "date": "2026-03-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-17T12:53:26Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -262,11 +272,11 @@
       "organization_id": null
     },
     {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -375,6 +385,17 @@
       ],
       "date": "2026-02-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 43-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153906/0043s0357.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -393,6 +414,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:37:32Z"
+    "logs_latest_update": "2026-03-17T12:53:26Z"
   }
 }
