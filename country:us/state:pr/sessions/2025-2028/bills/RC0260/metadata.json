@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0260",
-  "title": "Para ordenar a la Comisi\u00f3n de Bienestar Social, Personas con Discapacidad y Adultos Mayores a realizar un abarcador estudio sobre la cantidad de cad\u00e1veres de adultos mayores sin reclamar en Puerto Rico, y para otros fines.",
+  "title": "Para ordenar a la Comisi\u00f3n de Adultos Mayores y Bienestar Social realizar un estudio detallado y abarcador sobre la cantidad total de cad\u00e1veres correspondientes a personas adultas mayores que han permanecido sin reclamar en Puerto Rico, incluyendo su n\u00famero, causas de no reclamaci\u00f3n y el procedimiento seguido para su disposici\u00f3n final, y para otros fines.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rc260"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -146,6 +150,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:44Z"
       }
+    },
+    {
+      "description": "Informe Final rendido Comisi\u00f3n(es)",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T12:53:09Z"
+      }
+    },
+    {
+      "description": "Informe Final Remitido a Comisi\u00f3n de Calendarios y Reglas Especiales de Debate de la C\u00e1mara",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-18T12:53:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -192,6 +216,28 @@
       ],
       "date": "2025-07-10",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155175/RC0260-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Informe Final rendido Comisi\u00f3n(es)",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155175/RC0260-f.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-03-17",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -210,6 +256,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:44Z"
+    "logs_latest_update": "2026-03-18T12:53:09Z"
   }
 }
