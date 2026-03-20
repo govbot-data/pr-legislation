@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-nm369"
+    }
+  ],
   "actions": [
     {
       "description": "Nominado",
@@ -96,6 +100,26 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:44:53Z"
       }
+    },
+    {
+      "description": "Descargado en C\u00e1mara",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:40:22Z"
+      }
+    },
+    {
+      "description": "Confirmado por C\u00e1mara",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:40:22Z"
+      }
     }
   ],
   "sponsorships": [],
@@ -124,6 +148,17 @@
       "classification": ""
     },
     {
+      "note": "Confirmado por Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160367/0369-vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-23",
+      "classification": ""
+    },
+    {
       "note": "Notificado a la Gobernadora",
       "links": [
         {
@@ -132,6 +167,17 @@
         }
       ],
       "date": "2026-02-23",
+      "classification": ""
+    },
+    {
+      "note": "Confirmado por C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160367/RCS0109 Vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-19",
       "classification": ""
     }
   ],
@@ -151,6 +197,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:44:53Z"
+    "logs_latest_update": "2026-03-20T12:40:22Z"
   }
 }

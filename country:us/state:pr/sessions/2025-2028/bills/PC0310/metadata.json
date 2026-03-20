@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-pc310"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -180,6 +184,26 @@
       "_processing": {
         "log_file_created": "2026-03-11T12:41:41Z"
       }
+    },
+    {
+      "description": "Se retira 1er Informe",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:40:22Z"
+      }
+    },
+    {
+      "description": "Devuelto a la Comisi\u00f3n(es)",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:40:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -272,8 +296,8 @@
       "note": "Entirillado del Informe",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/153579/pc0310-ent.docx",
-          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153579/pc0310-ent.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-10",
@@ -296,6 +320,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:41:41Z"
+    "logs_latest_update": "2026-03-20T12:40:22Z"
   }
 }

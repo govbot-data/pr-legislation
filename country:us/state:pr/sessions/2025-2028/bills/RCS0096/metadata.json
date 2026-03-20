@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rcs96"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -266,23 +270,33 @@
       "_processing": {
         "log_file_created": "2026-03-17T12:53:26Z"
       }
+    },
+    {
+      "description": "C\u00e1mara aprueba informe de Comit\u00e9 de Conferencia",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:40:22Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -294,11 +308,11 @@
       "organization_id": null
     },
     {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -407,11 +421,22 @@
       "note": "Entirillado Electr\u00f3nico Informe de Conferencia",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/159019/RCS0096-eec.doc",
-          "media_type": "application/msword"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159019/RCS0096-eec.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-16",
+      "classification": ""
+    },
+    {
+      "note": "C\u00e1mara aprueba informe de Comit\u00e9 de Conferencia",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159019/RCS0096 Inf. Conf. Vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-19",
       "classification": ""
     }
   ],
@@ -431,6 +456,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T12:53:26Z"
+    "logs_latest_update": "2026-03-20T12:40:22Z"
   }
 }

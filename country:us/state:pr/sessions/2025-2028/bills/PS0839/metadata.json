@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps839"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -56,6 +60,16 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:41:01Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Mar\u00eda Mart\u00ednez de P\u00e9rez Almiroty",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:40:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,6 +112,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:41:01Z"
+    "logs_latest_update": "2026-03-20T12:40:22Z"
   }
 }
