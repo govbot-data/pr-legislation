@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0467",
-  "title": "Para designar el tramo de la carretera estatal PR-902 desde el kil\u00f3metro 12.1 hasta el\nkil\u00f3metro 15.6, en el Municipio de Yabucoa, con el nombre de \u201cHipolito \u2018Polo\u2019 P\u00e9rez,\nen reconocimiento a su trayectoria como l\u00edder comunitario y socio fundador de la\nCooperativa de Yabucoa; y para otros fines relacionados.",
+  "title": "Para enmendar la Secci\u00f3n 3 de la R. del S. 258, seg\u00fan aprobada el 16 de octubre de 2025, a los fines de extender el t\u00e9rmino de tiempo de la Comisi\u00f3n de Planificaci\u00f3n, Permisos, Infraestructura y Urbanismo del Senado de Puerto Rico, para rendir su informe final.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -26,15 +26,27 @@
       "_processing": {
         "log_file_created": "2026-03-20T12:40:22Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T12:53:59Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -68,6 +80,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:40:22Z"
+    "logs_latest_update": "2026-03-24T12:53:59Z"
   }
 }
