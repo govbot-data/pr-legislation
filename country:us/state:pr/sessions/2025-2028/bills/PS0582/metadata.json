@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0582",
-  "title": "\u201cPara a\u00f1adir un nuevo inciso (d) a la Secci\u00f3n 3, del Art\u00edculo VI, de la Ley 72-1993, seg\u00fan\nenmendada, conocida como \u201cLey de la Administraci\u00f3n de Seguros de Salud de Puerto Rico\u201d, a\nlos fines de incluir como beneficiarios del Plan de Salud del Gobierno a los Oficiales del Cuerpo\nde Vigilantes del Departamento de Recursos Naturales y Ambientales, retirados y activos, sus\nc\u00f3nyuges e hijos; fijar su aportaci\u00f3n; autorizar a la ASES a promulgar aquellos reglamentos que\nestime pertinentes, en cuanto a cubiertas y beneficios, criterios de elegibilidad y el pago de\nprimas; disponer que sea opcional para el Personal de Supervisi\u00f3n de Rango del Negociado de\nBomberos acogerse al Plan de Salud del Gobierno y de optar por acogerse al mismo la\naportaci\u00f3n patronal vaya a ASES; para renumerar los actuales incisos (d), (e), (f), (g), (h), (i), (j),\n(k), (l), como los incisos (e), (f), (g), (h), (i), (j), (k), (l), (m) de la Secci\u00f3n 3, del Art\u00edculo VI, de\nla Ley 72-1993, seg\u00fan enmendada; y para otros fines relacionados.\u201d",
+  "title": "Para a\u00f1adir un nuevo inciso (d) a la Secci\u00f3n 3, del Art\u00edculo VI, de la Ley 72-1993, seg\u00fan enmendada, conocida como \u201cLey de la Administraci\u00f3n de Seguros de Salud de Puerto Rico\u201d, a los fines de incluir como beneficiarios del Plan de Salud del Gobierno a los Oficiales del Cuerpo de Vigilantes del Departamento de Recursos Naturales y Ambientales, retirados y activos, sus c\u00f3nyuges e hijos; fijar su aportaci\u00f3n; autorizar a la ASES a promulgar aquellos reglamentos que estime pertinentes, en cuanto a cubiertas y beneficios, criterios de elegibilidad y el pago de primas; disponer que sea opcional para el Personal de Supervisi\u00f3n de Rango del Negociado de Bomberos acogerse al Plan de Salud del Gobierno y de optar por acogerse al mismo la aportaci\u00f3n patronal vaya a ASES; para renumerar los actuales incisos (d), (e), (f), (g), (h), (i), (j), (k), (l), como los incisos (e), (f), (g), (h), (i), (j), (k), (l), (m) de la Secci\u00f3n 3, del Art\u00edculo VI, de la Ley 72-1993, seg\u00fan enmendada; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -220,31 +220,35 @@
       "_processing": {
         "log_file_created": "2026-03-20T12:40:22Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:51:04Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:51:04Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Juan O. Morales Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Juan O. Morales Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -261,6 +265,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Eliezer  Molina P\\u00e9rez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juan O. Morales Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Juan O. Morales Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -342,6 +362,28 @@
       ],
       "date": "2026-03-19",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155514/PS0582 CONC.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155514/ps0582e-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -360,6 +402,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:40:22Z"
+    "logs_latest_update": "2026-03-25T12:51:04Z"
   }
 }

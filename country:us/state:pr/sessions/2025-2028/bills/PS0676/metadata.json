@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps676"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -226,31 +230,51 @@
       "_processing": {
         "log_file_created": "2026-03-13T12:39:50Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:51:04Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:51:04Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carmelo  R\u00edos Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carmelo  R\\u00edos Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -262,11 +286,11 @@
       "organization_id": null
     },
     {
-      "name": "Carmelo  R\u00edos Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Carmelo  R\\u00edos Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -359,6 +383,28 @@
       ],
       "date": "2026-03-12",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156592/PS0676 CONC.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156592/ps0676e-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -377,6 +423,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:39:50Z"
+    "logs_latest_update": "2026-03-25T12:51:04Z"
   }
 }

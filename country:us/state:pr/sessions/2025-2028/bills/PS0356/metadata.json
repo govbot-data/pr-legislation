@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0356",
-  "title": "\u201cPara enmendar el Art\u00edculo 16.1 de la Ley 239-2004, seg\u00fan enmendada, conocida como \u201cLey General\nde Sociedades Cooperativas de Puerto Rico de 2004\u201d, a los fines de fijar en tres (3,) las personas que\nintegran el Comit\u00e9 de Supervisi\u00f3n; y para otros fines relacionados.\u201d",
+  "title": "Para enmendar el Art\u00edculo 16.1 de la Ley 239-2004, seg\u00fan enmendada, conocida como \u201cLey General de Sociedades Cooperativas de Puerto Rico de 2004\u201d, a los fines de fijar en tres (3,) las personas que integran el Comit\u00e9 de Supervisi\u00f3n; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -268,6 +268,16 @@
       "_processing": {
         "log_file_created": "2026-03-20T12:40:22Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-03-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:51:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -409,6 +419,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:40:22Z"
+    "logs_latest_update": "2026-03-25T12:51:04Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0820",
-  "title": "\u201cPara crear la Ley de Alfabetizaci\u00f3n Medi\u00e1tica y Digital de Puerto Rico con el fin de garantizar \nque el estudiantado del sistema p\u00fablico de ense\u00f1anza desarrolle competencias de alfabetizaci\u00f3n \nmedi\u00e1tica y digital donde se fomente el uso responsable de la tecnolog\u00eda y de la inteligencia \nartificial (IA), y fortalecer la resiliencia ciudadana ante la desinformaci\u00f3n y manipulaci\u00f3n digital; \ny para otros fines relacionados.\u201d",
+  "title": "Para crear la Ley de Alfabetizaci\u00f3n Medi\u00e1tica y Digital de Puerto Rico con el fin de garantizar que el estudiantado del sistema p\u00fablico de ense\u00f1anza desarrolle competencias de alfabetizaci\u00f3n medi\u00e1tica y digital donde se fomente el uso responsable de la tecnolog\u00eda y de la inteligencia artificial (IA), y fortalecer la resiliencia ciudadana ante la desinformaci\u00f3n y manipulaci\u00f3n digital; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -92,6 +92,40 @@
       "_processing": {
         "log_file_created": "2026-03-24T12:53:59Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:51:03Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:51:03Z"
+      }
+    },
+    {
+      "description": "Qued\u00f3 Pendiente de Acci\u00f3n Posterior en el Senado",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:51:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -156,6 +190,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T12:53:59Z"
+    "logs_latest_update": "2026-03-25T12:51:03Z"
   }
 }

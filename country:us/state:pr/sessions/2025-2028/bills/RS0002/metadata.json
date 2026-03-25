@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rs2"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -202,9 +206,27 @@
       "_processing": {
         "log_file_created": "2026-03-07T12:30:53Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Miguel A. Garc\u00eda M\u00e9ndez",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:51:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Eliezer  Molina P\u00e9rez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eliezer  Molina P\\u00e9rez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -219,14 +241,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Marissa   Jim\\u00e9nez Santoni - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Eliezer  Molina P\u00e9rez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Eliezer  Molina P\\u00e9rez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -334,6 +348,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:30:53Z"
+    "logs_latest_update": "2026-03-25T12:51:03Z"
   }
 }

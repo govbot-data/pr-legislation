@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0065",
-  "title": "\u201cPara designar con el nombre de \u201cTte II. Edwin Orlando Maldonado Garc\u00eda\u201d a la carretera 683, en\nel Municipio de Arecibo, para honrar la memoria y reconocer su vida de servicio a su comunidad;\nautorizar la instalaci\u00f3n de r\u00f3tulos; autorizar el pareo de fondos; y para otros fines relacionados.\u201d",
+  "title": "Para designar con el nombre de \u201cTte II. Edwin Orlando Maldonado Garc\u00eda\u201d a la carretera 683, en el Municipio de Arecibo, para honrar la memoria y reconocer su vida de servicio a su comunidad; autorizar la instalaci\u00f3n de r\u00f3tulos; autorizar el pareo de fondos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -228,6 +228,26 @@
       "_processing": {
         "log_file_created": "2026-03-20T12:40:22Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:51:03Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-03-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T12:51:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -329,6 +349,28 @@
       ],
       "date": "2026-03-19",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155967/RCS0065 CONC.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155967/rcs0065e-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -347,6 +389,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:40:22Z"
+    "logs_latest_update": "2026-03-25T12:51:03Z"
   }
 }
