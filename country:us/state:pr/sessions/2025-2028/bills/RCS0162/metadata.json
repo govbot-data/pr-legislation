@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0162",
-  "title": "ara modificar los limites territoriales entre los municipios de Cata\u00f1o y Toa Baja, a los\nfines de transferir el Barrio o Sector conocido como Palo Seco del municipio de Toa\nBaja al municipio de Cata\u00f1o; disponer un periodo ordenado de transici\u00f3n de\nservicios hasta el 1 de julio de 2027 requerir coordinaci\u00f3n intermunicipal y con\ntodas las agencias estatales correspondientes para la actualizaci\u00f3n de mapas,\njurisdicci\u00f3n de servicios, identificaci\u00f3n, tributaci\u00f3n, electoral y dem\u00e1s aspectos\nadministrativos; y para otros fines relacionados",
+  "title": "Para modificar los limites territoriales entre los municipios de Cata\u00f1o y Toa Baja, a los\nfines de transferir el Barrio o Sector conocido como Palo Seco del municipio de Toa\nBaja al municipio de Cata\u00f1o; disponer un periodo ordenado de transici\u00f3n de\nservicios hasta el 1 de julio de 2027 requerir coordinaci\u00f3n intermunicipal y con\ntodas las agencias estatales correspondientes para la actualizaci\u00f3n de mapas,\njurisdicci\u00f3n de servicios, identificaci\u00f3n, tributaci\u00f3n, electoral y dem\u00e1s aspectos\nadministrativos; y para otros fines relacionados",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -50,6 +50,46 @@
       "_processing": {
         "log_file_created": "2026-03-20T12:40:22Z"
       }
+    },
+    {
+      "description": "Relevado de Comisi\u00f3n(es)",
+      "date": "2026-03-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:59:22Z"
+      }
+    },
+    {
+      "description": "Descargado en Senado",
+      "date": "2026-03-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:59:22Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-03-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:59:22Z"
+      }
+    },
+    {
+      "description": "Derrotado a viva voz",
+      "date": "2026-03-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:59:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -92,6 +132,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:40:22Z"
+    "logs_latest_update": "2026-03-31T12:59:22Z"
   }
 }
