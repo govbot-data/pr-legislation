@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rcc180"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -274,6 +278,16 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:40:09Z"
       }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2026-04-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-07T13:03:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -386,6 +400,17 @@
       ],
       "date": "2026-01-23",
       "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158090/rcc0187-Inf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -404,6 +429,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:40:09Z"
+    "logs_latest_update": "2026-04-07T13:03:22Z"
   }
 }

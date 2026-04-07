@@ -94,13 +94,55 @@
       }
     },
     {
-      "description": "Texto de Aprobaci\u00f3n Final en Senado",
-      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Se solicita reconsideraci\u00f3n de la medida",
+      "date": "2026-04-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-31T12:59:22Z"
+        "log_file_created": "2026-04-07T13:03:22Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-04-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-07T13:03:22Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-04-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-07T13:03:22Z"
+      }
+    },
+    {
+      "description": "Se reconsider\u00f3",
+      "date": "2026-04-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-07T13:03:22Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-04-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-07T13:03:22Z"
       }
     }
   ],
@@ -137,6 +179,17 @@
       ],
       "date": "2026-03-30",
       "classification": ""
+    },
+    {
+      "note": "Se reconsider\u00f3",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160701/votRS459rec.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -155,6 +208,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T12:59:22Z"
+    "logs_latest_update": "2026-04-07T13:03:22Z"
   }
 }
