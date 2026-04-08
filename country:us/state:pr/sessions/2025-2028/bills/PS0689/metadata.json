@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0689",
-  "title": "Para enmendar el Art\u00edculo 11 y a\u00f1adir un nuevo inciso (i) al Art\u00edculo 37 de la Ley N\u00fam. 88 de 9 de julio de 1986, seg\u00fan enmendada, conocida como \u201cLey de Menores de Puerto Rico\u201d, con el prop\u00f3sito de precisar que, para admitir la renuncia del menor a cualquier derecho constitucional, el interrogatorio a esos fines deber\u00e1 ser grabado en audio y video en su totalidad; y para otros fines relacionados.",
+  "title": "Para enmendar el Articulo 11, a\u00f1adir un nuevo inciso (i) al Art\u00edculo 37 de la Ley N\u00fam. 88 de 9 de julio de 1986, seg\u00fan enmendada, conocida como \"Ley de Menores de Puerto Rico\", con el prop\u00f3sito de precisar que, para admitir la renuncia del menor a cualquier derecho constitucional, el interrogatorio a esos fines deber\u00e1 ser grabado en audio y video en su totalidad; enmendar la Regla 13.8 de las Reglas de Procedimiento para Asuntos de Menores, seg\u00fan enmendadas, para atemperarla con lo establecido en el Art\u00edculo 11 de la Ley N\u00fam. 88 de 9 de julio de 1986; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -427,40 +427,26 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-03-20T04:00:00+00:00",
+      "date": "2026-03-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-25T12:51:04Z"
+        "log_file_created": "2026-04-08T13:04:55Z"
+      }
+    },
+    {
+      "description": "Ley 51-2026",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:04:55Z"
       }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -478,11 +464,11 @@
       "organization_id": null
     },
     {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -491,6 +477,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -671,6 +681,17 @@
       ],
       "date": "2026-03-12",
       "classification": ""
+    },
+    {
+      "note": "Ley 51-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158065/Ley 51-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-31",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -689,6 +710,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T12:51:04Z"
+    "logs_latest_update": "2026-04-08T13:04:55Z"
   }
 }

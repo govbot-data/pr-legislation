@@ -104,6 +104,50 @@
       "_processing": {
         "log_file_created": "2026-04-07T13:03:22Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:04:55Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:04:55Z"
+      }
+    },
+    {
+      "description": "Aprobada por C\u00e1mara por unanimidad",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:04:55Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:04:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -168,6 +212,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-07T13:03:22Z"
+    "logs_latest_update": "2026-04-08T13:04:55Z"
   }
 }

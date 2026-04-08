@@ -268,23 +268,35 @@
       "_processing": {
         "log_file_created": "2026-03-21T12:32:23Z"
       }
+    },
+    {
+      "description": "Veto Expreso",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:04:55Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -399,6 +411,17 @@
       ],
       "date": "2026-03-09",
       "classification": ""
+    },
+    {
+      "note": "Veto Expreso",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158666/RCS0093 Veto Expreso.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -417,6 +440,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-21T12:32:23Z"
+    "logs_latest_update": "2026-04-08T13:04:55Z"
   }
 }

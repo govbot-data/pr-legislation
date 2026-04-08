@@ -26,11 +26,56 @@
       "_processing": {
         "log_file_created": "2026-03-25T12:51:03Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:04:55Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:04:55Z"
+      }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Wilson J. Rom\u00e1n L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilson J. Rom\\u00e1n L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160790/RCC0321.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -47,6 +92,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T12:51:03Z"
+    "logs_latest_update": "2026-04-08T13:04:55Z"
   }
 }
