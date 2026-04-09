@@ -322,23 +322,53 @@
       "_processing": {
         "log_file_created": "2026-03-25T12:51:04Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:05:20Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:05:20Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2026-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:05:20Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -442,6 +472,28 @@
       ],
       "date": "2026-03-23",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154818/PC0485 Conc..pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154818/PC0485 (A-040) enrolado.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -460,6 +512,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T12:51:04Z"
+    "logs_latest_update": "2026-04-09T13:05:20Z"
   }
 }

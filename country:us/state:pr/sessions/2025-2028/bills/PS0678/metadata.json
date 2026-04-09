@@ -196,47 +196,47 @@
       "_processing": {
         "log_file_created": "2026-04-07T13:03:22Z"
       }
+    },
+    {
+      "description": "Aprobado sin enmiendas",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:05:20Z"
+      }
+    },
+    {
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:05:20Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:05:20Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Carmelo  R\u00edos Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Carmelo  R\\u00edos Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -248,6 +248,38 @@
       "organization_id": null
     },
     {
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
       "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
@@ -256,11 +288,11 @@
       "organization_id": null
     },
     {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -331,6 +363,17 @@
       ],
       "date": "2026-03-23",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156594/PS0678 votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -349,6 +392,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-07T13:03:22Z"
+    "logs_latest_update": "2026-04-09T13:05:20Z"
   }
 }

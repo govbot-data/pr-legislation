@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps1072"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -48,25 +52,35 @@
       }
     },
     {
-      "description": "Relevado de Comisi\u00f3n(es)",
-      "date": "2026-02-19T04:00:00+00:00",
+      "description": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "date": "2026-03-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:05:20Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-03-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-20T12:40:21Z"
+        "log_file_created": "2026-04-09T13:05:20Z"
       }
     },
     {
-      "description": "Referido a Comisi\u00f3n(es)",
-      "date": "2026-02-19T04:00:00+00:00",
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-04-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-20T12:40:21Z"
+        "log_file_created": "2026-04-09T13:05:20Z"
       }
     }
   ],
@@ -92,6 +106,17 @@
       ],
       "date": "2026-02-09",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160415/ps1072-Inf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -110,6 +135,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:40:21Z"
+    "logs_latest_update": "2026-04-09T13:05:20Z"
   }
 }
