@@ -220,23 +220,33 @@
       "_processing": {
         "log_file_created": "2026-04-09T13:05:20Z"
       }
+    },
+    {
+      "description": "Cuerpo aprueba informe final rendido",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T12:53:28Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -347,6 +357,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-09T13:05:20Z"
+    "logs_latest_update": "2026-04-10T12:53:28Z"
   }
 }

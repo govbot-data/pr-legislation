@@ -216,15 +216,39 @@
       "_processing": {
         "log_file_created": "2026-04-09T13:05:20Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T12:53:28Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T12:53:28Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Elinette  Gonz\u00e1lez Aguayo - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Yashira M. Lebr\u00f3n  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Elinette  Gonz\\u00e1lez Aguayo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Yashira M. Lebr\\u00f3n  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -236,11 +260,11 @@
       "organization_id": null
     },
     {
-      "name": "Yashira M. Lebr\u00f3n  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Elinette  Gonz\u00e1lez Aguayo - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Yashira M. Lebr\\u00f3n  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Elinette  Gonz\\u00e1lez Aguayo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -322,6 +346,17 @@
       ],
       "date": "2026-02-19",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159059/votPC931.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -340,6 +375,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-09T13:05:20Z"
+    "logs_latest_update": "2026-04-10T12:53:28Z"
   }
 }
