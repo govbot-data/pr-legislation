@@ -60,6 +60,40 @@
       "_processing": {
         "log_file_created": "2026-04-09T13:05:20Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:39:25Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:39:25Z"
+      }
+    },
+    {
+      "description": "Remitido a Comisi\u00f3n de Calendarios de la C\u00e1mara",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:39:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -92,6 +126,28 @@
       ],
       "date": "2026-01-19",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159784/PC1062-iee.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159784/PC1062-ee.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -110,6 +166,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-09T13:05:20Z"
+    "logs_latest_update": "2026-04-11T12:39:25Z"
   }
 }

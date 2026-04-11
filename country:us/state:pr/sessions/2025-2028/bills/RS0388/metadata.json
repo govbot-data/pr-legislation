@@ -112,6 +112,18 @@
       "_processing": {
         "log_file_created": "2026-03-31T12:59:22Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-03-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:39:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -121,6 +133,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -147,6 +167,17 @@
       ],
       "date": "2026-03-30",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159566/rs0388a-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -165,6 +196,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T12:59:22Z"
+    "logs_latest_update": "2026-04-11T12:39:25Z"
   }
 }

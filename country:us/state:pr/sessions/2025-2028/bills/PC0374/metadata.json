@@ -104,6 +104,52 @@
       "_processing": {
         "log_file_created": "2026-04-10T12:53:28Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:39:25Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:39:25Z"
+      }
+    },
+    {
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:39:25Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:39:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -150,6 +196,28 @@
       ],
       "date": "2026-03-24",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154000/PC0374 votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154000/PC0374-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -168,6 +236,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T12:53:28Z"
+    "logs_latest_update": "2026-04-11T12:39:25Z"
   }
 }

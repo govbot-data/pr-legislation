@@ -206,17 +206,33 @@
       "_processing": {
         "log_file_created": "2026-04-10T12:53:28Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:39:25Z"
+      }
+    },
+    {
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:39:25Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -226,11 +242,11 @@
       "organization_id": null
     },
     {
-      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -239,6 +255,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Luis J. Hern\\u00e1ndez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -320,6 +344,17 @@
       ],
       "date": "2026-02-19",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154306/PS0425 votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -338,6 +373,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T12:53:28Z"
+    "logs_latest_update": "2026-04-11T12:39:25Z"
   }
 }
