@@ -40,6 +40,28 @@
       }
     },
     {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-14T13:08:17Z"
+      }
+    },
+    {
+      "description": "Relevado de Comisi\u00f3n(es)",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-14T13:08:17Z"
+      }
+    },
+    {
       "description": "Descargado en C\u00e1mara",
       "date": "2026-04-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -112,6 +134,17 @@
       ],
       "date": "2026-04-08",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160906/RC0662 ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -130,6 +163,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T12:53:28Z"
+    "logs_latest_update": "2026-04-14T13:08:17Z"
   }
 }

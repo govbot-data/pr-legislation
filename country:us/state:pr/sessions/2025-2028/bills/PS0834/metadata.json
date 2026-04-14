@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0834",
-  "title": "Para a\u00f1adir un nuevo Art\u00edculo 4-A de la Ley N\u00fam. 118 de 22 de julio de 1974, seg\u00fan enmendada, conocida como \u201cLey de la Junta de Libertad Bajo Palabra\u201d, a los fines de disponer el t\u00e9rmino que tendr\u00e1 la Junta de Libertad Bajo Palabra para reconsiderar las peticiones de libertad bajo palabra de los miembros de la poblaci\u00f3n correccional; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo Art\u00edculo 4-A de la Ley N\u00fam. 118 de 22 de julio de 1974, seg\u00fan enmendada, conocida como \"Ley de la Junta de Libertad Bajo Palabra\", a los fines de disponer el t\u00e9rmino que tendr\u00e1 la Junta de Libertad Bajo Palabra para reconsiderar las peticiones de libertad bajo palabra de los miembros de la poblaci\u00f3n correccional; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -281,32 +281,32 @@
     },
     {
       "description": "Solicitud de consentimiento para solicitar devoluci\u00f3n de medida a la Gobernadora",
-      "date": "2026-03-18T04:00:00+00:00",
+      "date": "2026-03-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-20T12:40:22Z"
+        "log_file_created": "2026-04-14T13:08:17Z"
       }
     },
     {
       "description": "Se da consentimiento para solicitud de devoluci\u00f3n de la medida a la Gobernadora",
-      "date": "2026-03-18T04:00:00+00:00",
+      "date": "2026-03-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-20T12:40:22Z"
+        "log_file_created": "2026-04-14T13:08:17Z"
       }
     },
     {
       "description": "Devuelto por Fortaleza",
-      "date": "2026-03-18T04:00:00+00:00",
+      "date": "2026-03-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-20T12:40:22Z"
+        "log_file_created": "2026-04-14T13:08:17Z"
       }
     },
     {
@@ -352,13 +352,33 @@
       }
     },
     {
-      "description": "Se reconsider\u00f3 (Devuelto por Fortaleza)",
+      "description": "Se solicita reconsideraci\u00f3n de la medida",
       "date": "2026-03-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-20T12:40:22Z"
+      }
+    },
+    {
+      "description": "Se reconsider\u00f3",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:40:22Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-14T13:08:17Z"
       }
     },
     {
@@ -430,19 +450,19 @@
       "organization_id": null
     },
     {
-      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -550,20 +570,24 @@
         {
           "url": "https://sutra.oslpr.org/SutraFilesGen/159305/recvotPS834.pdf",
           "media_type": "application/pdf"
-        }
-      ],
-      "date": "2026-03-19",
-      "classification": ""
-    },
-    {
-      "note": "Se reconsider\u00f3 (Devuelto por Fortaleza)",
-      "links": [
+        },
         {
           "url": "https://sutra.oslpr.org/SutraFilesGen/159305/PS0834 Rec. Vot.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-19",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159305/ps0834(rec).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-20",
       "classification": ""
     },
     {
@@ -594,6 +618,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T12:54:57Z"
+    "logs_latest_update": "2026-04-14T13:08:17Z"
   }
 }

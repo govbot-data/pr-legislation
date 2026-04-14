@@ -176,13 +176,35 @@
       }
     },
     {
-      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-04-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-14T13:08:17Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
       "date": "2026-04-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-11T12:39:25Z"
+        "log_file_created": "2026-04-14T13:08:17Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-04-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-14T13:08:17Z"
       }
     }
   ],
@@ -254,10 +276,21 @@
       "classification": ""
     },
     {
-      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
       "links": [
         {
           "url": "https://sutra.oslpr.org/SutraFilesGen/153385/pc0279-Inf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-10",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153385/pc0279-ent.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -281,6 +314,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T12:39:25Z"
+    "logs_latest_update": "2026-04-14T13:08:17Z"
   }
 }

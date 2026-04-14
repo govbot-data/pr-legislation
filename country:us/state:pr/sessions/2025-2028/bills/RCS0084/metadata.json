@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0084",
-  "title": "\u201cPara ordenar al ordena Departamento de Transportaci\u00f3n y Obras P\u00fablicas, a la Autoridad de\nCarreteras y Transportaci\u00f3n, y cualquier otra agencia concerniente; incluir en sus Planes de\nMejoras, como proyecto prioritario, la reconstrucci\u00f3n, culminaci\u00f3n y optimizaci\u00f3n de la carretera\nPR-385 jurisdicci\u00f3n del municipio de Pe\u00f1uelas, conocida como \u201cDesv\u00edo Sur\u201d; as\u00ed como ordenar al\nDepartamento de Transportaci\u00f3n y Obras P\u00fablicas, a la Autoridad de Carreteras y Transportaci\u00f3n, y\ncualquier otra agencia concerniente; realizar las gestiones necesarias y pertinentes para lograr la\nasignaci\u00f3n de fondos bajo los programas federales aplicables.\u201d",
+  "title": "Para ordenar al ordena Departamento de Transportaci\u00f3n y Obras P\u00fablicas, a la Autoridad de Carreteras y Transportaci\u00f3n, y cualquier otra agencia concerniente; incluir en sus Planes de Mejoras, como proyecto prioritario, la reconstrucci\u00f3n, culminaci\u00f3n y optimizaci\u00f3n de la carretera  PR-385 jurisdicci\u00f3n del municipio de Pe\u00f1uelas, conocida como \u201cDesv\u00edo Sur\u201d; as\u00ed como ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas, a la Autoridad de Carreteras y Transportaci\u00f3n, y cualquier otra agencia concerniente; realizar las gestiones necesarias y pertinentes para lograr la asignaci\u00f3n de fondos bajo los programas federales aplicables.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -82,6 +82,50 @@
       "_processing": {
         "log_file_created": "2026-03-27T12:45:22Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-04-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-14T13:08:17Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-04-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-14T13:08:17Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2026-04-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-14T13:08:17Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2026-04-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-14T13:08:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -128,6 +172,17 @@
       ],
       "date": "2026-03-26",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158184/votRCS84.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -146,6 +201,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T12:45:22Z"
+    "logs_latest_update": "2026-04-14T13:08:17Z"
   }
 }
