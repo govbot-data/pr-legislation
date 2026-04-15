@@ -178,6 +178,16 @@
       "_processing": {
         "log_file_created": "2026-04-14T13:08:17Z"
       }
+    },
+    {
+      "description": "Cuerpo aprueba informe final rendido",
+      "date": "2026-04-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:07:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -268,6 +278,17 @@
       ],
       "date": "2026-04-06",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo aprueba informe final rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155892/rs194- inf final vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -286,6 +307,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-14T13:08:17Z"
+    "logs_latest_update": "2026-04-15T13:07:05Z"
   }
 }
