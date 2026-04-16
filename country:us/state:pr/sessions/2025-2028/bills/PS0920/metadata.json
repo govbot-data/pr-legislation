@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0920",
-  "title": "Para enmendar los Art\u00edculos 2.004 y 5.006 de la Ley 222-2011, seg\u00fan enmendada,\nconocida como \u201cLey para la Fiscalizaci\u00f3n del Financiamiento de Campa\u00f1as Pol\u00edticas\nen Puerto Rico\u201d a los fines de prohibir la influencia econ\u00f3mica de personas jur\u00eddicas\nextranjeras en Puerto Rico; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 2.004 y 5.006 de la Ley 222-2011, seg\u00fan enmendada, conocida como \"Ley para la Fiscalizaci\u00f3n del Financiamiento de Campa\u00f1as Pol\u00edticas en Puerto Rico\" a los fines de prohibir la influencia econ\u00f3mica de personas jur\u00eddicas extranjeras en Puerto Rico; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -280,6 +280,16 @@
       "_processing": {
         "log_file_created": "2026-04-11T12:39:25Z"
       }
+    },
+    {
+      "description": "Ley 53-2026",
+      "date": "2026-04-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:14:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -400,6 +410,17 @@
       ],
       "date": "2026-03-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 53-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159659/Ley 53-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -418,6 +439,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T12:39:25Z"
+    "logs_latest_update": "2026-04-16T13:14:28Z"
   }
 }

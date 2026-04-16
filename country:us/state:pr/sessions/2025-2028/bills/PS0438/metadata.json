@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0438",
-  "title": "\u201cPara crear la \u201cLey de Notificaciones de P\u00e9rdidas o Irregularidades en el Manejo de Fondos y\nBienes P\u00fablicos\u201d para establecer las normas a seguir para la notificaci\u00f3n de p\u00e9rdidas o\nirregularidades en el manejo de bienes p\u00fablicos; imponer sanciones por incumplimiento; derogar\nla Ley N\u00fam. 96 de 26 de junio de 1964, seg\u00fan enmendada; y para otros fines relacionados.\u201d",
+  "title": "Para crear la \"Ley de Notificaciones de P\u00e9rdidas o Irregularidades en el Manejo deFondos y Propiedad P\u00fablica\", a fin de establecer las normas a seguir para la notificaci\u00f3n de p\u00e9rdidas o irregularidades en el manejo de bienes p\u00fablicos; agilizarla imposici\u00f3n de sanciones por el incumplimiento de esta Ley; derogar el Art\u00edculo 74-A del C\u00f3digo Pol\u00edtico de 1902, seg\u00fan enmendado; y para otros fines relacionados",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -256,23 +256,33 @@
       "_processing": {
         "log_file_created": "2026-04-11T12:39:25Z"
       }
+    },
+    {
+      "description": "Ley 52-2026",
+      "date": "2026-04-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:14:28Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -365,6 +375,17 @@
       ],
       "date": "2026-03-19",
       "classification": ""
+    },
+    {
+      "note": "Ley 52-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154640/Ley 52-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -383,6 +404,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T12:39:25Z"
+    "logs_latest_update": "2026-04-16T13:14:28Z"
   }
 }
