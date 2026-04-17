@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0109",
-  "title": "\u201cPara ordenar al Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Bienes Inmuebles, creado por virtud de la Ley 26-2017, seg\u00fan enmendada, conocida como \u201cLey de Cumplimiento con el Plan Fiscal\u201d, transferir al Municipio de Utuado de las instalaciones de la antigua Escuela Elemental del Bo. \u00c1ngeles, antes conocida como \u201cEscuela Elemental Eugenio J. Vivas\u201d, localizada en la Carretera 602, km. 1.1 del citado municipio por el valor nominal de un d\u00f3lar ($1.00); y para otros fines relacionados.\u201d",
+  "title": "Para ordenar al Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Bienes Inmuebles, creado por virtud de la Ley 26-2017, seg\u00fan enmendada, conocida como \u201cLey de Cumplimiento con el Plan Fiscal\", a evaluar conforme a las disposiciones de la ley y el reglamento, la transferencia, usufructo o cualquier otro negocio jur\u00eddico contemplado en dicha Ley al Municipio de Utuado de las instalaciones de la antigua Escuela Elemental del Bo. \u00c1ngeles, antes conocida como \"Escuela Elemental Eugenio J. Vivas\", localizada en la Carretera 602, km. 1.1 del citado municipio; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -261,12 +261,22 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-04-09T04:00:00+00:00",
+      "date": "2026-04-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-11T12:39:25Z"
+        "log_file_created": "2026-04-17T13:01:34Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  23-2026",
+      "date": "2026-04-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:01:34Z"
       }
     }
   ],
@@ -369,6 +379,17 @@
       ],
       "date": "2026-03-19",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  23-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159455/Res. Conj. 23-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -387,6 +408,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T12:39:25Z"
+    "logs_latest_update": "2026-04-17T13:01:34Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0676",
-  "title": "Para a\u00f1adir un nuevo inciso (b) al Art\u00edculo 87 de la Ley 146-2012, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Penal de Puerto Rico\u201d; renumerar los actuales incisos (b), (c), (d) y (e), como incisos (c), (d), (e) y (f), respectivamente, a los fines de establecer el periodo de prescripci\u00f3n de diez (10) a\u00f1os en delitos de apropiaci\u00f3n ilegal, fraude y lavado de dinero cuando la cuant\u00eda de tales actos ascienda a quinientos mil d\u00f3lares ($500,000) o m\u00e1s; enmendar los Art\u00edculos 9.05 y 9.06 de la Ley 255-2002, seg\u00fan enmendada, conocida como \u201cLey de Sociedades Cooperativas de Ahorro y Cr\u00e9dito de 2002\u201d; y enmendar el Art\u00edculo 409 de la Ley N\u00fam. 60 de 18 de junio de 1963, seg\u00fan enmendada, conocida como \u201cLey Uniforme de Valores\u201d, a los fines de establecer un per\u00edodo prescriptivo de diez (10) a\u00f1os en los delitos y penalidades tipificados en estas Leyes; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo inciso (b) al Art\u00edculo 87 de la Ley N\u00fam. 146-2012, seg\u00fan enmendada, conocida como \"C\u00f3digo Penal de Puerto Rico\"; renumerar los actuales incisos (b), (c), (d) y (e), como incisos (c), (d), (e) y (f), respectivamente, a los fines de establecer el periodo de prescripci\u00f3n de diez (10) a\u00f1os en delitos de\napropiaci\u00f3n ilegal agravada, fraude y lavado de dinero cuando la cuant\u00eda de tales actos ascienda a quinientos mil d\u00f3lares ($500,000) o m\u00e1s; enmendar los Art\u00edculos 9.05 y 9.06 de la Ley N\u00fam. 255-2002, seg\u00fan enmendada, conocida como \"Ley de Sociedades Cooperativas de Ahorro y Cr\u00e9dito de 2002\"; y enmendar el Art\u00edculo 409 de la Ley N\u00fam. 60 de 18 de junio de 1963, seg\u00fan enmendada, conocida como \"Ley Uniforme de Valores\", a los fines de establecer un per\u00edodo prescriptivo de diez (10) a\u00f1os en los delitos y penalidades tipificados en estas Leyes; y para otros\nfines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -273,22 +273,48 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-04-09T04:00:00+00:00",
+      "date": "2026-04-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-11T12:39:25Z"
+        "log_file_created": "2026-04-17T13:01:34Z"
+      }
+    },
+    {
+      "description": "Ley 55-2026",
+      "date": "2026-04-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:01:34Z"
       }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Carmelo  R\u00edos Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Carmelo  R\\u00edos Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -305,22 +331,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -435,6 +445,17 @@
       ],
       "date": "2026-03-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 55-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156592/Ley 55-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -453,6 +474,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T12:39:25Z"
+    "logs_latest_update": "2026-04-17T13:01:34Z"
   }
 }

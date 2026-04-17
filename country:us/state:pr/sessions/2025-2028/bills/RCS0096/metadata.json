@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0096",
-  "title": "Para designar la Carretera Estatal PR-119 desde el kil\u00f3metro 76.6 hasta el kil\u00f3metro 67.4,\ndentro de la jurisdicci\u00f3n del Municipio de San Germ\u00e1n, con el nombre de Carlos\nA. Pag\u00e1n Gonz\u00e1lez, en honor a su destacada trayectoria de servicio p\u00fablico como\nSenador por el Distrito de Mayag\u00fcez-Aguadilla, profesor universitario y l\u00edder\ncomunitario; autorizar la instalaci\u00f3n de los r\u00f3tulos; ordenar el pareo de fondos; y\npara otros fines relacionados.",
+  "title": "Para designar la Carretera Estatal PR-119 desde el kil\u00f3metro 18.9 del Municipio de Isabela hasta el kil\u00f3metro 79.8 del Municipio de San Germ\u00e1n, con el nombre de Carlos A. Pag\u00e1n Gonz\u00e1lez, en honor a su destacada trayectoria de servicio p\u00fablico como Senador por el Distrito de Mayag\u00fcez-Aguadilla, profesor universitario y l\u00edder comunitario; autorizar la instalaci\u00f3n de los r\u00f3tulos; ordenar el pareo de fondos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -323,32 +323,26 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-04-09T04:00:00+00:00",
+      "date": "2026-04-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-11T12:39:25Z"
+        "log_file_created": "2026-04-17T13:01:34Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  23-2026",
+      "date": "2026-04-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:01:34Z"
       }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -358,11 +352,27 @@
       "organization_id": null
     },
     {
+      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
       "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -510,6 +520,17 @@
       ],
       "date": "2026-03-23",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  23-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159019/Res. Conj. 24-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -528,6 +549,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T12:39:25Z"
+    "logs_latest_update": "2026-04-17T13:01:34Z"
   }
 }

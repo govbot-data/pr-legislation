@@ -332,23 +332,33 @@
       "_processing": {
         "log_file_created": "2026-04-15T13:07:05Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-04-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:01:34Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Gabriel   Rodr\u00edguez  Aguil\u00f3 - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Gabriel   Rodr\\u00edguez  Aguil\\u00f3 - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Jerry   Nieves Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jerry   Nieves Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gabriel   Rodr\u00edguez  Aguil\u00f3 - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gabriel   Rodr\\u00edguez  Aguil\\u00f3 - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -489,6 +499,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-15T13:07:05Z"
+    "logs_latest_update": "2026-04-17T13:01:34Z"
   }
 }

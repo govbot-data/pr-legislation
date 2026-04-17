@@ -314,6 +314,16 @@
       "_processing": {
         "log_file_created": "2026-04-07T13:03:22Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-04-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:01:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -455,6 +465,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-07T13:03:22Z"
+    "logs_latest_update": "2026-04-17T13:01:34Z"
   }
 }

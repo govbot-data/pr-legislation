@@ -230,6 +230,26 @@
       "_processing": {
         "log_file_created": "2026-04-11T12:39:25Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2026-04-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:01:34Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-04-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:01:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -242,11 +262,11 @@
       "organization_id": null
     },
     {
-      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -258,11 +278,11 @@
       "organization_id": null
     },
     {
-      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -355,6 +375,17 @@
       ],
       "date": "2026-04-09",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154306/votPS425.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -373,6 +404,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T12:39:25Z"
+    "logs_latest_update": "2026-04-17T13:01:34Z"
   }
 }
