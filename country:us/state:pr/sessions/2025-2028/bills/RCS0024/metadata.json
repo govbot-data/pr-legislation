@@ -268,6 +268,18 @@
       "_processing": {
         "log_file_created": "2026-04-11T12:39:25Z"
       }
+    },
+    {
+      "description": "Veto Expreso",
+      "date": "2026-04-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-18T12:43:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -369,6 +381,17 @@
       ],
       "date": "2026-03-23",
       "classification": ""
+    },
+    {
+      "note": "Veto Expreso",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153576/RCS0024 veto expreso.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -387,6 +410,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T12:39:25Z"
+    "logs_latest_update": "2026-04-18T12:43:02Z"
   }
 }
