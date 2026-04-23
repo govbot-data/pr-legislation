@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0068",
-  "title": "\u201cPara ordenar el Departamento de Recursos Naturales y Ambientales la actualizaci\u00f3n de\nreglamentos, establecer y promulgar protocolos y normativas de similar naturaleza, relacionados\ncon la erosi\u00f3n costera y riberas de otros cuerpos de agua en consideraci\u00f3n con los cambios en la\nzona costera de Puerto Rico por motivos de los recientes huracanes, terremotos y otros eventos\nnaturales; y para otros fines relacionados.\u201d",
+  "title": "Para ordenar el Departamento de Recursos Naturales y Ambientales la actualizaci\u00f3n de reglamentos, establecer y promulgar protocolos y normativas de similar naturaleza, relacionados con la erosi\u00f3n costera y riberas de otros cuerpos de agua en consideraci\u00f3n con los cambios en la zona costera de Puerto Rico por motivos de los recientes huracanes, terremotos y otros eventos naturales; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -92,6 +92,16 @@
       "_processing": {
         "log_file_created": "2026-03-27T12:45:22Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-04-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:08:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -156,6 +166,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T12:45:22Z"
+    "logs_latest_update": "2026-04-23T13:08:09Z"
   }
 }

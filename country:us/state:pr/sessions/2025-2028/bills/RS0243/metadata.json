@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rs243"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -21,6 +25,62 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:39:45Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:08:09Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:08:09Z"
+      }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-04-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:08:09Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-04-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:08:09Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-04-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:08:09Z"
       }
     }
   ],
@@ -46,6 +106,17 @@
       ],
       "date": "2025-06-25",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156547/rs0243-Inf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-22",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -64,6 +135,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:45Z"
+    "logs_latest_update": "2026-04-23T13:08:09Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0335",
-  "title": "\u201cPara ordenar a la Comisi\u00f3n de Turismo, Recursos Naturales y Ambientales del Senado de Puerto\nRico realizar una investigaci\u00f3n exhaustiva sobre los protocolos y medidas de seguridad\nimplementados en los Sistemas de Relleno Sanitario (vertederos) activos y en desuso, a fin de\nevaluar su capacidad de respuesta ante incendios, su cumplimiento con las normas ambientales\naplicables y la efectividad de sus planes de manejo y emergencia; y para otros fines relacionados.\u201d",
+  "title": "Para ordenar a la Comisi\u00f3n de Turismo, Recursos Naturales y Ambientales del Senado de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre los protocolos y medidas de seguridad implementados en los Sistemas de Relleno Sanitario (vertederos) activos y en desuso, a fin de evaluar su capacidad de respuesta ante incendios, su cumplimiento con las normas ambientales aplicables y la efectividad de sus planes de manejo y emergencia; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rs335"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -46,6 +50,38 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:43Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:08:09Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:08:09Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:08:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,11 +100,33 @@
       "note": "Radicado",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/159032/rs0335-25.doc",
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159049/rs0335-25.doc",
           "media_type": "application/msword"
         }
       ],
       "date": "2025-10-14",
+      "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159049/rs0335-Inf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-21",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159049/rs0335-ent.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-21",
       "classification": ""
     }
   ],
@@ -76,7 +134,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://sutra.oslpr.org/medidas/159032",
+      "url": "https://sutra.oslpr.org/medidas/159049",
       "note": ""
     }
   ],
@@ -88,6 +146,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:43Z"
+    "logs_latest_update": "2026-04-23T13:08:09Z"
   }
 }
