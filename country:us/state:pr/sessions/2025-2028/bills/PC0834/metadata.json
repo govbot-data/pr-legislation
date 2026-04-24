@@ -280,6 +280,28 @@
       "_processing": {
         "log_file_created": "2026-04-07T13:03:22Z"
       }
+    },
+    {
+      "description": "1er Informe de Comisi\u00f3n de Conferencia rendido",
+      "date": "2026-04-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:04:30Z"
+      }
+    },
+    {
+      "description": "Entirillado Electr\u00f3nico Informe de Conferencia",
+      "date": "2026-04-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:04:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -381,6 +403,28 @@
       ],
       "date": "2026-03-09",
       "classification": ""
+    },
+    {
+      "note": "1er Informe de Comisi\u00f3n de Conferencia rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/pc0834-Inf (Conferencia).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-23",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado Electr\u00f3nico Informe de Conferencia",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/pc0834-ent (Conferencia).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -399,6 +443,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-07T13:03:22Z"
+    "logs_latest_update": "2026-04-24T13:04:30Z"
   }
 }

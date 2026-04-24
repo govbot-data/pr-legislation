@@ -214,6 +214,26 @@
       "_processing": {
         "log_file_created": "2026-04-23T13:08:09Z"
       }
+    },
+    {
+      "description": "Se retira 1er Informe Final",
+      "date": "2026-04-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:04:30Z"
+      }
+    },
+    {
+      "description": "Devuelto a la Comisi\u00f3n(es)",
+      "date": "2026-04-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:04:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -311,6 +331,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-23T13:08:09Z"
+    "logs_latest_update": "2026-04-24T13:04:30Z"
   }
 }
