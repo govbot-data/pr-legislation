@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps625"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -268,6 +272,28 @@
       "_processing": {
         "log_file_created": "2026-03-13T12:39:50Z"
       }
+    },
+    {
+      "description": "1er Informe de Comisi\u00f3n de Conferencia rendido",
+      "date": "2026-04-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-25T12:44:29Z"
+      }
+    },
+    {
+      "description": "Entirillado Electr\u00f3nico Informe de Conferencia",
+      "date": "2026-04-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-25T12:44:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -377,6 +403,28 @@
       ],
       "date": "2026-02-23",
       "classification": ""
+    },
+    {
+      "note": "1er Informe de Comisi\u00f3n de Conferencia rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155875/ps0625-Inf (Conferencia).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-23",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado Electr\u00f3nico Informe de Conferencia",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155875/ps0625-ent (Conferencia).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -395,6 +443,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:39:50Z"
+    "logs_latest_update": "2026-04-25T12:44:29Z"
   }
 }
