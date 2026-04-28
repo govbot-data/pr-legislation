@@ -302,6 +302,36 @@
       "_processing": {
         "log_file_created": "2026-04-24T13:04:30Z"
       }
+    },
+    {
+      "description": "C\u00e1mara aprueba informe de Comisi\u00f3n de Conferencia",
+      "date": "2026-04-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:47:15Z"
+      }
+    },
+    {
+      "description": "Senado aprueba informe de Comisi\u00f3n de Conferencia",
+      "date": "2026-04-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:47:15Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-04-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:47:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -408,8 +438,8 @@
       "note": "1er Informe de Comisi\u00f3n de Conferencia rendido",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/pc0834-Inf (Conferencia).pdf",
-          "media_type": "application/pdf"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/PC0834-ic.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
       "date": "2026-04-23",
@@ -419,11 +449,22 @@
       "note": "Entirillado Electr\u00f3nico Informe de Conferencia",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/pc0834-ent (Conferencia).pdf",
-          "media_type": "application/pdf"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/PC0834-eec.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
       "date": "2026-04-23",
+      "classification": ""
+    },
+    {
+      "note": "C\u00e1mara aprueba informe de Comisi\u00f3n de Conferencia",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/PC0834 Inf. Conf-vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-27",
       "classification": ""
     }
   ],
@@ -443,6 +484,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-24T13:04:30Z"
+    "logs_latest_update": "2026-04-28T13:47:15Z"
   }
 }

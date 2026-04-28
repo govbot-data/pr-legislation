@@ -52,7 +52,7 @@
       }
     },
     {
-      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "description": "1er Informe Conjunto Comisiones rendido con enmiendas",
       "date": "2026-04-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -60,7 +60,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-23T13:08:09Z"
+        "log_file_created": "2026-04-28T13:47:15Z"
       }
     },
     {
@@ -81,6 +81,62 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-23T13:08:09Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-04-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:47:15Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-04-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:47:15Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-04-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:47:15Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2026-04-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:47:15Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2026-04-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:47:15Z"
       }
     }
   ],
@@ -108,7 +164,7 @@
       "classification": ""
     },
     {
-      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "note": "1er Informe Conjunto Comisiones rendido con enmiendas",
       "links": [
         {
           "url": "https://sutra.oslpr.org/SutraFilesGen/159050/ps0779-Inf_compressed.pdf",
@@ -128,6 +184,17 @@
       ],
       "date": "2026-04-21",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159050/votPS779.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -146,6 +213,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-23T13:08:09Z"
+    "logs_latest_update": "2026-04-28T13:47:15Z"
   }
 }
