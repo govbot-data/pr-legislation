@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC1009",
-  "title": "Para designar el d\u00eda diecis\u00e9is (16) de diciembre de cada a\u00f1o como el \u201cD\u00eda de Concientizaci\u00f3n Papi y Mami, Los Amo con Toda Mi Vida\u201d, con el prop\u00f3sito de promover la expresi\u00f3n del amor, la gratitud y el reconocimiento hacia los padres y figuras parentales en vida; fomentar una cultura de comunicaci\u00f3n afectiva y valoraci\u00f3n familiar; y para otros fines relacionados.",
+  "title": "Para  designar  el dia dieciseis (16) de  diciembre  de  cada a\u00f1o como el \"Dia de Concientizaci\u00f3n \nPapi y Mami, Los Amo con Toda Mi Vida\", con el prop\u00f3sito de promover la expresi\u00f3n del amor, la \ngratitud y el reconocimiento hacia los padres y figuras parentales en vida; fomentar una cultura de \ncomunicaci\u00f3n afectiva y valoraci\u00f3n familiar; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -220,6 +220,16 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:01:34Z"
       }
+    },
+    {
+      "description": "Ley 65-2026",
+      "date": "2026-04-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:27:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -299,6 +309,17 @@
       ],
       "date": "2026-02-26",
       "classification": ""
+    },
+    {
+      "note": "Ley 65-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159593/Ley 65-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -317,6 +338,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:01:34Z"
+    "logs_latest_update": "2026-04-29T13:27:39Z"
   }
 }

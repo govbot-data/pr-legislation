@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0435",
-  "title": "Para enmendar los Art\u00edculos 2 y 4, a\u00f1adir un nuevo Art\u00edculo 5 y reenumerar el Art\u00edculo 5 como Art\u00edculo 6, respectivamente de la Ley 6-2011, a los fines de a\u00f1adir como requisito presentar evidencia de resultado negativo a prueba de detecci\u00f3n de sustancias controlada; establecer que, a todo entrenador, adscrito al Departamento de Recreaci\u00f3n y Deportes, se le podr\u00e1 administrar pruebas peri\u00f3dicas para la detecci\u00f3n de sustancias controladas; y para otros fines relacionados.",
+  "title": "Para emnendar los Art\u00edculos 2 y 4, a\u00f1adir un nuevo Art\u00edculo 5 y reenumerar el Art\u00edculo 5 como \nArt\u00edculo 6, respectivamente de la Ley 6-2011, a los fines de a\u00f1adir como requisito presentar \nevidencia de resultado negativo a prueba de detecci\u00f3n de sustancias  controladas;  establecer  que, \n a  todo  entrenador,  adscrito  al Departamento de Recreaci\u00f3n y Deportes, se le podra administrar \npruebas peri\u00f3dicas para la detecci\u00f3n de sustancias confroladas; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -324,6 +324,16 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:01:34Z"
       }
+    },
+    {
+      "description": "Ley 59-2026",
+      "date": "2026-04-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:27:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -447,6 +457,17 @@
       ],
       "date": "2026-03-19",
       "classification": ""
+    },
+    {
+      "note": "Ley 59-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154430/Ley 59-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-24",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -465,6 +486,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:01:34Z"
+    "logs_latest_update": "2026-04-29T13:27:39Z"
   }
 }

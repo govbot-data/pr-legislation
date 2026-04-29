@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0018",
-  "title": "Para establecer la \u201cLey de Asistencia, Protecci\u00f3n y Albergue a V\u00edctimas y Testigos\u201d, con el prop\u00f3sito de proveer protecci\u00f3n y asistencia a v\u00edctimas y testigos de delitos, as\u00ed como a su n\u00facleo familiar, cuando sea necesario para asegurar su participaci\u00f3n en los procedimientos investigativos y judiciales que se lleven a cabo para enjuiciar un delito; para autorizar al Secretario de Justicia de Puerto Rico a tomar las medidas y acciones necesarias para proveer la protecci\u00f3n y asistencia a las v\u00edctimas y familiares; establecer el \u201cPrograma del Albergue de Asistencia y Protecci\u00f3n a V\u00edctimas y Testigos\u201d como dos (2) unidades separadas, una que ser\u00e1 el \u201cHogar para V\u00edctimas de Delito\u201d; adscrito a la Oficina de Compensaci\u00f3n y Servicios a las V\u00edctimas y Testigos de Delito, y otra que ser\u00e1 el \"Centro de Protecci\u00f3n a Testigos Cooperadores\"; adscrito a la Oficina del Jefe de Fiscales; para autorizar al Secretario de Justicia de Puerto Rico a coordinar esfuerzos y recabar los fondos federales destinados a los prop\u00f3sitos consignados en la ley con el Departamento de Justicia de los Estados Unidos y con las agencias federales pertinentes; para derogar la Ley N\u00fam. 77 de 9 de julio de 1986, seg\u00fan enmendada, conocida como \u201cLey para la Prevenci\u00f3n de V\u00edctimas y Testigos\u201d; ordenar al Secretario de Justicia que apruebe reglamentaci\u00f3n para implementar la ley; y para otros fines relacionados.",
+  "title": "Para establecer la \"Ley de Asistencia, Protecci\u00f3n y Albergue a V\u00edctimas y Testigos\", a fin de proveer protecci\u00f3n y asistencia a v\u00edctimas y testigos de delitos, as\u00ed coma a su n\u00facleo familiar, cuando sea necesario para asegurar su participaci\u00f3n en las procedimientos investigativos y judiciales que se lleven a cabo para enjuiciar un delito; autorizar al Secretario de Justicia de Puerto Rico a tomar las medidas y acciones necesarias para proveer la protecci\u00f3n y asistencia a las v\u00edctimas y familiares; establecer el \"Programa del Albergue de Asistencia y Protecci\u00f3n a V\u00edctimas y Testigos\" coma dos (2) secciones: el Centro de Protecci\u00f3n a Testigos Cooperadores y el Hagar de Victimas de Delito, ambos adscritos a la Oficina del Jefe de las Fiscales del Departamento de Justicia; autorizar al Secretario de Justicia de Puerto Rico a coordinar esfuerzos y recabar las fondos federales destinados a las prop\u00f3sitos consignados en la ley con el Departamento de Justicia de las Estados Unidos y con las agendas federales pertinentes; derogar la Ley N\u00fam. 77 de 9 de julio de 1986, seg\u00fan enmendada, conocida coma \"Ley para la Protecci\u00f3n de V\u00edctimas  y  Testigos\";  y  ordenar  al  Secretario  de  Justicia  que  apruebe reglamentaci\u00f3n para implementar la ley.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -302,6 +302,16 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:01:34Z"
       }
+    },
+    {
+      "description": "Ley 62-2026",
+      "date": "2026-04-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:27:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -425,6 +435,17 @@
       ],
       "date": "2026-03-12",
       "classification": ""
+    },
+    {
+      "note": "Ley 62-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152511/Ley 62-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -443,6 +464,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:01:34Z"
+    "logs_latest_update": "2026-04-29T13:27:39Z"
   }
 }

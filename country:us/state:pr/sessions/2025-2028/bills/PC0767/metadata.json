@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0767",
-  "title": "Para enmendar el inciso (b) de la Secci\u00f3n 3 y el inciso (a) de la Secci\u00f3n 4 de la Ley N\u00fam. 95 de 29 de junio de 1963, seg\u00fan enmendada, conocida como \u201cLey de Beneficios de Salud para Empleados P\u00fablicos\u201d, para realizar enmiendas t\u00e9cnicas, y a\u00f1adir a los funcionarios y empleados del Departamento de Seguridad P\u00fablica y del Departamento de Educaci\u00f3n en la definici\u00f3n de \u201cempleado\u201d con el fin de conformarla al estado de derecho vigente.",
+  "title": "Para enmendar el inciso (b) de la Secci\u00f3n 3 y el inciso (a) de la Secci\u00f3n 4 de la Ley N\u00fam. 95 de 29 \nde junio de 1963, seg\u00fan enmendada, conocida como \"Ley de Beneficios de Salud para Empleados \nP\u00fablicos\", para realizar emniendas t\u00e9cnicas, y a\u00f1adir a los funcionarios y empleados del \nDepartamento de Seguridad P\u00fablica y del Departamento  de Educaci\u00f3n en la definici\u00f3n de  \"empleado\" \ncon el fin de conformarla al estado de derecho vigente.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -246,6 +246,16 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:01:34Z"
       }
+    },
+    {
+      "description": "Ley 61-2026",
+      "date": "2026-04-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:27:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -355,6 +365,17 @@
       ],
       "date": "2026-03-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 61-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/157738/Ley 61-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-24",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -373,6 +394,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:01:34Z"
+    "logs_latest_update": "2026-04-29T13:27:39Z"
   }
 }

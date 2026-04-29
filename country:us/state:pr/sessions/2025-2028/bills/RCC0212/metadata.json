@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0212",
-  "title": "Para designar con el nombre de Ram\u00f3n Iv\u00e1n Nieves Montesino, la pista atl\u00e9tica que ubica en el Complejo Deportivo Ram\u00f3n Cano Torres del municipio de Barranquitas.",
+  "title": "Para designar con el nombre de Ram\u00f3n Ivan Nieves Montesino, la pista atl\u00e9tica que ubica en el Complejo \nDeportivo Ram\u00f3n Cano Torres del Municipio de Barranquitas.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -268,6 +268,16 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:01:34Z"
       }
+    },
+    {
+      "description": "Res. Conj.  25-2026",
+      "date": "2026-04-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:27:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -380,6 +390,17 @@
       ],
       "date": "2026-04-09",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  25-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158774/Res. Conj. 25-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -398,6 +419,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:01:34Z"
+    "logs_latest_update": "2026-04-29T13:27:39Z"
   }
 }

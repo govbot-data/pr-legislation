@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0142",
-  "title": "Para enmendar el Art\u00edculo 7 de la Ley 151-2004, seg\u00fan enmendada, conocida como \u201cLey de Gobierno Electr\u00f3nico\u201d, a los fines de consolidar dentro de dicha Ley, las disposiciones relativas a la aplicaci\u00f3n de la pol\u00edtica p\u00fablica que establece que las agencias y corporaciones p\u00fablicas que rinden servicios b\u00e1sicos a la ciudadan\u00eda, deben instituir programas de informaci\u00f3n y educaci\u00f3n sobre los planes y proyectos de mejoras que lleven a cabo; derogar la Ley 98-2002, conocida como \u201cLey de Informaci\u00f3n de Educaci\u00f3n e Informaci\u00f3n al Usuario de Servicios Gubernamentales\u201d; y para otros fines relacionados.",
+  "title": "Para enmendar los Articulos 2 y 7 de la Ley 151-2004, segun ernnendada, conocida como \"Ley de \nGobierno Electr\u00f3nico\", a los fines de consolidar denh\u00b7o de dicha Ley, las disposiciones relativas a \nla aplicaci\u00f3n de la polftica p\u00fablica que establece que las agendas y corporaciones publicas que \nrinden servicios basicos a la ciudadania, deben instituir programas de informaci\u00f3n y educaci\u00f3n \nsabre los planes y proyectos de mejoras que lleven a cabo; derogar la Ley 98-2002, conocida coma \n\"Ley de Informaci\u00f3n de Educaci\u00f3n e Informaci\u00f3n al Usuario de Servicios Gubernamentales\"; y para \notros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -310,6 +310,16 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:01:34Z"
       }
+    },
+    {
+      "description": "Ley 57-2026",
+      "date": "2026-04-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:27:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -422,6 +432,17 @@
       ],
       "date": "2026-03-09",
       "classification": ""
+    },
+    {
+      "note": "Ley 57-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152781/Ley 57-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-24",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -440,6 +461,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:01:34Z"
+    "logs_latest_update": "2026-04-29T13:27:39Z"
   }
 }
