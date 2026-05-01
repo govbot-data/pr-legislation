@@ -258,6 +258,16 @@
       "_processing": {
         "log_file_created": "2026-04-30T13:25:14Z"
       }
+    },
+    {
+      "description": "Qued\u00f3 Pendiente de Acci\u00f3n Posterior en el Senado",
+      "date": "2026-04-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:01:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -396,6 +406,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:25:14Z"
+    "logs_latest_update": "2026-05-01T13:01:12Z"
   }
 }
