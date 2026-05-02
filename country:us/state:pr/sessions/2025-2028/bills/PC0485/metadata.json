@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0485",
-  "title": "Para designar el cuarto jueves del mes de abril de cada a\u00f1o como el \u201cD\u00eda Oficial de las Ni\u00f1as y Mujeres en STEM\u201d en Puerto Rico, reconociendo el valor del m\u00e9rito, el potencial individual y la importancia de fomentar la educaci\u00f3n en ciencia, tecnolog\u00eda, ingenier\u00eda y matem\u00e1ticas como base para el progreso socioecon\u00f3mico de Puerto Rico; y para otros fines relacionados.",
+  "title": "Para designar el cuarto jueves del mes de abril de cada a\u00f1o como el \"Dia Oficial de las Ni\u00f1as y Mujeres en STEM\" en Puerto Rico, reconociendo el valor del m\u00e9rito, el potencial individual y la  importancia de fomentar la educaci\u00f3n en ciencia, tecnolog\u00eda, ingenier\u00eda y matem\u00e1ticas como base para el progreso socioecon\u00f3mico de Puerto Rico; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -372,6 +372,16 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:01:34Z"
       }
+    },
+    {
+      "description": "Ley 67-2026",
+      "date": "2026-04-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:52:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -514,6 +524,17 @@
       ],
       "date": "2026-04-07",
       "classification": ""
+    },
+    {
+      "note": "Ley 67-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154818/Ley 67-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -532,6 +553,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:01:34Z"
+    "logs_latest_update": "2026-05-02T12:52:40Z"
   }
 }

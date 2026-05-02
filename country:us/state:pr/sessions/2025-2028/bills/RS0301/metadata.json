@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rs301"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -134,6 +138,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:39:45Z"
       }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-04-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:52:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -202,6 +216,17 @@
       ],
       "date": "2025-10-27",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158516/rs0301a-25 enmendada pore la RS 491.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -220,6 +245,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:39:45Z"
+    "logs_latest_update": "2026-05-02T12:52:40Z"
   }
 }

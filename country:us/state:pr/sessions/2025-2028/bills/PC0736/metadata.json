@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0736",
-  "title": "Para enmendar los Art\u00edculos 3, 7, 8 y 9 de la Ley 42-2023, conocida como \u201cLey de Capacitaci\u00f3n y Planificaci\u00f3n para la Seguridad Financiera y el Desarrollo Econ\u00f3mico de la Fuerza Laboral en Puerto Rico,\u201d a fin de modificar la composici\u00f3n de los Grupos Especiales de Trabajo para la implementaci\u00f3n de la ley; designar al Departamento de Hacienda como la agencia responsable de la creaci\u00f3n del programa voluntario de ahorro para el retiro; y para otros fines.",
+  "title": "Para enmendar los Art\u00edculos 3, 4, 7, 8 y 9 de la Ley 42-2023, seg\u00fan enmendada, conocida como \"Ley de Capacitaci\u00f3n y Planificaci\u00f3n para la Seguridad Financiera y el Desarrollo Econ\u00f3mico de la Fuerza Laboral en Puerto Rico,\" a fin de modificar la composici\u00f3n de los Grupos Especiales de Trabajo para la implementaci\u00f3n de la ley; designar a la Administraci\u00f3n de Sistemas de Retiro como la agenda responsable de la creaci6n del programa voluntario de ahorro para el retiro; y para otros fines.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -354,23 +354,33 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:01:34Z"
       }
+    },
+    {
+      "description": "Ley 70-2026",
+      "date": "2026-04-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:52:40Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -507,6 +517,17 @@
       ],
       "date": "2026-03-19",
       "classification": ""
+    },
+    {
+      "note": "Ley 70-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156568/Ley 70-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -525,6 +546,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:01:34Z"
+    "logs_latest_update": "2026-05-02T12:52:40Z"
   }
 }

@@ -60,6 +60,38 @@
       "_processing": {
         "log_file_created": "2026-04-16T13:14:28Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:52:40Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:52:40Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:52:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -84,6 +116,28 @@
       ],
       "date": "2026-02-18",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160471/ps1083-Inf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-01",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160471/ps1083-ent.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-01",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -102,6 +156,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-16T13:14:28Z"
+    "logs_latest_update": "2026-05-02T12:52:40Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0501",
-  "title": "Para ordenar a las Comisiones de Transportaci\u00f3n e Infraestructura, y la de la Regi\u00f3n del Sur de la C\u00e1mara de Representantes de Puerto Rico a realizar una investigaci\u00f3n exhaustiva sobre la situaci\u00f3n actual de las entradas al Municipio de Santa Isabel desde la carretera PR-52 en direcci\u00f3n al Municipio de Coamo y hacia el casco urbano de Santa Isabel; y buscar alternativas viables que atiendan y solucionen el grave problema de congesti\u00f3n vehicular en ambas direcciones.",
+  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Sur de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre la situaci\u00f3n actual de los accesos al Municipio de Santa Isabel desde la Autopista Luis A. Ferr\u00e9 Aguayo (PR-52), en direcci\u00f3n al Municipio de Coamo y hacia el casco urbano de Santa Isabel; as\u00ed como para identificar y evaluar alternativas viables que permitan atender y reducir la congesti\u00f3n vehicular en ambas direcciones.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-05-01T13:01:12Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:52:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -184,6 +196,17 @@
       ],
       "date": "2026-04-06",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159371/RC0501-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-04-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -202,6 +225,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-01T13:01:12Z"
+    "logs_latest_update": "2026-05-02T12:52:40Z"
   }
 }

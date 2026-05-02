@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0463",
-  "title": "Para enmendar el Art\u00edculo 9 de la Ley 29-2009, seg\u00fan enmendada, conocida como \u201cLey de Alianzas P\u00fablico Privadas\u201d para que en todo contrato, subasta, licitaci\u00f3n y, particularmente en contratos de alianza, se incluya certificaci\u00f3n, en la cual la persona o empresa que interesa tener o luego obtenga un acuerdo de alianza p\u00fablico-privada con el Gobierno de Puerto Rico, establezca que no subcontratar\u00e1 la provisi\u00f3n de bienes o servicios objetos del acuerdo a miembros de su unidad familiar, sus accionistas, socios, entidades relacionadas ni ex empleados; para establecer la facultad de reglamentar; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un sub-inciso (v) en el inciso (a) del Art\u00edculo 9 de la Ley 29-2009, seg\u00fan enmendada, conocida como \"Ley de Alianzas P\u00fablico Privadas\" para que en todo procedimiento de selecci\u00f3n de un proponente y adjudicaci\u00f3n de una alianza se incluya una certificaci\u00f3n, en la cual la persona o empresa que interesa tener un acuerdo de alianza p\u00fablico-privada con el Gobierno de Puerto Rico, establezca que no subcontratar\u00e1 la provisi\u00f3n de bienes o servicios objetos del acuerdo a miembros de su unidad familiar, sus accionistas, socios, ex socios, entidades relacionadas ni ex empleados; para establecer la facultad de reglamentar; y para otros fines relacionados",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -332,6 +332,16 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:01:34Z"
       }
+    },
+    {
+      "description": "Ley 66-2026",
+      "date": "2026-04-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:52:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -485,6 +495,17 @@
       ],
       "date": "2026-03-12",
       "classification": ""
+    },
+    {
+      "note": "Ley 66-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154598/Ley 66-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -503,6 +524,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:01:34Z"
+    "logs_latest_update": "2026-05-02T12:52:40Z"
   }
 }

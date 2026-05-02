@@ -390,6 +390,16 @@
       "_processing": {
         "log_file_created": "2026-04-29T13:27:39Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2026-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:52:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -546,6 +556,17 @@
       ],
       "date": "2026-04-23",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152789/PC0149-Conferencia.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-04-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -564,6 +585,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-29T13:27:39Z"
+    "logs_latest_update": "2026-05-02T12:52:40Z"
   }
 }

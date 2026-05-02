@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0653",
-  "title": "Para decretar en Puerto Rico el 6 de febrero de cada a\u00f1o, como el \u201cD\u00eda de la Mujer en la Historia Deportiva Puertorrique\u00f1a\u201d, con el prop\u00f3sito de dar a conocer y reconocer las grandes ejecutorias y aportaciones de la mujer en la historia deportiva puertorrique\u00f1a; y para otros fines relacionados.",
+  "title": "Para decretar en Puerto Rico el 6 de febrero de cada a\u00f1o, como el \"Dia de la Mujer en la Historia Deportiva Puertorrique\u00f1a\", con el prop\u00f3sito de dar a conocer y reconocer las grandes ejecutorias y aportaciones de la mujer en la historia deportiva puertorrique\u00f1a; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -248,6 +248,16 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:01:34Z"
       }
+    },
+    {
+      "description": "Ley 68-2026",
+      "date": "2026-04-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T12:52:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -349,6 +359,17 @@
       ],
       "date": "2026-03-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 68-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155851/Ley 68-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -367,6 +388,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:01:34Z"
+    "logs_latest_update": "2026-05-02T12:52:40Z"
   }
 }
