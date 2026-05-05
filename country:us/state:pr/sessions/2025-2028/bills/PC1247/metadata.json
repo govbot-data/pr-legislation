@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC1247",
-  "title": "Para crear la \u201cLey de la Capacidad del Padre y la Madre Joven\u201d; a\u00f1adir un nuevo inciso (e) al Art\u00edculo 638, enmendar el Art\u00edculo 639 y a\u00f1adir un nuevo inciso (e) al Art\u00edculo 687 de la Ley 55-2020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Civil de Puerto Rico de 2020\u201d; y a\u00f1adir un nuevo Art\u00edculo 19-B a la Ley N\u00fam. 24 de 22 de abril de 1931, seg\u00fan enmendada, conocida como \u201cLey del Registro General Demogr\u00e1fico de Puerto Rico\u201d, a los fines de reconocer como una de las clases de emancipaci\u00f3n la paternidad o maternidad a menores que ya hayan cumplido los 18 a\u00f1os de edad y establecer la forma en que se reconocer\u00e1 la capacidad de los menores de edad que hayan cumplido 16 a\u00f1os de poder inscribir a sus hijos o hijas en el Registro Demogr\u00e1fico, y para otros fines relacionados.",
+  "title": "Para enmendar el C\u00f3digo de Rentas Internas de Puerto Rico de 2011, seg\u00fan enmendado, a los fines de crear un cr\u00e9dito contributivo reembolsable hasta un m\u00e1ximo de dos mil quinientos d\u00f3lares ($2,500.00) a favor del contribuyentes que asuma la responsabilidad del cuidado directo de su padre, madre o familiar con impedimentos o condiciones de salud cr\u00f3nicas; establecer criterios de elegibilidad, requisitos de certificaci\u00f3n y documentaci\u00f3n; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -26,20 +26,56 @@
       "_processing": {
         "log_file_created": "2026-05-02T12:52:40Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:20:46Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:20:46Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Estrella   Mart\u00ednez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Estrella   Mart\\u00ednez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161094/PC1247.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-04-30",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -56,6 +92,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-02T12:52:40Z"
+    "logs_latest_update": "2026-05-05T13:20:46Z"
   }
 }
