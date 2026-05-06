@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0211",
-  "title": "Para ordenar a LUMA Energy, la Autoridad de Carreteras y Transportaci\u00f3n (ACT) y las agencias relacionadas con la iluminaci\u00f3n en carreteras a tomar acci\u00f3n inmediata y corregir las zonas carentes de alumbrado en las v\u00edas p\u00fablicas de nuestro Distrito 20, especialmente en la carretera n\u00famero 2, kil\u00f3metro 167.2, donde recientemente se present\u00f3 un accidente fatal debido a la falta de iluminaci\u00f3n.",
+  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Oeste de la C\u00e1mara de Representantes de Puerto \nRico, realizar una investigaci\u00f3n exhaustiva en torno a las gestiones realizadas por \nLUMA Energy, la Autoridad de Carreteras y Transportaci\u00f3n (ACT) y las agencias \nencargadas de la seguridad en nuestras carreteras para tomar acci\u00f3n inmediata y \ncorregir las zonas carentes de alumbrado en las v\u00edas p\u00fablicas del Distrito \nRepresentativo N\u00fam. 20, que comprende los municipios de Cabo Rojo, San \nGerm\u00e1n y Hormigueros; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -104,6 +104,62 @@
       "_processing": {
         "log_file_created": "2026-05-05T13:20:46Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T13:49:26Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T13:49:26Z"
+      }
+    },
+    {
+      "description": "Aprobada por C\u00e1mara por unanimidad",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T13:49:26Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T13:49:26Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T13:49:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -150,6 +206,17 @@
       ],
       "date": "2025-12-15",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154354/RC0211-ta.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -168,6 +235,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-05T13:20:46Z"
+    "logs_latest_update": "2026-05-06T13:49:26Z"
   }
 }

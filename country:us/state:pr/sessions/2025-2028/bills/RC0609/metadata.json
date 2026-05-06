@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0609",
-  "title": "Para ordenar a la Comisi\u00f3n de Banca, Seguros y Comercio de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre las operaciones de Futucare, LLC (proveedora contratada para administrar la plataforma digital del Programa de Cannabis Medicinal del Departamento de Salud) y Vank, LLC (operadora de la plataforma Vankpay, intermediaria tecnol\u00f3gica de pagos electr\u00f3nicos entre pacientes y dispensarios), con especial \u00e9nfasis en el cumplimiento de las leyes y reglamentos financieros federales y estatales que rigen las transacciones bancarias en la industria del cannabis medicinal, incluyendo la Ley de Secreto Bancario (Bank Secrecy Act, BSA), las directrices de la Red de Control de Delitos Financieros (Financial Crimes Enforcement Network, FinCEN) y las regulaciones de la Oficina del Comisionado de Instituciones Financieras (OCIF).",
+  "title": "Para ordenar a la Comisi\u00f3n de Banca, Seguros y Comercio de la C\u00e1mara de \nRepresentantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre las \noperaciones de Futucare, LLC (proveedora contratada para administrar la \nplataforma digital del Programa de Cannabis Medicinal del Departamento de \nSalud) y Vank, LLC (operadora de la plataforma Vankpay, intermediaria \ntecnol\u00f3gica de pagos electr\u00f3nicos entre pacientes y dispensarios), con especial \n\u00e9nfasis en el cumplimiento de las leyes y reglamentos financieros federales y \nestatales que rigen las transacciones bancarias en la industria del cannabis \nmedicinal, incluyendo la Ley de Secreto Bancario (Bank Secrecy Act, BSA), las \ndirectrices de la Red de Control de Delitos Financieros (Financial Crimes \nEnforcement Network, FinCEN) y las regulaciones de la Oficina del \nComisionado de Instituciones Financieras (OCIF).",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-05-05T13:20:46Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T13:49:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -184,6 +196,17 @@
       ],
       "date": "2026-04-27",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160453/RC0609-ta.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -202,6 +225,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-05T13:20:46Z"
+    "logs_latest_update": "2026-05-06T13:49:26Z"
   }
 }

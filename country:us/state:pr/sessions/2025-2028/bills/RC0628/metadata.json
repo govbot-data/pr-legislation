@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0628",
-  "title": "Para ordenar a las comisiones de la Regi\u00f3n Norte; y de Educaci\u00f3n de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre la tardanza en el desembolso de pagos a suplidores que brindan servicios para el Departamento de Educaci\u00f3n, dentro de la jurisdicci\u00f3n del Distrito Representativo N\u00fam. 14 que comprende los municipios de Arecibo y Hatillo; evaluar posibles incumplimientos contractuales, deficiencias administrativas o fallas en la obligaci\u00f3n de fondos y pagos por servicios; y para otros fines relacionados.",
+  "title": "Para ordenar a las comisiones de la Regi\u00f3n Norte; y de Educaci\u00f3n de la C\u00e1mara de \nRepresentantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre la \ntardanza en el desembolso de pagos a suplidores que brindan servicios para el \nDepartamento de Educaci\u00f3n, dentro de la jurisdicci\u00f3n del Distrito Representativo \nN\u00fam. 14 que comprende los municipios de Arecibo y Hatillo; evaluar posibles \nincumplimientos contractuales, deficiencias administrativas o fallas en la \nobligaci\u00f3n de fondos y pagos por servicios; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-05-05T13:20:46Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T13:49:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -184,6 +196,17 @@
       ],
       "date": "2026-03-24",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160552/RC0628-ta.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -202,6 +225,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-05T13:20:46Z"
+    "logs_latest_update": "2026-05-06T13:49:26Z"
   }
 }

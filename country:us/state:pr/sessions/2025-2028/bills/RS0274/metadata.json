@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rs274"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -132,6 +136,16 @@
       "_processing": {
         "log_file_created": "2026-01-14T12:30:53Z"
       }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T13:49:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -189,6 +203,17 @@
       ],
       "date": "2026-01-12",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158053/rs0274a-25 enmendada por la RS 384, 493.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -207,6 +232,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:30:53Z"
+    "logs_latest_update": "2026-05-06T13:49:26Z"
   }
 }
