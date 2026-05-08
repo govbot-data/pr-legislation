@@ -498,6 +498,26 @@
       "_processing": {
         "log_file_created": "2026-05-07T13:46:57Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Roberto \"Bobby\" Rexach Ben\u00edtez",
+      "date": "2026-05-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:13:44Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Miguel Angel Garc\u00eda M\u00e9ndez",
+      "date": "2026-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:13:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -650,6 +670,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-07T13:46:57Z"
+    "logs_latest_update": "2026-05-08T13:13:44Z"
   }
 }
