@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0668",
-  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Norte de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre el estado de la infraestructura, funcionamiento y permanencia de las estaciones de bombeo provisionales de la Autoridad de Acueductos y Alcantarillados (A.A.A.), con \u00e9nfasis en las ubicadas en el municipio de Arecibo, particularmente en los sectores de La Puntilla y El Fuerte; evaluar los riesgos a la salud, el ambiente y la actividad econ\u00f3mica; y someter recomendaciones y propuestas dirigidas a mejorar la calidad, eficiencia y accesibilidad de dichos servicios; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Norte de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre el estado de la infraestructura, la operaci\u00f3n, la continuidad y la idoneidad de las estaciones de bombeo provisionales de la Autoridad de Acueductos y Alcantarillados (A.A.A.) ubicadas en el municipio de Arecibo, particularmente en los sectores La Puntilla y El Fuerte; evaluar los riesgos que su condici\u00f3n representa para la salud, el ambiente y la actividad econ\u00f3mica; formular recomendaciones y propuestas dirigidas a mejorar la calidad, eficiencia, confiabilidad y continuidad de los servicios provistos por dichas instalaciones; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-05-08T13:13:44Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T12:58:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +184,17 @@
       ],
       "date": "2026-05-05",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160931/RC0668-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-05-07",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -190,6 +213,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:13:44Z"
+    "logs_latest_update": "2026-05-09T12:58:54Z"
   }
 }

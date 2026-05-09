@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0344",
-  "title": "Para ordenar a la Comisi\u00f3n de Educaci\u00f3n, Arte y Cultura del Senado de Puerto Rico a realizar una investigaci\u00f3n exhaustiva sobre el estado actual de los edificios y estructuras hist\u00f3ricas ubicadas en los municipios que conforman el Distrito Senatorial de Arecibo, muchas de las cuales est\u00e1n bajo la custodia o administraci\u00f3n del Instituto de Cultura Puertorrique\u00f1a; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Educaci\u00f3n, Arte y Cultura del Senado de Puerto Rico,\nrealizar una investigaci\u00f3n exhaustiva sobre el estado actual de los edificios y las\nestructuras hist\u00f3ricas ubicados en los municipios que conforman el Distrito\nSenatorial de Arecibo, muchos de los cuales est\u00e1n bajo la custodia o administraci\u00f3n\ndel Instituto de Cultura Puertorrique\u00f1a.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-05-05T13:20:46Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T12:58:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -195,6 +207,17 @@
       ],
       "date": "2026-05-04",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159108/rs0344a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -213,6 +236,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-05T13:20:46Z"
+    "logs_latest_update": "2026-05-09T12:58:54Z"
   }
 }
