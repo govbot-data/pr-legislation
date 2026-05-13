@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0530",
-  "title": "Para ordenar a la Comisi\u00f3n de Adultos Mayores y Bienestar Social de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre el cumplimiento de la Ley N\u00fam. 76-2013, seg\u00fan enmendada; identificar los programas de ayuda y alimentos que ofrece la Oficina del Procurador de las Personas de Edad Avanzada (OPPEA); evaluar el uso de los fondos federales disponibles a trav\u00e9s del Servicio de Alimentos y Nutrici\u00f3n del Departamento de Agricultura de los Estados Unidos (USDA-FNS) y la manera en que la OPPEA utiliza dichos fondos; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Adultos Mayores y Bienestar Social de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre el cumplimiento de la Ley N\u00fam. 76-2013, seg\u00fan enmendada; identificar los programas de ayuda y alimentos que ofrece la Oficina del Procurador de las Personas de Edad Avanzada (OPPEA); evaluar el uso de los fondos federales disponibles a trav\u00e9s del Servicio de Alimentos y Nutrici\u00f3n del Departamento de Agricultura de los Estados Unidos (USDA-FNS) y la manera en que la OPPEA utiliza dichos fondos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-04-24T13:04:30Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-04-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:11:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +184,17 @@
       ],
       "date": "2026-04-06",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159553/RC0530-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-04-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -190,6 +213,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-24T13:04:30Z"
+    "logs_latest_update": "2026-05-13T14:11:06Z"
   }
 }

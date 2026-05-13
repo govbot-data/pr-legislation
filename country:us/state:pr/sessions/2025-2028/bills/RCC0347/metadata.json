@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0347",
-  "title": "Para enmendar el inciso 9(b) del Art\u00edculo 7 y el inciso 6(g) del Art\u00edculo 9 de la Ley N\u00fam. 430-2000, seg\u00fan enmendada conocida como \u201cLey de Navegaci\u00f3n y Seguridad Acu\u00e1tica de Puerto Rico\u201d a los fines de establecer la edad m\u00ednima de diecis\u00e9is (16) a\u00f1os para operar una motora acu\u00e1tica de forma independiente; aclarar las prohibiciones establecidas y alcance de los t\u00e9rminos; y para otros fines relacionados.",
+  "title": "Para denominar con el nombre del exalcalde \u201cHeriberto Zayas Monta\u00f1ez\u201d la carretera PR-8860, en toda su extensi\u00f3n, que discurre desde la intersecci\u00f3n con la carretera PR-860 en el Municipio de Carolina hasta la carretera PR-181, conocida como \u201cExpreso Manuel Rivera Morales\u201d en el Municipio de Trujillo Alto; y para otros fines relacionados.\u201d",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -26,6 +26,30 @@
       "_processing": {
         "log_file_created": "2026-05-12T14:01:07Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:11:06Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:11:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -39,7 +63,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161170/RCC0347.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-05-11",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -56,6 +92,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-12T14:01:07Z"
+    "logs_latest_update": "2026-05-13T14:11:06Z"
   }
 }
