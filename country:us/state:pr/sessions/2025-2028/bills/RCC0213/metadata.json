@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0213",
-  "title": "Para ordenar a la Autoridad de los Puertos del Gobierno de Puerto Rico designar el muelle n\u00famero 15 en la bah\u00eda de San Juan con el nombre de Carlos Fernando Chard\u00f3n, quien fue distinguido por su servicio como soldado condecorado en el Ej\u00e9rcito de los Estados Unidos durante la Segunda Guerra Mundial, as\u00ed como por su desempe\u00f1o en cargos p\u00fablicos, incluyendo Secretario de Estado y Ayudante General de la Guardia Nacional de Puerto Rico y para otros fines.",
+  "title": "Para ordenar a la Autoridad de los Puertas del Gobierno de Puerto Rico a designar el Muelle 15 en la Bah\u00eda de San Juan con el nombre de Carlos Fernando Chard\u00f3n, quien fue distinguido por su servicio como soldado condecorado en el Ej\u00e9rcito de los Estados Unidos durante la Segunda Guerra Mundial, as\u00ed como por su desempe\u00f1o en cargos p\u00fablicos, incluyendo Secretario de Estado y Ayudante General de la Guardia Nacional de Puerto Rico, y para otros fines.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -290,6 +290,16 @@
       "_processing": {
         "log_file_created": "2026-05-07T13:46:57Z"
       }
+    },
+    {
+      "description": "Res. Conj.  28-2026",
+      "date": "2026-05-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T13:51:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -413,6 +423,17 @@
       ],
       "date": "2026-04-23",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  28-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158783/0028c0213.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-11",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -431,6 +452,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-07T13:46:57Z"
+    "logs_latest_update": "2026-05-14T13:51:31Z"
   }
 }

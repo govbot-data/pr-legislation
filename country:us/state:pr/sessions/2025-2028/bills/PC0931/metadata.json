@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0931",
-  "title": "Para enmendar la Ley N\u00fam. 121-2019, seg\u00fan enmendada, conocida como \u201cCarta de Derechos y la Pol\u00edtica P\u00fablica del Gobierno a Favor de los Adultos Mayores\u201d, a los fines de incluir el maltrato al animal o mascota dentro de las conductas delictivas y prohibidas; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 3 y 9 de la Ley 121-2019, seg\u00fan enmendada, conocida como \"Carta de Derechos y la Pol\u00edtica P\u00fablica del Gobierno a Favor de los Adultos Mayores\", a los fines de incluir el maltrato al animal o mascota del adulto mayor dentro de los actos constitutivos de maltrato e intimidaci\u00f3n; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -290,23 +290,33 @@
       "_processing": {
         "log_file_created": "2026-05-07T13:46:57Z"
       }
+    },
+    {
+      "description": "Ley 79-2026",
+      "date": "2026-05-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T13:51:31Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Yashira M. Lebr\u00f3n  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Yashira M. Lebr\\u00f3n  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Elinette  Gonz\u00e1lez Aguayo - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Elinette  Gonz\\u00e1lez Aguayo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yashira M. Lebr\u00f3n  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yashira M. Lebr\\u00f3n  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -429,6 +439,17 @@
       ],
       "date": "2026-04-16",
       "classification": ""
+    },
+    {
+      "note": "Ley 79-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159059/0079c0931.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -447,6 +468,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-07T13:46:57Z"
+    "logs_latest_update": "2026-05-14T13:51:31Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0854",
-  "title": "Para enmendar el Art\u00edculo 18 de la Ley N\u00fam. 103 de 25 de mayo de 2006, seg\u00fan enmendada, conocida como \u201cLey para la Reforma Fiscal del Gobierno de Puerto Rico\u201d, para que en aquellos casos en que cualquiera de las ramas del Gobierno de Puerto Rico, sus agencias, corporaciones p\u00fablicas, instrumentalidades o municipios determinen llevar a cabo campa\u00f1as publicitarias, deber\u00e1n invertir al menos cinco por ciento (5%) de las partidas asignadas a estos fines contratando los servicios de la Corporaci\u00f3n de Puerto Rico para la Difusi\u00f3n P\u00fablica.",
+  "title": "Para enmendar el Art\u00edculo 18 de la Ley N\u00fam. 103-2006, seg\u00fan enmendada, conocida como \"Ley para la Reforma Fiscal del Gobierno de Puerto Rico\", para que en aquellos casos en que las agendas, corporaciones p\u00fablicas o instrumentalidades determinen llevar a cabo campa\u00f1as publicitarias televisivas, deber\u00e1n invertir al menos cinco por ciento (5%) de las partidas asignadas a estos fines contratando los servicios de la Corporaci\u00f3n de Puerto Rico para la Difusi\u00f3n P\u00fablica; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -390,6 +390,16 @@
       "_processing": {
         "log_file_created": "2026-05-09T12:58:54Z"
       }
+    },
+    {
+      "description": "Ley 81-2026",
+      "date": "2026-05-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T13:51:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -521,6 +531,17 @@
       ],
       "date": "2026-04-27",
       "classification": ""
+    },
+    {
+      "note": "Ley 81-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159398/0081s0854.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-11",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -539,6 +560,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-09T12:58:54Z"
+    "logs_latest_update": "2026-05-14T13:51:31Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0886",
-  "title": "Para declarar el tercer fin de semana de febrero de cada a\u00f1o como el \u201cD\u00eda del Sombrero\u201d.",
+  "title": "Para declarar el tercer domingo de febrero de cada a\u00f1o coma el \"D\u00eda del Sombrero\".",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -278,6 +278,16 @@
       "_processing": {
         "log_file_created": "2026-05-07T13:46:57Z"
       }
+    },
+    {
+      "description": "Ley 78-2026",
+      "date": "2026-05-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T13:51:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -401,6 +411,17 @@
       ],
       "date": "2026-04-20",
       "classification": ""
+    },
+    {
+      "note": "Ley 78-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158830/0078c0886.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -419,6 +440,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-07T13:46:57Z"
+    "logs_latest_update": "2026-05-14T13:51:31Z"
   }
 }

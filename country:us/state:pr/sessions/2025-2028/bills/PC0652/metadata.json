@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0652",
-  "title": "Para decretar en Puerto Rico el 2 de abril de cada a\u00f1o como el \u201cD\u00eda de la Historia Deportiva Ponce\u00f1a\u201d en reconocimiento a la gran historia deportiva del pueblo de Ponce; y para otros fines relacionados",
+  "title": "Para decretar en Puerto Rico el 2 de abril de cada a\u00f1o coma el \"D\u00eda de la Historia Deportiva Ponce\u00f1a\" en reconocimiento a la gran historia deportiva del pueblo de Ponce; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -248,6 +248,16 @@
       "_processing": {
         "log_file_created": "2026-05-07T13:46:57Z"
       }
+    },
+    {
+      "description": "Ley 77-2026",
+      "date": "2026-05-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T13:51:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -349,6 +359,17 @@
       ],
       "date": "2026-04-16",
       "classification": ""
+    },
+    {
+      "note": "Ley 77-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155850/0077c0652.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -367,6 +388,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-07T13:46:57Z"
+    "logs_latest_update": "2026-05-14T13:51:31Z"
   }
 }

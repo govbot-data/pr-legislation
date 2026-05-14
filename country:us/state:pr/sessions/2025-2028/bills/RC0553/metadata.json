@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0553",
-  "title": "Para ordenar a la Comisi\u00f3n de Recreaci\u00f3n y Deportes de la C\u00e1mara de Representantes del Gobierno de Puerto Rico, realizar una investigaci\u00f3n sobre el inventario de facilidades recreativas, deportivas y de cualquier otro uso que sean de la titularidad o que est\u00e9n adscritas al Departamento de Recreaci\u00f3n y Deportes, espec\u00edficamente las que se encuentran localizadas en los municipios de Dorado, Vega Alta y Vega Baja; para que se informe detalladamente el estado o condici\u00f3n actual de dichas facilidades, los proyectos de mejoras en progreso y los pr\u00f3ximos a iniciar y/o proyectados; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Recreaci\u00f3n y Deportes de la C\u00e1mara de Representantes del Gobierno de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre la disponibilidad, condici\u00f3n y mejoras necesarias a las facilidades recreativas, deportivas, y otras instalaciones que est\u00e9n adscritas al Departamento de Recreaci\u00f3n y Deportes, en los municipios de Dorado, Vega Alta y Vega Baja; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-05-13T14:11:06Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T13:51:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -184,6 +196,17 @@
       ],
       "date": "2026-02-10",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160016/RC0553-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-05-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -202,6 +225,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-13T14:11:06Z"
+    "logs_latest_update": "2026-05-14T13:51:31Z"
   }
 }
