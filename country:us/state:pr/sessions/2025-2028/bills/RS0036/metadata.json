@@ -280,6 +280,28 @@
       "_processing": {
         "log_file_created": "2026-05-12T14:01:07Z"
       }
+    },
+    {
+      "description": "2do Informe Parcial rendido",
+      "date": "2026-05-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:47:24Z"
+      }
+    },
+    {
+      "description": "Informe Parcial Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-05-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:47:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -381,6 +403,28 @@
       ],
       "date": "2026-05-04",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 1er informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153565/rs36-1er parcial vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-11",
+      "classification": ""
+    },
+    {
+      "note": "2do Informe Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153565/rs0036-Inf (2do parcial).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -399,6 +443,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-12T14:01:07Z"
+    "logs_latest_update": "2026-05-15T13:47:24Z"
   }
 }

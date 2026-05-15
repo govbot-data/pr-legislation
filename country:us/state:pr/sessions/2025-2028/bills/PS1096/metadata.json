@@ -90,6 +90,16 @@
       "_processing": {
         "log_file_created": "2026-03-20T12:40:22Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n de Pr\u00e1cticas de la Escuela de Derecho Universidad Cat\u00f3lica de Ponce",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:47:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -132,6 +142,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:40:22Z"
+    "logs_latest_update": "2026-05-15T13:47:24Z"
   }
 }

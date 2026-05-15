@@ -196,7 +196,7 @@
       }
     },
     {
-      "description": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "description": "2do Informe Comisi\u00f3n rendido sin enmiendas",
       "date": "2026-04-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -204,7 +204,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-22T13:08:49Z"
+        "log_file_created": "2026-05-15T13:47:24Z"
       }
     },
     {
@@ -217,6 +217,38 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-22T13:08:49Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:47:24Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:47:24Z"
+      }
+    },
+    {
+      "description": "Qued\u00f3 Pendiente de Acci\u00f3n Posterior en la C\u00e1mara",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:47:24Z"
       }
     }
   ],
@@ -307,7 +339,7 @@
       "classification": ""
     },
     {
-      "note": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "note": "2do Informe Comisi\u00f3n rendido sin enmiendas",
       "links": [
         {
           "url": "https://sutra.oslpr.org/SutraFilesGen/159147/RCS0106-i (2do).docx",
@@ -334,6 +366,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-22T13:08:49Z"
+    "logs_latest_update": "2026-05-15T13:47:24Z"
   }
 }

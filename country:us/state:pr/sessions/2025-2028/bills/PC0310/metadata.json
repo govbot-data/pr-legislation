@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0310",
-  "title": "Para enmendar el Art\u00edculo 14.1 de la Ley 161-2009, seg\u00fan enmendada, conocida como \u201cLey para la Reforma del Proceso de Permisos de Puerto Rico\u201d, a los fines de establecer que cualquier persona privada, ya sea natural o jur\u00eddica, para presentar una acci\u00f3n de injunction, mandamus, sentencia declaratoria u otro recurso adecuado, deber\u00e1 alegar de manera espec\u00edfica que posee un inter\u00e9s propietario o personal sujeto a un da\u00f1o inminente, que dicho da\u00f1o puede vincularse razonablemente a la conducta de la parte promovida y que el da\u00f1o sufrido en el inter\u00e9s propietario o personal es susceptible de reparaci\u00f3n mediante el remedio solicitado; y para otros fines relacionados.",
+  "title": "Para enmendar el Articulo 14.1 de la Ley 161-2009, seg\u00fan enmendada, conocida como \"Ley para la Reforma del Proceso de Permisos de Puerto Rico\", a los fines de establecer que cualquier persona, ya sea natural o jur\u00eddica, para presentar una acci\u00f3n de injunction, mandamus, sentencia declaratoria u otro recurso adecuado, deber\u00e1 alegar de manera espec\u00edfica que posee un inter\u00e9s propietario o personal sujeto a un da\u00f1o inminente, que dicho da\u00f1o puede vincularse razonablemente a la conducta de la parte promovida y que el da\u00f1o sufrido en el inter\u00e9s propietario\no personal es susceptible de reparaci\u00f3n mediante el remedio solicitado; a\u00f1adir al inciso (1) de dicho Art\u00edculo que cuando se solicite la revocaci\u00f3n de una determinaci\u00f3n final otorgada, cuya solicitud se haya hecho utilizando informaci\u00f3n incorrecta o falsa, haya sido con la intenci\u00f3n de inducir a error al ente que emite el permiso, y que en cualquiera de los casos, ya sea por la informaci\u00f3n incorrecta o falsa, de haberse considerado todos los factores reales, no lo hubiera aprobado; enmendar el Art\u00edculo 6.007 de la Ley 107-2020, seg\u00fan enmendada, conocida como\n\"C\u00f3digo Municipal de Puerto Rico\", a los fines de armonizar las disposiciones sobre ordenaci\u00f3n territorial y desarrollo de terrenos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -320,6 +320,16 @@
       "_processing": {
         "log_file_created": "2026-05-07T13:46:57Z"
       }
+    },
+    {
+      "description": "Ley 82-2026",
+      "date": "2026-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:47:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -473,6 +483,17 @@
       ],
       "date": "2026-04-13",
       "classification": ""
+    },
+    {
+      "note": "Ley 82-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153579/0082c0310.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -491,6 +512,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-07T13:46:57Z"
+    "logs_latest_update": "2026-05-15T13:47:24Z"
   }
 }

@@ -26,6 +26,48 @@
       "_processing": {
         "log_file_created": "2026-05-12T14:01:08Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:47:24Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:47:24Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado conforme a la Regla 18.3",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:47:24Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T13:47:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -44,11 +86,22 @@
       "note": "Radicado",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/161181/rs0503-26.pdf",
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161203/rs0503-26 (1).pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "2026-05-11",
+      "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado conforme a la Regla 18.3",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161203/votRS503.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-14",
       "classification": ""
     }
   ],
@@ -56,7 +109,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://sutra.oslpr.org/medidas/161181",
+      "url": "https://sutra.oslpr.org/medidas/161203",
       "note": ""
     }
   ],
@@ -68,6 +121,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-12T14:01:08Z"
+    "logs_latest_update": "2026-05-15T13:47:24Z"
   }
 }
