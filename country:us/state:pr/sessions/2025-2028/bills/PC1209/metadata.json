@@ -50,6 +50,16 @@
       "_processing": {
         "log_file_created": "2026-04-10T12:53:28Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica:  Sal\u00f3n de Audiencias #2",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:04:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,6 +69,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Joel   Franqui Atiles - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emilio   Carlo  Acosta - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Emilio   Carlo  Acosta - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -100,6 +118,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T12:53:28Z"
+    "logs_latest_update": "2026-05-16T13:04:24Z"
   }
 }
