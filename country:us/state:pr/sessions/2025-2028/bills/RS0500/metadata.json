@@ -50,6 +50,16 @@
       "_processing": {
         "log_file_created": "2026-05-08T13:13:44Z"
       }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2026-05-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-20T14:41:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -82,6 +92,17 @@
       ],
       "date": "2026-05-05",
       "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161107/rs0500-Inf (negativo).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -100,6 +121,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:13:44Z"
+    "logs_latest_update": "2026-05-20T14:41:55Z"
   }
 }
