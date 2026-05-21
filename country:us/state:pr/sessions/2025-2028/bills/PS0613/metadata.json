@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0613",
-  "title": "\u201cPara crear la \u201cLey para Promover y Establecer el Intercambio de Informaci\u00f3n de Salud de Puerto\nRico\u201d; derogar la Ley N\u00fam. 40-2012, seg\u00fan enmendada, conocida como \u201cLey para la\nAdministraci\u00f3n e Intercambio Electr\u00f3nico de Informaci\u00f3n de Salud de Puerto Rico\u201d; reconocer al\nPuerto Rico Health Information Exchange (PRHIE), adscrito al Programa Medicaid del\nDepartamento de Salud de Puerto Rico, como la entidad designada por el Estado para cumplir con\nlos requerimientos establecidos por la Oficina del Coordinador Nacional de Tecnolog\u00eda de la\nInformaci\u00f3n en Salud (ASTP, por sus siglas en ingl\u00e9s), el Departamento de Salud y Servicios\nHumanos del Gobierno de los Estados Unidos (HHS, por sus siglas en ingl\u00e9s), y los Centros de\nServicios de Medicare y Medicaid (CMS, por sus siglas en ingl\u00e9s); autorizar la creaci\u00f3n y operaci\u00f3n\nde un Consejo Asesor del PRHIE, con el fin de brindar asesoramiento y orientaci\u00f3n estrat\u00e9gica al\nPrograma Medicaid en asuntos relacionados con el intercambio de informaci\u00f3n de salud; y para\notros fines relacionados.\u201d",
+  "title": "Para crear la \"Ley para Promover y Establecer el Intercambio de Informaci\u00f3n de Salud de Puerto Rico\"; derogar la Ley N\u00fam. 40-2012, seg\u00fan enmendada, conocida como \"Ley para la Administraci\u00f3n e Intercambio Electr\u00f3nico de Informaci\u00f3n de Salud de Puerto Rico\"; reconocer al Puerto Rico Health Information Exchange (PRHIE), adscrito al Programa Medicaid del Departamento de Salud de Puerto Rico, como la  entidad  designada  por  el  Estado  para  cumplir  con  los  requerimientos establecidos  por  la Oficina  del Coordinador  Nacional  de  Tecnolog\u00eda  de  la Informaci\u00f3n en Salud (ASTP, por sus siglas en ingles), el Departamento de Salud y Servicios Humanos del Gobierno de los Estados Unidos (HHS, por sus siglas en ingles), y las Centros de Servicios de Medicare y Medicaid (CMS, por sus siglas en ingles); autorizar la creaci\u00f3n y operaci\u00f3n de un Consejo Asesor del PRHIE, con el fin de brindar asesoramiento y orientaci\u00f3n estrat\u00e9gica al Programa Medicaid en asuntos relacionados con el intercambio de informaci\u00f3n de salud; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -302,6 +302,16 @@
       "_processing": {
         "log_file_created": "2026-05-09T12:58:54Z"
       }
+    },
+    {
+      "description": "Ley 86-2026",
+      "date": "2026-05-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-21T14:46:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -433,6 +443,17 @@
       ],
       "date": "2026-04-30",
       "classification": ""
+    },
+    {
+      "note": "Ley 86-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155663/Ley 86-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -451,6 +472,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-09T12:58:54Z"
+    "logs_latest_update": "2026-05-21T14:46:56Z"
   }
 }
