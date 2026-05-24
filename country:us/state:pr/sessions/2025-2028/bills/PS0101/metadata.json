@@ -252,6 +252,26 @@
       "_processing": {
         "log_file_created": "2026-05-13T14:11:06Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-24T13:06:02Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-24T13:06:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -353,6 +373,17 @@
       ],
       "date": "2026-05-12",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152532/votPS101.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-21",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -371,6 +402,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-13T14:11:06Z"
+    "logs_latest_update": "2026-05-24T13:06:02Z"
   }
 }

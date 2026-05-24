@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rc353"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -80,7 +84,7 @@
       }
     },
     {
-      "description": "Remitido a Comisi\u00f3n de Calendarios de la C\u00e1mara",
+      "description": "Remitido a Comisi\u00f3n de Calendarios y Reglas Especiales de Debate de la C\u00e1mara",
       "date": "2025-10-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -88,7 +92,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:39:48Z"
+        "log_file_created": "2026-05-24T13:06:02Z"
       }
     },
     {
@@ -166,6 +170,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T21:53:28Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica:  Sal\u00f3n de Audiencias #3",
+      "date": "2026-05-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-24T13:06:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -241,6 +255,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T21:53:28Z"
+    "logs_latest_update": "2026-05-24T13:06:02Z"
   }
 }

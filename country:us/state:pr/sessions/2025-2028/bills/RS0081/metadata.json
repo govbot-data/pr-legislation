@@ -478,6 +478,16 @@
       "_processing": {
         "log_file_created": "2026-05-22T14:22:52Z"
       }
+    },
+    {
+      "description": "Cuerpo recibe 7mo informe parcial rendido",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-24T13:06:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -667,6 +677,17 @@
       ],
       "date": "2026-05-18",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 7mo informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154128/votRS81.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-21",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -685,6 +706,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-22T14:22:52Z"
+    "logs_latest_update": "2026-05-24T13:06:02Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0458",
-  "title": "Para ordenar a la Comisi\u00f3n Planificaci\u00f3n, Permisos, Infraestructura y Urbanismo del\nSenado de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre la posible\ndestrucci\u00f3n, relleno y alteraci\u00f3n de un humedal localizado en el Barrio Bajuras del\nMunicipio de Isabela, identificado en el Catastro Digital de Puerto Rico como la finca\nn\u00famero 003-000-009-16, presuntamente propiedad de Hauger Martin, incluyendo la\nevaluaci\u00f3n de todo tr\u00e1mite de permisolog\u00eda relacionado, particularmente el\nexpediente 2022-471582-REA-011482 asociado a servicios de consultor\u00eda ambiental\ny permisolog\u00eda (\u201cScape\u201d); examinar el cumplimiento con la Ley N\u00fam. 161-2009,\nconocida como la Ley para la Reforma del Proceso de Permisos de Puerto Rico, el\nReglamento 4860 del Departamento de Recursos Naturales y Ambientales, el\nReglamento Conjunto de Permisos, as\u00ed como con las disposiciones aplicables de la\nClean Water Act de los Estados Unidos; requerir informaci\u00f3n a las agencias\npertinentes del Gobierno de Puerto Rico y al Municipio de Isabela, incluyendo la\nOficina de Gerencia de Permisos, la Junta de Planificaci\u00f3n, el Departamento de\nRecursos Naturales y Ambientales, y cualquier otra entidad con jurisdicci\u00f3n, para\ndeterminar si se han expedido permisos, endosos o autorizaciones relacionadas con\nel movimiento de tierra, relleno, construcci\u00f3n o alteraci\u00f3n del humedal; investigar\nsi se solicitaron o concedieron permisos federales aplicables, incluyendo aquellos\nbajo la jurisdicci\u00f3n del U.S. Army Corps of Engineers conforme a la Secci\u00f3n 404 de\nla Clean Water Act; examinar si el Municipio de Isabela otorg\u00f3 autorizaciones\nmunicipales o cobr\u00f3 patentes municipales o arbitrios de construcci\u00f3n por las\nactividades realizadas en el predio; rendir un informe con hallazgos, conclusiones y\nrecomendaciones dentro de un t\u00e9rmino no mayor de noventa (90) d\u00edas; y para otros\nfines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n Planificaci\u00f3n, Permisos, Infraestructura y Urbanismo del Senado de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre la posible destrucci\u00f3n, relleno y alteraci\u00f3n de un humedal localizado en el Barrio Bajuras del Municipio de Isabela, identificado en el Catastro Digital de Puerto Rico como la finca n\u00famero 003-000-009-16, presuntamente propiedad de Hauger Martin, incluyendo la evaluaci\u00f3n de todo tr\u00e1mite de permisolog\u00eda relacionado, particularmente el expediente 2022-471582-REA-011482 asociado a servicios de consultor\u00eda ambiental y permisolog\u00eda (\u201cScape\u201d); examinar el cumplimiento con la Ley N\u00fam. 161-2009, conocida como la Ley para la Reforma del Proceso de Permisos de Puerto Rico, el Reglamento 4860 del Departamento de Recursos Naturales y Ambientales, el Reglamento Conjunto de Permisos, as\u00ed como con las disposiciones aplicables de la Clean Water Act de los Estados Unidos; requerir informaci\u00f3n a las agencias pertinentes del Gobierno de Puerto Rico y al Municipio de Isabela, incluyendo la Oficina de Gerencia de Permisos, la Junta de Planificaci\u00f3n, el Departamento de Recursos Naturales y Ambientales, y cualquier otra entidad con jurisdicci\u00f3n, para determinar si se han expedido permisos, endosos o autorizaciones relacionadas con el movimiento de tierra, relleno, construcci\u00f3n o alteraci\u00f3n del humedal; investigar si se solicitaron o concedieron permisos federales aplicables, incluyendo aquellos bajo la jurisdicci\u00f3n del U.S. Army Corps of Engineers, conforme a la Secci\u00f3n 404 de la Clean Water Act; examinar si el Municipio de Isabela otorg\u00f3 autorizaciones municipales o cobr\u00f3 patentes municipales o arbitrios de construcci\u00f3n por las actividades realizadas en el predio; rendir un informe con hallazgos, conclusiones y recomendaciones dentro de un t\u00e9rmino no mayor de noventa (90) d\u00edas; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rs458"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -108,6 +112,16 @@
       "_processing": {
         "log_file_created": "2026-03-13T12:39:50Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Luis A. Negr\u00f3n L\u00f3pez",
+      "date": "2026-05-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-24T13:06:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -143,6 +157,17 @@
       ],
       "date": "2026-03-12",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160700/rs0458a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -161,6 +186,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:39:50Z"
+    "logs_latest_update": "2026-05-24T13:06:02Z"
   }
 }
