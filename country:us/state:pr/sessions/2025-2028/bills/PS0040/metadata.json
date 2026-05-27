@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0040",
-  "title": "Para enmendar los Art\u00edculos 26, 27, 28, 30 y 32 de la Ley N\u00fam. 134 de 28 de junio de 1969, seg\u00fan enmendada, conocida como \u201cLey de Explosivos de Puerto Rico\u201d a los fines de atemperar sus disposiciones y delitos al sistema de penas establecido en la Ley N\u00fam. 146 de 30 de julio de 2012, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Penal de Puerto Rico\u201d.",
+  "title": "Para enmendar los Art\u00edculos 26, 27, 28, 30 y 32 de la Ley N\u00fam. 134 de 28 de junio de 1969, seg\u00fan enmendada, conocida como \"Ley de Explosivos de Puerto Rico\", a los fines de atemperar sus disposiciones y delitos al sistema de penas establecido en la Ley N\u00fam. 146-2012, seg\u00fan enmendada, conocida como \"C\u00f3digo Penal de Puerto Rico\".",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -401,12 +401,22 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-05-14T04:00:00+00:00",
+      "date": "2026-05-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-16T13:04:24Z"
+        "log_file_created": "2026-05-27T14:59:16Z"
+      }
+    },
+    {
+      "description": "Ley 88-2026",
+      "date": "2026-05-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-27T14:59:16Z"
       }
     }
   ],
@@ -420,19 +430,19 @@
       "organization_id": null
     },
     {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -588,6 +598,17 @@
       ],
       "date": "2026-05-04",
       "classification": ""
+    },
+    {
+      "note": "Ley 88-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152430/Ley 88-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -606,6 +627,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-16T13:04:24Z"
+    "logs_latest_update": "2026-05-27T14:59:16Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0078",
-  "title": "\u201cPara designar la Carretera Estatal PR-4128, la cual discurre por el Desv\u00edo Sur de Lares, con el\nnombre de \u201cPaseo del Bicentenario\u201d, en conmemoraci\u00f3n del bicentenario de la fundaci\u00f3n del\nmunicipio de Lares; y para otros fines relacionados.\u201d",
+  "title": "Para designar la Carretera Estatal PR-4128, en su totalidad, la cual discurre por el Desv\u00edo Sur de Lares, con el nombre de \"Paseo del Bicentenario\", en conmemoraci\u00f3n del bicentenario de la fundaci\u00f3n del Municipio de Lares; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -283,12 +283,22 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-05-18T04:00:00+00:00",
+      "date": "2026-05-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-20T14:41:55Z"
+        "log_file_created": "2026-05-27T14:59:16Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  29-2026",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-27T14:59:16Z"
       }
     }
   ],
@@ -413,6 +423,17 @@
       ],
       "date": "2026-05-07",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  29-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/157967/Res. Conj. 29-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -431,6 +452,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-20T14:41:55Z"
+    "logs_latest_update": "2026-05-27T14:59:16Z"
   }
 }

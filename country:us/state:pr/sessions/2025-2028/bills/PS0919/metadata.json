@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0919",
-  "title": "Para enmendar el Art\u00edculo 6 de la Ley N\u00fam. 45 de 8 de 18 de abril de 1935, seg\u00fan\nenmendada, conocida como \u201cLey de Compensaciones por Accidentes del Trabajo\u201d,\na los fines ordenar al Departamento de Hacienda del Gobierno de Puerto Rico,\ndesembolsar el presupuesto anual de la Comisi\u00f3n Industrial, al inicio de cada a\u00f1o\nfiscal, y no de forma fragmentada; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 6 de la Ley N\u00fam. 45  de 18 de abril de 1935, seg\u00fan enmendada, conocida como \"Ley del Sistema de Compensaciones por Accidentes del Trabajo\", a los fines de proveer a la Comisi\u00f3n Industrial de Puerto Rico un mecanismo de financiamiento estable y predecible mediante la asignaci\u00f3n autom\u00e1tica de un cuatro por ciento (4%) de los ingresos por primas de la Corporaci\u00f3n del Fonda del Segura del Estado; establecer disposiciones sabre la certificaci\u00f3n y transferencia de dichos fondos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -339,12 +339,22 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-05-18T04:00:00+00:00",
+      "date": "2026-05-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-20T14:41:55Z"
+        "log_file_created": "2026-05-27T14:59:16Z"
+      }
+    },
+    {
+      "description": "Ley 91-2026",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-27T14:59:16Z"
       }
     }
   ],
@@ -488,6 +498,17 @@
       ],
       "date": "2026-05-07",
       "classification": ""
+    },
+    {
+      "note": "Ley 91-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159658/Ley 91-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -506,6 +527,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-20T14:41:55Z"
+    "logs_latest_update": "2026-05-27T14:59:16Z"
   }
 }

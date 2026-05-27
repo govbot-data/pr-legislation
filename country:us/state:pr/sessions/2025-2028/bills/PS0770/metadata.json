@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0770",
-  "title": "Para derogar la Ley N\u00fam. 212 de 16 de diciembre de 2014, conocida como \u201cLey de\nDesarrollo y Preservaci\u00f3n del Tren de Arroyo\u201d a los fines de eliminar del\nordenamiento jur\u00eddico un organismo interagencial inoperante desde 2015, evitar\nduplicidad administrativa y modernizar el andamiaje gubernamental de Puerto\nRico.",
+  "title": "Para derogar la Ley 212-2014, conocida como \"Ley de Desarrollo y Preservaci\u00f3n del Tren de Arroyo\", a fin de eliminar del ordenamiento jur\u00eddico un organismo interagencial  inoperante  desde  2015,  evitar  duplicidad  administrativa  y modernizar el andamiaje gubernamental de Puerto Rico.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -335,30 +335,40 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-05-14T04:00:00+00:00",
+      "date": "2026-05-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-16T13:04:24Z"
+        "log_file_created": "2026-05-27T14:59:16Z"
+      }
+    },
+    {
+      "description": "Ley 90-2026",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-27T14:59:16Z"
       }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -462,6 +472,17 @@
       ],
       "date": "2026-04-27",
       "classification": ""
+    },
+    {
+      "note": "Ley 90-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158975/Ley 90-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -480,6 +501,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-16T13:04:24Z"
+    "logs_latest_update": "2026-05-27T14:59:16Z"
   }
 }
