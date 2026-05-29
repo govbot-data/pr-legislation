@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0972",
-  "title": "Para enmendar los art\u00edculos 11, 236, 237, 238, 280 de la Ley 210-2015, seg\u00fan enmendada, conocida como la \u201cLey de Registro de la Propiedad Inmobiliaria del Estado Libre Asociado de Puerto Rico\u201d, a los fines de facilitar el tr\u00e1fico jur\u00eddico y minimizar los costos de las transacciones jur\u00eddicas a la ciudadan\u00eda; actualizar los requisitos del registrador de la propiedad; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 11 y 280 de la Ley 210-2015, seg\u00fan enmendada, conocida como la \"Ley de Registro de la Propiedad lmnobiliaria del Estado Libre Asociado de Puerto Rico\", y enmendar la Regla 55 de las Reglas de Procedimiento Civil de Puerto Rico, seg\u00fan enmendadas, a los fines de facilitar el tr\u00e1fico jur\u00eddico y minimizar los costos de las transacciones jur\u00eddicas a la ciudadan\u00eda; actualizar los requisitos de un abogado(a) para ser nombrado(a) Registrador de la Propiedad; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -354,6 +354,16 @@
       "_processing": {
         "log_file_created": "2026-05-28T15:33:13Z"
       }
+    },
+    {
+      "description": "Ley 94-2026",
+      "date": "2026-05-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:45:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -507,6 +517,17 @@
       ],
       "date": "2026-04-27",
       "classification": ""
+    },
+    {
+      "note": "Ley 94-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159403/Ley 94-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -525,6 +546,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-28T15:33:13Z"
+    "logs_latest_update": "2026-05-29T14:45:04Z"
   }
 }

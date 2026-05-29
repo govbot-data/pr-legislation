@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-05-24T13:06:02Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:45:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -195,6 +207,17 @@
       ],
       "date": "2026-05-21",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155480/rs0168a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-21",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -213,6 +236,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-24T13:06:02Z"
+    "logs_latest_update": "2026-05-29T14:45:04Z"
   }
 }

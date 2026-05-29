@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0389",
-  "title": "\u201cPara enmendar el apartado (a)(3)(L) inciso (iii) de la Secci\u00f3n 1031.02 de la Ley 1-2011, seg\u00fan\nenmendada, conocida como \u201cC\u00f3digo de Rentas Internas para un Nuevo Puerto Rico, a los fines de\nconferirle exenci\u00f3n contributiva a las obligaciones emitidas por el Patronato de Monumentos de San\nJuan, una entidad sin fines de lucro, cuyos fondos ser\u00e1n utilizados en la restauraci\u00f3n y\nmantenimiento de la Catedral de San Juan; y para otros fines relacionados.\u201d",
+  "title": "Para enmendar el apartado (a)(3)(L) inciso (iii) de la Secci\u00f3n 1031.02 de la Ley 1-2011, seg\u00fan enmendada, conocida como \"C\u00f3digo de Rentas Internas para un Nuevo Puerto Rico\", a los fines de conferirle exenci\u00f3n contributiva a las obligaciones emitidas por el Patronato de Monumentos de San Juan, una entidad sin fines de lucro, cuyos fondos ser\u00e1n utilizados en la restauraci\u00f3n y mantenimiento de la Catedral de San Juan; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -271,12 +271,22 @@
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-05-18T04:00:00+00:00",
+      "date": "2026-05-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-20T14:41:55Z"
+        "log_file_created": "2026-05-29T14:45:04Z"
+      }
+    },
+    {
+      "description": "Ley 93-2026",
+      "date": "2026-05-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:45:04Z"
       }
     }
   ],
@@ -398,6 +408,17 @@
       ],
       "date": "2026-05-07",
       "classification": ""
+    },
+    {
+      "note": "Ley 93-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154118/Ley 93-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -416,6 +437,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-20T14:41:55Z"
+    "logs_latest_update": "2026-05-29T14:45:04Z"
   }
 }

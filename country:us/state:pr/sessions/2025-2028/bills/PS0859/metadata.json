@@ -302,6 +302,26 @@
       "_processing": {
         "log_file_created": "2026-05-27T14:59:16Z"
       }
+    },
+    {
+      "description": "C\u00e1mara aprueba informe de Comisi\u00f3n de Conferencia",
+      "date": "2026-05-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:45:04Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-05-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:45:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -433,6 +453,17 @@
       ],
       "date": "2026-05-22",
       "classification": ""
+    },
+    {
+      "note": "C\u00e1mara aprueba informe de Comisi\u00f3n de Conferencia",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159435/PS0859 Inf. Conf..pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -451,6 +482,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-27T14:59:16Z"
+    "logs_latest_update": "2026-05-29T14:45:04Z"
   }
 }
