@@ -74,7 +74,7 @@
       }
     },
     {
-      "description": "Remitido a Comisi\u00f3n de Calendarios de la C\u00e1mara",
+      "description": "Remitido a Comisi\u00f3n de Calendarios y Reglas Especiales de Debate de la C\u00e1mara",
       "date": "2025-06-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -82,7 +82,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:39:43Z"
+        "log_file_created": "2026-05-30T13:08:05Z"
       }
     },
     {
@@ -140,13 +140,33 @@
       }
     },
     {
-      "description": "Inspecci\u00f3n Ocular:  Bah\u00eda Bioluminiscente Puerto Mosquito",
+      "description": "Inspecci\u00f3n Ocular:  Bah\u00eda Bioluminiscente Puerto Mosquito, Vieques",
       "date": "2026-04-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-11T12:39:25Z"
+        "log_file_created": "2026-05-30T13:08:05Z"
+      }
+    },
+    {
+      "description": "Informe Final rendido Comisi\u00f3n(es)",
+      "date": "2026-05-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-30T13:08:05Z"
+      }
+    },
+    {
+      "description": "Informe Final Remitido a Comisi\u00f3n de Calendarios y Reglas Especiales de Debate de la C\u00e1mara",
+      "date": "2026-05-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-30T13:08:05Z"
       }
     }
   ],
@@ -213,6 +233,17 @@
       ],
       "date": "2025-06-30",
       "classification": ""
+    },
+    {
+      "note": "Informe Final rendido Comisi\u00f3n(es)",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155464/RC0294-if.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-05-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -231,6 +262,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T12:39:25Z"
+    "logs_latest_update": "2026-05-30T13:08:05Z"
   }
 }
