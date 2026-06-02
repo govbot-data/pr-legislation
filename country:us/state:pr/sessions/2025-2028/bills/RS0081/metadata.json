@@ -488,6 +488,26 @@
       "_processing": {
         "log_file_created": "2026-05-24T13:06:02Z"
       }
+    },
+    {
+      "description": "8vo Informe Parcial rendido",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-02T16:06:08Z"
+      }
+    },
+    {
+      "description": "Informe Parcial Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-02T16:06:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -688,6 +708,17 @@
       ],
       "date": "2026-05-21",
       "classification": ""
+    },
+    {
+      "note": "8vo Informe Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154128/rs0081-Inf (8vo parcial).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-01",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -706,6 +737,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-24T13:06:02Z"
+    "logs_latest_update": "2026-06-02T16:06:08Z"
   }
 }

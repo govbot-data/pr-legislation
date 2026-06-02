@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0050",
-  "title": "Para enmendar el Art\u00edculo 621 de la Ley de Procedimientos Legales Especiales del C\u00f3digo de Enjuiciamiento Civil de Puerto Rico de 1933, seg\u00fan enmendada, con el prop\u00f3sito de disponer para que en los casos en que la parte demandada en desahucio reclama la existencia de una comunidad de bienes debido a que realiz\u00f3 aportaciones econ\u00f3micas y labor dom\u00e9stica en beneficio del inmueble compartido, podr\u00e1 presentar prueba a esos efectos y exigir que el desahucio se dilucide mediante la v\u00eda ordinaria; y para otros fines.",
+  "title": "Para enmendar los Art\u00edculos 621 y 627 de la Ley de Procedimientos Legales Especiales del C\u00f3digo de Enjuiciamiento Civil de Puerto Rico, seg\u00fan enmendada, con el prop\u00f3sito de disponer que en los casos en que la parte demandada en desahucio reclama la existencia de una comunidad de bienes debido a que realiz\u00f3 aportaciones en beneficio del inmueble compartido, podr\u00e1 presentar prueba a esos efectos y exigir que el desahucio se dilucide mediante la v\u00eda ordinaria; y para otros fines.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -265,50 +265,60 @@
     },
     {
       "description": "Firmado por el Presidente del Senado",
-      "date": "2026-05-21T04:00:00+00:00",
+      "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-22T14:22:52Z"
+        "log_file_created": "2026-06-02T16:06:08Z"
       }
     },
     {
       "description": "Firmado por el Presidente de la C\u00e1mara",
-      "date": "2026-05-21T04:00:00+00:00",
+      "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-22T14:22:52Z"
+        "log_file_created": "2026-06-02T16:06:08Z"
       }
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-05-21T04:00:00+00:00",
+      "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-27T14:59:16Z"
+        "log_file_created": "2026-06-02T16:06:08Z"
+      }
+    },
+    {
+      "description": "Ley 95-2026",
+      "date": "2026-05-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-02T16:06:08Z"
       }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -423,6 +433,17 @@
       ],
       "date": "2026-05-14",
       "classification": ""
+    },
+    {
+      "note": "Ley 95-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152599/Ley 95-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -441,6 +462,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-27T14:59:16Z"
+    "logs_latest_update": "2026-06-02T16:06:08Z"
   }
 }
