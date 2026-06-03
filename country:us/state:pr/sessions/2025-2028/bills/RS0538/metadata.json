@@ -50,16 +50,6 @@
       }
     },
     {
-      "description": "En el Calendario de Ordenes Especiales del Senado",
-      "date": "2026-06-01T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-06-02T16:06:08Z"
-      }
-    },
-    {
       "description": "Aprobado por el Senado conforme a la Regla 18.3",
       "date": "2026-06-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -131,6 +121,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-02T16:06:08Z"
+    "logs_latest_update": "2026-06-03T16:21:08Z"
   }
 }

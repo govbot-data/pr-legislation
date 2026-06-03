@@ -339,52 +339,48 @@
     },
     {
       "description": "Firmado por el Presidente del Senado",
-      "date": "2026-05-21T04:00:00+00:00",
+      "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-22T14:22:53Z"
+        "log_file_created": "2026-06-03T16:21:08Z"
       }
     },
     {
       "description": "Firmado por el Presidente de la C\u00e1mara",
-      "date": "2026-05-21T04:00:00+00:00",
+      "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-22T14:22:53Z"
+        "log_file_created": "2026-06-03T16:21:08Z"
       }
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-05-21T04:00:00+00:00",
+      "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-27T14:59:16Z"
+        "log_file_created": "2026-06-03T16:21:08Z"
+      }
+    },
+    {
+      "description": "Veto Expreso",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:21:08Z"
       }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Migdalia   Padilla Alvelo - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Migdalia   Padilla Alvelo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -402,11 +398,19 @@
       "organization_id": null
     },
     {
-      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -418,11 +422,19 @@
       "organization_id": null
     },
     {
-      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Migdalia   Padilla Alvelo - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Migdalia   Padilla Alvelo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -434,11 +446,11 @@
       "organization_id": null
     },
     {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -564,6 +576,17 @@
       ],
       "date": "2026-05-14",
       "classification": ""
+    },
+    {
+      "note": "Veto Expreso",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159082/ps0781-veto expreso.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-01",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -582,6 +605,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-27T14:59:16Z"
+    "logs_latest_update": "2026-06-03T16:21:08Z"
   }
 }

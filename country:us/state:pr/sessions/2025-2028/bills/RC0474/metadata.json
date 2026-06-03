@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0474",
-  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Norte de la C\u00e1mara de Representantes del Gobierno de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre los problemas recurrentes de funcionamiento, mantenimiento y reparaci\u00f3n de los sem\u00e1foros en los municipios que componen el Distrito Representativo 13 (Arecibo, Manat\u00ed, Barceloneta y Florida), y el impacto que esta situaci\u00f3n tiene sobre la seguridad vial, el flujo vehicular y la calidad de vida de los residentes y transe\u00fantes.",
+  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Norte de la C\u00e1mara de Representantes del Gobierno de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre los problemas recurrentes de funcionamiento, mantenimiento y reparaci\u00f3n de los sem\u00e1foros ubicados en el Distrito Representativo 13, compuesto por los municipios de Arecibo, Manat\u00ed, Barceloneta y Florida, la respuesta y gesti\u00f3n del Departamento de Transportaci\u00f3n y Obras P\u00fablicas y la Autoridad de Carreteras y Transportaci\u00f3n ante dichas deficiencias, y los efectos de dicha problem\u00e1tica en la seguridad vial, el flujo vehicular y la calidad de vida de los residentes y transe\u00fantes de dichos municipios; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-06-02T16:06:08Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:21:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -184,6 +196,17 @@
       ],
       "date": "2026-05-28",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159029/RC0474-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-01",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -202,6 +225,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-02T16:06:08Z"
+    "logs_latest_update": "2026-06-03T16:21:08Z"
   }
 }

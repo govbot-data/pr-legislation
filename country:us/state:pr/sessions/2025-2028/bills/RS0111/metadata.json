@@ -558,6 +558,46 @@
       "_processing": {
         "log_file_created": "2026-05-30T13:08:05Z"
       }
+    },
+    {
+      "description": "7mo Informe Parcial rendido",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:21:08Z"
+      }
+    },
+    {
+      "description": "8vo Informe Parcial rendido",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:21:08Z"
+      }
+    },
+    {
+      "description": "9no Informe Parcial rendido",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:21:08Z"
+      }
+    },
+    {
+      "description": "Informe Parcial Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:21:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -714,6 +754,39 @@
       ],
       "date": "2026-05-29",
       "classification": ""
+    },
+    {
+      "note": "7mo Informe Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs0111-inf (7mo Parcial).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-01",
+      "classification": ""
+    },
+    {
+      "note": "8vo Informe Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs0111-inf (8vo Parcial).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-01",
+      "classification": ""
+    },
+    {
+      "note": "9no Informe Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs0111-inf (9no Parcial).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-01",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -732,6 +805,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-30T13:08:05Z"
+    "logs_latest_update": "2026-06-03T16:21:08Z"
   }
 }
