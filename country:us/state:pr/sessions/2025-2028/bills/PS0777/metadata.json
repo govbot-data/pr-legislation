@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0777",
-  "title": "Para enmendar la Ley 107-2020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Municipal\nde Puerto Rico\u201d en sus Art\u00edculos 1.008 (h); 1.019 (j); 1.020; 1.022; 1.037 (a) y (b);\n1.053; 2.002; 2.006; 2.014 y para a\u00f1adir un nuevo inciso (d); 2.018 (a)(10); 2.019;\n2.050; 2.055; 2.059; 2.061; 2.085; 3.042 (36); 4.009 (c); 4.010 y los incisos (a), (d) y (e) y\npara a\u00f1adir dos nuevos incisos (f) y (g); 4.011 (b); 4.012; 4.012A y los incisos (f) y\n(g); 4.014; 6.007; 6.016; 7.200 para a\u00f1adir un nuevo inciso (k); y 8.001; a los fines de\na\u00f1adir enmiendas sustantivas y t\u00e9cnicas para una ejecuci\u00f3n m\u00e1s efectiva de los\ndeberes y funciones municipales; promover la autonom\u00eda administrativa de los\ngobiernos municipales conforme la pol\u00edtica p\u00fablica establecida en el C\u00f3digo\nMunicipal; y para otros fines relacionados.",
+  "title": "Para enmendar la Ley 107-2020, seg\u00fan enmendada, conocida como \"C\u00f3digo Municipal de Puerto Rico\" en sus Art\u00edculos 1.008 (h); 1.019 (j); 1.020; 1.022; 1.037 (a) y (b); 1.053;\n2.006; 2.014 y para a\u00f1adir un nuevo inciso (d); 2.018 (a)(l0); 2.019; 2.050; 2.055; 2.059;\n2.061; 2.085; 3.042 (36); 4.009 (c); 4.010 y los incisos (a), (d) y (e) y para a\u00f1adir dos nuevos incisos (f) y (g); 4.011 (b); 4.012; 4.012A y los incisos (f) y (g); 4.014; 6.007; 6.016; 7.200 para a\u00f1adir un nuevo inciso (k); y 8.001; a los fines de a\u00f1adir enmiendas t\u00e9cnicas; aclarar el alcance de  la facultad municipal  para adquirir o aceptar propiedades declaradas estorbo p\u00fablico y fortalecer los mecanismos procesales; conceder mayor flexibilidad a los alcaldes respecto al manejo del tiempo en el sometimiento de informes; aclarar que la Legislatura Municipal podr\u00e1 componerse de hasta un n\u00famero m\u00e1ximo de miembros elegibles; aclarar las definiciones de sesiones ordinarias y sesiones extraordinarias; incorporar al Director de la Oficina de Ordenaci\u00f3n  Territorial  o  al  Oficial  de  Permisos  municipal  dentro  de  las disposiciones de inmunidad; crear el puesto de Director de la Unidad de Auditor\u00eda Interna; aclarar el alcance de la nulidad contractual conforme a la Ley 215-2024; aclarar la no obligaci\u00f3n de consignaci\u00f3n en acciones de expropiaci\u00f3n; autorizar la adquisici\u00f3n  de  inmuebles  sin  consulta  previa; flexibilizar  los requisitos  del Coordinador de Reciclaje municipal; flexibilizar procesos de retracto, planificaci\u00f3n territorial y clasificaci\u00f3n de puestos clave; atemperar la patente municipal sobre contratos  municipales;  modificar  las  definiciones  de  \"Estorbo  P\u00fablico\"  y \"Obligaciones Estatutarias\"; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -239,32 +239,42 @@
     },
     {
       "description": "Firmado por el Presidente del Senado",
-      "date": "2026-05-21T04:00:00+00:00",
+      "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-22T14:22:53Z"
+        "log_file_created": "2026-06-04T14:40:29Z"
       }
     },
     {
       "description": "Firmado por el Presidente de la C\u00e1mara",
-      "date": "2026-05-21T04:00:00+00:00",
+      "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-22T14:22:53Z"
+        "log_file_created": "2026-06-04T14:40:29Z"
       }
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-05-21T04:00:00+00:00",
+      "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-27T14:59:16Z"
+        "log_file_created": "2026-06-04T14:40:29Z"
+      }
+    },
+    {
+      "description": "Ley 97-2026",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-04T14:40:29Z"
       }
     }
   ],
@@ -367,6 +377,17 @@
       ],
       "date": "2026-05-14",
       "classification": ""
+    },
+    {
+      "note": "Ley 97-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159052/Ley 97-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-01",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -385,6 +406,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-27T14:59:16Z"
+    "logs_latest_update": "2026-06-04T14:40:29Z"
   }
 }
