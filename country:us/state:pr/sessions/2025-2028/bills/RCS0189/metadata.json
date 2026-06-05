@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0189",
-  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas confeccionar, dise\u00f1ar\ny expedir una tablilla y una licencia de conducir conmemorativa del\nSemiquincentenario de los Estados Unidos, a partir del 1 de julio de 2026 hasta el 30\nde junio de 2027; disponer sobre el dise\u00f1o y los requisitos para adquirirla; ordenar\nal Secretario del Departamento de Hacienda y al Secretario del Departamento de\nTransportaci\u00f3n y Obras P\u00fablicas aprobar y/o enmendar las normas, reglas y\nreglamentos necesarios y convenientes; ordenar al Departamento de Estado la\ncreaci\u00f3n y apertura de una tienda de memorabilia y recuerdos alusivos a esta\nfestividad y para otros fines relacionados.\nEXPOSICI\u00d3N DE MOTIVO",
+  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas confeccionar, dise\u00f1ar\ny expedir una tablilla y una licencia de conducir conmemorativa del\nSemiquincentenario de los Estados Unidos, a partir del 1 de julio de 2026 hasta el 30\nde junio de 2027; disponer sobre el dise\u00f1o y los requisitos para adquirirla; ordenar\nal Secretario del Departamento de Hacienda y al Secretario del Departamento de\nTransportaci\u00f3n y Obras P\u00fablicas aprobar y/o enmendar las normas, reglas y\nreglamentos necesarios y convenientes; ordenar al Departamento de Estado la\ncreaci\u00f3n y apertura de una tienda de memorabilia y recuerdos alusivos a esta\nfestividad y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -114,6 +114,74 @@
       "_processing": {
         "log_file_created": "2026-05-29T14:45:04Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:29:48Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:29:48Z"
+      }
+    },
+    {
+      "description": "Descargado en C\u00e1mara",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:29:48Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:29:48Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:29:48Z"
+      }
+    },
+    {
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:29:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -157,6 +225,28 @@
       ],
       "date": "2026-05-28",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161355/rcs0189-26 (A-119) (1).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-28",
+      "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161355/RCS0189 votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -175,6 +265,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-29T14:45:04Z"
+    "logs_latest_update": "2026-06-05T14:29:48Z"
   }
 }

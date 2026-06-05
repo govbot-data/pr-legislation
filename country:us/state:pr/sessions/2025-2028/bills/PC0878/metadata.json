@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0878",
-  "title": "Para a\u00f1adir un subinciso (5) al inciso (b) del Art\u00edculo 7 y a\u00f1adir un inciso 24 al Art\u00edculo 10 de la Ley 151-2004, seg\u00fan enmendada, conocida como \"Ley de Gobierno Electr\u00f3nico\", a los fines de establecer el deber de mantener en el portal electr\u00f3nico principal del Gobierno de Puerto Rico y en la p\u00e1gina electr\u00f3nica de sus agencias e instrumentalidades, un enlace que permita el acceso al portal del Registro de Personas Convictas por Delitos Sexuales y Abuso Contra Menores, y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un inciso 24 al Art\u00edculo 10 de la Ley 151-2004, seg\u00fan enmendada, conocida como \"Ley de Gobierno Electr\u00f3nico\", a los fines de establecer en el portal electr\u00f3nico principal del Gobierno de Puerto Rico un enlace que permita el acceso al portal del Registro de Personas Convictas por Delitos Sexuales y Abuso Contra Menores, y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -270,6 +270,16 @@
       "_processing": {
         "log_file_created": "2026-05-28T15:33:13Z"
       }
+    },
+    {
+      "description": "Ley 101-2026",
+      "date": "2026-06-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:29:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -382,6 +392,17 @@
       ],
       "date": "2026-04-27",
       "classification": ""
+    },
+    {
+      "note": "Ley 101-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158753/Ley 101-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -400,6 +421,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-28T15:33:13Z"
+    "logs_latest_update": "2026-06-05T14:29:48Z"
   }
 }

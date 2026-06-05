@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0804",
-  "title": "Para enmendar la Ley 76-2006, seg\u00fan enmendada, conocida como la \u201cLey para Reglamentar la Profesi\u00f3n de Tecn\u00f3logos Radiol\u00f3gicos en Im\u00e1genes de Diagn\u00f3stico y Tecn\u00f3logos en Radioterapia en Puerto Rico\u201d a los fines de autorizar a la Junta Examinadora a expedir licencias provisionales para que los T\u00e9cnicos en Radiolog\u00eda y T\u00e9cnicos en Radioterapia en Puerto Rico puedan practicar, bajo la direcci\u00f3n m\u00e9dica y la supervisi\u00f3n de un M\u00e9dico Radi\u00f3logo o de un Radionc\u00f3logo y/o F\u00edsico, seg\u00fan sea el caso, luego de haber solicitado y ser admitido por primera vez a tomar el examen de rev\u00e1lida.",
+  "title": "Para enmendar el Art\u00edculo 13 de la Ley 76-2006, seg\u00fan enmendada, conocida como la \"Ley para Reglamentar la Profesi\u00f3n de Tecn\u00f3logos Radiol\u00f3gicos en Im\u00e1genes de Diagn\u00f3stico y Tecn\u00f3logos en Radioterapia en Puerto Rico\" a los fines de autorizar a la Junta Examinadora a expedir licencias provisionales para que los T\u00e9cnicos en Radiolog\u00eda y T\u00e9cnicos en Radioterapia en Puerto Rico puedan practicar, bajo la direcci\u00f3n m\u00e9dica y la supervisi\u00f3n de un M\u00e9dico Radi\u00f3logo o de un Radionc\u00f3logo y/o F\u00edsico, seg\u00fan sea el caso, luego de haber solicitado y ser admitido por primera vez a tomar el examen de rev\u00e1lida.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -290,6 +290,16 @@
       "_processing": {
         "log_file_created": "2026-05-28T15:33:13Z"
       }
+    },
+    {
+      "description": "Ley 100-2026",
+      "date": "2026-06-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:29:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -402,6 +412,17 @@
       ],
       "date": "2026-05-12",
       "classification": ""
+    },
+    {
+      "note": "Ley 100-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158080/Ley 100-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -420,6 +441,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-28T15:33:13Z"
+    "logs_latest_update": "2026-06-05T14:29:48Z"
   }
 }

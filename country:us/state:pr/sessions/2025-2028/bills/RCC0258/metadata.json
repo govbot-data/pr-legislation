@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0258",
-  "title": "Para designar con el nombre de \u201cDr. Luis Manuel \u2018Ma\u00f1\u00e9\u2019 Collazo Romero\u201d, el Centro de Diagn\u00f3stico y Tratamiento del Municipio de Culebra, para honrar la memoria y reconocer su trayectoria y aportaci\u00f3n como profesional de la salud y para otros fines relacionados.",
+  "title": "Para designar con el nombre de \"Dr. Luis Manuel 'Ma\u00f1\u00e9' Collazo Romero\" el Centro de Diagn\u00f3stico y Tratamiento del Municipio de Culebra, para honrar la memoria y reconocer su trayectoria y aportaci\u00f3n como profesional de la salud y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -258,6 +258,16 @@
       "_processing": {
         "log_file_created": "2026-05-28T15:33:13Z"
       }
+    },
+    {
+      "description": "Res. Conj.  30-2026",
+      "date": "2026-06-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:29:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -378,6 +388,17 @@
       ],
       "date": "2026-05-04",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  30-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159631/Res. Conj. 30-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -396,6 +417,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-28T15:33:13Z"
+    "logs_latest_update": "2026-06-05T14:29:48Z"
   }
 }

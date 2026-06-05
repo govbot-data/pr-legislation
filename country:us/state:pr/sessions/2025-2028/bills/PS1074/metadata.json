@@ -104,6 +104,26 @@
       "_processing": {
         "log_file_created": "2026-04-18T12:43:02Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:29:48Z"
+      }
+    },
+    {
+      "description": "Derrotado a viva voz",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:29:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -127,6 +147,17 @@
         }
       ],
       "date": "2026-02-10",
+      "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160420/ps1074-Inf_compressed.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-17",
       "classification": ""
     },
     {
@@ -157,6 +188,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-18T12:43:02Z"
+    "logs_latest_update": "2026-06-05T14:29:48Z"
   }
 }

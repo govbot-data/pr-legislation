@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0255",
-  "title": "Para a\u00f1adir un nuevo inciso (c) al Art\u00edculo 3, y a\u00f1adir un nuevo Art\u00edculo 6-A a la Ley N\u00fam. 364-2000, seg\u00fan enmendada, conocida como \u201cLey de Agencias de Informes de Cr\u00e9dito\u201d; y a\u00f1adir los incisos (14) y (15) al Art\u00edculo 17 de la Ley N\u00fam. 143-1968, seg\u00fan enmendada, conocida como \u201cLey de Agencias de Cobros\u201d; con el prop\u00f3sito de prohibir la pr\u00e1ctica de reportar a las agencias de cr\u00e9dito informaci\u00f3n de los consumidores relacionadas a deudas por gastos m\u00e9dicos; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo inciso (c) al Art\u00edculo 3, y a\u00f1adir un nuevo Art\u00edculo 6-A, a la Ley\n364-2000, seg\u00fan enmendada, conocida como \"Ley de Agendas de lnformes de Cr\u00e9dito\"; y a\u00f1adir los incisos (14) y (15) al Art\u00edculo 17 de la Ley Num. 143 de 27 de junio de 1968, seg\u00fan enmendada, conocida como \"Ley de Agendas de Cobros\"; con el prop\u00f3sito de prohibir la pr\u00e1ctica de reportar a las agendas de cr\u00e9dito informad6n de los consumidores relacionadas a deudas por gastos m\u00e9dicos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -418,6 +418,16 @@
       "_processing": {
         "log_file_created": "2026-05-24T13:06:02Z"
       }
+    },
+    {
+      "description": "Ley 98-2026",
+      "date": "2026-06-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:29:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -596,6 +606,17 @@
       ],
       "date": "2026-05-14",
       "classification": ""
+    },
+    {
+      "note": "Ley 98-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153086/Ley 98-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -614,6 +635,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-24T13:06:02Z"
+    "logs_latest_update": "2026-06-05T14:29:48Z"
   }
 }
