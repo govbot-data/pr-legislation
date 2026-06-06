@@ -250,6 +250,16 @@
       "_processing": {
         "log_file_created": "2026-05-29T14:45:04Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-06T13:13:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -340,6 +350,17 @@
       ],
       "date": "2026-05-28",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159060/PC0932 enrolado.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-05-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -358,6 +379,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-29T14:45:04Z"
+    "logs_latest_update": "2026-06-06T13:13:31Z"
   }
 }
