@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0187",
-  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP), en coordinaci\u00f3n con el Puerto Rico Innovation and Technology Service (PRITS), que realicen la programaci\u00f3n necesaria para que se puedan adjuntar una certificaci\u00f3n de validaci\u00f3n de direcci\u00f3n a trav\u00e9s de la aplicaci\u00f3n de CESCO Digital cuando la persona a renovar su licencia reside en la residencia de sus padres o de alg\u00fan familiar y no tiene alguna evidencia de direcci\u00f3n a su nombre.",
+  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP), en coordinaci\u00f3n con el Puerto Rico Innovation and Technology Service (PRITS), que realicen la programaci\u00f3n necesaria, para que se pueda adjuntar una certificaci\u00f3n de validaci\u00f3n de direcci\u00f3n a trav\u00e9s de la aplicaci\u00f3n de CESCO Digital, cuando la persona a renovar su licencia resida en la residencia de sus padres o de alg\u00fan familiar y no tiene alguna evidencia de direcci\u00f3n a su nombre; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -280,6 +280,16 @@
       "_processing": {
         "log_file_created": "2026-05-28T15:33:13Z"
       }
+    },
+    {
+      "description": "Res. Conj.  30-2026",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-09T14:31:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -392,6 +402,17 @@
       ],
       "date": "2026-04-27",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  30-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158197/Res. Conj. 31-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -410,6 +431,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-28T15:33:13Z"
+    "logs_latest_update": "2026-06-09T14:31:05Z"
   }
 }

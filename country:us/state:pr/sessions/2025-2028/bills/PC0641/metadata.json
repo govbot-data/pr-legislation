@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0641",
-  "title": "Para establecer la la \u201cLey para Controlar la Amenaza Porcina a Nuestros Agricultores\u201d, con el objetivo de ordenarle al Secretario del Departamento de Recursos Naturales y Ambientales que de manera excepcional autorice la caza de cerdos salvajes a todo agricultor que as\u00ed se vea afectado por la presencia de \u00e9stos en sus fincas, sin necesidad de requerir una licencia o permiso especial seg\u00fan dispone el Art\u00edculo 16 (a) de la Ley N\u00fam. 241-1999, seg\u00fan enmendada, mejor conocida como la \u201cNueva Ley de Vida Silvestre de Puerto Rico\u201d, en aras de proteger y salvaguardar la sostenibilidad alimentaria de nuestra Isla; facultar tambi\u00e9n al Secretario consultar y recibir el apoyo del Departamento de Agricultura y/o cualquiera otra entidad gubernamental, tanto a nivel federal como estatal; coordinar con el Departamento de Agricultura todo lo referente al manejo y disposici\u00f3n de los cerdos una vez cazados y para otros fines.",
+  "title": "Para establecer  la \u201cLey para Controlar la Amenaza Porcina a Nuestros Agricultores\u201d, con el objetivo de ordenarle al Secretario del Departamento de Recursos Naturales y Ambientales que de manera excepcional autorice la caza de cerdos salvajes a todo agricultor que as\u00ed se vea afectado por la presencia de \u00e9stos en sus fincas, mediante la otorgaci\u00f3n de un permiso especial de caza no deportiva para control poblacional, seg\u00fan dispone el Art\u00edculo 16 (a) de la Ley N\u00fam. 241-1999, seg\u00fan enmendada, mejor conocida como la \u201cNueva Ley de Vida Silvestre de Puerto Rico\u201d; enmendar el Reglamento n\u00famero 6765, Para Regir la Conservaci\u00f3n y el Manejo de la Vida Silvestre, las Especies Ex\u00f3ticas y la Caza en el Estado Libre Asociado de Puerto Rico con el fin de a\u00f1adir al cerdo salvaje en el Ap\u00e9ndice n\u00famero 2: Animales y Plantas Invasoras (Da\u00f1inos), en aras de proteger y salvaguardar la sostenibilidad alimentaria de nuestra Isla; facultar tambi\u00e9n al Secretario consultar y recibir el apoyo del Departamento de Agricultura y/o cualquiera otra entidad gubernamental, tanto a nivel federal como estatal; coordinar con el Departamento de Agricultura todo lo referente al manejo y disposici\u00f3n de los cerdos una vez cazados  y para otros fines.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -288,6 +288,16 @@
       "_processing": {
         "log_file_created": "2026-05-28T15:33:13Z"
       }
+    },
+    {
+      "description": "Ley 102-2026",
+      "date": "2026-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-09T14:31:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -411,6 +421,17 @@
       ],
       "date": "2026-04-27",
       "classification": ""
+    },
+    {
+      "note": "Ley 102-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155730/Ley 102-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-03",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -429,6 +450,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-28T15:33:13Z"
+    "logs_latest_update": "2026-06-09T14:31:05Z"
   }
 }

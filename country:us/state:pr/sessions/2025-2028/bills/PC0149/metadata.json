@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0149",
-  "title": "Para enmendar los art\u00edculos 2, 3 y 4 de la Ley 389-2004, mediante la cual se estableci\u00f3 un denominado \u201cPrograma de Oportunidades Financieras a J\u00f3venes Empresariales\u201d, adscrito al Banco de Desarrollo Econ\u00f3mico para Puerto Rico, con el prop\u00f3sito de otorgarle a la antes mencionada instituci\u00f3n financiera, la responsabilidad de desarrollar un sistema de referidos a las agencias llamadas a conceder beneficios gubernamentales, expedir certificaciones, permisos y otros, para expeditar dichos procesos en beneficio de los j\u00f3venes empresarios participantes; hacer correcciones t\u00e9cnicas; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 2, 3 y 4 de la Ley 389-2004, mediante la cual se estableci\u00f3 un denominado \u201cPrograma de Oportunidades Financieras a J\u00f3venes Empresariales\u201d, adscrito al Banco de Desarrollo Econ\u00f3mico para Puerto Rico, con el prop\u00f3sito de otorgarle a la antes mencionada instituci\u00f3n financiera, la responsabilidad de desarrollar un sistema de referidos a las agencias llamadas a conceder beneficios gubernamentales, expedir certificaciones, permisos y otros, para expeditar dichos procesos en beneficio de los j\u00f3venes empresarios participantes; hacer correcciones t\u00e9cnicas; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -410,6 +410,16 @@
       "_processing": {
         "log_file_created": "2026-05-28T15:33:13Z"
       }
+    },
+    {
+      "description": "Ley 103-2026",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-09T14:31:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -577,6 +587,17 @@
       ],
       "date": "2026-04-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 103-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152789/Ley 103-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -595,6 +616,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-28T15:33:13Z"
+    "logs_latest_update": "2026-06-09T14:31:05Z"
   }
 }

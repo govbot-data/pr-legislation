@@ -70,6 +70,38 @@
       "_processing": {
         "log_file_created": "2026-06-03T16:21:08Z"
       }
+    },
+    {
+      "description": "1er Informe Conjunto Comisiones rendido con enmiendas",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-09T14:31:05Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-09T14:31:05Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-09T14:31:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -94,6 +126,28 @@
       ],
       "date": "2025-10-16",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Conjunto Comisiones rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159068/PC0936-i.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-08",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159068/PC0936-ee.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-06-08",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -112,6 +166,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-03T16:21:08Z"
+    "logs_latest_update": "2026-06-09T14:31:05Z"
   }
 }
