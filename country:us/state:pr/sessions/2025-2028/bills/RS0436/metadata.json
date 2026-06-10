@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0436",
-  "title": "Para ordenar a la Comisi\u00f3n del Trabajo y Relaciones Laborales del Senado de Puerto\nRico, a llevar a cabo una investigaci\u00f3n sobre las condiciones laborales y necesidades\ndel Cuartel Estatal del Polic\u00eda de Puerto Rico del Municipio de Yabucoa y para otros\nfines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Trabajo y Relaciones Laborales del Senado de Puerto Rico, llevar a cabo una investigaci\u00f3n exhaustiva sobre las condiciones de infraestructura y mantenimiento en que se encuentran los cuarteles de la Polic\u00eda de Puerto Rico en el Distrito de Humacao, incluyendo las condiciones laborales y necesidades del Cuartel Estatal de la Polic\u00eda de Puerto Rico del Municipio de Yabucoa.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -128,6 +128,16 @@
       "_processing": {
         "log_file_created": "2026-05-05T13:20:46Z"
       }
+    },
+    {
+      "description": "Inspecci\u00f3n Ocular: Cuartel de la Polic\u00eda de Yabucoa",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:57:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -185,6 +195,17 @@
       ],
       "date": "2026-05-04",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160525/rs0436a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -203,6 +224,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-06T13:49:26Z"
+    "logs_latest_update": "2026-06-10T14:57:55Z"
   }
 }

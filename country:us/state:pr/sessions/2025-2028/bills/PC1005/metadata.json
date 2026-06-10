@@ -114,6 +114,52 @@
       "_processing": {
         "log_file_created": "2026-06-08T15:33:41Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:57:55Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:57:55Z"
+      }
+    },
+    {
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:57:55Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:57:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -123,6 +169,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jos\\u00e9   Hern\\u00e1ndez  Concepci\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emilio   Carlo  Acosta - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Emilio   Carlo  Acosta - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -160,6 +214,28 @@
       ],
       "date": "2026-04-24",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159589/PC1005 votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-08",
+      "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159589/PC1005-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-08",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -178,6 +254,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-08T15:33:41Z"
+    "logs_latest_update": "2026-06-10T14:57:55Z"
   }
 }

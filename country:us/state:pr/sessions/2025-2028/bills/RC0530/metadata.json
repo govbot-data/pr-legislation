@@ -158,6 +158,26 @@
       "_processing": {
         "log_file_created": "2026-06-09T14:31:05Z"
       }
+    },
+    {
+      "description": "Informe Final rendido Comisi\u00f3n(es)",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:57:55Z"
+      }
+    },
+    {
+      "description": "Informe Final Remitido a Comisi\u00f3n de Calendarios y Reglas Especiales de Debate de la C\u00e1mara",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:57:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -215,6 +235,17 @@
       ],
       "date": "2026-04-23",
       "classification": ""
+    },
+    {
+      "note": "Informe Final rendido Comisi\u00f3n(es)",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159553/RC0530-if.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-08",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -233,6 +264,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-09T14:31:05Z"
+    "logs_latest_update": "2026-06-10T14:57:55Z"
   }
 }

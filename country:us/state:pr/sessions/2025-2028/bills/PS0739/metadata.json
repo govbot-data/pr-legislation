@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-ps739"
+    }
+  ],
   "actions": [
     {
       "description": "Radicado",
@@ -146,23 +150,33 @@
       "_processing": {
         "log_file_created": "2026-01-20T12:33:21Z"
       }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T14:57:55Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -216,11 +230,22 @@
       "note": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/158721/ps0723a-26.docx",
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158721/ps0739a-26.docx",
           "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
       "date": "2026-01-12",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158721/PS0739-n.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-09",
       "classification": ""
     }
   ],
@@ -240,6 +265,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-20T12:33:21Z"
+    "logs_latest_update": "2026-06-10T14:57:55Z"
   }
 }
