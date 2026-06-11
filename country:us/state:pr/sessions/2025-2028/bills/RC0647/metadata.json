@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0647",
-  "title": "Para realizar una minuciosa investigaci\u00f3n sobre el cumplimiento de personas o empresas dedicadas a venta de mascotas, con permisos y/o requisitos legales aplicables a negocios ambulantes; y para otros fines relacionados.",
+  "title": "Para ordenar a las comisiones de Asuntos Municipales; y de Hacienda de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre el cumplimiento de personas o empresas dedicadas a venta de mascotas, con los permisos y/o requisitos legales aplicables a negocios ambulantes, en ventas directas o por medio del internet o medios mecanizados; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-06-05T14:29:48Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:39:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +184,17 @@
       ],
       "date": "2026-06-01",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160656/RC0647-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -190,6 +213,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-05T14:29:48Z"
+    "logs_latest_update": "2026-06-11T15:39:46Z"
   }
 }

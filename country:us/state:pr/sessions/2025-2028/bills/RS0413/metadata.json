@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0413",
-  "title": "Para ordenar a la Comisi\u00f3n de Planificaci\u00f3n, Permisos, Infraestructura y Urbanismo del Senado de Puerto Rico a realizar una investigaci\u00f3n exhaustiva en torno a la interrupci\u00f3n del servicio de agua potable en el barrio Arrozal, sector Los Muertos, del Municipio de Arecibo; las razones por las que a\u00fan no han culminado los trabajos correctivos; examinar la facturaci\u00f3n emitida por la Autoridad de Acueductos y Alcantarillados durante dicho periodo; evaluar la razonabilidad de las suspensiones del servicio por falta de pago relacionadas con facturas emitidas en ausencia de suministro; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Planificaci\u00f3n, Permisos, Infraestructura y Urbanismo del Senado de Puerto Rico a realizar una investigaci\u00f3n exhaustiva en torno a la interrupci\u00f3n del servicio de agua potable en el Municipio de Arecibo, particularmente en el barrio Arrozal, sector Los Muertos; evaluar la razonabilidad de las suspensiones del servicio por falta de pago relacionadas con facturas emitidas en ausencia de suministro; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -150,6 +150,26 @@
       "_processing": {
         "log_file_created": "2026-03-25T12:51:03Z"
       }
+    },
+    {
+      "description": "Informe Final rendido Comisi\u00f3n(es)",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:39:46Z"
+      }
+    },
+    {
+      "description": "Informe Final Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:39:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -207,6 +227,28 @@
       ],
       "date": "2026-03-23",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160121/rs0413a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Informe Final rendido Comisi\u00f3n(es)",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160121/rs0413-Inf (Final).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -225,6 +267,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T12:51:03Z"
+    "logs_latest_update": "2026-06-11T15:39:46Z"
   }
 }
