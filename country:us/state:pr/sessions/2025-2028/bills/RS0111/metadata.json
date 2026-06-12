@@ -598,6 +598,36 @@
       "_processing": {
         "log_file_created": "2026-06-03T16:21:08Z"
       }
+    },
+    {
+      "description": "10mo Informe Parcial rendido",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:39:55Z"
+      }
+    },
+    {
+      "description": "11mo Informe Parcial rendido",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:39:55Z"
+      }
+    },
+    {
+      "description": "Informe Parcial Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:39:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -787,6 +817,28 @@
       ],
       "date": "2026-06-01",
       "classification": ""
+    },
+    {
+      "note": "10mo Informe Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs0111-inf (10mo Parcial).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-11",
+      "classification": ""
+    },
+    {
+      "note": "11mo Informe Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs0111-inf (11mo Parcial).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-11",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -805,6 +857,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-03T16:21:08Z"
+    "logs_latest_update": "2026-06-12T14:39:55Z"
   }
 }

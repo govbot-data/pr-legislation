@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0101",
-  "title": "Para a\u00f1adir un nuevo inciso 47 y renumerar los antiguos incisos 47 a 114 como los nuevos incisos 48 a 115 del Art\u00edculo 2.3 del Cap\u00edtulo II, a\u00f1adir un nuevo inciso 18 al Art\u00edculo 5.1 del Cap\u00edtulo V y enmendar el Art\u00edculo 12.7 y a\u00f1adir un nuevo Art\u00edculo 12.27 al Cap\u00edtulo XII de la Ley 58-2020, seg\u00fan enmendada, mejor conocida como \u201cC\u00f3digo Electoral de Puerto Rico de 2020\u201d; a los fines de incluir como derecho del elector conocer si cualquier propaganda, anuncio o comunicado fue generado parcial o completamente mediante la utilizaci\u00f3n o por medio de Inteligencia Artificial; y a\u00f1adir la definici\u00f3n de \u201cInteligencia Artificial\u201d; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo inciso 39 y renumerar los actuales incisos 39 al 74 como los nuevos incisos 40 al 75 del Art\u00edculo 2.004; enmendar los Art\u00edculos 7.007 y 7.009 del Cap\u00edtulo II, de la Ley 222-2011, seg\u00fan enmendada, conocida como \"Ley para la Fiscalizaci\u00f3n de las Campa\u00f1as Pol\u00edticas en Puerto Rico\", y enmendar el Art\u00edculo 12.7 del Cap\u00edtulo XII de la Ley 58-2020, seg\u00fan enmendada, conocida como \"C\u00f3digo Electoral de Puerto Rico de 2020\"; a los fines de incluir como derecho del elector conocer si cualquier propaganda, anuncio o comunicado fue generado parcial o completamente mediante la  utilizaci\u00f3n  o  por  medio  de  Inteligencia  Artificial; a\u00f1adir  la  definici\u00f3n de \"Inteligencia Artificial\" y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -302,6 +302,16 @@
       "_processing": {
         "log_file_created": "2026-06-06T13:13:31Z"
       }
+    },
+    {
+      "description": "Ley 105-2026",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:39:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -425,6 +435,17 @@
       ],
       "date": "2026-05-21",
       "classification": ""
+    },
+    {
+      "note": "Ley 105-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152532/Ley 105-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -443,6 +464,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-06T13:13:31Z"
+    "logs_latest_update": "2026-06-12T14:39:55Z"
   }
 }

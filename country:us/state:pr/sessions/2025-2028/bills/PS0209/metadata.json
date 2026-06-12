@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0209",
-  "title": "Para enmendar los art\u00edculos 13, 14, 15, 16, 17, 18 , 25 y 28 de la Ley 171-2014, seg\u00fan\nenmendada, com\u00fanmente llamada \"Ley para Establecer el Programa de Desarrollo\nde Ia Industria Cinematogr\u00e1fica, el Programa de Desarrollo de la ]uventud, y el\nPrograma de Desarrollo y Adiestramiento de la Fuerza Laboral de Puerto Rico\ndentro del Departamento de Desarrollo Econ\u00f3mico y Comercio\", con el prop\u00f3sito\nde renombrar el \"Programa de Desarrollo Laboral\", como \"Conexi\u00f3n Laboral\";\nactualizar las disposiciones relativas a la normativa federal sobre el manejo y\nasignaci\u00f3n de los fondos otorgados para los servicios y actividades a j\u00f3venes,\nadultos y trabajadores desplazados; reconfigurar los componentes de la \"Junta\nEstatal de Inversi\u00f3n en la Fuerza\" y, a su vez, renombrarla como \"Junta Estatal de\nDesarrollo Laboral\"; hacer correcciones tecnicas en la Ley; y para otros fines\nrelacionados",
+  "title": "Para enmendar el Cap\u00edtulo III, los art\u00edculos 20, 21, 22, 23, 24, 25, 32 y 35 de la Ley 171-2014, seg\u00fan enmendada, com\u00fanmente llamada \"Ley para Establecer el Programa de Desarrollo de la Industria Cinematogr\u00e1fica, el Programa de Desarrollo de la Juventud, y el Programa de Desarrollo y Adiestramiento de la Fuerza Laboral de Puerto Rico dentro del Departamento de Desarrollo Econ\u00f3mico y Comercio\", con el prop\u00f3sito de renombrar el \"Programa de Desarrollo Laboral\", como \"Conexi\u00f3n Laboral\"; actualizar las disposiciones relativas a la normativa federal sobre el manejo y asignaci\u00f3n de los fondos otorgados para los servicios y actividades a j\u00f3venes, adultos y trabajadores desplazados; reconfigurar los componentes de la \"Junta Estatal de Inversi\u00f3n en la Fuerza\" y, a su vez, renombrarla como \"Junta Estatal de Desarrollo Laboral\"; enmendar el inciso (u) del Art\u00edculo 4 del Plan de Reorganizaci\u00f3n 4-1994, seg\u00fan enmendado, com\u00fanmente llamada como \"Plan de Reorganizaci\u00f3n del Departamento de Desarrollo Econ\u00f3mico y Comercio de 1994\", a fin de atemperar dicho Plan, con la presente Ley; hacer correcciones t\u00e9cnicas en la Ley; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -312,6 +312,16 @@
       "_processing": {
         "log_file_created": "2026-06-06T13:13:31Z"
       }
+    },
+    {
+      "description": "Ley 106-2026",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-12T14:39:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -435,6 +445,17 @@
       ],
       "date": "2026-05-26",
       "classification": ""
+    },
+    {
+      "note": "Ley 106-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152898/Ley 106-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -453,6 +474,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-06T13:13:31Z"
+    "logs_latest_update": "2026-06-12T14:39:55Z"
   }
 }
