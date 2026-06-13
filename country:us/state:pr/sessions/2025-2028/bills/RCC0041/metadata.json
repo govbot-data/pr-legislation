@@ -162,13 +162,13 @@
       }
     },
     {
-      "description": "Se retira 1er Informe",
+      "description": "Se retira 2do Informe",
       "date": "2026-05-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-19T14:41:35Z"
+        "log_file_created": "2026-06-13T13:42:56Z"
       }
     },
     {
@@ -189,6 +189,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-06-12T14:39:55Z"
+      }
+    },
+    {
+      "description": "3er Informe Comisi\u00f3n rendido sin enmiendas",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:42:56Z"
+      }
+    },
+    {
+      "description": "Remitido a Comisi\u00f3n de Calendarios de la C\u00e1mara",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:42:56Z"
       }
     }
   ],
@@ -247,6 +269,17 @@
       ],
       "date": "2026-02-26",
       "classification": ""
+    },
+    {
+      "note": "3er Informe Comisi\u00f3n rendido sin enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153357/RCC0041-i 3ro.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-11",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -265,6 +298,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-12T14:39:55Z"
+    "logs_latest_update": "2026-06-13T13:42:56Z"
   }
 }
