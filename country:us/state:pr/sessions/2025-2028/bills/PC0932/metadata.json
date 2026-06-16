@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0932",
-  "title": "Para enmendar los Art\u00edculos 5(a) y 6(c) de la Ley N\u00fam. 106 de 28 de junio de 1965, seg\u00fan enmendada, conocida como \u201cLey de Pr\u00e9stamos Personales Peque\u00f1os\u201d, a los fines de revisar el requisito de activos m\u00ednimos que se le requiere a todo concesionario que otorga pr\u00e9stamos de cuant\u00edas bajas; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 5(a) y 6(c) de la Ley Num. 106 de 28 de junio de 1965, seg\u00fan emendada, conocida como \"Ley de Pr\u00e9stamos Personales Peque\u00f1os\", a los fines de revisar el requisito de activos m\u00ednimos que se le requiere a todo concesionario que otorga prestamos de cuant\u00edas bajas; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -270,6 +270,26 @@
       "_processing": {
         "log_file_created": "2026-06-10T14:57:55Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:27:41Z"
+      }
+    },
+    {
+      "description": "Ley 110-2026",
+      "date": "2026-06-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:27:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -371,6 +391,17 @@
       ],
       "date": "2026-05-28",
       "classification": ""
+    },
+    {
+      "note": "Ley 110-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159060/Ley 110-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -389,6 +420,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:57:55Z"
+    "logs_latest_update": "2026-06-16T16:27:41Z"
   }
 }

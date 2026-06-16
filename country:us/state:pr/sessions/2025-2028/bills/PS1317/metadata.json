@@ -17,14 +17,38 @@
   "actions": [
     {
       "description": "Radicado",
-      "date": "2026-07-05T04:00:00+00:00",
+      "date": "2026-06-12T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-15T17:02:28Z"
+        "log_file_created": "2026-06-16T16:27:41Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-06-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:27:41Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:27:41Z"
       }
     }
   ],
@@ -48,7 +72,7 @@
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-07-05",
+      "date": "2026-06-12",
       "classification": ""
     }
   ],
@@ -68,6 +92,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-15T17:02:28Z"
+    "logs_latest_update": "2026-06-16T16:27:41Z"
   }
 }

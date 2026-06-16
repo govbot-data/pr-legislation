@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0276",
-  "title": "Para designar con el nombre de \u201cGerardo Osorio Ramos\u201d a la Carretera Estatal PR-989, ubicada en el Municipio de Vieques, por sus aportaciones y servicio a la comunidad viequense, dejando tras de s\u00ed un legado de solidaridad, compromiso comunitario y amor profundo por Vieques; establecer sobre su rotulaci\u00f3n; y para otros fines relacionados.",
+  "title": "Para designar la Carretera Estatal PR-989, en el Municipio de Vieques, con el nombre de \"Gerardo Osorio Ramos\", en honor a sus aportaciones y servicios a la comunidad viequense, dejando un legado de solidaridad, compromiso comunitario y amor profundo por Vieques; establecer sobre su rotulaci6n; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -344,6 +344,26 @@
       "_processing": {
         "log_file_created": "2026-06-10T14:57:55Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:27:41Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  32-2026",
+      "date": "2026-06-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:27:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -489,6 +509,17 @@
       ],
       "date": "2026-06-04",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  32-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160261/Res. Conj. 32-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -507,6 +538,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T14:57:55Z"
+    "logs_latest_update": "2026-06-16T16:27:41Z"
   }
 }

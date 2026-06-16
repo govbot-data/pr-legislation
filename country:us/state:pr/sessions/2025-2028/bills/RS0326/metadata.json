@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0326",
-  "title": "Para ordenar a la Comisi\u00f3n de Turismo, Recursos Naturales y Ambientales del Senado de Puerto Rico, a realizar una investigaci\u00f3n sobre el cumplimiento de la Compa\u00f1\u00eda de Turismo de Puerto Rico con las disposiciones del Art\u00edculo 26 de la Ley 272-2003, conocida como \u201cLey del Impuesto sobre el Canon por Ocupaci\u00f3n de Habitaci\u00f3n del Estado Libre Asociado de Puerto Rico\u201d seg\u00fan enmendada, sobre la notificaci\u00f3n a los municipios del registro de entidades dedicadas al negocio de Alojamientos Suplementarios a Corto Plazo (short term rentals); y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Turismo, Recursos Naturales y Ambientales del Senado\nde Puerto Rico, realizar una investigaci\u00f3n sobre el cumplimiento de la Compa\u00f1\u00eda de\nTurismo de Puerto Rico con las disposiciones del Art\u00edculo 26 de la Ley 272-2003,\nconocida como \u201cLey del Impuesto sobre el Canon por Ocupaci\u00f3n de Habitaci\u00f3n del\nEstado Libre Asociado de Puerto Rico\u201d, seg\u00fan enmendada, en torno al requisito de\nnotificaci\u00f3n a los municipios del registro de entidades dedicadas al negocio de\nAlojamientos Suplementarios a Corto Plazo (short term rentals); y para otros fines\nrelacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -150,6 +150,16 @@
       "_processing": {
         "log_file_created": "2026-05-05T13:20:46Z"
       }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:27:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -207,6 +217,28 @@
       ],
       "date": "2026-05-04",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158952/rs0326a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158952/rs0326a-26 enmendada por la RS 545 (1).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-11",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -225,6 +257,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-05T13:20:46Z"
+    "logs_latest_update": "2026-06-16T16:27:41Z"
   }
 }

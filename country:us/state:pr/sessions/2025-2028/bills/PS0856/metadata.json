@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0856",
-  "title": "Para enmendar el Cap\u00edtulo 44 del C\u00f3digo de Seguros de Puerto Rico, Ley N\u00fam. 77 de 19 de junio de 1957, seg\u00fan enmendada, a los fines de atemperar sus disposiciones a las enmiendas introducidas por la Asociaci\u00f3n Nacional de Comisionados de Seguros (NAIC, por sus siglas en ingl\u00e9s) a la ley modelo \u201cInsurance Holding Company System Regulatory Act\u201d.",
+  "title": "Para a\u00f1adir los nuevos incisos (K), (L), (M) y (N) al Art\u00edculo 44.010; enmendar los Art\u00edculos 44.050, 44.060 y 44.080 de la Ley Num. 77 de 19 de junio de 1957, seg\u00fan enmendada, conocida como, \"C\u00f3digo de Seguros de Puerto Rico\", a los fines de atemperar sus disposiciones a las enmiendas introducidas por la Asociaci\u00f3n Nacional de Comisionados de Seguros (NAIC, por sus siglas en ingles) a la Ley Modelo \"Insurance Holding Company System Regulntory Act\"; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -327,40 +327,50 @@
     },
     {
       "description": "Firmado por el Presidente de la C\u00e1mara",
-      "date": "2026-06-11T04:00:00+00:00",
+      "date": "2026-06-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-15T17:02:28Z"
+        "log_file_created": "2026-06-16T16:27:41Z"
       }
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-06-11T04:00:00+00:00",
+      "date": "2026-06-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-15T17:02:28Z"
+        "log_file_created": "2026-06-16T16:27:41Z"
+      }
+    },
+    {
+      "description": "Ley 111-2026",
+      "date": "2026-06-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:27:41Z"
       }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -486,6 +496,17 @@
       ],
       "date": "2026-05-28",
       "classification": ""
+    },
+    {
+      "note": "Ley 111-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159414/Ley 111-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -504,6 +525,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-15T17:02:28Z"
+    "logs_latest_update": "2026-06-16T16:27:41Z"
   }
 }

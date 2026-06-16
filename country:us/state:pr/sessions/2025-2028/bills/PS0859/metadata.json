@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0859",
-  "title": "\u201cPara enmendar la Regla 131.1 de las Reglas de Procedimiento Criminal de 1963, seg\u00fan enmendadas, a los fines de proveer para que los adultos mayores v\u00edctimas de los delitos de maltrato, explotaci\u00f3n financiera, agresi\u00f3n f\u00edsica o sexual, puedan brindar su testimonio fuera de sala, mediante el sistema televisivo de circuito cerrado; y para otros fines relacionados.\u201d",
+  "title": "Para enmendar la Regla 131.1 de las Reglas de Procedimiento Criminal de 1963, seg\u00fan enmendadas, a los fines de proveer para que los adultos mayores v\u00edctimas de los delitos  de  maltrato,  explotaci\u00f3n  financiera,  agresi\u00f3n  f\u00edsica  o  sexual, incumplimiento de la obligaci\u00f3n alimentaria, abandono de personas de edad avanzada, o negligencia en el cuidado de personas de edad avanzada, puedan brindar su testimonio fuera de sala, mediante el sistema televisivo de circuito cerrado; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -352,23 +352,33 @@
       "_processing": {
         "log_file_created": "2026-06-15T17:02:28Z"
       }
+    },
+    {
+      "description": "Ley 109-2026",
+      "date": "2026-06-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:27:41Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -505,6 +515,17 @@
       ],
       "date": "2026-05-28",
       "classification": ""
+    },
+    {
+      "note": "Ley 109-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159435/Ley 109-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -523,6 +544,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-15T17:02:28Z"
+    "logs_latest_update": "2026-06-16T16:27:41Z"
   }
 }
