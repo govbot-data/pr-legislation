@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0427",
-  "title": "Para ordenar al Departamento de Justicia y a la Oficina de la Procuradora de las Mujeres \nrealizar un estudio conjunto sobre la incidencia, modalidades y estrategias \npreventivas de la violencia cibern\u00e9tica contra mujeres en redes sociales y \nplataformas digitales en Puerto Rico; identificar patrones de acoso digital, \nciberacoso sexual, doxing, difusi\u00f3n no consentida de im\u00e1genes \u00edntimas y amenazas \nen l\u00ednea; evaluar la respuesta actual del sistema de justicia y proponer \nrecomendaciones para fortalecer la prevenci\u00f3n, persecuci\u00f3n y protecci\u00f3n de las \nv\u00edctimas sin impacto fiscal adicional; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Familia, Mujer, Personas de la Tercera Edad y Poblaci\u00f3n con Diversidad Funcional e Impedimentos del Senado de Puerto Rico realizar un estudio  sobre la incidencia, modalidades y estrategias preventivas de la violencia cibern\u00e9tica contra mujeres en redes sociales y plataformas digitales en Puerto Rico; identificar patrones de acoso digital, ciberacoso sexual, doxing, difusi\u00f3n no consentida de im\u00e1genes \u00edntimas y amenazas en l\u00ednea; evaluar la respuesta actual del sistema de justicia y proponer recomendaciones para fortalecer la prevenci\u00f3n, persecuci\u00f3n y protecci\u00f3n de las v\u00edctimas sin impacto fiscal adicional; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-06-12T14:39:55Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:55:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -195,6 +207,17 @@
       ],
       "date": "2026-06-11",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160268/rs0427a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-11",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -213,6 +236,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-12T14:39:55Z"
+    "logs_latest_update": "2026-06-17T14:55:32Z"
   }
 }

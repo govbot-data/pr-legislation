@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "PC1314",
   "title": "Para enmendar el inciso (40) del Art\u00edculo 1.03 del Cap\u00edtulo I; y enmendar el Art\u00edculo 2.06 del Cap\u00edtulo II de la Ley N\u00fam. 85-2018, seg\u00fan enmendada, conocida como \u201cLey de Reforma Educativa de Puerto Rico\u201d, a fin de reconocer expresamente a los Superintendentes Escolares, Superintendentes Auxiliares y Gerentes de Operaciones como personal docente del Departamento de Educaci\u00f3n de Puerto Rico; disponer su integraci\u00f3n dentro de la estructura organizacional de la Oficina Regional Educativa; y restituir derechos y beneficios laborales previamente reconocidos.",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
@@ -26,6 +26,30 @@
       "_processing": {
         "log_file_created": "2026-06-16T16:27:41Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:55:32Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:55:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -39,7 +63,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161518/PC1314.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-15",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -56,6 +92,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-16T16:27:41Z"
+    "logs_latest_update": "2026-06-17T14:55:32Z"
   }
 }

@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RC0729",
   "title": "Para ordenar a las Comisiones de Educaci\u00f3n; y de Trabajo y Asuntos Laborales de la C\u00e1mara de Representantes del Estado Libre Asociado de Puerto Rico realizar un an\u00e1lisis y revisi\u00f3n abarcadora en torno a la proyecci\u00f3n de demanda de empleo futura y las destrezas y conocimientos b\u00e1sicos requeridos para que el sistema educativo en todos los niveles de ense\u00f1anza p\u00fablica de Puerto Rico responda a esas necesidades.",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
   ],
@@ -26,6 +26,30 @@
       "_processing": {
         "log_file_created": "2026-06-16T16:27:41Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:55:32Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T14:55:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -39,7 +63,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161520/RC0729.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-06-15",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -56,6 +92,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-16T16:27:41Z"
+    "logs_latest_update": "2026-06-17T14:55:32Z"
   }
 }
