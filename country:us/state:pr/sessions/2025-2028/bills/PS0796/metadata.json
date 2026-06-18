@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0796",
-  "title": "Para declarar el mes de octubre de cada a\u00f1o como \u201cEl Mes de la Concientizaci\u00f3n Sobre Leptospirosis \u201cen Puerto Rico, establecer responsabilidades y otros fines relacionados.",
+  "title": "Para declarar el mes de octubre de cada a\u00f1o como \"El Mes de la Concientizaci\u00f3n Sobre Leptospirosis\" en Puerto Rico, dotar al Departamento de Salud de facultades para implantaci\u00f3n de las actividades establecidas en esta Ley; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -248,9 +248,45 @@
       "_processing": {
         "log_file_created": "2026-06-15T17:02:28Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-06-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:51:22Z"
+      }
+    },
+    {
+      "description": "Ley 113-2026",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:51:22Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juan O. Morales Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Juan O. Morales Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -268,27 +304,11 @@
       "organization_id": null
     },
     {
-      "name": "Juan O. Morales Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Juan O. Morales Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -389,6 +409,17 @@
       ],
       "date": "2026-06-01",
       "classification": ""
+    },
+    {
+      "note": "Ley 113-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159114/Ley 113-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-16",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -407,6 +438,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-15T17:02:28Z"
+    "logs_latest_update": "2026-06-18T14:51:22Z"
   }
 }

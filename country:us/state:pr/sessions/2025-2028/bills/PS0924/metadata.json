@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0924",
-  "title": "Para derogar el Art\u00edculo 44 del C\u00f3digo Pol\u00edtico de Puerto Rico de 1902, seg\u00fan\nenmendado, a los fines de eliminar lo relacionado al efecto de la derogaci\u00f3n de una\nley creando un delito, por haberse quedado sin efecto tras la aprobaci\u00f3n de la\nConstituci\u00f3n de Puerto Rico de 1952 y de legislaci\u00f3n posterior.",
+  "title": "Para derogar el Art\u00edculo 44 del C\u00f3digo Pol\u00edtico de Puerto Rico de 1902, seg\u00fan enmendado, a  los  fines  de  conformar  coherentemente  nuestro ordenamiento jur\u00eddico con las disposiciones de la Ley Num. 146-2012, seg\u00fan enmendada, conocida corno \"C\u00f3digo Penal de Puerto Rico\", en lo que respecta a la supresi\u00f3n de delitos, encausamiento, sobreseimiento de acciones y nulidad de sentencias condenatorias, as\u00ed como, al principio de favorabilidad y de reserva; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -248,23 +248,43 @@
       "_processing": {
         "log_file_created": "2026-06-15T17:02:28Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-06-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:51:22Z"
+      }
+    },
+    {
+      "description": "Ley 114-2026",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:51:22Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -357,6 +377,17 @@
       ],
       "date": "2026-06-04",
       "classification": ""
+    },
+    {
+      "note": "Ley 114-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159663/Ley 114-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-16",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -375,6 +406,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-15T17:02:28Z"
+    "logs_latest_update": "2026-06-18T14:51:22Z"
   }
 }

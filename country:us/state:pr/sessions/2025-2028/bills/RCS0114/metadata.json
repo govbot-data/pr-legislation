@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0114",
-  "title": "Para designar con el nombre de \u201cJos\u00e9 A. \u201c\u00d1in\u201d Rivera Rodr\u00edguez, el Ramal 8141, en la jurisdicci\u00f3n del Municipio de Jayuya, en un merecido reconocimiento a este Jayuyano destacado por su trayectoria de liderazgo comunitario y entrega al servicio p\u00fablico como alcalde de Jayuya.",
+  "title": "Para designar con el nombre de \"Jos\u00e9 A. \"Nin\" Rivera Rodr\u00edguez\", el Ramal 5141, en la jurisdicci\u00f3n del Municipio de Jayuya, en  un  merecido reconocimiento a este distinguido jayuyano, destacado par su trayectoria de liderazgo comunitario y entrega al servicio p\u00fablico coma alcalde del antes mencionado pueblo; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -236,15 +236,35 @@
       "_processing": {
         "log_file_created": "2026-06-15T17:02:28Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-06-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:51:22Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  33-2026",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:51:22Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Juan O. Morales Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Juan O. Morales Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -256,11 +276,11 @@
       "organization_id": null
     },
     {
-      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Juan O. Morales Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Juan O. Morales Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -353,6 +373,17 @@
       ],
       "date": "2026-06-04",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  33-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159648/Res. Conj. 33-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-16",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -371,6 +402,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-15T17:02:28Z"
+    "logs_latest_update": "2026-06-18T14:51:22Z"
   }
 }

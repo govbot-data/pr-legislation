@@ -236,23 +236,45 @@
       "_processing": {
         "log_file_created": "2026-06-05T14:29:48Z"
       }
+    },
+    {
+      "description": "1er Informe de Comit\u00e9 de Conferencia rendido",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:51:22Z"
+      }
+    },
+    {
+      "description": "Entirillado Electr\u00f3nico Informe de Conferencia",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-18T14:51:22Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -323,6 +345,28 @@
       ],
       "date": "2026-05-28",
       "classification": ""
+    },
+    {
+      "note": "1er Informe de Comit\u00e9 de Conferencia rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158999/PS0772-ieec.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-16",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado Electr\u00f3nico Informe de Conferencia",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158999/PS0772-eec.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-16",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -341,6 +385,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-05T14:29:48Z"
+    "logs_latest_update": "2026-06-18T14:51:22Z"
   }
 }
