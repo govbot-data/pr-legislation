@@ -258,6 +258,16 @@
       "_processing": {
         "log_file_created": "2026-06-18T14:51:22Z"
       }
+    },
+    {
+      "description": "C\u00e1mara aprueba informe de Comisi\u00f3n de Conferencia",
+      "date": "2026-06-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:46:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -367,6 +377,17 @@
       ],
       "date": "2026-06-16",
       "classification": ""
+    },
+    {
+      "note": "C\u00e1mara aprueba informe de Comisi\u00f3n de Conferencia",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158999/PS0772 Inf. Conf..pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -385,6 +406,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-18T14:51:22Z"
+    "logs_latest_update": "2026-06-19T14:46:42Z"
   }
 }
