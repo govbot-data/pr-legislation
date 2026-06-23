@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0107",
-  "title": "Para adoptar la \u201cLey de Remedios Civiles para la Protecci\u00f3n de Animales\u201d, con el prop\u00f3sito de establecer remedios civiles como medida para combatir el maltrato, la crueldad, el abandono y el abuso animal en Puerto Rico; y para otros fines relacionados.",
+  "title": "Para crear la \"Ley de Remedios Civiles para la Protecci\u00f3n de  Animales\", con el prop\u00f3sito de establecer un remedio civil como medida para combatir el maltrato, la crueldad, el abandono  y el abuso animal en Puerto Rico; y para  otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -352,6 +352,16 @@
       "_processing": {
         "log_file_created": "2026-06-15T17:02:28Z"
       }
+    },
+    {
+      "description": "Ley 115-2026",
+      "date": "2026-06-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-23T14:31:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -516,6 +526,17 @@
       ],
       "date": "2026-05-28",
       "classification": ""
+    },
+    {
+      "note": "Ley 115-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152620/Ley 115-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -534,6 +555,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-15T17:02:28Z"
+    "logs_latest_update": "2026-06-23T14:31:55Z"
   }
 }
