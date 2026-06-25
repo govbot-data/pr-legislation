@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS1016",
-  "title": "Para enmendar el Art\u00edculo 1343 de la Ley 55-2020, seg\u00fan enmendada, conocida como\n\u201cC\u00f3digo Civil de Puerto Rico\u201d, a los fines de disponer que el requisito de constar por\nescrito aplicar\u00e1 \u00fanicamente a los contratos de arrendamiento cuyo t\u00e9rmino exceda de\nseis (6) a\u00f1os; y para otros fines relacionados.",
+  "title": "Para enmendar el Articulo 1343 de la Ley N\u00fam. 55-2020, seg\u00fan enmendada, conocida corno \"C\u00f3digo Civil de Puerto Rico\", a fin de disponer que el requisito de constar por escrito aplicar\u00e1 \u00fanicamente a los contratos de arrendamiento sobre bienes inmuebles cuyo t\u00e9rmino exceda de seis (6) a\u00f1os.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -275,32 +275,42 @@
     },
     {
       "description": "Firmado por el Presidente de la C\u00e1mara",
-      "date": "2026-06-18T04:00:00+00:00",
+      "date": "2026-06-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-19T14:46:42Z"
+        "log_file_created": "2026-06-25T14:08:25Z"
       }
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-06-19T04:00:00+00:00",
+      "date": "2026-06-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-20T13:44:01Z"
+        "log_file_created": "2026-06-25T14:08:25Z"
+      }
+    },
+    {
+      "description": "Ley 122-2026",
+      "date": "2026-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-25T14:08:25Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "H\u00e9ctor  J. S\u00e1nchez \u00c1lvarez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -320,6 +330,14 @@
       "organization_id": null
     },
     {
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
       "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
@@ -328,19 +346,11 @@
       "organization_id": null
     },
     {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "H\u00e9ctor  J. S\u00e1nchez \u00c1lvarez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -444,6 +454,17 @@
       ],
       "date": "2026-06-11",
       "classification": ""
+    },
+    {
+      "note": "Ley 122-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160207/Ley 122-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -462,6 +483,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-20T13:44:01Z"
+    "logs_latest_update": "2026-06-25T14:08:25Z"
   }
 }

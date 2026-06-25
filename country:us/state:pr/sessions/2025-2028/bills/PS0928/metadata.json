@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0928",
-  "title": "Para enmendar los Art\u00edculo 6 y 7 de la Ley 183-1998, seg\u00fan enmendada, conocida como\nla \u201cLey de Compensaci\u00f3n y Servicios a las V\u00edctimas y Testigos de Delito\u201d para\nestablecer a las v\u00edctimas de trata humana como elegibles para que la Oficina pueda\nconceder compensaci\u00f3n por da\u00f1os ocurridos a causa de ser v\u00edctimas de dicho delito;\ny para que no le aplique a estas v\u00edctimas el impedimento para recibir compensaci\u00f3n\nsi cometieren delitos durante su condici\u00f3n de v\u00edctimas de trata; y para otros fines\nrelacionados.",
+  "title": "Para enmendar los Art\u00edculos 6 y 7 de la Ley Num.183-1998, seg\u00fan enmendada, conocida como la \"Ley de Compensaci6n y Servicios a las V\u00edctimas y Testigos de Delito\", para incluir a las v\u00edctimas de trata humana como elegibles para que la Oficina de Compensaci\u00f3n y Servicios a las V\u00edctimas y Testigos de Delito pueda concederles compensaci\u00f3n por da\u00f1os ocurridos a causa de ser v\u00edctimas de dicho delito; y para que no le aplique a estas v\u00edctimas el impedimento para recibir compensaci\u00f3n si cometieren delitos durante su condici\u00f3n de v\u00edctimas de trata.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -292,6 +292,16 @@
       "_processing": {
         "log_file_created": "2026-06-20T13:44:01Z"
       }
+    },
+    {
+      "description": "Ley 121-2026",
+      "date": "2026-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-25T14:08:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -412,6 +422,17 @@
       ],
       "date": "2026-06-08",
       "classification": ""
+    },
+    {
+      "note": "Ley 121-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159667/Ley 121-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -430,6 +451,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-20T13:44:01Z"
+    "logs_latest_update": "2026-06-25T14:08:25Z"
   }
 }

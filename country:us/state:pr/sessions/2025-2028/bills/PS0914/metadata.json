@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0914",
-  "title": "Para enmendar los Art\u00edculos 1.3, 2.1B, 2.9, 3.1, 3.2, 3.2A, 3.3, 3.5 y 3.6 de la Ley 54-1989,\nseg\u00fan enmendada, mejor conocida como, \u201cLey para la Prevenci\u00f3n e Intervenci\u00f3n\ncon la Violencia Dom\u00e9stica\u201d, con el prop\u00f3sito de fortalecer el marco legal para\ngarantizar un justicia efectiva y oportuna a las v\u00edctimas de violencia domestica;\nmejorar los mecanismos de procesamiento y la imposici\u00f3n de penas proporcionales\na la conducta criminal; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 1.3, 2.1-B, 2.9, 3.1, 3.2, 3.2A, 3.3, 3.5, 3.6 y 3.12 de la Ley Num. 54 de 15 de agosto de 1989, seg\u00fan enmendada, conocida como la \"Ley para la Prevenci\u00f3n e Intervenci\u00f3n con la Violencia Domestica\", con el prop\u00f3sito de fortalecer el marco legal para garantizar una justicia efectiva y oportuna a las v\u00edctimas de violencia domestica; mejorar los mecanismos de procesamiento y la imposici\u00f3n de penas proporcionales a la conducta criminal; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -295,22 +295,32 @@
     },
     {
       "description": "Firmado por el Presidente de la C\u00e1mara",
-      "date": "2026-06-18T04:00:00+00:00",
+      "date": "2026-06-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-19T14:46:42Z"
+        "log_file_created": "2026-06-25T14:08:25Z"
       }
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-06-19T04:00:00+00:00",
+      "date": "2026-06-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-20T13:44:01Z"
+        "log_file_created": "2026-06-25T14:08:25Z"
+      }
+    },
+    {
+      "description": "Ley 120-2026",
+      "date": "2026-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-25T14:08:25Z"
       }
     }
   ],
@@ -432,6 +442,17 @@
       ],
       "date": "2026-06-11",
       "classification": ""
+    },
+    {
+      "note": "Ley 120-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159653/Ley 120-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -450,6 +471,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-20T13:44:01Z"
+    "logs_latest_update": "2026-06-25T14:08:25Z"
   }
 }

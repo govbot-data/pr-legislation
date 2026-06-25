@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0372",
-  "title": "\u201cPara enmendar los Art\u00edculos 4 y 53 de la Ley 73-2019, seg\u00fan enmendada, conocida como \u201cLey\nde la Administraci\u00f3n de Servicios Generales para la Centralizaci\u00f3n de las Compras del Gobierno\nde Puerto Rico de 2019\u201d, con el fin de aclarar quien es un licitador participante; y para otros\nfines.\u201d",
+  "title": "Para a\u00f1adir un nuevo inciso (w) en el Art\u00edculo 4 y reenumerar los actuales incises (w) al\n(ii) como incises (x) al (jj), respectivamente y enmendar el Art\u00edculo 53 de la Ley 73-2019, seg\u00fan enmendada, conocida como \"Ley de la Administraci\u00f3n de Servicios Generales para la Centralizaci\u00f3n de las Compras del Gobierno de Puerto Rico de 2019\", con el fin de aclarar qui\u00e9n es un licitador participante; y para otros fines.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -290,6 +290,16 @@
       "_processing": {
         "log_file_created": "2026-06-15T17:02:28Z"
       }
+    },
+    {
+      "description": "Ley 118-2026",
+      "date": "2026-06-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-25T14:08:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -413,6 +423,17 @@
       ],
       "date": "2026-06-04",
       "classification": ""
+    },
+    {
+      "note": "Ley 118-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153967/Ley 118-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-22",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -431,6 +452,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-15T17:02:28Z"
+    "logs_latest_update": "2026-06-25T14:08:25Z"
   }
 }
