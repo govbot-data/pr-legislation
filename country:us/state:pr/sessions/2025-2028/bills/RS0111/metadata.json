@@ -708,6 +708,56 @@
       "_processing": {
         "log_file_created": "2026-06-25T14:08:25Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Cuerpo recibe 5to informe parcial rendido",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Cuerpo recibe 6to informe parcial rendido",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Cuerpo recibe 7mo informe parcial rendido",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -985,6 +1035,17 @@
       ],
       "date": "2026-06-22",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 5to informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs511-5to.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-24",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -1003,6 +1064,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-25T14:08:25Z"
+    "logs_latest_update": "2026-06-26T14:07:47Z"
   }
 }

@@ -230,15 +230,35 @@
       "_processing": {
         "log_file_created": "2026-06-25T14:08:25Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -250,19 +270,19 @@
       "organization_id": null
     },
     {
-      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "Joanne  Rodr\u00edguez Veve - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Joanne  Rodr\\u00edguez Veve - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -355,6 +375,17 @@
       ],
       "date": "2026-06-23",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159395/concPS851.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -373,6 +404,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-25T14:08:25Z"
+    "logs_latest_update": "2026-06-26T14:07:47Z"
   }
 }

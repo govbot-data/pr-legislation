@@ -50,6 +50,38 @@
       "_processing": {
         "log_file_created": "2026-05-01T13:01:12Z"
       }
+    },
+    {
+      "description": "1er Informe Conjunto Comisiones rendido con enmiendas",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -74,6 +106,28 @@
       ],
       "date": "2026-04-29",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Conjunto Comisiones rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161079/ps1213-Inf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-24",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161079/ps1213-ent.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-24",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -92,6 +146,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-01T13:01:12Z"
+    "logs_latest_update": "2026-06-26T14:07:47Z"
   }
 }

@@ -36,6 +36,16 @@
       "_processing": {
         "log_file_created": "2026-04-07T13:03:22Z"
       }
+    },
+    {
+      "description": "Nombramiento retirado por la Gobernadora",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
     }
   ],
   "sponsorships": [],
@@ -50,6 +60,17 @@
         }
       ],
       "date": "2026-04-06",
+      "classification": ""
+    },
+    {
+      "note": "Nombramiento retirado por la Gobernadora",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160876/RETIRO 0396-Dra. Catherine Oliver Franco.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-25",
       "classification": ""
     }
   ],
@@ -69,6 +90,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-07T13:03:22Z"
+    "logs_latest_update": "2026-06-26T14:07:47Z"
   }
 }

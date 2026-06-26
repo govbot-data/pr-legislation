@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-nm352"
+    }
+  ],
   "actions": [
     {
       "description": "Nominado",
@@ -32,6 +36,16 @@
       "_processing": {
         "log_file_created": "2026-01-14T12:30:53Z"
       }
+    },
+    {
+      "description": "Nombramiento retirado por la Gobernadora",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
     }
   ],
   "sponsorships": [],
@@ -46,6 +60,17 @@
         }
       ],
       "date": "2026-01-13",
+      "classification": ""
+    },
+    {
+      "note": "Nombramiento retirado por la Gobernadora",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159690/RETIRO 0352-Lcda. Mar\u00eda S. S\u00e1nchez Pellicier.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-25",
       "classification": ""
     }
   ],
@@ -65,6 +90,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:30:53Z"
+    "logs_latest_update": "2026-06-26T14:07:47Z"
   }
 }

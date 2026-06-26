@@ -50,6 +50,40 @@
       "_processing": {
         "log_file_created": "2026-06-25T14:08:25Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:48Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:48Z"
+      }
+    },
+    {
+      "description": "Remitido a Comisi\u00f3n de Calendarios y Reglas Especiales de Debate de la C\u00e1mara",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -82,6 +116,28 @@
       ],
       "date": "2026-06-23",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161565/RC0735-i.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161565/RC0735-ee.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -100,6 +156,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-25T14:08:25Z"
+    "logs_latest_update": "2026-06-26T14:07:48Z"
   }
 }

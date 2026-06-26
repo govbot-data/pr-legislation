@@ -162,9 +162,59 @@
       "_processing": {
         "log_file_created": "2026-04-08T13:04:55Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Remitido a Comisi\u00f3n de Calendarios de la C\u00e1mara",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Migdalia   Padilla Alvelo - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Migdalia   Padilla Alvelo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marissa   Jim\u00e9nez Santoni - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Marissa   Jim\\u00e9nez Santoni - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -179,22 +229,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Carmelo  R\\u00edos Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Marissa   Jim\u00e9nez Santoni - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Marissa   Jim\\u00e9nez Santoni - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Migdalia   Padilla Alvelo - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Migdalia   Padilla Alvelo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -254,6 +288,28 @@
       ],
       "date": "2026-03-26",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159360/PS0838-i.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159360/PS0838-ee.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -272,6 +328,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-08T13:04:55Z"
+    "logs_latest_update": "2026-06-26T14:07:47Z"
   }
 }

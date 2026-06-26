@@ -382,6 +382,90 @@
       "_processing": {
         "log_file_created": "2026-06-09T14:31:05Z"
       }
+    },
+    {
+      "description": "Devuelto por Fortaleza",
+      "date": "2026-06-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Se solicita reconsideraci\u00f3n de la medida",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Se reconsider\u00f3 (Devuelto por Fortaleza)",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
+    },
+    {
+      "description": "Se reconsider\u00f3 (Devuelto por Fortaleza)",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:07:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -527,6 +611,21 @@
       ],
       "date": "2026-04-27",
       "classification": ""
+    },
+    {
+      "note": "Se reconsider\u00f3 (Devuelto por Fortaleza)",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/PC0834 Rec. Camara.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/recPC834.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -545,6 +644,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-09T14:31:05Z"
+    "logs_latest_update": "2026-06-26T14:07:47Z"
   }
 }
