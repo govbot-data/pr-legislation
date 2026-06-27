@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0106",
-  "title": "Para declarar Patrimonio Cultural del Municipio de Cidra, la Banda Escolar de Cidra; y para otros fines relacionados.",
+  "title": "Para declarar Patrimonio Cultural del Municipio de Cidra, por su valiosa aportaci\u00f3n al desarrollo musical, educativo y art\u00edstico del pueblo, as\u00ed como por su contribuci\u00f3n a la preservaci\u00f3n de las tradiciones y la entidad cultural cidre\u00f1a, la Banda Escolar de Cidra; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -295,40 +295,50 @@
     },
     {
       "description": "Firmado por el Presidente de la C\u00e1mara",
-      "date": "2026-06-18T04:00:00+00:00",
+      "date": "2026-06-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-19T14:46:42Z"
+        "log_file_created": "2026-06-27T13:15:51Z"
       }
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-06-19T04:00:00+00:00",
+      "date": "2026-06-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-20T13:44:01Z"
+        "log_file_created": "2026-06-27T13:15:51Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  35-2026",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:15:51Z"
       }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -443,6 +453,17 @@
       ],
       "date": "2026-06-11",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  35-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159147/Res. Conj. 35-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -461,6 +482,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-20T13:44:01Z"
+    "logs_latest_update": "2026-06-27T13:15:51Z"
   }
 }

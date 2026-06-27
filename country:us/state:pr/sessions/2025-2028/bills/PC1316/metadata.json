@@ -168,13 +168,15 @@
       }
     },
     {
-      "description": "Aprobado sin enmiendas",
+      "description": "Aprobado con enmiendas en sala",
       "date": "2026-06-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
+      "classification": [
+        "amendment-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-26T14:07:48Z"
+        "log_file_created": "2026-06-27T13:15:51Z"
       }
     },
     {
@@ -184,16 +186,6 @@
       "classification": [
         "passage"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-06-26T14:07:48Z"
-      }
-    },
-    {
-      "description": "Se dispone que sea enrolado",
-      "date": "2026-06-24T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-06-26T14:07:48Z"
@@ -262,6 +254,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-26T14:07:48Z"
+    "logs_latest_update": "2026-06-27T13:15:51Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0104",
-  "title": "Para declarar Patrimonio Cultural del Municipio de Cidra, la Tuna Estudiantil de Cidra; y para \notros fines relacionados.",
+  "title": "Para declarar Patrimonio Cultural del Municipio de Cidra, a la Tuna Estudiantil de Cidra; con el prop\u00f3sito de reconocer su contribuci\u00f3n al acervo cultural y educativo del pueblo, con el fin de garantizar su permanencia y desarrollo art\u00edstico, y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -273,22 +273,32 @@
     },
     {
       "description": "Firmado por el Presidente de la C\u00e1mara",
-      "date": "2026-06-18T04:00:00+00:00",
+      "date": "2026-06-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-19T14:46:42Z"
+        "log_file_created": "2026-06-27T13:15:50Z"
       }
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2026-06-19T04:00:00+00:00",
+      "date": "2026-06-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-20T13:44:01Z"
+        "log_file_created": "2026-06-27T13:15:50Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  34-2026",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:15:50Z"
       }
     }
   ],
@@ -421,6 +431,17 @@
       ],
       "date": "2026-06-11",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  34-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159145/Res. Conj. 34-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -439,6 +460,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-20T13:44:01Z"
+    "logs_latest_update": "2026-06-27T13:15:50Z"
   }
 }

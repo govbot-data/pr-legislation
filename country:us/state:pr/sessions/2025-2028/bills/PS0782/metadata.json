@@ -164,6 +164,16 @@
       }
     },
     {
+      "description": "Relevado de Comisi\u00f3n(es)",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:15:51Z"
+      }
+    },
+    {
       "description": "Descargado en C\u00e1mara",
       "date": "2026-06-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -282,6 +292,17 @@
       ],
       "date": "2026-06-24",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159083/PS0782 votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -300,6 +321,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-26T14:07:48Z"
+    "logs_latest_update": "2026-06-27T13:15:51Z"
   }
 }
