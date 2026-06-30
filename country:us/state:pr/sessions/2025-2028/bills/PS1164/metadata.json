@@ -50,6 +50,16 @@
       "_processing": {
         "log_file_created": "2026-03-31T12:59:22Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Leopoldo Figueroa",
+      "date": "2026-07-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-30T14:01:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -92,6 +102,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T12:59:22Z"
+    "logs_latest_update": "2026-06-30T14:01:13Z"
   }
 }

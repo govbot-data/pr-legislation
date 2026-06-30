@@ -140,9 +140,41 @@
       "_processing": {
         "log_file_created": "2026-06-26T14:07:47Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-30T14:01:13Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-30T14:01:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Joe   Col\u00f3n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joe   Col\\u00f3n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Tatiana  P\u00e9rez Ram\u00edrez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -226,6 +258,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-26T14:07:47Z"
+    "logs_latest_update": "2026-06-30T14:01:13Z"
   }
 }

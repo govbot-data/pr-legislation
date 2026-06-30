@@ -262,6 +262,36 @@
       "_processing": {
         "log_file_created": "2026-06-23T14:31:55Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen no concurre con enmiendas",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-30T14:01:13Z"
+      }
+    },
+    {
+      "description": "Se solicita Comit\u00e9 de Conferencia",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-30T14:01:13Z"
+      }
+    },
+    {
+      "description": "Se accede a Conferenciar",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-30T14:01:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -381,6 +411,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-23T14:31:55Z"
+    "logs_latest_update": "2026-06-30T14:01:13Z"
   }
 }

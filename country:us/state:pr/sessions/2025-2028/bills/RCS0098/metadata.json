@@ -82,13 +82,15 @@
       }
     },
     {
-      "description": "Aprobado sin enmiendas",
+      "description": "Aprobado con enmiendas en sala",
       "date": "2026-06-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
+      "classification": [
+        "amendment-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-26T14:07:48Z"
+        "log_file_created": "2026-06-30T14:01:13Z"
       }
     },
     {
@@ -180,6 +182,26 @@
       "_processing": {
         "log_file_created": "2026-06-26T14:07:48Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen no concurre con enmiendas",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-30T14:01:13Z"
+      }
+    },
+    {
+      "description": "Se solicita Comit\u00e9 de Conferencia",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-30T14:01:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -226,6 +248,17 @@
       ],
       "date": "2026-06-24",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159094/RCS0098 votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -244,6 +277,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-26T14:07:48Z"
+    "logs_latest_update": "2026-06-30T14:01:13Z"
   }
 }

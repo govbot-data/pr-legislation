@@ -320,6 +320,26 @@
       "_processing": {
         "log_file_created": "2026-06-20T13:44:01Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-30T14:01:13Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-30T14:01:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -454,6 +474,17 @@
       ],
       "date": "2026-06-19",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153908/rcs0027e-25 (3ro).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -472,6 +503,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-20T13:44:01Z"
+    "logs_latest_update": "2026-06-30T14:01:13Z"
   }
 }
