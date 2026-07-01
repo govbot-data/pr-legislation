@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0590",
-  "title": "Para ordenar a la Comisi\u00f3n de Asuntos Municipales de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva dirigida a evaluar la situaci\u00f3n de la titularidad de los solares residenciales ubicados en el Sector Monserrate del Municipio Aut\u00f3nomo de Toa Baja, cuyos residentes no cuentan con t\u00edtulos de propiedad, con el fin de identificar y evaluar los procesos necesarios para que se otorgue la titularidad a favor de sus residentes; y para otros fines relacionados",
+  "title": "Para ordenar a la Comisi\u00f3n de Asuntos Municipales de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva dirigida a evaluar la situaci\u00f3n de la titularidad de los solares residenciales ubicados en el Sector Monserrate del Municipio Aut\u00f3nomo de Toa Baja, cuyos residentes no cuentan con t\u00edtulos de propiedad, con el fin de identificar y evaluar los procesos necesarios para que se otorgue la titularidad a favor de sus residentes; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -124,6 +124,18 @@
       "_processing": {
         "log_file_created": "2026-06-30T14:01:13Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:14:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -159,6 +171,17 @@
       ],
       "date": "2026-03-11",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160351/RC0590 ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -177,6 +200,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-30T14:01:13Z"
+    "logs_latest_update": "2026-07-01T14:14:17Z"
   }
 }

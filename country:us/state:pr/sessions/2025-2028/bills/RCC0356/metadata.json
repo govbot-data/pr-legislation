@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0356",
-  "title": "Para asignar la cantidad de trece mil ciento ochenta millones quinientos treinta y dos mil (13,180,532,000) d\u00f3lares, con cargo al Fondo General del Tesoro Estatal del Gobierno de Puerto Rico, para gastos ordinarios de funcionamiento de los programas y agencias que componen la Rama Ejecutiva y los programas que componen la Rama Judicial y la Rama Legislativa durante el a\u00f1o fiscal que concluye el 30 de junio de 2027, las siguientes cantidades o la porci\u00f3n de estas fuese necesario; y para otros fines relacionados.",
+  "title": "Para asignar la cantidad de trece mil ciento setenta y cuatro millones setecientos tres mil (13,174,703,000) d\u00f3lares, con cargo al Fondo General del Tesoro Estatal del Gobierno de Puerto Rico, para gastos ordinarios de funcionamiento de los programas y agencias que componen la Rama Ejecutiva y los programas que componen la Rama Judicial y la Rama Legislativa durante el a\u00f1o fiscal que concluye el 30 de junio de 2027, las siguientes cantidades o la porci\u00f3n de estas fuese necesario; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -270,23 +270,55 @@
       "_processing": {
         "log_file_created": "2026-06-27T13:15:51Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:14:17Z"
+      }
+    },
+    {
+      "description": "Veto de L\u00ednea",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:14:17Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  36-2026",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:14:17Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -379,6 +411,28 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161253/RCC0356 enrolado.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
+    },
+    {
+      "note": "Res. Conj.  36-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161253/Res. Conj. 36-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -397,6 +451,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-27T13:15:51Z"
+    "logs_latest_update": "2026-07-01T14:14:17Z"
   }
 }

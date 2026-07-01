@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0067",
-  "title": "Para ordenar a la Comisi\u00f3n de Educaci\u00f3n, Arte y Cultura de la C\u00e1mara de Representantes del Estado Libre Asociado de Puerto Rico, realizar una abarcadora investigaci\u00f3n sobre las condiciones, identificar problemas y establecer soluciones en las escuelas p\u00fablicas localizadas en el Distrito Representativo N\u00famero 35 que comprende los municipios de Las Piedras, Humacao, Naguabo.",
+  "title": "Para ordenar a la Comisi\u00f3n de Educaci\u00f3n de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n integral sobre las condiciones f\u00edsicas, y operacionales de las escuelas p\u00fablicas localizadas en el Distrito Representativo N\u00famero 35 que comprende los municipios de Las Piedras, Humacao, Naguabo, y formular recomendaciones para atender las necesidades identificadas.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-06-30T14:01:13Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:14:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +184,17 @@
       ],
       "date": "2025-04-07",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153175/RC0067 -ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -190,6 +213,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-30T14:01:13Z"
+    "logs_latest_update": "2026-07-01T14:14:17Z"
   }
 }

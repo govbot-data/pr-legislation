@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0308",
-  "title": "Para ordenar a las comisiones de Asuntos Municpales y de Vivienda y Desarrollo Urbano de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n para determinar cu\u00e1ntas hipotecas legales t\u00e1citas sobre bienes inmuebles hay constituidas en el Registro de la Propiedad, a favor del Centro de Recaudaci\u00f3n de Ingresos Municipales (CRIM), de Puerto Rico o de cualquier otra agencia o dependencia del Gobierno, que est\u00e9n en proceso de embargo, ejecuci\u00f3n o cancelaci\u00f3n; y determinar la viabilidad de hacer un inventario de estos bienes inmuebles, que pudiesen ser adquiridos y desarrollados como vivienda de inter\u00e9s social para personas sin hogar; y para otros fines relacionados.",
+  "title": "Para ordenar a las comisiones de Asuntos Municipales; y de Vivienda y Desarrollo Urbano de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n para determinar cu\u00e1ntas hipotecas legales t\u00e1citas sobre bienes inmuebles hay constituidas en el Registro de la Propiedad, a favor del Centro de Recaudaci\u00f3n de Ingresos Municipales (CRIM), de Puerto Rico o de cualquier otra agencia o dependencia del Gobierno, que est\u00e9n en proceso de embargo, ejecuci\u00f3n o cancelaci\u00f3n; y determinar la viabilidad de hacer un inventario de estos bienes inmuebles, que pudiesen ser adquiridos y desarrollados como vivienda de inter\u00e9s social para personas sin hogar; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-06-30T14:01:13Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:14:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +184,17 @@
       ],
       "date": "2025-06-09",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155699/RC0308 ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -190,6 +213,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-30T14:01:13Z"
+    "logs_latest_update": "2026-07-01T14:14:17Z"
   }
 }

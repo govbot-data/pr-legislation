@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0537",
-  "title": "Para ordenar a la Comisi\u00f3n de Vivienda y Desarrollo Urbano de la C\u00e1mara de Representantes de Puerto Rico a realizar una investigaci\u00f3n exhaustiva sobre sobre los lanzamientos, desahucios, terminaciones de arrendamiento, remociones y/o radicaciones de casos de desahucio en vivienda p\u00fablica, vivienda subsidiada y \u00e9gidas en Puerto Rico; con \u00e9nfasis particular en las personas adultas mayores, sin excluir a otras poblaciones afectadas; evaluar los criterios, procedimientos y salvaguardas aplicables; examinar los mecanismos de prevenci\u00f3n del desplazamiento y la provisi\u00f3n de servicios obligatorios; analizar la imposici\u00f3n de periodos de inelegibilidad para reingreso; y para otros fines relacionados..",
+  "title": "Para ordenar a la Comisi\u00f3n de Vivienda y Desarrollo Urbano de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre los lanzamientos, desahucios, terminaciones de arrendamiento, remociones y/o radicaciones de casos de desahucio en vivienda p\u00fablica, vivienda subsidiada, proyectos financiados bajo el Programa de Cr\u00e9ditos Contributivos para Viviendas de Ingresos Bajos (LIHTC, por sus siglas en ingl\u00e9s) y \u00e9gidas en Puerto Rico; con \u00e9nfasis particular en las personas adultas mayores, sin excluir a otras poblaciones afectadas; evaluar los criterios, procedimientos y salvaguardas aplicables; examinar los mecanismos de prevenci\u00f3n del desplazamiento y la provisi\u00f3n de servicios obligatorios; analizar la imposici\u00f3n de periodos de inelegibilidad para reingreso; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -136,6 +136,18 @@
       "_processing": {
         "log_file_created": "2026-06-30T14:01:13Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:14:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -182,6 +194,17 @@
       ],
       "date": "2026-06-08",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159629/RC0537-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -200,6 +223,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-30T14:01:13Z"
+    "logs_latest_update": "2026-07-01T14:14:17Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0383",
-  "title": "Para ordenar a la Comisi\u00f3n de Cooperativismo de la C\u00e1mara de Representantes del Estado Libre Asociado de Puerto Rico, realizar una investigaci\u00f3n abarcadora sobre los programas de Cooperativas Juveniles en Puerto Rico; sus ejecutorias, logros y contribuci\u00f3n al mejoramiento y bienestar de los objetivos que persiguen en beneficio econ\u00f3mico y social para el pa\u00eds, incluyendo, pero sin limitarse a, estudios operacionales, estad\u00edsticos, participaci\u00f3n en programas federales y estatales, \u00e1reas y necesidades program\u00e1ticas, cumplimiento con sus deberes ministeriales, as\u00ed como el funcionamiento y efectividad que tienen los diversos organismos en el pa\u00eds; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Cooperativismo de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n comprensiva sobre los programas de Cooperativas Juveniles en Puerto Rico; su desarrollo, logros e impacto en el bienestar econ\u00f3mico y social del pa\u00eds, incluyendo, pero sin limitarse a, estudios operacionales, estad\u00edsticos, participaci\u00f3n en programas federales y estatales, \u00e1reas y necesidades program\u00e1ticas, cumplimiento con sus deberes ministeriales, as\u00ed como el funcionamiento y efectividad de las entidades cooperativistas en la Isla; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -136,6 +136,18 @@
       "_processing": {
         "log_file_created": "2026-06-30T14:01:13Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:14:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -182,6 +194,17 @@
       ],
       "date": "2025-09-10",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/157306/RC0383-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -200,6 +223,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-30T14:01:13Z"
+    "logs_latest_update": "2026-07-01T14:14:17Z"
   }
 }

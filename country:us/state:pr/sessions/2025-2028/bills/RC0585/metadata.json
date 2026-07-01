@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0585",
-  "title": "Para ordenar a las Comisiones de Salud y Asuntos Municipales una exhaustiva investigaci\u00f3n sobre el cumplimiento de la Oficina Estatal de Control de Animales adscrita al Departamento de Salud de Puerto Rico, y a los gobiernos municipales, con su deber para con el recogido y tratamiento de animales realengos; y para otros fines relacionados.",
+  "title": "Para ordenar a las Comisiones de Salud; y de Asuntos Municipales de la C\u00e1mara de Representantes, realizar una investigaci\u00f3n exhaustiva sobre el cumplimiento de la Oficina Estatal de Control de Animales, adscrita al Departamento de Salud de Puerto Rico, y a los gobiernos municipales, con su deber para con el recogido y tratamiento de animales realengos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -136,6 +136,18 @@
       "_processing": {
         "log_file_created": "2026-06-30T14:01:13Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:14:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -182,6 +194,17 @@
       ],
       "date": "2026-06-22",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160343/RC0585-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -200,6 +223,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-30T14:01:13Z"
+    "logs_latest_update": "2026-07-01T14:14:17Z"
   }
 }

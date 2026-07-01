@@ -640,13 +640,13 @@
       }
     },
     {
-      "description": "13ro Informe Parcial rendido",
+      "description": "13er Informe Parcial rendido",
       "date": "2026-06-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-20T13:44:01Z"
+        "log_file_created": "2026-07-01T14:14:17Z"
       }
     },
     {
@@ -820,13 +820,13 @@
       }
     },
     {
-      "description": "Cuerpo recibe 13ro informe parcial rendido",
+      "description": "Cuerpo recibe 13er informe parcial rendido",
       "date": "2026-06-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-30T14:01:13Z"
+        "log_file_created": "2026-07-01T14:14:17Z"
       }
     },
     {
@@ -847,6 +847,36 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-06-30T14:01:13Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:14:17Z"
+      }
+    },
+    {
+      "description": "Cuerpo recibe 16to informe parcial rendido",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:14:17Z"
+      }
+    },
+    {
+      "description": "Cuerpo recibe 17mo informe parcial rendido",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:14:17Z"
       }
     }
   ],
@@ -1072,7 +1102,7 @@
       "classification": ""
     },
     {
-      "note": "13ro Informe Parcial rendido",
+      "note": "13er Informe Parcial rendido",
       "links": [
         {
           "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs0111-inf (13ro Parcial).pdf",
@@ -1158,6 +1188,94 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 8vo informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs111-8vo vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 9no informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs111-9no vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 10mo informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs111-10mo vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 11mo informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs111-11mo vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 12mo informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs111-12mo vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 13er informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs111-13er vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 14to informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs111-14to vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    },
+    {
+      "note": "Cuerpo recibe 15to informe parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154451/rs111-15to vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -1176,6 +1294,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-30T14:01:13Z"
+    "logs_latest_update": "2026-07-01T14:14:17Z"
   }
 }
