@@ -1,0 +1,182 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1383
+13 de julio de 2026
+Presentado por el señor Toledo López (Por petición de Naraian Jiménez Velázquez)
+Referido a
+LEY
+Para enmendar el inciso (c) y añadirle un subinciso (26) al inciso (c) al Artículo 2.25 de la
+Ley 22-2000, según enmendada, “Ley de Vehículos y Tránsito de Puerto Rico”, a
+los fines de incluir discapacidades sensoriales, tales como la sordera total, parcial
+y pérdida profunda auditiva, como condiciones elegibles para la expedición de
+rótulos removibles de estacionamiento para personas con impedimentos; y para
+otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+En su Artículo 2.25, la Ley 22-2000, según enmendada, conocida como “Ley de
+Vehículos y Tránsito de Puerto Rico”, establece un sistema de rótulos removibles y
+estacionamientos reservados para personas con impedimentos físicos que limitan su
+movilidad. No obstante, dicho artículo no contempla condiciones sensoriales que
+también pueden limitar la movilidad de las personas en espacios como estacionamientos
+y áreas de tránsito vehicular. Entre las poblaciones que no están contempladas
+adecuadamente bajo esta legislación se encuentra la comunidad sorda. Diversos estudios
+médicos han señalado que muchas personas sordas presentan afectaciones en el sistema
+vestibular del oído interno, lo cual puede provocar dificultades de balance y
+
+2
+coordinación.1 Esas afectaciones pueden aumentar el riesgo de caídas o accidentes,2
+particularmente en ambientes como estacionamientos donde existe constante
+movimiento vehicular.
+Además de los posibles problemas de balance, las personas sordas enfrentan retos
+adicionales relacionados con la seguridad peatonal. Al no poder percibir sonidos del
+entorno, como bocinas, motores o advertencias auditivas de vehículos en movimiento,
+pueden encontrarse en una posición de mayor vulnerabilidad al transitar por
+estacionamientos o áreas vehiculares. Incluso el uso de equipos auditivos o implantes no
+siempre permite distinguir con claridad sonidos del ambiente, ya que estos pueden
+confundirse con ruidos como el viento, motores de sistemas de aire acondicionado u otros
+sonidos similares.3
+Por esta razón, muchas personas sordas dependen, en gran medida, de la
+observación constante de su entorno para mantenerse seguras. En otras palabras, para
+quienes no pueden escuchar, la vista se convierte en una herramienta esencial para
+identificar posibles riesgos. La literatura científica indica que muchas personas sordas
+compensan la ausencia o disminución de información auditiva mediante una mayor
+dependencia de la información visual.4 En consecuencia, suelen mantener una
+observación más activa y constante de su entorno para desenvolverse de forma segura.
+Este asunto no solo implica seguridad, sino también salud. La exposición
+prolongada al sol, especialmente cuando se requiere caminar largas distancias desde
+estacionamientos lejanos, puede provocar desmayos, desorientación o caídas en algunas
+1 Singh, Anisha, et al., A Systematic Review on the Association Between Vestibular Dysfunction and Balance
+Performance in Children with Hearing Loss, Ear and Hearing, PUBMED VOL. 43, 3 (2022)
+(https://pmc.ncbi.nlm.nih.gov/articles/PMC8958172/).
+2 Sheng Yep, Yee Jueen, et al. Hearing Loss and Falls: A Systematic Review and Meta-Analysis, JAMA OTOLARYNGOL
+HEAD NECK SURG (2016) (https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2831342).
+3 Kochkin, Sergei, MarkeTrak VIII: Consumer satisfaction with hearing aids is slowly increasing, THE HEARING
+JOURNAL, VOL. 63, no. 1 (2010)
+(https://www.ovid.com/jnls/thehearingjournal/fulltext/10.1097/01.hj.0000366912.40173.76~marketrak-viii-
+consumer-satisfaction-with-hearing-aids-is).
+4 Gioiosa Maurno, Nahuel, et al., Research of visual attention networks in deaf individuals: a systematic review,
+FRONTIERS IN PSYCHOLOGY VOL. 15 (2024) (https://pmc.ncbi.nlm.nih.gov/articles/PMC11120974/).
+
+3
+personas con condiciones relacionadas al balance. Asimismo, el uso de dispositivos
+auditivos resulta esencial para muchas personas sordas o con pérdida auditiva. Sin
+embargo, estos equipos son altamente sensibles y costosos, y pueden dañarse fácilmente
+con la lluvia, el sudor o la humedad. En algunos casos, el sudor puede obstruir su
+funcionamiento, descalibrarlos o requerir mantenimiento constante para que continúen
+siendo funcionales, lo que añade otra capa de vulnerabilidad al tener que desplazarse
+largas distancias en condiciones ambientales adversas.
+La legislación vigente ya ha reconocido que existen condiciones que ameritan
+medidas de acomodo razonable dentro del sistema de estacionamientos reservados,
+incluyendo algunas condiciones médicas que no necesariamente afectan directamente la
+movilidad física. Sin embargo, la comunidad sorda continúa sin ser considerada dentro
+de estas disposiciones, a pesar de los retos particulares que enfrentan en materia de
+seguridad, salud, orientación, movilidad y acceso.
+Por ejemplo, el Departamento de Salud de Puerto Rico ofrece una tarjeta de
+identificación dirigida a personas mayores de edad y personas con impedimentos. Para
+la expedición de esta tarjeta se utilizan como referencia requisitos y formularios similares
+a los contemplados bajo la Ley 22-2000. No obstante, aunque las personas sordas pueden
+obtener dicha tarjeta de identificación, su condición no aparece expresamente
+contemplada dentro del formulario correspondiente.
+Esta situación puede generar confusión entre los miembros de la comunidad
+sorda, ya que los requisitos y documentación solicitados para obtener dicha identificación
+resultan muy similares a los utilizados para el rótulo removible de personas con
+impedimentos bajo la Ley 22-2000. Como resultado, algunas personas no oyentes
+interpretan que pueden cualificar para el rótulo o identificación especial de
+estacionamiento.
+Sin embargo, al acudir a las oficinas del Centro de Servicios al Conductor (CESCO)
+para solicitar orientación o realizar el trámite correspondiente, se les informa que
+actualmente no existe ningún mecanismo o identificación especial dirigido a personas
+sordas dentro de este sistema, lo cual provoca frustración y confusión entre los
+
+4
+solicitantes. Cabe señalar que, aunque en las licencias de conducir de algunas personas
+sordas aparece un símbolo que identifica la condición de no oyente, este elemento tiene
+un carácter meramente informativo y no otorga acceso a ningún acomodo o beneficio
+relacionado con estacionamientos reservados o identificaciones especiales.
+Como ejemplo de avances en esta materia, el Municipio de Moca ha reconocido las
+necesidades de la comunidad sorda mediante la aprobación de la Ordenanza Núm. 8,
+Serie 2021-2022, mediante la cual se establecieron estacionamientos designados para
+personas con impedimentos auditivos dentro del municipio. Asimismo, se desarrolló un
+carnet con el símbolo de la comunidad sorda para su identificación. Estas iniciativas
+demuestran que es posible implementar medidas inclusivas dirigidas a esta población y
+sirven como modelo para su consideración a nivel estatal.
+Asimismo, padres y madres de menores sordos han expresado preocupaciones
+legítimas sobre la seguridad de sus hijos al caminar por estacionamientos y cruzar áreas
+vehiculares, particularmente en entornos donde la visibilidad es limitada o donde existen
+múltiples vehículos en movimiento.
+Así las cosas, la presente medida busca atender esta realidad mediante la inclusión
+de las personas sordas o con pérdida auditiva dentro de los criterios que permiten la
+expedición de un rótulo removible o identificación especial de estacionamiento. Con ello
+en mente, se pretende promover mayor seguridad peatonal, proteger la salud de esta
+población, garantizar un trato equitativo bajo la ley, y reconocer las necesidades
+particulares de esta comunidad.
+En ese sentido, esta Asamblea Legislativa entiende necesario enmendar el Artículo
+2.25 de la Ley 22-2000, para incluir discapacidades sensoriales, tales como la sordera total,
+parcial y pérdida profunda auditiva, como condiciones elegibles para la expedición de
+rótulos removibles de estacionamiento. Con la presente enmienda, logramos que esta
+legislación responda adecuadamente a las realidades y necesidades de todas las personas
+con discapacidades en Puerto Rico, promoviendo así una sociedad más inclusiva,
+accesible y justa para todos.
+
+5
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.-Se enmienda el inciso (c) del Artículo 2.25 de la Ley 22-2000, según
+2 enmendada, conocida como la “Ley de Vehículos y Tránsito de Puerto Rico”, y se le
+3 añade un subinciso (26) para que lea como sigue:
+4 “Artículo 2.25.–Expedición de permisos autorizando estacionar en áreas
+5 designadas para personas con impedimentos.
+6 El Secretario expedirá permisos para estacionar en áreas designadas para personas
+7 con impedimentos en forma de rótulos removibles, a toda persona cuyo impedimento
+8 permanente o de duración indefinida le dificulte el acceso a lugares o edificios por
+9 estar limitada sustancialmente en su capacidad de movimiento, con sujeción a las
+10 siguientes normas:
+11 (a) …
+12 (b) …
+13 (c) Podrá solicitar el referido rótulo removible, sujeto a la reglamentación que a
+14 tales fines promulgue el Secretario, previa coordinación y consulta directa con
+15 el Defensor de las Personas con Impedimentos y tomando en consideración
+16 todos los requisitos establecidos por el Health Insurance Portability and
+17 Accountability Act of 1996, Public Law 104-191, toda persona que tenga una
+18 discapacidad sensorial o una condición física permanente que dificulte
+19 sustancialmente su movilidad de manera permanente o le ocasione dificultades
+20 para ganar acceso libremente a lugares o edificios de manera permanente, por
+
+6
+1 padecer alguna de las condiciones que se enumeran más adelante, así como a
+2 toda persona que tenga la custodia legal de dependientes cuya movilidad se
+3 vea limitada o cuya condición requiera de una estrecha supervisión por tener
+4 cualquiera de las condiciones que se enumeran a continuación:
+5 (1) …
+6 …
+7 (25) …
+8 (26) Sordera total, parcial o pérdida auditiva profunda, aunque no requiera el uso
+9 de dispositivos auditivos tales como implantes cocleares, audífonos u otros
+10 equipos similares, y cuya condición, según certificación médica, pueda afectar
+11 la seguridad, orientación o movilidad de la persona en estacionamientos o áreas
+12 de tránsito vehicular.
+13 (d) …
+14 …
+15 (k) …”
+16 Sección 2.-Reglamentación.
+17 Se ordena al secretario del Departamento de Transportación y Obras Publicas a
+18 enmendar o promulgar aquella reglamentación que entienda pertinente, así como los
+19 procedimientos y formularios aplicables, y cualquier cambio a la programación de sus
+20 sistemas computadorizados, que asegure la cabal implantación de esta Ley, dentro de
+21 un término de ciento veinte (120) días, contados a partir de su aprobación.
+22 Sección 3.- Separabilidad.
+
+7
+1 Si cualquier parte de esta Ley fuese declarada nula o inconstitucional por
+2 cualquier Tribunal competente, se entenderá que el resto de sus disposiciones
+3 mantendrán su validez y vigencia.
+4 Sección 4.-Vigencia.
+5 Esta Ley entrará en vigor inmediatamente después de su aprobación.
