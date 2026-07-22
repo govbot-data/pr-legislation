@@ -1,0 +1,436 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1385
+13 de julio de 2026
+Presentado por el señor Toledo López (Por petición de Maya Sloan)
+Referido a
+LEY
+Para crear la “Ley sobre Representaciones Sintéticas e Interacciones Automatizadas en el
+Comercio”, a los fines de requerir divulgaciones conspicuas en anuncios comerciales
+dirigidos a consumidores en Puerto Rico que utilicen intérpretes sintéticos o réplicas
+digitales; establecer deberes de información en determinadas interacciones entre
+sistemas de inteligencia artificial generativa y consumidores, incluyendo aquellas de
+alto riesgo vinculadas a servicios reglamentados; disponer excepciones para usos
+técnicos, incidentales, de traducción y promoción de obras expresivas; establecer
+responsabilidad por la utilización comercial de sistemas de inteligencia artificial;
+facultar al Departamento de Asuntos del Consumidor para fiscalizar su cumplimiento
+e imponer multas administrativas; preservar los demás derechos y remedios
+reconocidos por ley; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El desarrollo de la inteligencia artificial generativa ha transformado la manera en
+que se producen anuncios comerciales y se desarrollan las relaciones entre proveedores
+y consumidores. Mediante estas tecnologías es posible crear figuras humanas ficticias que
+aparentan hablar, actuar, recomendar o utilizar un producto, así como reproducir de
+forma altamente realista la imagen, voz, apariencia, gestos o movimientos de una persona
+natural identificable, aun cuando esta no haya participado en la actuación representada.
+También pueden utilizarse sistemas automatizados para sostener conversaciones que,
+
+2
+por su fluidez y apariencia, sean razonablemente confundidas con una interacción
+humana. Estas herramientas ofrecen oportunidades legítimas para promover la
+innovación y mejorar la eficiencia de los servicios. Sin embargo, su utilización sin una
+divulgación adecuada puede inducir al consumidor a atribuir autenticidad, experiencia
+o credibilidad humana a una representación o comunicación que fue generada
+artificialmente. La necesidad de atender estos riesgos ha sido reconocida en otras
+jurisdicciones mediante legislación dirigida específicamente a los intérpretes sintéticos en
+anuncios comerciales y a las interacciones entre sistemas de inteligencia artificial
+generativa y consumidores.1
+Puerto Rico cuenta con un ordenamiento general destinado a proteger a los
+consumidores de anuncios y prácticas engañosas. La Ley Núm. 5 de 23 de abril de 1973,
+según enmendada, conocida como la “Ley Orgánica del Departamento de Asuntos del
+Consumidor”, faculta al Departamento de Asuntos del Consumidor a reglamentar y
+fiscalizar los anuncios comerciales, examinar las alegaciones sobre las cualidades de los
+bienes y servicios y requerir evidencia sobre la veracidad de los reclamos publicitarios.
+Esa legislación respondió, precisamente, al desequilibrio de recursos e información
+existente entre los productores y los consumidores dentro de un mercado cada vez más
+complejo y tecnológicamente sofisticado. No obstante, una representación sintética
+puede crear una impresión engañosa aun cuando las palabras particulares incluidas en
+el anuncio no sean literalmente falsas. El consumidor puede creer que una persona real
+utilizó el producto, ofreció un testimonio, formuló una recomendación o autorizó la
+utilización de su identidad. Por ello, resulta necesario complementar el marco vigente
+mediante una obligación limitada de revelar la naturaleza sintética de la representación
+y de informar cuándo determinadas comunicaciones comerciales son producidas por un
+sistema automatizado.
+Esta Asamblea Legislativa reconoce que los anuncios comerciales constituyen
+expresión protegida por la Primera Enmienda de la Constitución de los Estados Unidos
+1 Véanse, New York General Business Law § 396-b y Utah Code §§ 13-77-101 et seq.
+
+3
+y por la Sección 4 del Artículo II de la Constitución de Puerto Rico. Dicha protección, sin
+embargo, no impide al Estado reglamentar la actividad comercial para prevenir el engaño
+y asegurar que los consumidores reciban información material para tomar decisiones
+informadas. En Central Hudson Gas & Electric Corp. v. Public Service Commission of New
+York, 447 U.S. 557 (1980), el Tribunal Supremo de los Estados Unidos estableció que la
+expresión comercial relacionada con una actividad lícita y que no sea engañosa puede ser
+reglamentada cuando el Estado persigue un interés gubernamental sustancial, la
+regulación adelanta directamente ese interés y su alcance no resulta más extenso de lo
+necesario. Asimismo, reconoció que la expresión falsa o engañosa no disfruta de la misma
+protección constitucional. La prevención de confusión respecto a si una actuación,
+identidad o comunicación es humana o artificial constituye un interés gubernamental
+sustancial directamente relacionado con la protección del consumidor y la integridad del
+mercado.
+La presente Ley adopta el medio menos oneroso para adelantar ese interés: una
+divulgación fáctica y conspicua, en lugar de una prohibición sobre el uso de inteligencia
+artificial. En Zauderer v. Office of Disciplinary Counsel, 471 U.S. 626 (1985), el Tribunal
+Supremo sostuvo que el Estado puede requerir en la publicidad comercial la divulgación
+de información puramente fáctica y no controvertible cuando la exigencia guarde una
+relación razonable con la prevención del engaño al consumidor. Esa facultad no es
+ilimitada, pues las divulgaciones no pueden ser injustificadas ni indebidamente gravosas,
+según reiterado en National Institute of Family and Life Advocates v. Becerra, 585 U.S. 755
+(2018). En armonía con estos principios, esta Ley no exige divulgar todo uso de
+inteligencia artificial, no impone una frase oficial, una duración fija, un tamaño
+tipográfico predeterminado, metadatos ni una tecnología particular. Además, excluye los
+usos técnicos o incidentales, las traducciones que no alteren el significado, los personajes
+manifiestamente ficticios y la promoción legítima de obras expresivas. La obligación se
+limita a informar el hecho objetivo de que la actuación presentada es sintética, que
+reproduce digitalmente a una persona real o que la interacción se desarrolla mediante
+inteligencia artificial y no con una persona natural.
+
+4
+La Ley también reconoce que quien decide utilizar un sistema de inteligencia
+artificial en el curso de una actividad comercial obtiene los beneficios de su
+implementación y se encuentra en mejor posición para seleccionar, configurar, supervisar
+y distribuir los riesgos asociados a su funcionamiento. Por ello, la autonomía técnica del
+sistema o la ausencia de revisión humana de una respuesta particular no podrá utilizarse
+para desvincular al proveedor de las consecuencias jurídicas de las declaraciones,
+recomendaciones, decisiones, actos u omisiones generados dentro del uso para el cual fue
+adoptado. Esta responsabilidad se complementa con deberes especiales de información
+en interacciones de alto riesgo relacionadas con información sensible y servicios
+financieros, jurídicos, médicos o de salud mental, sin menoscabar la jurisdicción de las
+agencias, juntas examinadoras, organismos reguladores o del Tribunal Supremo de
+Puerto Rico sobre las profesiones y actividades sujetas a su autoridad. De esta manera, la
+medida establece un marco limitado, tecnológicamente neutral y proporcional que
+protege la innovación y la expresión comercial legítima, al tiempo que garantiza
+transparencia, responsabilidad y confianza en las relaciones de consumo.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Título.
+2 Esta Ley se conocerá como la “Ley sobre Representaciones Sintéticas e
+3 Interacciones Automatizadas en el Comercio”.
+4 Sección 2. — Declaración de política pública.
+5 Será política pública del Gobierno de Puerto Rico promover la transparencia en
+6 el uso de la inteligencia artificial dentro de las actividades comerciales,
+7 particularmente cuando dicha tecnología sea utilizada para crear representaciones
+8 humanas sintéticas o para interactuar directamente con consumidores de una manera
+9 que pueda ser razonablemente confundida con una actuación o comunicación
+10 humana.
+
+5
+1 Las disposiciones de esta Ley se interpretarán de forma que protejan a los
+2 consumidores contra el engaño y la confusión, sin imponer restricciones innecesarias
+3 sobre los usos técnicos, incidentales, creativos o legítimos de la inteligencia artificial.
+4 La aplicación de esta Ley estará limitada a las conductas expresamente reguladas y no
+5 se extenderá, por inferencia, a todo contenido comercial creado, editado o asistido
+6 mediante inteligencia artificial.
+7 Sección 3. — Definiciones.
+8 Para propósitos de esta Ley, los siguientes términos tendrán el significado que
+9 se dispone a continuación:
+10 (a) Anuncio comercial. — Toda comunicación realizada con el propósito
+11 principal de promover la venta, contratación, arrendamiento, adquisición o utilización
+12 de bienes o servicios.
+13 (b) Consumidor. — Toda persona natural que adquiera, procure adquirir,
+14 reciba o sea destinataria de bienes o servicios para fines personales, familiares o
+15 domésticos.
+16 (c) Departamento. — El Departamento de Asuntos del Consumidor de Puerto
+17 Rico.
+18 (d) Divulgación conspicua. — Toda divulgación presentada de manera clara,
+19 visible o audible, según corresponda al medio utilizado, comprensible y
+20 razonablemente perceptible para un consumidor ordinario. Para determinar si una
+21 divulgación es conspicua, se considerará su ubicación, contraste, tamaño, volumen,
+22 velocidad, duración y proximidad al contenido al cual se refiere.
+
+6
+1 (e) Información personal sensible. — Toda información relacionada con la
+2 salud física o mental, la situación financiera o los datos biométricos de una persona.
+3 (f) Inteligencia artificial. — Todo sistema basado en máquinas, desarrollado
+4 mediante programas de computadora, componentes físicos o una combinación de
+5 ambos, que, para un conjunto determinado de objetivos definidos por seres humanos,
+6 pueda formular predicciones o recomendaciones, tomar decisiones o generar
+7 contenido capaz de influir en entornos reales o virtuales. El término incluye sistemas
+8 que realicen tareas bajo circunstancias variables o impredecibles con limitada
+9 supervisión humana; aprendan de la experiencia o mejoren su desempeño mediante
+10 la exposición a datos; o ejecuten funciones relacionadas con la percepción, cognición,
+11 planificación, aprendizaje, comunicación, razonamiento, toma de decisiones o acción.
+12 Incluye, sin que se entienda como una limitación, las técnicas de aprendizaje
+13 automático, las redes neuronales, el procesamiento de lenguaje natural, la visión
+14 computadorizada y la inteligencia artificial generativa.
+15 (g) Inteligencia artificial generativa. — Todo sistema de inteligencia artificial
+16 entrenado mediante datos y diseñado para generar texto, audio, imágenes, video u
+17 otro contenido digital semejante al producido por una persona, con limitada o ninguna
+18 intervención humana durante la generación de dicho contenido.
+19 (h) Interacción de alto riesgo. — Toda interacción entre un consumidor y un
+20 sistema de inteligencia artificial generativa que comprenda la recopilación de
+21 información personal sensible o la provisión de recomendaciones, asesoramiento o
+
+7
+1 información personalizada que razonablemente pueda utilizarse para adoptar
+2 decisiones significativas en materia financiera, jurídica, médica o de salud mental.
+3 (i) Intérprete sintético. — Toda representación digital de una figura humana
+4 ficticia, creada, reproducida o modificada mediante inteligencia artificial generativa o
+5 algún algoritmo informático, con el propósito de producir la impresión de que realiza
+6 una actuación visual, audiovisual o sonora, siempre que dicha representación no
+7 reproduzca ni imite de manera identificable a una persona natural específica.
+8 (j) Proveedor. — Toda persona que ofrezca, venda, arriende, suministre o
+9 preste bienes o servicios en conexión con una transacción de consumo.
+10 (k) Réplica digital. — Toda representación electrónica altamente realista que
+11 reproduzca o imite de manera identificable la imagen, apariencia, gestos, movimientos
+12 o voz de una persona natural específica, creada o materialmente modificada mediante
+13 inteligencia artificial, cuando dicha persona no haya realizado la actuación o expresión
+14 de la manera representada. A diferencia del intérprete sintético, la réplica digital
+15 deberá corresponder a una persona natural real y susceptible de ser identificada.
+16 (l) Servicio reglamentado. — Todo servicio cuya prestación por compensación
+17 requiera una licencia, autorización, admisión o certificación expedida o reconocida por
+18 una agencia, junta examinadora, tribunal u otra instrumentalidad del Gobierno de
+19 Puerto Rico.
+20 (m) Transacción de consumo. — Toda venta, arrendamiento, oferta, prestación
+21 o contratación de bienes o servicios destinados principalmente a fines personales,
+22 familiares o domésticos.
+
+8
+1 Sección 4. — Ámbito de aplicación.
+2 Esta Ley aplicará a los anuncios comerciales difundidos o distribuidos con el
+3 propósito de alcanzar consumidores en Puerto Rico y a las interacciones mediante
+4 inteligencia artificial generativa realizadas en conexión con una transacción de
+5 consumo o con la prestación de un servicio reglamentado en Puerto Rico.
+6 Para determinar si un anuncio comercial está dirigido a consumidores en
+7 Puerto Rico, podrán considerarse, entre otros factores, la segmentación geográfica de
+8 la audiencia; la disponibilidad del bien o servicio en Puerto Rico; la referencia a
+9 establecimientos, precios, promociones o condiciones aplicables específicamente en
+10 esta jurisdicción; y la posibilidad de adquirir, recibir o utilizar el bien o servicio en
+11 Puerto Rico.
+12 Nada de lo dispuesto en esta Ley se interpretará como aplicable a expresiones
+13 políticas, periodísticas, académicas, educativas, religiosas o artísticas cuyo propósito
+14 principal no sea promover una transacción comercial.
+15 Sección 5. — Divulgación de intérpretes sintéticos y réplicas digitales.
+16 Toda persona que, con propósito comercial, produzca, cree, encargue la
+17 producción o tenga autoridad final para aprobar un anuncio comercial dirigido a
+18 consumidores en Puerto Rico que contenga un intérprete sintético deberá divulgar de
+19 manera conspicua que el anuncio incorpora una representación humana ficticia
+20 generada mediante inteligencia artificial.
+21 Cuando el anuncio comercial contenga una réplica digital, la divulgación
+22 deberá indicar que la imagen, apariencia, gestos, movimientos, voz o actuación de la
+
+9
+1 persona representada fue creada o materialmente modificada mediante inteligencia
+2 artificial.
+3 La divulgación podrá realizarse mediante cualquier expresión sencilla y
+4 comprensible que comunique claramente la naturaleza sintética o digitalmente
+5 modificada de la representación. No se requerirá el uso de una frase uniforme o
+6 predeterminada.
+7 El cumplimiento con esta Sección no constituirá consentimiento para utilizar el
+8 nombre, imagen, voz, semejanza, identidad o actuación de la persona representada, ni
+9 subsanará cualquier utilización que resulte contraria a derecho.
+10 Sección 6. — Forma de la divulgación.
+11 La divulgación requerida por la Sección 5 deberá incorporarse al propio
+12 anuncio comercial y presentarse de manera que un consumidor ordinario pueda
+13 percibirla y comprenderla en condiciones normales de exposición al anuncio.
+14 En los anuncios visuales, la divulgación deberá permanecer visible durante un
+15 periodo razonablemente suficiente para permitir su lectura. En los anuncios
+16 audiovisuales, la divulgación podrá presentarse de forma visual o audible; cuando sea
+17 visual, deberá permanecer visible durante un periodo razonablemente suficiente para
+18 su lectura y, cuando sea audible, deberá expresarse de manera clara e inteligible. En
+19 los anuncios exclusivamente sonoros que utilicen un intérprete sintético o una réplica
+20 digital de la voz de una persona natural específica, la divulgación deberá realizarse de
+21 forma audible.
+
+10
+1 La divulgación se realizará en el idioma del anuncio. Cuando las expresiones
+2 comerciales sustantivas se presenten tanto en español como en inglés, la divulgación
+3 se realizará en ambos idiomas.
+4 La divulgación no podrá estar oculta, oscurecida ni presentada de manera que
+5 dificulte razonablemente su percepción o comprensión. Tampoco podrá condicionarse
+6 a que el consumidor seleccione un enlace, acceda a contenido adicional, se desplace a
+7 otra sección o realice alguna otra acción para conocerla.
+8 Sección 7. — Excepciones aplicables a los anuncios comerciales.
+9 Las obligaciones de divulgación establecidas en las Secciones 5 y 6 no aplicarán
+10 cuando la inteligencia artificial sea utilizada exclusivamente para la corrección
+11 ortográfica o gramatical; la traducción de texto; la creación de subtítulos,
+12 transcripciones o funciones de accesibilidad; la reducción de ruido; la corrección de
+13 color, iluminación o sonido; el redimensionamiento, compresión o cambio de formato;
+14 o cualquier otra modificación técnica o incidental que no cree ni altere materialmente
+15 una actuación humana.
+16 Tampoco aplicarán cuando la inteligencia artificial sea utilizada
+17 exclusivamente para traducir a otro idioma la actuación de una persona natural,
+18 siempre que dicha traducción no altere el significado de sus expresiones.
+19 Las obligaciones de divulgación no aplicarán a personajes animados,
+20 fantásticos o manifiestamente ficticios que un consumidor razonable no interpretaría
+21 como una persona natural ni como una actuación humana real.
+
+11
+1 Asimismo, no aplicarán a anuncios o materiales promocionales de películas,
+2 programas de televisión, documentales, producciones teatrales, videojuegos,
+3 grabaciones musicales, contenido transmitido mediante plataformas digitales u otras
+4 obras expresivas similares, siempre que la utilización del intérprete sintético o de la
+5 réplica digital en el anuncio sea consistente con su utilización en la obra promocionada
+6 y no represente falsamente que una persona natural endosa un bien o servicio distinto
+7 de dicha obra.
+8 Sección 8. — Publicación o distribución por terceros.
+9 No se impondrá responsabilidad al amparo de las Secciones 5 y 6 a un
+10 periódico, revista, estación o red de radio o televisión, sistema de cable, servicio de
+11 transmisión digital, plataforma en línea, red social, proveedor de servicios
+12 interactivos, operador de vallas publicitarias, imprenta, proveedor de
+13 telecomunicaciones, proveedor de almacenamiento digital o cualquier otro medio que
+14 se limite a publicar, transmitir, alojar, imprimir o distribuir un anuncio producido por
+15 otra persona.
+16 La exclusión establecida en esta Sección no aplicará cuando el medio también
+17 produzca o cree el anuncio; participe sustancialmente en la creación del intérprete
+18 sintético o de la réplica digital; o modifique materialmente el anuncio con el propósito
+19 de suprimir una divulgación que conocía que formaba parte de este.
+20 Nada de lo dispuesto en esta Ley se interpretará como una limitación o
+21 ampliación de las protecciones conferidas por la Sección 230 del Communications
+22 Decency Act, 47 U.S.C. sec. 230.
+
+12
+1 Sección 9. — Deber de información en las interacciones con consumidores.
+2 Todo proveedor que utilice inteligencia artificial generativa para interactuar
+3 con un consumidor en conexión con una transacción de consumo deberá informarle
+4 que está interactuando con un sistema de inteligencia artificial y no con una persona
+5 natural cuando el consumidor formule una pregunta o solicitud clara e inequívoca
+6 dirigida a conocer la naturaleza de la interacción.
+7 La información deberá ofrecerse inmediatamente después de recibida la
+8 pregunta o solicitud y mediante el mismo medio utilizado para la interacción.
+9 Sección 10. — Interacciones de alto riesgo en la prestación de servicios
+10 reglamentados.
+11 Todo proveedor que utilice inteligencia artificial generativa en la prestación de
+12 un servicio reglamentado deberá divulgar de manera conspicua que el consumidor
+13 está interactuando con un sistema de inteligencia artificial cuando dicha utilización
+14 constituya una interacción de alto riesgo.
+15 La divulgación deberá realizarse verbalmente al comienzo de una interacción
+16 oral y por escrito antes de comenzar una interacción escrita o visual.
+17 La utilización de inteligencia artificial generativa no relevará al proveedor del
+18 cumplimiento con las leyes, reglamentos, normas éticas, deberes fiduciarios, requisitos
+19 de competencia profesional, confidencialidad, consentimiento informado y
+20 conservación de expedientes aplicables al servicio reglamentado.
+21 Nada de lo dispuesto en esta Ley se interpretará como una limitación a la
+22 facultad del Tribunal Supremo de Puerto Rico para reglamentar el ejercicio de la
+
+13
+1 abogacía y la notaría, ni como una autorización al Departamento para intervenir en
+2 asuntos disciplinarios reservados a dicho Tribunal.
+3 Sección 11. — Responsabilidad por la utilización de sistemas de inteligencia
+4 artificial.
+5 Toda persona que seleccione, adopte, implemente o utilice un sistema de
+6 inteligencia artificial en el curso de sus actividades comerciales será responsable, para
+7 fines del cumplimiento de esta Ley, por las declaraciones, recomendaciones,
+8 decisiones, actos u omisiones generados por dicho sistema dentro del uso autorizado,
+9 previsto o razonablemente relacionado con las funciones para las cuales fue utilizado.
+10 No constituirá defensa que el resultado haya sido generado de manera
+11 autónoma, sin revisión o aprobación humana, ni que la persona desconociera el
+12 contenido particular producido por el sistema, cuando dicho resultado se haya
+13 generado dentro del curso ordinario del uso para el cual fue seleccionado, configurado
+14 o puesto a disposición de los consumidores.
+15 Nada de lo dispuesto en esta Sección impedirá el ejercicio de las acciones
+16 contractuales, de indemnización o de regreso que procedan contra el desarrollador,
+17 proveedor, distribuidor o tercero responsable del funcionamiento defectuoso del
+18 sistema.
+19 Sección 12. — Facultades del Departamento de Asuntos del Consumidor;
+20 coordinación con otros organismos reguladores.
+21 El Departamento tendrá jurisdicción para administrar esta Ley y fiscalizar su
+22 cumplimiento. A tales fines, podrá investigar querellas, requerir la presentación de
+
+14
+1 información y documentos, celebrar vistas administrativas, emitir órdenes de cese y
+2 desista, ordenar la corrección o el retiro de anuncios comerciales, requerir la
+3 modificación de los mecanismos de divulgación utilizados en las interacciones con
+4 consumidores e imponer las multas administrativas autorizadas por esta Ley.
+5 Cuando la conducta investigada surja en el contexto de una interacción de alto
+6 riesgo o de la prestación de un servicio reglamentado, el Departamento notificará y,
+7 cuando proceda, remitirá el asunto al organismo con jurisdicción sobre la actividad o
+8 profesión correspondiente. Entre estos se incluyen el Departamento de Salud, las
+9 juntas examinadoras adscritas a este, la Oficina del Comisionado de Instituciones
+10 Financieras, la Oficina del Comisionado de Seguros y cualquier otra agencia, oficina,
+11 junta examinadora u organismo facultado para reglamentar, supervisar o disciplinar
+12 la prestación del servicio. Cuando la conducta esté relacionada con el ejercicio de la
+13 abogacía o la notaría, el Departamento remitirá el asunto al Tribunal Supremo de
+14 Puerto Rico.
+15 El organismo concernido podrá investigar la conducta referida y, de determinar
+16 que se ha infringido alguna ley, reglamento, canon ético, norma profesional, deber
+17 fiduciario o condición aplicable a una licencia, autorización, admisión o certificación,
+18 podrá imponer las medidas correctivas, administrativas o disciplinarias autorizadas
+19 por su ordenamiento. La actuación del Departamento al amparo de esta Ley no
+20 limitará, sustituirá ni menoscabará la jurisdicción, las facultades fiscalizadoras o los
+21 remedios disponibles ante dichos organismos.
+
+15
+1 Nada de lo dispuesto en esta Ley se interpretará como una autorización al
+2 Departamento para adjudicar controversias relativas a la idoneidad o competencia
+3 profesional, al ejercicio no autorizado de una profesión, a la disciplina profesional o a
+4 cualquier otra materia reservada por ley a otro organismo. En particular, no se
+5 menoscabará la facultad inherente y exclusiva del Tribunal Supremo de Puerto Rico
+6 para reglamentar y disciplinar el ejercicio de la abogacía y la notaría.
+7 Toda investigación, adjudicación e imposición de multas administrativas por el
+8 Departamento se llevará a cabo conforme a la Ley 38-2017, según enmendada,
+9 conocida como la “Ley de Procedimiento Administrativo Uniforme del Gobierno de
+10 Puerto Rico”, y a los reglamentos aplicables del Departamento. Previo a la imposición
+11 de cualquier multa administrativa, el Departamento notificará a la parte imputada la
+12 infracción alegada y le concederá una oportunidad adecuada de ser oída.
+13 Sección 13. — Multas administrativas; oportunidad de subsanar.
+14 Toda persona que incumpla los deberes establecidos en las Secciones 5, 6, 9 o
+15 10 de esta Ley estará sujeta estará sujeta a una multa administrativa no mayor de mil
+16 dólares ($1,000) por una primera infracción y no mayor de cinco mil dólares ($5,000)
+17 por cada infracción subsiguiente.
+18 Las distintas publicaciones, reproducciones o transmisiones de un mismo
+19 anuncio, o de versiones sustancialmente idénticas que formen parte de una misma
+20 campaña publicitaria, constituirán una sola infracción. Asimismo, los mensajes o
+21 respuestas generados durante una misma sesión continua con un consumidor
+22 constituirán una sola interacción para fines de esta Sección.
+
+16
+1 Una infracción se considerará subsiguiente únicamente cuando ocurra después
+2 de que haya advenido final y firme una determinación previa contra la misma persona
+3 por una violación de esta Ley.
+4 Antes de imponer una multa por una primera infracción, el Departamento
+5 notificará el incumplimiento y concederá a la persona un término de diez (10) días
+6 laborables para corregir o retirar el anuncio; corregir el mecanismo de información o
+7 divulgación utilizado durante la interacción; o demostrar que la conducta imputada
+8 no está cubierta por esta Ley.
+9 El término para subsanar no será aplicable cuando el Departamento determine
+10 que la omisión fue intencional; que el anuncio formó parte de una práctica falsa o
+11 engañosa; que se utilizó sin autorización la identidad de una persona natural; o que la
+12 continuación de la conducta puede ocasionar un perjuicio sustancial e inmediato a los
+13 consumidores.
+14 Sección 14. — Relación con otras leyes y remedios.
+15 Nada de lo dispuesto en esta Ley limitará los derechos, deberes, causas de
+16 acción, sanciones o remedios reconocidos por el Código Civil de Puerto Rico; la Ley
+17 Núm. 5 de 23 de abril de 1973, según enmendada, conocida como “Ley Orgánica del
+18 Departamento de Asuntos del Consumidor”; Ley 139-2011, conocida como “Ley del
+19 Derecho sobre la Propia Imagen”; Ley 55-2012, conocida como “Ley de Derechos
+20 Morales de Autor de Puerto Rico”; las normas aplicables a los servicios reglamentados;
+21 o cualquier otra ley de Puerto Rico o de los Estados Unidos.
+
+17
+1 El cumplimiento con una divulgación requerida por esta Ley no constituirá
+2 defensa ante una reclamación por fraude, dolo, falsa representación, publicidad
+3 engañosa, utilización no autorizada de la identidad de una persona, incumplimiento
+4 contractual o cualquier otra conducta ilícita.
+5 Sección 15. — Reglamentación.
+6 El Departamento podrá adoptar los reglamentos necesarios para poner en vigor
+7 las disposiciones de esta Ley, conforme a la Ley 38-2017, según enmendada.
+8 La reglamentación que se adopte deberá ser tecnológicamente neutral,
+9 reconocer las diferencias entre los distintos medios de comunicación y proveer
+10 ejemplos de divulgaciones que satisfagan las disposiciones de esta Ley. El
+11 Departamento no podrá imponer mediante reglamento una duración uniforme, un
+12 porcentaje tipográfico específico, el uso obligatorio de metadatos ni una tecnología
+13 particular que no haya sido expresamente requerida por esta Ley.
+14 Sección 16. — Cláusula de separabilidad.
+15 Las disposiciones de esta Ley son independientes y separables. Si cualquier
+16 disposición, palabra, oración, inciso, sección o parte de esta Ley fuese declarada
+17 inconstitucional o inválida por un tribunal con jurisdicción y competencia, dicha
+18 determinación no afectará, menoscabará ni invalidará las restantes disposiciones, las
+19 cuales continuarán en plena fuerza y vigor.
+20 Sección 17. — Vigencia.
+21 Esta Ley entrará en vigor ciento ochenta (180) días después de su aprobación.
+22 El Departamento podrá iniciar el proceso de reglamentación y orientación pública
+
+18
+1 desde la fecha de aprobación, pero no podrá imponer multas por conductas ocurridas
+2 antes de la fecha de vigencia de esta Ley.
