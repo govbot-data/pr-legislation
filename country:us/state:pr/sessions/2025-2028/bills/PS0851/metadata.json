@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0851",
-  "title": "\u201cPara enmendar la Ley 57-2023 a\u00f1adiendo un nuevo Art\u00edculo 51(a) para establecer responsabilidad penal de delito grave con una pena fija de reclusi\u00f3n de dos (2) a\u00f1os, en aquellos casos donde exista conocimiento o sospecha de agresi\u00f3n sexual contra un menor y se incumpla con el deber de suministrar informaci\u00f3n, o se deje de realizar alg\u00fan otro acto requerido por esta ley, o que a sabiendas impida que otra persona actuando en forma razonable lo haga, o que a sabiendas suministre informaci\u00f3n falsa o aconseje a otra persona para que lo haga, y para que aquella persona que suministre informaci\u00f3n sobre la sospecha de agresi\u00f3n sexual a un menor que se determine es infundada y cuya consecuencia natural o probable se estime ha sido interferir con el ejercicio leg\u00edtimo de la custodia, relaciones paternofiliales y de la patria potestad, ser\u00e1 referida por el Departamento de la Familia al Departamento de Justicia para su evaluaci\u00f3n y el procesamiento ulterior que corresponda, y para otros fines relacionados.\u201d",
+  "title": "Para a\u00f1adir un nuevo Art\u00edculo 51(a) a la Ley N\u00fam. 57-2023, seg\u00fan enmendada, conocida como \u201cLey para la Prevenci\u00f3n del Maltrato, Preservaci\u00f3n de la Unidad Familiar y para la Seguridad, Bienestar y Protecci\u00f3n de los Menores\u201d, con el prop\u00f3sito de establecer responsabilidad penal de delito grave con una pena fija de reclusi\u00f3n de dos (2) a\u00f1os, en aquellos casos donde exista conocimiento o sospecha de abuso sexual contra un menor y se incumpla con el deber de suministrar informaci\u00f3n, o se deje de realizar alg\u00fan otro acto requerido por esta Ley, o que a sabiendas impida que otra persona actuando en forma razonable lo haga; y establecer responsabilidad penal de delito grave con una pena fija de reclusi\u00f3n de tres (3) a\u00f1os en aquellos casos en los que a sabiendas se suministre informaci\u00f3n falsa o aconseje a otra persona para que lo haga; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -280,25 +280,19 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:18Z"
       }
+    },
+    {
+      "description": "Ley 164-2026",
+      "date": "2026-08-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Joanne  Rodr\u00edguez Veve - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Joanne  Rodr\\u00edguez Veve - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -313,6 +307,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joanne  Rodr\u00edguez Veve - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joanne  Rodr\\u00edguez Veve - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -427,6 +437,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Ley 164-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159395/Ley 164-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -445,7 +466,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T05:35:26.830452Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0061",
-  "title": "\u201cPara ordenar al Departamento de Agricultura y a la Junta de Planificaci\u00f3n de Puerto Rico seg\u00fan\ndispuesto por la Ley N\u00fam. 107 de 3 de julio de 1974, \u201cLey de Preservaci\u00f3n de Tierras para Uso\nAgr\u00edcola\u201d seg\u00fan enmendada a proceder con la liberaci\u00f3n de las condiciones y restricciones\ncontenidas en la Escritura P\u00fablica n\u00famero 64, otorgada en San Juan, Puerto Rico, el d\u00eda 11 de mayo de 1972 ante el Notario P\u00fablico Bol\u00edvar Dones Rivera, sobre la finca n\u00famero 4,281, inscrita en el\nfolio 18 del tomo 94 del Registro de la Propiedad de Barranquitas. Dicha escritura consta a favor de\nDon Pablo Otero Rodr\u00edguez y Do\u00f1a Eulogia Ortiz.\u201d",
+  "title": "Para ordenar  a la Autoridad de Tierras y a la Junta de Planificaci\u00f3n de Puerto Rico,  conforme lo dispuesto por la Ley N\u00fam. 107 de 3 de julio de 1974, seg\u00fan enmendada, com\u00fanmente llamada \u201cLey de Preservaci\u00f3n de Tierras para Uso Agr\u00edcola\u201d, a proceder con la liberaci\u00f3n de las condiciones y restricciones contenidas en la Escritura P\u00fablica n\u00famero 64, otorgada en San Juan, Puerto Rico, el d\u00eda 11 de mayo de 1972 ante el Notario P\u00fablico Bol\u00edvar Dones Rivera, sobre la finca n\u00famero 4,281, inscrita en el folio 18 del tomo 94 del Registro de la Propiedad de Barranquitas. Dicha escritura consta a favor de don Pablo Otero Rodr\u00edguez y do\u00f1a Eulogia Ortiz.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -256,6 +256,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T04:32:11Z"
       }
+    },
+    {
+      "description": "Res. Conj.  45-2026",
+      "date": "2026-07-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -357,6 +367,17 @@
       ],
       "date": "2026-06-16",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  45-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155963/Res. Conj. 45-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -375,7 +396,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T04:32:11Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T02:32:03.918083Z"
   }
 }

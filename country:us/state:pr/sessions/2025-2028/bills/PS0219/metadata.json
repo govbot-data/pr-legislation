@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0219",
-  "title": "Para enmendar los articulos 10 y 20 de la Ley 70-1992, seg\u00fan enmendada, conocida como\n\" Ley para la Reducci\u00f3n y el Reciclaie de Desperdicios S\u00f3lidos en Puerto Rico\", con\nel prop\u00f3sito de facultar al Banco de Desarrollo Econ\u00f3mico para Puerto Rico a\nreestrucfurar la forma y manera en que otorgar\u00e1 las aportaciones econ\u00f3micas a ser\nconcedidas a las entidades privadas de la induskia de reciclaje. y a empresas\ncomunitarias para la compra de equipo utilizado en el recogido, almacenaie,\nprocesamiento o transportaci\u00f3n de material reciclable o para la construcci\u00f3n de\ninstalaciones de reciclaje, a los fines de clarificar que estas provendr\u00e1n de alguno de\nlos programas con los que cuenta la instituci\u00f3n financiera, ya sean estos\nsubvencionados con fondos federales u otros que se encuentren disponibles al\nmomento de solicitarse; hacer correcciones t\u00e9cnicas en la Ley; y para otros fines\nrelacionados.",
+  "title": "Para enmendar los Art\u00edculos 10 y 20 de la Ley 70-1992, seg\u00fan enmendada, conocida como \"Ley para la Reducci\u00f3n y el Reciclaje de Desperdicios S\u00f3lidos en Puerto Rico\", con el prop\u00f3sito de facultar al Banco de Desarrollo Econ\u00f3mico para Puerto Rico  a  reestructurar  la  forma  y  manera  en  que  otorgara  las aportaciones econ6micas a ser concedidas a las entidades privadas de la industria de reciclaje y a empresas comunitarias para la compra de equipo utilizado en el recogido, almacenaje,  procesamiento  o  transportaci\u00f3n de  material  reciclable  o  para  la construcci\u00f3n  de instalaciones de  reciclaje, a los fines de clarificar que  estas provendr\u00e1n  de alguno de los programas con los que  cuenta la  instituci\u00f3n financiera, ya sean estos subvencionados con fondos federales u otros que se encuentren disponibles al momento de solicitarse; hacer correcciones t\u00e9cnicas en la Ley; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -258,6 +258,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T04:32:11Z"
       }
+    },
+    {
+      "description": "Ley 152-2026",
+      "date": "2026-07-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -359,6 +369,17 @@
       ],
       "date": "2026-06-15",
       "classification": ""
+    },
+    {
+      "note": "Ley 152-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152913/Ley 152-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -377,7 +398,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T04:32:11Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T01:20:45.499464Z"
   }
 }

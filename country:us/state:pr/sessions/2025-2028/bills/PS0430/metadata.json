@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0430",
-  "title": "Para enmendar los Art\u00edculos 3 y 8 de la Ley N\u00fam. 29-2009, seg\u00fan enmendada, mejor conocida como \u201cLey de las Alianzas P\u00fablico Privadas\u201d con el prop\u00f3sito de incluir como objeto para convertirse en Contrato de Alianza la construcci\u00f3n, mantenimiento u operaci\u00f3n de edificaciones cuyo \u00fanico prop\u00f3sito sea albergar a mujeres v\u00edctimas de alg\u00fan delito de violencia dom\u00e9stica en Puerto Rico; establecer la composici\u00f3n del Comit\u00e9 de Alianza para este prop\u00f3sito; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo inciso (11) al Art\u00edculo 3 y enmendar el inciso (a) del Art\u00edculo 8 de la Ley N\u00fam. 29-2009, seg\u00fan enmendada, conocida coma \"Ley de las Alianzas P\u00fablico Privadas\", con el prop\u00f3sito de incluir como objeto para convertirse en Contrato de Alianza la construcci\u00f3n, mantenimiento u operaci\u00f3n de edificaciones cuyo \u00fanico prop\u00f3sito sea albergar a mujeres v\u00edctimas de alg\u00fan delito de violencia dom\u00e9stica en Puerto Rico; establecer la composici6n del Comit\u00e9 de Alianza para este prop\u00f3sito; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -340,6 +340,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:21Z"
       }
+    },
+    {
+      "description": "Ley 143-2026",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -482,6 +492,28 @@
       ],
       "date": "2026-06-29",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154374/ps0430e-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    },
+    {
+      "note": "Ley 143-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154374/Ley 143-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -500,7 +532,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:26Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T05:41:00.093069Z"
   }
 }

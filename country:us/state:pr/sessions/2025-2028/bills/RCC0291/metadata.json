@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0291",
-  "title": "Para ordenar al Departamento de Agricultura y a la Junta de Planificaci\u00f3n de Puerto Rico, a proceder con la liberaci\u00f3n de las condiciones y restricciones sobre preservaci\u00f3n e indivisi\u00f3n previamente impuestas y anotadas, seg\u00fan dispuesto por la Ley N\u00fam. 107 de 3 de julio de 1974, seg\u00fan enmendada, del predio de terreno marcado con el n\u00famero treinta y cuatro (34), en el plano de subdivisi\u00f3n de la finca Martineau, sita en el barrio Florida del t\u00e9rmino municipal de Vieques, Puerto Rico; inscrita al Folio Doscientos cuarenta (240) del Tomo cuarenta y cuatro (44) de Vieques, Finca n\u00famero mil seiscientos sesenta y dos (1662); y para otros fines pertinentes.",
+  "title": "Para ordenar a la Autoridad de Tierras y a la Junta de Planificaci\u00f3n de Puerto Rico, conforme lo dispuesto por la Ley N\u00fam. 107 de 3 de julio de 1974, seg\u00fan enmendada, com\u00fanmente llamada \"Ley de Preservaci\u00f3n de Tierras para Uso Agricola\", a proceder con la liberaci\u00f3n de las condiciones y restricciones sabre preservaci\u00f3n e indivisi\u00f3n previamente impuestas y anotadas, en el predio de terreno marcado con el numero treinta y cuatro (34), en el plano de subdivisi\u00f3n de la finca Martineau, sita en el barrio Florida del t\u00e9rmino municipal de Vieques, Puerto Rico; inscrita al Folio Doscientos cuarenta (240) del Torno cuarenta y cuatro (44) de Vieques, Finca n\u00famero mil seiscientos sesenta y dos (1662); y para otros fines pertinentes.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -268,6 +268,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:26Z"
       }
+    },
+    {
+      "description": "Res. Conj.  42-2026",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -380,6 +390,17 @@
       ],
       "date": "2026-06-22",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  42-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160479/Res. Conj. 42-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -398,7 +419,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:26Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T03:14:33.212706Z"
   }
 }

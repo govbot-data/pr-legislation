@@ -240,6 +240,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:30Z"
       }
+    },
+    {
+      "description": "Res. Conj.  48-2026",
+      "date": "2026-08-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -316,6 +326,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  48-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161572/Res. Conj. 48-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-01",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -334,7 +355,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:30Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T04:11:25.284136Z"
   }
 }

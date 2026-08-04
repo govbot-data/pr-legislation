@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0824",
-  "title": "Para enmendar los art\u00edculos 1, 2 y 9 de la Ley 40-2024, conocida como \u201cLey de Ciberseguridad del Estado Libre Asociado de Puerto Rico\u201d; a los fines de establecer que el programa virtual y el curso de educaci\u00f3n continua sobre Ciberseguridad dispuesto en la referida ley, incluir\u00e1 el tema del uso de la inteligencia artificial; realizar enmiendas t\u00e9cnicas; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 1, 4 y 9 de la Ley 40-2024, conocida como \"Ley de Ciberseguridad del Estado Libre Asociado de Puerto Rico\"; a los fines de establecer que el programa virtual y el curso de educaci\u00f3n continua sobre Ciberseguridad dispuesto en la referida ley, incluir\u00e1 el tema del uso de la inteligencia artificial; realizar enmiendas t\u00e9cnicas; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -246,6 +246,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:26Z"
       }
+    },
+    {
+      "description": "Ley 140-2026",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -336,6 +346,17 @@
       ],
       "date": "2026-06-11",
       "classification": ""
+    },
+    {
+      "note": "Ley 140-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158165/Ley 140-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-22",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -354,7 +375,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T02:17:18.185384Z"
   }
 }

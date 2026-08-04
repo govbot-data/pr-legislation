@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS1086",
-  "title": "Para enmendar los art\u00edculos 17, 49, 52, 57, 65, 69, suprimir el actual Art\u00edculo 67 y sustituirlo\npor uno nuevo, derogar los art\u00edculos 68 y 69, reenumerar el Art\u00edculo 70, como Art\u00edculo\n68, y a su vez enmendarlo, y reenumera los art\u00edculos 71, 72, 73, 74, 75 y 76, como los\nart\u00edculos 69, 70, 71, 72, 73 y 74, respectivamente, en la Ley 129-2020, seg\u00fan enmendada,\nconocida como \u201cLey de Condominios de Puerto Rico\u201d, con el prop\u00f3sito de establecer\nque corresponder\u00e1 al Tribunal de Primera Instancia, ser el foro exclusivo para dirimir\ncontroversias que surjan en inmuebles sometidos al r\u00e9gimen de propiedad horizontal\nen Puerto Rico; realizar enmiendas t\u00e9cnicas; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 17, 47, 49, 52, 57, 65, 66, suprimir el actual Art\u00edculo 67 y sustituirlo por uno nuevo, derogar los Art\u00edculos 68 y 69, reenumerar el Art\u00edculo 70, como Art\u00edculo 68, y a su vez enmendarlo, reenumerar el Art\u00edculo 73, como Art\u00edculo 71, y a su vez enmendarlo, y reenumerar los Art\u00edculos 71, 72, 74, 75 y 76, como los Art\u00edculos 69, 70, 72, 73 y 74, respectivamente, en la Ley 129-2020, seg\u00fan enmendada, conocida como \u201cLey de Condominios de Puerto Rico\u201d, con el prop\u00f3sito de establecer que corresponder\u00e1 al Tribunal de Primera Instancia tener la jurisdicci\u00f3n primaria exclusiva para dirimir controversias que surjan en inmuebles sometidos al r\u00e9gimen de propiedad horizontal en Puerto Rico; para establecer que el Consejo de Titulares tendr\u00e1 la obligaci\u00f3n, mediante el voto mayoritario, de establecer los requisitos m\u00ednimos de educaci\u00f3n o el cumplimiento con cualquier curso relacionado con las disposiciones de la \u201cLey de Condominios de Puerto Rico\u201d para la contrataci\u00f3n de su Agente Administrador; para transferir a los municipios determinadas funciones administrativas relacionadas con el manejo de \u00e1reas de reciclaje en los condominios; para crear una Sala Especializada de Adjudicaci\u00f3n de Controversias de Condominios en cada regi\u00f3n judicial; para incorporar una cl\u00e1usula transitoria a los fines de reglamentar la transferencia de las querellas activas ante el Departamento de Asuntos del Consumidor que versen sobre Ley 129-2020, seg\u00fan enmendada, conocida como \u201cLey de Condominios de Puerto Rico\u201d; realizar enmiendas t\u00e9cnicas; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -314,15 +314,25 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:21Z"
       }
+    },
+    {
+      "description": "Ley 157-2026",
+      "date": "2026-07-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -334,11 +344,11 @@
       "organization_id": null
     },
     {
-      "name": "Jos\u00e9 Luis  Dalmau Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Jos\\u00e9 Luis  Dalmau Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -350,19 +360,19 @@
       "organization_id": null
     },
     {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -374,11 +384,11 @@
       "organization_id": null
     },
     {
-      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Jos\u00e9 Luis  Dalmau Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Jos\\u00e9 Luis  Dalmau Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -493,6 +503,17 @@
       ],
       "date": "2026-06-29",
       "classification": ""
+    },
+    {
+      "note": "Ley 157-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160474/Ley 157-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-31",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -511,7 +532,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:25Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T03:03:16.977806Z"
   }
 }

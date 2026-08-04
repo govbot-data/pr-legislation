@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0995",
-  "title": "Para a\u00f1adir un nuevo Art\u00edculo 4.009-A a la Ley N\u00fam. 107 de 13 de agosto de 2020, conocida como \u201cC\u00f3digo Municipal de Puerto Rico\u201d, a los fines de establecer como primera opci\u00f3n la celebraci\u00f3n de vistas adjudicativas mediante el mecanismo de videoconferencia; ordenar la adopci\u00f3n o enmiendas a la reglamentaci\u00f3n y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo Art\u00edculo 4.009-A a la Ley 107-2020, seg\u00fan enmendada, conocida como \"C\u00f3digo Municipal de Puerto Rico\", a los fines de establecer como una opci\u00f3n la celebraci\u00f3n de vistas adjudicativas mediante el mecanismo de videoconferencia; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -300,6 +300,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:19Z"
       }
+    },
+    {
+      "description": "Ley 150-2026",
+      "date": "2026-07-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -423,6 +433,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Ley 150-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159548/Ley 150-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -441,7 +462,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:25Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T01:45:35.352449Z"
   }
 }

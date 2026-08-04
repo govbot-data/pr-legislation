@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0673",
-  "title": "\u201cPara declarar el mes de noviembre de cada a\u00f1o como \u201cMes de la Planificaci\u00f3n en Puerto Rico\u201d;\nproveer para que la Junta de Planificaci\u00f3n de Puerto Rico y la Escuela Graduada de Planificaci\u00f3n de\nla Universidad de Puerto Rico, en colaboraci\u00f3n con otros organismos privados y entidades p\u00fablicas,\nadopten las medidas necesarias para la consecuci\u00f3n de los objetivos de esta Ley; y para otros fines\nrelacionados.\u201d",
+  "title": "Para declarar el mes de noviembre de cada a\u00f1o como el \"Mes de la Planificaci\u00f3n en Puerto Rico\"; proveer para que la Junta de Planificaci\u00f3n de Puerto Rico, la Escuela Graduada de Planificaci\u00f3n de la Universidad de Puerto Rico y la Sociedad Puertorrique\u00f1a de Planificaci\u00f3n, en colaboraci\u00f3n con otros organismos privados y entidades p\u00fablicas, adopten las medidas necesarias para la consecuci\u00f3n de los objetivos de esta Ley; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -258,23 +258,33 @@
       "_processing": {
         "log_file_created": "2026-07-25T04:32:11Z"
       }
+    },
+    {
+      "description": "Ley 144-2026",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Nitza  Moran Trinidad - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Nitza  Moran Trinidad - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -367,6 +377,17 @@
       ],
       "date": "2026-06-16",
       "classification": ""
+    },
+    {
+      "note": "Ley 144-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156546/Ley 144-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -385,7 +406,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T04:32:11Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T01:19:22.408429Z"
   }
 }

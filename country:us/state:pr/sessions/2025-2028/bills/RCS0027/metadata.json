@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0027",
-  "title": "\u201cPara ordenar al Departamento de Agricultura y a la Junta de Planificaci\u00f3n de Puerto Rico a proceder\ncon la liberaci\u00f3n de las condiciones y restricciones contenidas en la Certificaci\u00f3n de Titulo de la finca\n#1894 del Proyecto finca Rodr\u00edguez ---Hevia del t\u00e9rmino municipal de Aguas Buenas, Puerto Rico\notorgada por la Corporaci\u00f3n para el desarrollo rural de Puerto Rico el d\u00eda 12 de marzo de 1982 a favor\nde los se\u00f1ores Benigno Castro Rivera y esposa Ignacia Pag\u00e1n.\u201d",
+  "title": "Para ordenar al Departamento de Agricultura y a la Junta de Planificaci\u00f3n de Puerto Rico a proceder con la liberaci\u00f3n de las condiciones y restricciones contenidas en la Certificaci\u00f3n de T\u00edtulo de la finca #1894 del Proyecto finca Rodr\u00edguez Hevia del t\u00e9rmino municipal de Aguas Buenas, Puerto Rico, otorgada por la Corporaci\u00f3n para el Desarrollo Rural de Puerto Rico el d\u00eda 12 de marzo de 1982 a favor de los se\u00f1ores Benigno Castro Rivera y esposa Ignacia Pag\u00e1n.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -350,6 +350,16 @@
       "_processing": {
         "log_file_created": "2026-07-25T04:32:11Z"
       }
+    },
+    {
+      "description": "Res. Conj.  44-2026",
+      "date": "2026-07-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -495,6 +505,17 @@
       ],
       "date": "2026-06-19",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  44-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153908/Res. Conj. 44-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -513,7 +534,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T04:32:11Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T04:51:49.479572Z"
   }
 }

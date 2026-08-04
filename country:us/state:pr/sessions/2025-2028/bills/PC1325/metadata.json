@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC1325",
-  "title": "Para enmendar el subinciso 3 del inciso (b) de la Secci\u00f3n 3 de la Secci\u00f3n 92 de Ley 40-2020, seg\u00fan enmendada, conocida \u201cLey del Fideicomiso para el Retiro de la Polic\u00eda\u201d, a los fines de disponer que no se descontar\u00e1 o ajustar\u00e1 la compensaci\u00f3n individual que se remite anualmente a los Miembros Elegibles Retirados de la Polic\u00eda de Puerto Rico proveniente de la distribuci\u00f3n de este Fideicomiso por raz\u00f3n de los ingresos o pagos recibidos por concepto del Seguro Social, en conformidad con el marco legal vigente federal; as\u00ed como para otros fines relacionados.",
+  "title": "Para enmendar el subinciso 3 del inciso (b) de la Secci\u00f3n 3 de la Secci\u00f3n 92 de Ley 40-2020, seg\u00fan enmendada, conocida \"Ley del Fideicomiso para el Retiro de la Polic\u00eda\", a los fines  de disponer que no se descontara o ajustara la compensaci6n individual que se remite anualmente a los Miembros Elegibles Retirados de la Polic\u00eda de Puerto Rico proveniente de la distribuci\u00f3n de este Fideicomiso por raz\u00f3n de los ingresos o pagos recibidos por concepto del Seguro Social, en conformidad con el marco legal vigente federal; as\u00ed como para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -240,6 +240,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:23Z"
       }
+    },
+    {
+      "description": "Ley 147-2026",
+      "date": "2026-07-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -252,19 +262,19 @@
       "organization_id": null
     },
     {
-      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -324,6 +334,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Ley 147-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161562/Ley 147-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -342,7 +363,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T02:00:53.062252Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0171",
-  "title": "Para enmendar el Articulo 250 de la Ley 746-2012, seg\u00fan enmendada, conocida como\n\"C\u00f3digo Penal de Puerto Rico\", a los fines de hacer mandatorio la imposici\u00f3n de la\npena de restituci\u00f3n contra toda persona que resulte convicta por el delito de\nenriquecimiento ilicito; y para otros fines relacionados.",
+  "title": "Para enmendar el Articulo 250 de la Ley 146-2012, seg\u00fan enmendada, conocida como\n\"C\u00f3digo Penal de Puerto Rico\", a los fines de hacer mandatorio la imposici\u00f3n de la\npena de restituci\u00f3n contra toda persona que resulte convicta por el delito de\nenriquecimiento ilicito; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -280,6 +280,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:23Z"
       }
+    },
+    {
+      "description": "Ley 155-2026",
+      "date": "2026-07-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -392,6 +402,28 @@
       ],
       "date": "2026-06-24",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152749/ps0171e-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-24",
+      "classification": ""
+    },
+    {
+      "note": "Ley 155-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152749/Ley 155-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-31",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -410,7 +442,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:26Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T03:54:26.334834Z"
   }
 }

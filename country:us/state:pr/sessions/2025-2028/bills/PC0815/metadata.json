@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0815",
-  "title": "Para enmendar el Art\u00edculo 7 de la Ley 133-2024, para establecer que toda persona responsable de acoso y hostigamiento incurrir\u00e1 en responsabilidad civil; y que toda entidad deportiva ser\u00e1 responsable de los actos de hostigamiento y acoso en hacia sus atletas en el entorno deportivo, si sab\u00edan o deb\u00edan de estar enterados de dicha conducta y no tomaron una acci\u00f3n inmediata y apropiada para corregir la situaci\u00f3n; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 4, 6 y 7 de la Ley 133-2024, conocida como \u201cLey para la Prevenci\u00f3n y Protecci\u00f3n Contra el Acoso y Hostigamiento Sexual en el Deporte en Puerto Rico\u201d, para incluir la definici\u00f3n de entidad deportiva; aclarar la definici\u00f3n de Acoso y Hostigamiento; establecer que toda persona responsable de acoso y hostigamiento incurrir\u00e1 en responsabilidad civil; y que toda entidad deportiva ser\u00e1 responsable de los actos de hostigamiento y acoso hacia sus atletas en el entorno deportivo, si sab\u00edan o deb\u00edan de estar enterados de dicha conducta y no tomaron una acci\u00f3n inmediata y apropiada para corregir la situaci\u00f3n; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -370,23 +370,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:20Z"
       }
+    },
+    {
+      "description": "Ley 162-2026",
+      "date": "2026-08-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Luis J. Jim\u00e9nez Torres - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Luis J. Jim\\u00e9nez Torres - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Jerry   Nieves Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jerry   Nieves Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis J. Jim\u00e9nez Torres - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis J. Jim\\u00e9nez Torres - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -501,6 +511,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Ley 162-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158096/Ley 162-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -519,7 +540,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T05:44:05.878340Z"
   }
 }

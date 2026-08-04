@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0348",
-  "title": "Para enmendar el inciso (s) del Art\u00edculo 26.060 de la Ley N\u00fam. 194-2011, seg\u00fan enmendada, mejor conocida como \u201cC\u00f3digo de Seguros de Salud de Puerto Rico\u201d, a los fines de establecer que la responsabilidad de la coordinaci\u00f3n de beneficios es una mancomunadamente compartida de las organizaciones de seguros de salud o aseguradores, de sus intermediarios y de los proveedores participantes y cu\u00e1les ser\u00e1n los par\u00e1metros para tramitar la coordinaci\u00f3n de beneficios de servicios de salud de los pacientes; a\u00f1adir los sub-incisos 14 y 15 al inciso (a) del Art\u00edculo 17 de la Ley 194-2000, seg\u00fan enmendada, conocida como \u201cCarta de Derechos y Responsabilidades del Paciente\u201d, a los fines de proveer alternativas para que el paciente, asegurado o consumidor pueda presentar querellas administrativas; requerir la redacci\u00f3n de un Reglamento conforme a los par\u00e1metros de esta Ley y establecer campa\u00f1a educativa; y para otros fines relacionados.",
+  "title": "Para enmendar el inciso (S) del Art\u00edculo 26.060 de la Ley N\u00fam. 194-2011, seg\u00fan enmendada, mejor conocida como \u201cC\u00f3digo de Seguros de Salud de Puerto Rico\u201d, a los fines de establecer que la responsabilidad de la coordinaci\u00f3n de beneficios es una mancomunadamente compartida de las organizaciones de seguros de salud o aseguradores, de sus intermediarios y de los proveedores participantes y cu\u00e1les ser\u00e1n los par\u00e1metros para tramitar la coordinaci\u00f3n de beneficios de servicios de salud de los pacientes; a\u00f1adir los sub-incisos 14 y 15 al inciso (a) del Art\u00edculo 17 de la Ley 194-2000, seg\u00fan enmendada, conocida como \u201cCarta de Derechos y Responsabilidades del Paciente\u201d, a los fines de proveer alternativas para que el paciente, asegurado o consumidor pueda presentar querellas administrativas; requerir la redacci\u00f3n de un Reglamento conforme a los par\u00e1metros de esta Ley y establecer campa\u00f1a educativa; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -258,6 +258,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:23Z"
       }
+    },
+    {
+      "description": "Ley 161-2026",
+      "date": "2026-08-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -378,6 +388,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Ley 161-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153921/Ley 161-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -396,7 +417,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T04:07:57.228467Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0567",
-  "title": "\u201cPara crear la \u201cLey Especial para Uniformar el Proceso de Titularidad de los Bienes Inmuebles del\nGobierno de Puerto Rico\u201d, a los efectos de establecer un procedimiento especial mediante el cual se\ndispone que, cuando no se identifique al titular de un bien inmueble que pertenece a la Rama\nEjecutiva, o cuando la entidad gubernamental que se presume titular del bien inmueble en cuesti\u00f3n\nno puede presentar documentaci\u00f3n fehaciente que le acredite como titular, el Departamento de\nTransportaci\u00f3n y Obras P\u00fablicas certificar\u00e1 que el bien inmueble pertenece al Gobierno de Puerto\nRico y lo representar\u00e1 como custodio de las propiedades estaduales en todo proceso de disposici\u00f3n\nde dicho bien inmueble ante el Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Bienes Inmuebles, instituido\nen virtud del Cap\u00edtulo 5 de la Ley 26-2017, seg\u00fan enmendada, conocida como \u201cLey de\nCumplimiento con el Plan Fiscal\u201d; enmendar el Art\u00edculo 1 de la Ley N\u00fam. 12 de 10 de diciembre de\n1975, seg\u00fan enmendada, y enmendar el Art\u00edculo 133 del \u201cC\u00f3digo Pol\u00edtico de Puerto Rico\u201d de 1902,\nseg\u00fan enmendado, a los fines de atemperar dichas leyes con la presente; disponer que esta Ley no\nestar\u00e1 supeditada para entrar en vigor a la promulgaci\u00f3n de un reglamento o a enmiendas a\nreglamentos vigentes; y para otros fines relacionados.\u201d",
+  "title": "Para crear la \u201cLey Especial para Uniformar el Proceso de Titularidad de los Bienes Inmuebles del Gobierno de Puerto Rico\u201d, a los efectos de establecer un procedimiento especial mediante el cual se dispone que, cuando no se identifique al titular de un bien inmueble que pertenece a la Rama Ejecutiva, o cuando la entidad gubernamental que se presume titular del bien inmueble en cuesti\u00f3n no puede presentar documentaci\u00f3n fehaciente que le acredite como titular, el Departamento de Transportaci\u00f3n y Obras P\u00fablicas certificar\u00e1 que el bien inmueble pertenece al Gobierno de Puerto Rico y lo representar\u00e1 como custodio de las propiedades estaduales en todo proceso de disposici\u00f3n de dicho bien inmueble ante el Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Bienes Inmuebles, instituido en virtud del Cap\u00edtulo 5 de la Ley 26-2017, seg\u00fan enmendada, conocida como \u201cLey de Cumplimiento con el Plan Fiscal\u201d; enmendar el Art\u00edculo 1 de la Ley N\u00fam. 12 de 10 de diciembre de 1975, seg\u00fan enmendada; enmendar el Art\u00edculo 133 del \u201cC\u00f3digo Pol\u00edtico de Puerto Rico de 1902\u201d, seg\u00fan enmendado, a los fines de atemperar dichas leyes con la presente; disponer que esta Ley no estar\u00e1 supeditada para entrar en vigor a la promulgaci\u00f3n de un reglamento o a enmiendas a reglamentos vigentes; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -278,6 +278,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:19Z"
       }
+    },
+    {
+      "description": "Ley 158-2026",
+      "date": "2026-08-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -290,19 +300,11 @@
       "organization_id": null
     },
     {
-      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -322,11 +324,19 @@
       "organization_id": null
     },
     {
-      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -419,6 +429,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Ley 158-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155213/Ley 158-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-01",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -437,7 +458,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:28Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T05:25:44.428474Z"
   }
 }

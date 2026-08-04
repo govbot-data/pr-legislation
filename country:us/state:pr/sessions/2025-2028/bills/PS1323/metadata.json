@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS1323",
-  "title": "Para enmendar los incisos (h) e (i) de la Secci\u00f3n 2, los incisos (b) y (d) de la Secci\u00f3n 3, el\ninciso (a) de la Secci\u00f3n 4, a\u00f1adir una nueva Secci\u00f3n 4-A, enmendar el inciso (a) de\nla Secci\u00f3n 5 y enmendar la Secci\u00f3n 12 de la Secci\u00f3n 92 de la Ley N\u00fam. 40-2020,\nseg\u00fan enmendada, conocida como la \u201cLey del Fideicomiso para el Retiro de la\nPolic\u00eda\u201d, a los fines de atemperar sus disposiciones a la Ley de la Polic\u00eda de Puerto\nRico; disponer que los recursos del Fideicomiso para el Retiro de la Polic\u00eda sean\nutilizados exclusivamente para fines de retiro y para gastos administrativos\nfiduciarios estrictamente necesarios, razonables, auditables y directamente\nrelacionados con la administraci\u00f3n del Fideicomiso; prohibir su uso para el pago\nde obligaciones patronales ajenas al retiro; aclarar que dicha prohibici\u00f3n no\nmenoscaba los derechos de los miembros activos o retirados de la Polic\u00eda de Puerto\nRico a reclamar los pagos, beneficios o compensaciones que en derecho\ncorrespondan; establecer controles, certificaciones, informes, reglamentaci\u00f3n y\ndeberes de cumplimiento; y para otros fines relacionados.",
+  "title": "Para enmendar los incisos (h) e (i) de la Secci\u00f3n 2, los incisos (b) y (d) de la Secci\u00f3n 3, el inciso (a) de la Secci6n 4, a\u00f1adir una nueva Secci\u00f3n 4-A, enmendar el inciso (a) de la Secci\u00f3n 5; y enmendar la Secci\u00f3n 12 de la Secci\u00f3n 92 de la Ley N\u00fam. 40-2020, seg\u00fan enmendada, conocida como la \"Ley del Fideicomiso para el Retiro de la Polic\u00eda\", a los fines de atemperar sus disposiciones a la Ley de la Polic\u00eda de Puerto Rico; disponer que los recursos del Fideicomiso para el Retiro de la Polic\u00eda sean utilizados exclusivamente para fines de retiro y para gastos administrativos fiduciarios  estrictamente  necesarios,  razonables,  auditables  y  directamente relacionados con la administraci\u00f3n del Fideicomiso; prohibir su uso para el pago de obligaciones patronales ajenas al retiro; aclarar que dicha prohibici\u00f3n no menoscaba los derechos de los miembros activos o retirados de la Polic\u00eda de Puerto Rico  a  reclamar  los  pagos,  beneficios  o  compensaciones que  en  derecho correspondan; establecer controles, certificaciones, informes, reglamentaci\u00f3n y deberes de cumplimiento; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -228,6 +228,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:22Z"
       }
+    },
+    {
+      "description": "Ley 146-2026",
+      "date": "2026-07-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -296,6 +306,17 @@
       ],
       "date": "2026-06-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 146-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161524/Ley 146-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -314,7 +335,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:25Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T05:26:56.236023Z"
   }
 }

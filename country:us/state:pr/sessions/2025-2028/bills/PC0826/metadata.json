@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0826",
-  "title": "Para enmendar el inciso A del Art\u00edculo 4 de la Ley N\u00fam. 203-2007, seg\u00fan enmendada, conocida como la \u201cCarta de Derechos del Veterano Puertorrique\u00f1o del Siglo XXI\u201d; a los fines de establecer que todas las agencias del Gobierno de Puerto Rico, sus instrumentalidades y los municipios tengan que incluir en toda publicaci\u00f3n, anuncio o edicto relacionado al proceso de reparto, venta, cesi\u00f3n, donaci\u00f3n o arrendamiento de propiedades, programas de vivienda de inter\u00e9s social o aquellos que otorguen subsidios para la adquisici\u00f3n o alquiler de viviendas; una referencia al derecho de preferencia para los veteranos dispuesto en dicho inciso; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un inciso (1) al Art\u00edculo 2, enmendar el inciso A del Art\u00edculo 4 y enmendar el Art\u00edculo 9 de la Ley N\u00fam. 203-2007, seg\u00fan enmendada, conocida como la \"Carta de Derechos del Veterano Puertorrique\u00f1o del Siglo XXI\"; a los fines de establecer que todas las agendas del Gobierno de Puerto Rico, sus instrumentalidades y los municipios tengan que incluir en toda publicaci\u00f3n, anuncio o edicto relacionado al proceso de reparto, venta, cesi\u00f3n, donaci\u00f3n o arrendamiento de propiedades, programas de vivienda de inter\u00e9s social o aquellos que otorguen subsidios para la adquisici\u00f3n o alquiler de viviendas; una referencia al derecho de preferencia para los veteranos dispuesto en dicho inciso; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -268,6 +268,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:20Z"
       }
+    },
+    {
+      "description": "Ley 145-2026",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -369,6 +379,17 @@
       ],
       "date": "2026-06-04",
       "classification": ""
+    },
+    {
+      "note": "Ley 145-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158167/Ley 145-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -387,7 +408,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:28Z",
+    "logs_latest_update": "2026-08-04T07:26:40Z",
     "text_extraction_latest_update": "2026-07-22T07:13:43.680452Z"
   }
 }

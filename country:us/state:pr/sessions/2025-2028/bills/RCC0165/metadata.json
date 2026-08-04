@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0165",
-  "title": "Para designar el tramo de la Carretera PR-866, ubicada en el Barrio Sabana Seca del Municipio de Toa Baja, que discurre entre la intersecci\u00f3n de la Panader\u00eda Mi Pan y la intersecci\u00f3n de la Ave. Ram\u00f3n R\u00edos Rom\u00e1n, con el nombre de \u201cFrancisco \u2018Paco\u2019 Ortiz Santos\u201d, en reconocimiento a su destacada trayectoria y labor como jefe de familia, l\u00edder c\u00edvico y comunitario, as\u00ed como por su impacto perdurable en dicha comunidad; autorizar la instalaci\u00f3n de r\u00f3tulos, autorizar el pareo de fondos; y para otros fines relacionados.",
+  "title": "Para designar el tramo de la Carretera Estatal PR-866, ubicada en el Barrio Sabana Seca del Municipio de Toa Baja, que discurre desde la intersecci\u00f3n de la Panader\u00eda Mi Pan hasta la intersecci\u00f3n de la Carretera Estatal PR-872, con el nombre de \"Francisco 'Paco' Ortiz Santos\", en reconocimiento a su destacada trayectoria y labor coma jefe de familia, l\u00edder c\u00edvico y comunitario, as\u00ed como por su impacto perdurable en dicha comunidad; autorizar la instalaci\u00f3n de r\u00f3tulos, autorizar el pareo de fondos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -528,6 +528,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:21Z"
       }
+    },
+    {
+      "description": "Res. Conj.  40-2026",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-04T07:26:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -706,6 +716,17 @@
       ],
       "date": "2026-06-08",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  40-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/157684/Res. Conj. 40-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -724,6 +745,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:24Z"
+    "logs_latest_update": "2026-08-04T07:26:40Z"
   }
 }
