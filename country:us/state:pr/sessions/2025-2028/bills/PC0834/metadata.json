@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0834",
-  "title": "Para crear la \u201cLey de Prioridad en el Restablecimiento de Servicios Esenciales para Hogares Sustitutos y de Transici\u00f3n\u201d; establecer como pol\u00edtica p\u00fablica del Gobierno de Puerto Rico que los hogares sustitutos y de transici\u00f3n bajo la supervisi\u00f3n del Departamento de la familia sean incluidos como prioridad en los planes de restablecimiento de los servicios esenciales luego de una emergencia o desastre; y para otros fines relacionados.",
+  "title": "Para crear la \u201cLey de Prioridad en el Restablecimiento de Servicios Esenciales para los Establecimientos Residenciales\u201d; establecer como pol\u00edtica p\u00fablica del Gobierno de Puerto Rico que los establecimientos residenciales, conforme a la Ley 57-2023, seg\u00fan enmendada, bajo la supervisi\u00f3n del Departamento de la Familia, sean incluidos como prioridad en los planes de restablecimiento de los servicios esenciales luego de una emergencia o desastre; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -494,6 +494,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:27Z"
       }
+    },
+    {
+      "description": "Ley 166-2026",
+      "date": "2026-08-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-05T07:37:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -659,11 +669,22 @@
       "note": "Se dispone que sea enrolado",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/PC0834-conferencia  (Recon).docx",
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/PC0834-conferencia (Reconsiderado).docx",
           "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
       "date": "2026-06-25",
+      "classification": ""
+    },
+    {
+      "note": "Ley 166-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158215/Ley 166-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
       "classification": ""
     }
   ],
@@ -683,7 +704,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-05T07:37:55Z",
     "text_extraction_latest_update": "2026-07-22T06:37:58.511475Z"
   }
 }

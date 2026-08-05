@@ -1,0 +1,73 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RS0569",
+  "title": "Para ordenar a la Comisi\u00f3n de Turismo, Recursos Naturales y Ambientales del Senado \nde Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre las condiciones \nambientales, estructurales, operacionales y de seguridad de los terrenos e \ninstalaciones del antiguo complejo petroqu\u00edmico de Puerto Rico Olefins y \nCommonwealth Oil Refining Company (CORCO), localizado entre los municipios \nde Pe\u00f1uelas y Guayanilla; determinar el estado actual de los procesos de evaluaci\u00f3n, \ndescontaminaci\u00f3n y remediaci\u00f3n ambiental; investigar las actuaciones de las \nagencias estatales y federales con jurisdicci\u00f3n sobre dichas propiedades; evaluar el \nimpacto que el estado de estas instalaciones pudiera representar para la salud \np\u00fablica, el ambiente y el desarrollo econ\u00f3mico de la regi\u00f3n; identificar alternativas \npara su recuperaci\u00f3n y reutilizaci\u00f3n sostenible; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rs569"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-08-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-05T07:37:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161716/rs0569-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161716",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-05T07:37:55Z"
+  }
+}

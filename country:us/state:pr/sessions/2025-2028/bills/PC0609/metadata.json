@@ -320,6 +320,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:22Z"
       }
+    },
+    {
+      "description": "Ley 165-2026",
+      "date": "2026-08-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-05T07:37:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -443,6 +453,17 @@
       ],
       "date": "2026-06-22",
       "classification": ""
+    },
+    {
+      "note": "Ley 165-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155667/Ley 165-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-03",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -461,7 +482,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:23Z",
+    "logs_latest_update": "2026-08-05T07:37:55Z",
     "text_extraction_latest_update": "2026-07-22T04:01:45.921539Z"
   }
 }
