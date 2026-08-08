@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0123",
-  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas de Puerto Rico\n(DTOP) a designar la Carretera Estatal PR-153, desde el Plaza de Prado Shopping\nCenter hasta su culminaci\u00f3n en el municipio de Coamo y la totalidad de la\nCarretera PR-138, con el nombre de Jos\u00e9 Enrique \u201cQuique\u201d Mel\u00e9ndez, ex senador\npor el Distrito de Guayama, en reconocimiento a su destacada labor como\nservidor p\u00fablico y defensor del desarrollo econ\u00f3mico y social del Distrito\nSenatorial, y de todo Puerto Rico; ordenar la instalaci\u00f3n de los r\u00f3tulos; ordenar el\npareo de fondos; y para otros fines relacionados.",
+  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas de Puerto Rico (DTOP), a designar la Carretera Estatal PR-153, desde el Km. 6.7 hasta el Km. 14.4, con el nombre de Jos\u00e9 Enrique \u201cQuique\u201d Mel\u00e9ndez, exsenador por el Distrito de Guayama, en reconocimiento a su destacada labor como servidor p\u00fablico y defensor del desarrollo econ\u00f3mico y social de dicho Distrito Senatorial, y de todo Puerto Rico; ordenar la instalaci\u00f3n de los r\u00f3tulos; proveer para el pareo de fondos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -340,9 +340,27 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:27Z"
       }
+    },
+    {
+      "description": "Res. Conj.  52-2026",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-08T06:04:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -360,14 +378,6 @@
       "organization_id": null
     },
     {
-      "name": "Nitza  Moran Trinidad - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Nitza  Moran Trinidad - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
@@ -376,11 +386,11 @@
       "organization_id": null
     },
     {
-      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Nitza  Moran Trinidad - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Nitza  Moran Trinidad - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -528,6 +538,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  52-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160081/Res.Conj. 52-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -546,7 +567,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:27Z",
+    "logs_latest_update": "2026-08-08T06:04:56Z",
     "text_extraction_latest_update": "2026-07-22T04:12:39.260381Z"
   }
 }

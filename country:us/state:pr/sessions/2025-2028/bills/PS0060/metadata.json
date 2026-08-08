@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0060",
-  "title": "Para enmendar el Art\u00edculo 11 de la Ley N\u00fam. 75-1987, seg\u00fan enmendada, conocida como \u201cLey Notarial de Puerto Rico,\u201d a los fines de rectificar la informaci\u00f3n que debe contener la Planilla Informativa sobre Segregaci\u00f3n, Agrupaci\u00f3n o Traslado de Bienes Inmuebles; y para otros fines relacionados.",
+  "title": "Para eliminar los incisos 8 y 9, y enmendar el inciso 5 del Art\u00edculo 11 de la Ley N\u00fam. 75 de 2 de julio de 1987, seg\u00fan enmendada, conocida como \u201cLey Notarial de Puerto Rico,\u201d a los fines de rectificar la informaci\u00f3n que debe contener la Planilla Informativa sobre Segregaci\u00f3n, Agrupaci\u00f3n o Traslado de Bienes Inmuebles; hacer enmiendas t\u00e9cnicas al Art\u00edculo 11; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -344,23 +344,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:18Z"
       }
+    },
+    {
+      "description": "Ley 168-2026",
+      "date": "2026-08-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-08T06:04:56Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -497,6 +507,17 @@
       ],
       "date": "2026-06-29",
       "classification": ""
+    },
+    {
+      "note": "Ley 168-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152450/Ley 168-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -515,7 +536,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:24Z",
+    "logs_latest_update": "2026-08-08T06:04:56Z",
     "text_extraction_latest_update": "2026-07-22T05:47:59.251114Z"
   }
 }

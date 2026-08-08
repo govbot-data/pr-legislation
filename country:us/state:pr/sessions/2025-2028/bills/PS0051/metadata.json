@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0051",
-  "title": "Para enmendar el sub-inciso 1 del inciso C la Regla 23.1 de las Reglas de Procedimiento Civil de 2009, seg\u00fan enmendadas, a los fines de establecer que los borradores de los informes preparados por las personas peritas, as\u00ed como las comunicaciones entre el abogado y la persona perita est\u00e1n protegidas por la doctrina del producto del trabajo (work product) del abogado.",
+  "title": "Para enmendar el sub-inciso 1 del inciso (c) de la Regla 23.1 de las Reglas de Procedimiento Civil de 2009, seg\u00fan enmendadas, a los fines de establecer que los borradores de los informes preparados por las personas peritas, as\u00ed como las comunicaciones entre el abogado y la persona perita est\u00e9n protegidos por la doctrina del producto del trabajo (work product) del abogado.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -290,6 +290,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:22Z"
       }
+    },
+    {
+      "description": "Ley 172-2026",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-08T06:04:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -421,6 +431,17 @@
       ],
       "date": "2026-06-29",
       "classification": ""
+    },
+    {
+      "note": "Ley 172-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152439/Ley 172-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -439,7 +460,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:25Z",
+    "logs_latest_update": "2026-08-08T06:04:56Z",
     "text_extraction_latest_update": "2026-07-22T02:22:03.148695Z"
   }
 }

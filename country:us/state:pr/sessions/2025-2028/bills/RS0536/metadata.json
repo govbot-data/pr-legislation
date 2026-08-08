@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0536",
-  "title": "Para ordenar a la Comisi\u00f3n de Salud del Senado de Puerto Rico realizar una investigaci\u00f3n\nsobre el cumplimiento del Departamento de Salud de Puerto Rico con su deber\nministerial de fiscalizar los Centros de Terminaci\u00f3n de Embarazos en Puerto Rico,\nconforme al Reglamento N\u00fam. 7654 de 8 de septiembre de 2008, seg\u00fan enmendado;\nel alcance, frecuencia, metodolog\u00eda y suficiencia de las inspecciones realizadas; el\ncumplimiento del ciclo procesal de fiscalizaci\u00f3n reglamentariamente establecido; y\nla adecuaci\u00f3n de los protocolos del Departamento a las enmiendas reglamentarias\nvigentes.",
+  "title": "Para ordenar a la Comisi\u00f3n de Salud del Senado de Puerto Rico a realizar una investigaci\u00f3n sobre el cumplimiento del Departamento de Salud de Puerto Rico con su deber ministerial de fiscalizar los Centros de Terminaci\u00f3n de Embarazos en Puerto Rico, conforme al Reglamento N\u00fam. 7654 de 8 de septiembre de 2008, seg\u00fan enmendado.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,23 +126,35 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:21Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-08T06:04:56Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Juan O. Morales Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Juan O. Morales Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Joanne  Rodr\u00edguez Veve - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Joanne  Rodr\\u00edguez Veve - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juan O. Morales Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Juan O. Morales Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -191,6 +203,17 @@
       ],
       "date": "2026-06-22",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161357/rs0536a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-22",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -209,7 +232,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:21Z",
+    "logs_latest_update": "2026-08-08T06:04:56Z",
     "text_extraction_latest_update": "2026-07-22T05:41:39.195944Z"
   }
 }

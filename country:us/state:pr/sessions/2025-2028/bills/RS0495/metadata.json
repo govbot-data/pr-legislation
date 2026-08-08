@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0495",
-  "title": "\u201cPara ordenar a la Comisi\u00f3n de Planificaci\u00f3n, Permisos, Infraestructura y Urbanismo del Senado de Puerto Rico, realizar un estudio dirigido a evaluar la viabilidad de dise\u00f1ar y ejecutar un proyecto de soterrado de cables del servicio el\u00e9ctrico, del sistema de cable privado de televisi\u00f3n y de la eliminaci\u00f3n de postes a lo largo de la Calle Lo\u00edza en San Juan, con el prop\u00f3sito de mejorar dichos servicios, as\u00ed como el entorno est\u00e9tico de toda la zona; y para otros fines relacionados.\u201d",
+  "title": "Para ordenar a la Comisi\u00f3n de Planificaci\u00f3n, Permisos, Infraestructura y Urbanismo del Senado de Puerto Rico, a realizar un estudio dirigido a evaluar la viabilidad de dise\u00f1ar y ejecutar un proyecto de soterrado de cables del servicio el\u00e9ctrico, del sistema de cable privado de televisi\u00f3n y de la eliminaci\u00f3n de postes a lo largo de la Calle Lo\u00edza en el Municipio de San Juan, con el prop\u00f3sito de mejorar dichos servicios, as\u00ed como el entorno est\u00e9tico de toda la zona.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:25Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-08T06:04:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -183,6 +195,17 @@
       ],
       "date": "2026-06-22",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161102/rs0495a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-22",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -201,7 +224,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:25Z",
+    "logs_latest_update": "2026-08-08T06:04:56Z",
     "text_extraction_latest_update": "2026-07-22T07:34:07.124266Z"
   }
 }

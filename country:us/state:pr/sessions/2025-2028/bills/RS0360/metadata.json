@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0360",
-  "title": "Para ordenar a la Comisi\u00f3n de Turismo y Recursos Naturales y Ambientales del Senado de Puerto Rico, a realizar una investigaci\u00f3n sobre proyectos de mitigaci\u00f3n de erosi\u00f3n costera a realizarse por la Oficina Central de Recuperaci\u00f3n, Reconstrucci\u00f3n y Resiliencia, com\u00fanmente conocida como COR3, o cualquier otra entidad del Gobierno de Puerto Rico; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Turismo y Recursos Naturales y Ambientales del Senado de Puerto Rico, a realizar una investigaci\u00f3n sobre proyectos de mitigaci\u00f3n de erosi\u00f3n costera que se encuentran en proceso de asignaci\u00f3n de fondos o con fondos obligados, seg\u00fan se desprende de la informaci\u00f3n que provee la Oficina Central de Recuperaci\u00f3n, Reconstrucci\u00f3n y Resiliencia, com\u00fanmente conocida como COR3, o cualquier otra entidad del Gobierno de Puerto Rico; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:29Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-06-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-08T06:04:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -195,6 +207,17 @@
       ],
       "date": "2026-06-22",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159392/rs0360a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-22",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -213,7 +236,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-08T06:04:56Z",
     "text_extraction_latest_update": "2026-07-22T04:56:35.540445Z"
   }
 }

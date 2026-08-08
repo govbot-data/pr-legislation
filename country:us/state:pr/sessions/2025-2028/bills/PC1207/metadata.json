@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC1207",
-  "title": "Para crear la \u201cLey para la Colaboraci\u00f3n Municipal en la Instalaci\u00f3n, Reparaci\u00f3n, Mantenimiento y Modernizaci\u00f3n del Sistema de Alumbrado P\u00fablico\u201d; establecer la pol\u00edtica p\u00fablica en torno a la instalaci\u00f3n, reparaci\u00f3n, mantenimiento y modernizaci\u00f3n del alumbrado p\u00fablico; establecer el marco regulatorio para los Acuerdos de Colaboraci\u00f3n entre los municipios y el operador del sistema el\u00e9ctrico; establecer las responsabilidades y deberes de las entidades concernidas; y para otros fines relacionados.",
+  "title": "Para crear la \u201cLey para la Colaboraci\u00f3n Municipal en la Instalaci\u00f3n, Reparaci\u00f3n, Mantenimiento y Modernizaci\u00f3n del Sistema de Alumbrado P\u00fablico\u201d; establecer la pol\u00edtica p\u00fablica en torno a la instalaci\u00f3n, reparaci\u00f3n, mantenimiento y modernizaci\u00f3n del alumbrado p\u00fablico; establecer el marco regulatorio para los Acuerdos de Colaboraci\u00f3n entre los municipios y el operador del sistema el\u00e9ctrico; establecer las responsabilidades y deberes de las entidades concernidas;  y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -330,23 +330,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:20Z"
       }
+    },
+    {
+      "description": "Ley 174-2026",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-08T06:04:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "V\u00edctor  L Par\u00e9s Otero - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"V\\u00edctor  L Par\\u00e9s Otero - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jos\u00e9   Hern\u00e1ndez  Concepci\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jos\\u00e9   Hern\\u00e1ndez  Concepci\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -358,11 +368,11 @@
       "organization_id": null
     },
     {
-      "name": "V\u00edctor  L Par\u00e9s Otero - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Jos\u00e9   Hern\u00e1ndez  Concepci\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"V\\u00edctor  L Par\\u00e9s Otero - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Jos\\u00e9   Hern\\u00e1ndez  Concepci\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -510,6 +520,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Ley 174-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160882/Ley 174-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -528,7 +549,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:28Z",
+    "logs_latest_update": "2026-08-08T06:04:56Z",
     "text_extraction_latest_update": "2026-07-22T01:13:53.750132Z"
   }
 }

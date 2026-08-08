@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0213",
-  "title": "Para enmendar las secciones 2.01,3.01,4.01,5.01,6.07,6.02,7.03,7.04,7.05,8.01, suprimir\nla actual Secci\u00f3n 8.02, reenumerar la actual Secci\u00f3n 8.03, como 8.02, y, a su vez,\nenmendarla, enmendar las secciones 9.03, 10.03, 11.01, 11,.02, 11.03, 11.04, 12.01 y\n12.02 de la Ley 18-2012, seg\u00fan enmendada, conocida como \"Ley de Reciclaje y\nDisposici\u00f3n de Equipos Electr\u00f3nicos de Puerto Rico\", con el prop\u00f3sito de incluir en\nla definici\u00f3n de \"equipos electr\u00f3nicos\", lo que son los equipos de energia solar\nrenovable, incluyendo los sistemas fotovoltaicos (PVS) y los sistemas de\nalmacenamiento en bateria (BSS), las baterias de iones de litio de vehlculos electricos\ny cualquier otro aparato an\u00e1logo que se use para almacenar electricidad, y los\ncargadores de bateria de iones de litio de vehiculos el\u00e9ctricos; hacer correcciones\nt\u00e9cnicas en la ley, en consideraci\u00f3n a la promulgaci\u00f3n del \"Plan de Reorganizaci\u00f3n\ndel Departamento de Recursos Naturales y Ambientales de 2018\"; y para otros fines\nrelacionados.",
+  "title": "Para enmendar las secciones 2.01, 3.01, 4.01, 5.01, 6.01, 6.02, 7.03, 7.04, 7.05, 8.01, suprimir la actual Secci\u00f3n 8.02, reenumerar la actual Secci\u00f3n 8.03, como 8.02, y, a su vez, enmendarla, enmendar las secciones 9.03, 10.03, 11.01, 11.02, 11.03, 11.04, 12.01 y 12.02 de la Ley 18-2012, seg\u00fan enmendada, conocida como \u201cLey de Reciclaje y Disposici\u00f3n de Equipos Electr\u00f3nicos de Puerto Rico\u201d, con el prop\u00f3sito de incluir en la definici\u00f3n de \u201cequipos electr\u00f3nicos\u201d, lo que son los equipos port\u00e1tiles de energ\u00eda solar renovable, incluyendo los sistemas fotovoltaicos (PVS) y los sistemas de almacenamiento en bater\u00eda (BSS), las bater\u00edas de iones de litio de veh\u00edculos el\u00e9ctricos y cualquier otro aparato an\u00e1logo port\u00e1til que se use para almacenar electricidad, y los cargadores de bater\u00eda de iones de litio de veh\u00edculos el\u00e9ctricos y cualquier otro componente de sistemas de energ\u00eda solar que pueda reciclarse o que necesite un proceso especial de disposici\u00f3n; hacer correcciones t\u00e9cnicas en la Ley, en consideraci\u00f3n a la promulgaci\u00f3n del \u201cPlan de Reorganizaci\u00f3n del Departamento de Recursos Naturales y Ambientales de 2018\u201d; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -416,6 +416,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:18Z"
       }
+    },
+    {
+      "description": "Ley 169-2026",
+      "date": "2026-08-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-08T06:04:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -528,6 +538,28 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152904/ps0213e-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": ""
+    },
+    {
+      "note": "Ley 169-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152904/Ley 169-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -546,7 +578,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-08T06:04:56Z",
     "text_extraction_latest_update": "2026-07-22T04:05:00.549675Z"
   }
 }
