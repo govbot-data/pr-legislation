@@ -1,0 +1,409 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1386
+3 de agosto de 2026
+Presentado por la senadora Barlucea Rodríguez
+Referido a
+LEY
+Para crear la “Ley para la Protección Integral de las Personas con Albinismo y Síndrome
+de Hermansky Pudlak en Puerto Rico”; establecer la política pública del Gobierno de
+Puerto Rico; definir las obligaciones generales de las agencias de gobierno en materia
+-
+de salud, educación, prohibición de discrimen en el empleo, recopilación de datos,
+fomento de la investigación, y campañas de información y sensibilización; crear un
+Comité Interagencial sobre Albinismo y Síndrome de Hermansky Pudlak; y derogar
+la Ley Núm. 109-2022.
+-
+EXPOSICIÓN DE MOTIVOS
+La Asamblea Legislativa de Puerto Rico reconoce que el albinismo y el síndrome
+de Hermansky Pudlak (SHP) son trastornos genéticos congénitos que, conforme a la
+evidencia científica más reciente y a los estándares internacionales de derechos humanos,
+-
+pueden constituir discapacidades que requieren atención diferenciada en los ámbitos de
+la salud, la educación, el empleo y la protección social.
+Esta realidad científica y social debe ser examinada a la luz de las garantías
+fundamentales consagradas en la Constitución de Puerto Rico, particularmente en su
+Artículo II, Sección 1, el cual proclama que “[l]a dignidad del ser humano es inviolable”
+y que “[t]odos los hombres son iguales ante la Ley”. Esta cláusula impone al Estado la
+obligación no solo de abstenerse de discriminar, sino también de adoptar medidas
+positivas para que todas las personas, incluidas aquellas con condiciones genéticas como
+
+2
+el albinismo y el síndrome de Hermansky Pudlak, puedan disfrutar de sus derechos en
+condiciones de igualdad real y efectiva.
+-
+Asimismo, la Sección 8 del Artículo II de nuestra Carta Magna garantiza la
+protección de toda persona contra ataques abusivos a su honra, reputación, vida privada
+y familiar. Las personas con este tipo de condiciones genéticas enfrentan con frecuencia
+manifestaciones de estigma, discrimen, burlas y acosos basados en sus características
+físicas visibles, así como a la exposición no consentida de datos relativos a su condición
+de salud. Esta realidad impone al Estado a deber de adoptar medidas afirmativas
+dirigidas a salvaguardar su dignidad, honra e integridad personal.
+De otra parte, la Sección 7 del Artículo II reconoce como derechos fundamentales
+la vida, la libertad y el disfrute de la propiedad. Estas garantías constitucionales no solo
+exigen la protección de tales derechos frente a intervenciones indebidas, sino que también
+facultan al Estado a adoptar legislación y desarrollar políticas públicas encaminadas
+asegurar que todas las personas con condiciones genéticas como el albinismo y el
+síndrome de Hermansky Pudlak puedan desenvolverse plena y pacíficamente en nuestra
+sociedad con dignidad, igualdad y seguridad. Esto se traduce en la necesidad de
+-
+garantizar acceso efectivo a servicios de salud preventivos y curativos, incluyendo la
+fotoprotección adecuada, atención dermatológica y oftalmológica especializada,
+diagnóstico y manejo oportuno de la diátesis hemorrágica, la fibrosis pulmonar y otras
+complicaciones asociadas al síndrome de Hermansky Pudlak, a fin de proteger la vida y
+la salud de esta población.
+-
+Nuestra Constitución, en la Sección 18 del Artículo II, reconoce el derecho de toda
+persona a una educación que desarrolle plenamente su personalidad y fortalezca el
+respeto a los derechos humanos. Esta disposición, en armonía con la legislación de
+educación especial, requiere que los niños, niñas y jóvenes con albinismo y con Síndrome
+de Hermansky Pudlak reciban una educación pública gratuita y apropiada, con los
+apoyos, acomodos razonables y servicios relacionados necesarios para compensar la
+-
+
+3
+discapacidad visual, la sensibilidad a la luz y las limitaciones médicas que puedan afectar
+su rendimiento escolar y su participación plena en la vida académica.
+En ese contexto, la presente Ley persigue diseñar una política pública dirigida a la
+inclusión, salud, educación y protección social de las personas con condiciones genéticas
+como el albinismo y las raras o poco frecuentes, como el Síndrome de Hermansky Pudlak,
+cuya alta prevalencia en Puerto Rico ha sido ampliamente documentada en la literatura
+-
+científica. Estudios genéticos y clínicos desarrollados por el Recinto de Ciencias Médicas
+de la Universidad de Puerto Rico y por instituciones colaboradoras en los Estados Unidos
+de América, incluyendo los Institutos Nacionales de la Salud (NIH), han demostrado que
+el Síndrome de Hermansky Pudlak, en particular los subtipos HPS1 y HPS3, constituyen
+una de las principales formas de albinismo sindrómico de alta prevalencia en Puerto Rico,
+-
+concentrándose en ciertas regiones geográficas. La condición está asociada a
+complicaciones potencialmente graves como hemorragias perioperatorias,
+menstruaciones excesivas, fibrosis pulmonar intersticial con insuficiencia respiratoria
+progresiva y colitis granulomatosa con sangrado intestinal.
+En el ámbito internacional, la Organización Mundial de la Salud (OMS), a través
+de la Clasificación Internacional de Enfermedades en su 11ª revisión (CIE 11), identifica
+el albinismo oculocutáneo bajo el código LD50 como un grupo de trastornos genéticos
+-
+caracterizados por una producción reducida o ausente de melanina en la piel, el cabello
+y los ojos, lo que se asocia a alteraciones en el desarrollo de la retina y de las vías ópticas
+que ocasionan baja agudeza visual, nistagmo, fotofobia y otros defectos de la visión. El
+Síndrome de Hermansky Pudlak se reconoce internacionalmente como un trastorno
+autosómico recesivo poco frecuente que combina albinismo oculocutáneo, un defecto en
+-
+los gránulos densos de las plaquetas que ocasiona diátesis hemorrágica, y en
+determinados subtipos, fibrosis pulmonar progresiva, enfermedad inflamatoria intestinal
+tipo colitis granulomatosa y otras manifestaciones sistémicas.
+En Puerto Rico, la combinación de un clima tropical con alta radiación ultravioleta
+y la ausencia o reducción significativa de melanina en las personas con albinismo y SHP
+
+4
+se traduce en un riesgo marcadamente elevado de cáncer de piel y otras lesiones cutáneas
+graves, lo cual afecta directamente su derecho constitucional a la vida, a la salud y al
+bienestar general. Además, las alteraciones oftalmológicas asociadas al albinismo
+conllevan una discapacidad visual que puede limitar sustancialmente actividades
+mayores de la vida tales como ver, aprender, desplazarse de forma segura, acceder a
+información escrita y digital, y desempeñarse en el ámbito laboral. Estas limitaciones, si
+no se atienden con apoyos adecuados, comprometen el derecho a la igualdad de
+oportunidades que garantiza la Constitución de Puerto Rico.
+La Asamblea General de la Organización de las Naciones Unidas ha aprobado
+resoluciones específicas sobre las personas con albinismo, tales como A/RES/69/170 y
+A/RES/72/143, en las cuales se reconoce la necesidad de proteger sus derechos
+humanos, garantizar el acceso a la salud, promover la educación inclusiva, combatir el
+estigma y la discriminación, y adoptar políticas públicas específicas. El Consejo de
+Derechos Humanos de la ONU ha creado la figura del Experto Independiente sobre el
+disfrute de los derechos humanos por las personas con albinismo, cuyas
+recomendaciones incluyen la adopción de medidas legislativas y administrativas que
+aseguren el acceso a protectores solares, servicios de salud adecuados, educación
+inclusiva y campañas de sensibilización.
+La experiencia cotidiana de las personas con albinismo y con Síndrome de
+Hermansky Pudlak en Puerto Rico evidencia que la protección constitucional y legal
+existente no siempre se traduce en garantías efectivas. Persisten brechas significativas en
+-
+el acceso a servicios especializados de salud, a protectores solares como producto
+esencial, a una educación verdaderamente inclusiva con apoyos para baja visión y
+condiciones médicas complejas, y a oportunidades de empleo con ajustes razonables.
+Además, la falta de políticas específicas y coordinadas dificulta la recopilación de datos
+confiables, la investigación científica y la planificación de servicios adecuados, en
+contradicción con el mandato constitucional de promover el bienestar general y proteger
+la dignidad humana.
+
+5
+Por todo lo anterior, y en fiel cumplimiento de los mandatos de la Constitución de
+Puerto Rico, esta Asamblea Legislativa entiende que es impostergable aprobar legislación
+para la protección integral de las Personas con Albinismo y Síndrome de
+Hermansky Pudlak en Puerto Rico.
+DECRÉTAS - E POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. - Título. –
+2 Esta Ley se conocerá como “Ley para la Protección Integral de las Personas con
+3 Albinismo y Síndrome de Hermansky Pudlak en Puerto Rico”.
+-
+4 Artículo 2. - Política Pública.
+5 Se declara política pública del Gobierno de Puerto Rico:
+6 (a) Reconocer que el albinismo, incluyendo variantes sindromáticas y no
+7 sindromáticas, y el Síndrome de Hermansky Pudlak son condiciones genéticas que
+-
+8 puedan constituir discapacidades cuando limitan sustancialmente una o más
+9 actividades mayores de la vida, tales como la visión, la movilidad, la capacidad para
+10 trabajar o estudiar en condiciones de exposición a la luz solar, o cuando las
+11 complicaciones médicas asociadas restringen la participación plena y efectiva en la
+12 sociedad en igualdad de condiciones con las demás personas.
+13 (b) Garantizar a las personas con albinismo, incluyendo variantes sindromáticas
+14 y no sindromáticas, y con Síndrome de Hermansky Pudlak la ausencia de discrimen, la
+-
+15 igualdad de oportunidades y el acceso a los recursos necesarios para el ejercicio efectivo
+16 de sus derechos en los ámbitos de la salud, la educación, el empleo, la vivienda, el
+17 transporte, la cultura, la recreación y la participación comunitaria.
+
+6
+1 (c) Adoptar medidas legislativas, administrativas y de cualquier otra índole,
+2 basadas en la evidencia científica y en las recomendaciones de los organismos
+3 internacionales de derechos humanos, para eliminar las barreras que enfrentan las
+4 personas con albinismo, incluyendo variantes sindromáticas y no sindromáticas, y con
+5 Síndrome de Hermansky Pudlak para así promover su plena inclusión social.
+-
+6 Artículo 3. – Obligaciones generales de las agencias de gobierno.
+7 Ninguna agencia podrá discriminar, directa o indirectamente, contra una persona
+8 por razón de albinismo, incluyendo variantes sindromáticas y no sindromáticas, o
+9 Síndrome de Hermansky Pudlak, ya sea real o percibida, en el ofrecimiento de sus
+-
+10 servicios, en la contratación, en la elegibilidad a programas o en cualquier otra acción
+11 gubernamental.
+12 Todas las agencias estarán obligadas a proveer acomodos razonables y asegurar la
+13 accesibilidad de sus programas, servicios e instalaciones a las personas con albinismo,
+14 incluyendo variantes sindromáticas y no sindromáticas, y con Síndrome de
+15 Hermansky Pudlak, particularmente en lo relativo a:
+-
+16 (1) Condiciones de iluminación y protección contra la radiación ultravioleta;
+17 (2) Materiales impresos o digitales accesibles para personas con baja visión;
+18 (3) Horarios y condiciones compatibles con sus necesidades médicas, incluyendo
+19 visitas médicas y manejo de complicaciones hematológicas, pulmonares o
+20 gastrointestinales, entre otras.
+
+7
+1 Las agencias adoptarán o enmendarán sus reglamentos internos para implementar
+2 las disposiciones de esta Ley en un término no mayor de doce (12) meses a partir de su
+3 vigencia.
+4 Artículo 4. - Salud – Acceso a diagnóstico, tratamiento y seguimiento médico.
+5 El Departamento de Salud, en coordinación con la Administración de Seguros de
+6 Salud de Puerto Rico (ASES) y con las aseguradoras y/u organizaciones privadas de
+7 servicios de salud, velarán por que las personas con sospecha o diagnóstico de
+8 albinismo, incluyendo variantes sindromáticas y no sindromáticas, o Síndrome de
+9 Hermansky Pudlak tengan acceso oportuno, continuo y sin discriminación a:
+-
+10 (a) Evaluación y seguimiento, diagnóstico, tratamiento, rehabilitación y ayudas
+11 técnicas medicamente necesarias sin necesidad de referido previo a un especialista;
+12 (b) Evaluación y seguimiento oftalmológico especializado, incluyendo acceso a
+13 servicios de baja visión y ayudas ópticas;
+14 (c) Evaluación y seguimiento dermatológico para la prevención, detección
+15 temprana y tratamiento de lesiones precancerosas y cáncer de piel;
+16 (d) En el caso del Síndrome de Hermansky Pudlak, evaluación y seguimiento por
+-
+17 hematología, neumología, gastroenterología y genética médica, según sea clínicamente
+18 indicado;
+19 (e) Servicios de rehabilitación visual, consejería genética y apoyo psicosocial,
+20 según disponibilidad de recursos.
+21 Será responsabilidad del Departamento de Salud integrar al albinismo y sus
+22 variantes sindrómicas en su sistema de vigilancia, registro y planificación de servicios.
+
+8
+1 Artículo 5.- Administración de Servicios de Salud (ASES).
+2 Será responsabilidad de la Administración de Servicios de Salud incluir en su
+3 cubierta especial la evaluación, diagnóstico, tratamiento, seguimiento, rehabilitación y
+4 ayudas técnicas medicamente necesarias sin referido previo a un especialista.
+5 Artículo 6.- Identificación, evaluación y servicios educativos.
+6 El Departamento de Educación garantizará que los estudiantes con albinismo,
+7 incluyendo variantes sindromáticas y no sindromáticas, o con Síndrome de
+8 Hermansky Pudlak sean identificados y evaluados de manera temprana, en
+-
+9 coordinación con los padres, madres o encargados y los proveedores de salud, para
+10 determinar su elegibilidad a servicios de Educación Especial conforme a la IDEA y las
+11 leyes y reglamentos de Puerto Rico, o a acomodos bajo la Sección 504 de la Ley de
+12 Rehabilitación de 1973 de los Estados Unidos de América.
+13 Las evaluaciones deberán atender específicamente:
+14 (1) La discapacidad visual y sus implicaciones en la lectura, el acceso a la pizarra,
+15 el uso de materiales impresos y/o digitales y la orientación y movilidad;
+16 (2) La sensibilidad a la luz (fotofobia) y la necesidad de adaptar la iluminación, la
+17 ubicación en el salón de clases y las actividades al aire libre;
+18 (3) En el caso del Síndrome de Hermansky Pudlak, las posibles limitaciones
+-
+19 derivadas de la diátesis hemorrágica, la fibrosis pulmonar u otras complicaciones
+20 sistémicas.
+21 Artículo 7. – Acomodos razonables en el entorno educativo.
+
+9
+1 El Departamento de Educación y las instituciones de educación superior públicas
+2 y privadas deberán proveer, entre otros, los siguientes acomodos razonables a
+3 estudiantes con albinismo, incluyendo variantes sindromáticas y no sindromáticas, o
+4 con Síndrome de Hermansky Pudlak, según recomendación profesional:
+-
+5 (a) Materiales impresos en letras grandes, alto contraste u otros formatos
+6 accesibles, incluyendo equipos y tecnologías que proporcionen asistencia o apoyo, a
+7 personas con discapacidad visual;
+8 (b) Ubicación preferente en el salón de clase que favorezca la visibilidad y
+9 minimice el deslumbramiento;
+10 (c) Ajustes en la iluminación (uso de cortinas, filtros, lámparas indirectas, etc.);
+11 (d) Adaptación de actividades al aire libre para reducir la exposición a la radiación
+12 ultravioleta, incluyendo horarios adecuados y disponibilidad de áreas sombreadas;
+13 (e) Flexibilidad razonable para atender citas médicas y períodos de recuperación
+14 relacionados con complicaciones médicas del Síndrome de Hermansky Pudlak.
+-
+15 (f) Autorización para el uso de sombrero, gafas oscuras, bloqueador solar y ropa
+16 protectora cuando así lo requiera el estudiante y sea recomendado por un médico
+17 generalista.
+18 Artículo 8. – Prohibición de discrimen en el empleo.
+19 Ningún patrono público o privado podrá negarse a contratar, despedir, limitar
+20 ascensos u oportunidades de adiestramiento, o aplicar condiciones laborales desiguales
+21 por razón de que una persona tenga albinismo, incluyendo variantes sindromáticas y
+22 no sindromáticas, o Síndrome de Hermansky Pudlak, o se perciba que la tiene.
+-
+
+10
+1 El Departamento del Trabajo y Recursos Humanos incorporará expresamente, en
+2 sus materiales de educación y en sus esfuerzos de fiscalización de las leyes laborales y
+3 anti-discrimen, la protección de las personas con albinismo y con Síndrome de
+4 Hermansky Pudlak.
+-
+5 Artículo 9. – Acomodos razonables en el lugar de trabajo.
+6 Los patronos estarán obligados a proveer, cuando así se requiera y no constituya
+7 una carga indebida, acomodos razonables que permitan a las personas con albinismo y
+8 con Síndrome de Hermansky Pudlak desempeñar las funciones esenciales de su puesto,
+-
+9 tales como:
+10 (a) Ajustes en la iluminación del área de trabajo y provisión de filtros, pantallas o
+11 cortinas para reducir el deslumbramiento;
+12 (b) Adaptación o redistribución razonable de tareas que impliquen exposición
+13 prolongada y directa al sol, cuando ello represente un riesgo significativo para la salud
+14 de la persona;
+15 (c) Provisión o autorización de tecnología que proporcione ayudas ópticas para
+16 personas con baja visión;
+17 (d) Flexibilidad razonable para acudir a citas médicas relacionadas con la
+18 condición y para periodos de recuperación razonables.
+19 Artículo 10. – Recopilación de datos y vigilancia.
+20 El Sistema de Vigilancia de Defectos Congénitos, adscrito al Departamento de
+21 Salud, y respetando la confidencialidad y las leyes de privacidad de información de
+22 salud, fomentará la recopilación, análisis y publicación de datos estadísticos agregados
+
+11
+1 sobre la prevalencia de albinismo y Síndrome de Hermansky Pudlak en Puerto Rico,
+-
+2 así como sobre las principales necesidades de salud asociadas.
+3 Se establecerá un sistema longitudinal de recopilación y análisis de datos sobre
+4 personas con albinismo y Síndrome de Hermansky Pudlak integrado con los sistemas
+-
+5 de vigilancia epidemiológica existentes, que permita evaluar resultados de salud,
+6 acceso a servicios y efectividad de la política pública.
+7 El Registro incluirá al menos, información agregada sobre subtipo clínico o
+8 genético, municipio de residencia, edad, acceso a dermatología, acceso a oftalmología o
+9 baja visión, uso de bloqueador solar cubierto, complicaciones mayores y utilización de
+10 servicios. El Sistema de Vigilancia de Defectos Congénitos, adscrito al Departamento
+11 de Salud, presentará anualmente un informe con los resultados, el cual será remitido al
+12 Instituto de Estadísticas de Puerto Rico para su análisis estadístico y publicación
+13 correspondiente.
+14 La información recopilada se utilizará exclusivamente para la planificación de
+15 servicios, el diseño de políticas públicas, la evaluación de la efectividad de los
+16 programas y la promoción de investigación científica sobre estas condiciones.
+17 Artículo 11. – Fomento de la investigación.
+18 El Gobierno de Puerto Rico fomentará la investigación sobre albinismo y Síndrome
+19 de Hermansky Pudlak a través de:
+-
+20 (a) La promoción de convenios y alianzas entre las agencias gubernamentales, la
+21 Universidad de Puerto Rico, otras instituciones académicas locales e internacionales y
+22 organizaciones de la sociedad civil;
+
+12
+1 (b) La facilitación de la participación informada y voluntaria de personas con
+2 albinismo, incluyendo variantes sindromáticas y no sindromáticas, y Síndrome de
+3 Hermansky Pudlak en estudios clínicos, genéticos y de salud pública, con las debidas
+-
+4 salvaguardas éticas;
+5 (c) El apoyo, dentro de las disponibilidades presupuestarias, a proyectos de
+6 investigación que busquen mejorar los diagnósticos, tratamientos y la calidad de vida
+7 de esta población.
+8 Artículo 12. – Comité Interagencial sobre Albinismo y Síndrome de
+9 Hermansky Pudlak.
+-
+10 Se crea el Comité Interagencial sobre Albinismo y Síndrome de
+11 Hermansky Pudlak, adscrito a la Oficina de la Defensoría de las Personas con
+-
+12 Impedimentos, el cual estará compuesto, como mínimo, por representantes con poder
+13 decisional de:
+14 (1) El Departamento de Educación;
+15 (2) el Departamento del Trabajo y Recursos Humanos;
+16 (3) la Universidad de Puerto Rico representada por el Rector(a) del Recinto de
+17 Ciencias Médicas;
+18 (4) la Oficina de Protección y Defensa de las Personas con Impedimentos (OPDPI);
+19 (5) Procurador del Paciente;
+20 (6) la Defensoría de las Personas con Impedimentos; y
+21 (7) al menos dos personas de dos (2) organizaciones de la sociedad civil que
+22 representen a personas con albinismo y/o Síndrome de Hermansky Pudlak.
+-
+
+13
+1 Artículo 13. - El Comité tendrá las siguientes funciones:
+2 (1) Coordinar la implementación de esta Ley entre las distintas agencias;
+3 (2) Proponer reglamentos, protocolos y políticas adicionales;
+4 (3) Evaluar periódicamente la efectividad de las medidas adoptadas y recomendar
+5 ajustes;
+6 (4) Presentar un informe anual a la Asamblea Legislativa y a la Oficina de la
+7 Gobernadora o el Gobernador, que incluya datos, logros, retos y recomendaciones.
+8 Artículo 14. – Campañas de información y sensibilización.
+9 El Comité Interagencial sobre Albinismo y Síndrome de Hermansky Pudlak en
+-
+10 coordinación con la Defensoría de las Personas con Impedimentos, el Procurador del
+11 Paciente, el Departamento de Salud, el Departamento de Educación y otras agencias
+12 pertinentes, desarrollará, dentro de las disponibilidades presupuestarias, campañas de
+13 información pública dirigidas a:
+14 (1) Conmemorar el 13 de junio de cada año como el “Día Internacional de la
+15 Sensibilización del Albinismo”, establecido en el 2014 por la Asamblea General de las
+16 Naciones Unidas, con el propósito de difundir información sobre las iniciativas
+17 adoptadas en Puerto Rico para promover y proteger los derechos humanos de las
+18 personas con albinismo, incluidas las medidas destinadas a aumentar la conciencia y la
+19 comprensión del albinismo.
+20 (2) Para la campaña de información se incluirá consejos médicos reales sobre cómo
+21 cuidar la piel y los ojos frente al clima tropical de la Isla.
+
+14
+1 (3) Se educará a la población para eliminar el acoso escolar, los mitos falsos sobre
+2 la condición del albinismo, incluyendo variantes sindromáticas y no sindromáticas, y el
+3 Síndrome de Hermansky Pudlak y la discriminación laboral.
+-
+4 (4) La campaña de sensibilización deberá ser de la más alta calidad científica y con
+5 un enfoque de derechos humanos.
+6 (5) Difundir información veraz sobre la naturaleza genética y no contagiosa del
+7 albinismo, incluyendo variantes sindromáticas y no sindromáticas, y del Síndrome de
+8 Hermansky Pudlak;
+-
+9 (6) Resaltar la importancia de la fotoprotección, la vigilancia dermatológica y el
+10 manejo adecuado de la discapacidad visual y de las complicaciones médicas asociadas
+11 de las personas con albinismo y el Síndrome de Hermansky Pudlak;
+-
+12 (7) Promover el respeto a la diversidad física y funcional y prevenir la
+13 estigmatización, el discrimen y el acoso de las personas con albinismo, incluyendo
+14 variantes sindromáticas y no sindromáticas, y el Síndrome de Hermansky Pudlak.
+-
+15 (8) En el diseño de dicha campaña se tomarán en consideración las
+16 recomendaciones de la Organización Mundial de la Salud, de la Organización de las
+17 Naciones Unidas y, en particular, del Experto Independiente sobre el disfrute de los
+18 derechos humanos por las personas con albinismo.
+19 Artículo 15. – Reglamentación.
+20 Las agencias concernidas adoptarán o enmendarán los reglamentos necesarios,
+21 contando con la mayor participación ciudadana posible, para la cabal implementación
+22 de esta Ley en un término no mayor de doce (12) meses contados a partir de su vigencia.
+
+15
+1 Artículo 16. - Cláusula Derogatoria.
+2 Se deroga la Ley Núm. 109-2022.
+3 Artículo 17. – Separabilidad
+4 Si cualquier artículo, inciso, oración o parte de esta Ley fuere declarado
+5 inconstitucional o nulo por un tribunal con jurisdicción, el resto de las disposiciones
+6 conservará su validez y continuará en pleno vigor y efecto.
+7 Artículo 18. – Vigencia
+8 Esta Ley comenzará a regir inmediatamente después de su aprobación.

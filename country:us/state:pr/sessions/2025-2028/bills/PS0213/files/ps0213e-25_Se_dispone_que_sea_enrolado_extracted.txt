@@ -1,0 +1,468 @@
+Title: 
+Official Title: 
+Source: versions - Se dispone que sea enrolado
+Media Type: application/pdf
+
+================================================================================
+
+(P. del S. 213)
+LEY
+Para enmendar las secciones 2.01, 3.01, 4.01, 5.01, 6.01, 6.02, 7.03, 7.04, 7.05, 8.01,
+suprimir la actual Sección 8.02, reenumerar la actual Sección 8.03, como 8.02, y, a
+su vez, enmendarla, enmendar las secciones 9.03, 10.03, 11.01, 11.02, 11.03, 11.04,
+12.01 y 12.02 de la Ley 18-2012, según enmendada, conocida como “Ley de
+Reciclaje y Disposición de Equipos Electrónicos de Puerto Rico”, con el propósito
+de incluir en la definición de “equipos electrónicos”, lo que son los equipos
+portátiles de energía solar renovable, incluyendo los sistemas fotovoltaicos (PVS) y
+los sistemas de almacenamiento en batería (BSS), las baterías de iones de litio de
+vehículos eléctricos y cualquier otro aparato análogo portátil que se use para
+almacenar electricidad, y los cargadores de batería de iones de litio de vehículos
+eléctricos y cualquier otro componente de sistemas de energía solar que pueda
+reciclarse o que necesite un proceso especial de disposición; hacer correcciones
+técnicas en la Ley, en consideración a la promulgación del “Plan de
+Reorganización del Departamento de Recursos Naturales y Ambientales de 2018”;
+y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley 18-2012, según enmendada, conocida como “Ley de Reciclaje y
+Disposición de Equipos Electrónicos de Puerto Rico”, se creó con el propósito de
+adoptar una política pública sobre el manejo seguro y ambientalmente sostenible de los
+equipos y componentes electrónicos; definir términos y excepciones. De igual manera,
+prohíbe la disposición como desperdicios ordinarios en vertederos de tubos de rayos
+catódicos y equipos electrónicos y celulares; promover la industria de importación,
+distribución y venta de equipos electrónicos y celulares para fomentar la participación
+en un Plan de Reciclaje y Disposición para la disposición de equipos electrónicos y
+dispone sobre cómo se diseñará y adoptará tal plan. Además, requiere análisis de
+participación en el mercado de los respectivos importadores y distribuidores de cada
+tipo de equipo y establece la reglamentación de las actividades de recolección,
+procesamiento, reciclaje y disposición de desperdicios electrónicos y el acceso del
+consumidor a dichos servicios y requerir el cumplimiento con normas adecuadas de
+disposición final.
+Finalmente, establece procedimientos específicamente para el ámbito de la
+telefonía celular; requerir informes y manifiestos y autoriza la formalización de
+acuerdos intergubernamentales, entre otras cosas.
+Respecto a la política pública adoptada por esta Ley, se establece que, en la
+aplicación de los desarrollos tecnológicos se tomen medidas para reducir el impacto
+ambiental de los mismos y se promueva la reducción, reutilización y reciclaje de los
+
+2
+equipos y productos usados, la recuperación de sus componentes y materiales y la
+disposición apropiada de aquellos residuos que no sean reutilizables, reciclables o
+recuperables.
+Dicho lo anterior, la presente legislación propone que se enmiende la citada “Ley
+de Reciclaje y Disposición de Equipos Electrónicos de Puerto Rico”, con el propósito de
+incluir en la definición de “equipos electrónicos”, lo que son los equipos de energía
+solar renovable, incluyendo los sistemas fotovoltaicos (PVS) y los sistemas de
+almacenamiento en batería (BSS), las baterías de iones de litio de vehículos eléctricos y
+cualquier otro aparato análogo que se use para almacenar electricidad, y los cargadores
+de batería de iones de litio de vehículos eléctricos. Actualmente, la Ley define como
+“equipo electrónico”, como todo aquel equipo o aparato controlado por electricidad
+cuyo mando sea gobernado por componentes electrónicos, tales como transistores y
+elementos asociados a esta familia tecnológica, incluyendo circuitos integrados,
+resistencias y capacitores. A su vez, incluye una serie de aparatos que se consideran
+equipos electrónicos para fines de la Ley. Sin embargo, no incluyen lo que son los
+equipos de energía solar renovable, incluyendo los sistemas fotovoltaicos (PVS) y los
+sistemas de almacenamiento en batería (BSS), ni las baterías de iones de litio de
+vehículos eléctricos y cualquier otro aparato análogo que se use para almacenar
+electricidad, ni los cargadores de batería de iones de litio de vehículos eléctricos.
+Cabe mencionar que, de acuerdo a una noticia publicada por Noticel, hay más de
+75,000 sistemas solares establecidos solo en residencias, y el panel solar instalado hoy
+tendrá una vida útil más allá de 2050, mientras que una batería puesta a funcionar
+ahora servirá con toda su capacidad hasta 2033, según el primer oficial de Política
+Pública de la Asociación de Energía Solar y Almacenamiento (SESA), Javier Rúa Jovet.
+Mientras, Maritza Maymí Hernández, coordinadora legislativa para Puerto Rico de
+Sierra Club, propuso la adopción de una política pública cimentada en los principios de
+economía circular es la ruta adecuada para desarrollar una infraestructura legal,
+reglamentaria y fiscal para la planificación eficaz del manejo de residuos de las placas y
+baterías para la producción de energía solar. La economía circular es un modelo de
+producción y consumo que implica compartir, alquilar, reutilizar, reparar, renovar y
+reciclar materiales y productos existentes todas las veces que sea posible para crear un
+valor añadido1.
+0F
+De otra parte, el Departamento de Vivienda ya ha señalado no contar con un
+plan para atender los miles de paneles solares y baterías que entrarán en desuso una
+vez cumplan su vida útil. Asimismo, no ha introducido o requerido cláusulas para
+proteger a los recipientes de los fondos federales de irregularidades en los procesos de
+contratación o en cuanto a las garantías de la instalación y los equipos. Tampoco han
+requerido que el foro competente sea uno administrativo o judicial de Puerto Rico
+1 https://www.noticel.com/ambiente/legislatura/ahora/top-stories/20230511/avalancha-de-desechos-de-paneles-solares-y-baterias-se-espera-en-
+proximas-decadas/
+
+3
+permitiendo cláusulas de mediación que pudieran obligar a los dueños de los sistemas a
+litigar en foros fuera de la Isla2.
+1F
+En una vista pública celebrada en la Cámara de Representantes, la ingeniera
+ambiental y presidenta de CAMBIO, Ingrid Vila Biaggi, confirmó que luego de realizar
+un estudio junto con el Programa del Estuario de la Bahía de San Juan, encontraron que
+solo la empresa 5 Senses Solutions se dedica al acopio y exportación de paneles solares
+en los municipios de Bayamón, Canóvanas, Carolina, Cataño, Guaynabo, Loíza, San
+Juan, Toa Baja y Trujillo Alto. En tanto, en la misma investigación, identificaron cinco
+compañías que acopian baterías de automóviles. Las empresas son: Batteries Plus,
+Interstate Batteries of Puerto Rico, Island Festival Recycling, Lamp Recycling Company
+y Best Buy. De igual forma, Vila Biaggi expuso que, aunque muchos esfuerzos se
+dirigen al reciclaje de los paneles, se le debe dar prioridad a la reducción, reparación y
+remanufactura3.
+2F
+A base de la información antes expuesta, se puede asumir lo necesario que
+resulta en los planes gubernamentales incluir todo lo relativo a la disposición y reciclaje
+de los equipos de energía solar renovable, incluyendo los sistemas fotovoltaicos (PVS) y
+los sistemas de almacenamiento en batería (BSS), las baterías de iones de litio de
+vehículos eléctricos y cualquier otro aparato análogo que se use para almacenar
+electricidad, y los cargadores de batería de iones de litio de vehículos eléctricos. De
+acuerdo a las publicaciones sobre este tema, estos equipos se convertirán en un
+problema en unos pocos años, cuando culminen su vida útil.
+Para concluir esta legislación le hace correcciones técnicas a la “Ley de Reciclaje y
+Disposición de Equipos Electrónicos de Puerto Rico”, en consideración a la
+promulgación del “Plan de Reorganización del Departamento de Recursos Naturales y
+Ambientales de 2018”. Debe señalarse que, la Ley 18-2012 le imparte una serie de
+responsabilidades a la Autoridad de Desperdicios Sólidos y a la Junta de Calidad
+Ambiental, entidades gubernamentales inexistentes, puesto que sus facultades,
+funciones, servicios y estructuras fueron transferidos, agrupados y consolidados en el
+Departamento de Recursos Naturales y Ambientales. Así pues, hacemos las
+correcciones de rigor en la Ley 18-2012, para evitar confusiones con su aplicación.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Artículo 1.- Se enmienda la Sección 2.01 del Artículo 2 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+2 https://www.camara.pr.gov/departamento-de-vivienda-no-cuenta-con-un-plan-para-atender-la-avalancha-de-paneles-solares-y-baterias-que-
+comenzara-a-generarse-cuando-estos-equipos-cumplan-su-vida-util/
+33 Id.
+
+4
+“Sección 2.01.— Las siguientes palabras o términos dondequiera que aparezcan
+usadas o aludidas en esta Ley tendrán los significados que a continuación se expresan,
+excepto donde el contexto claramente indique otra cosa:
+a) …
+b) …
+c) Departamento o DRNA – El Departamento de Recursos Naturales y Ambientales.
+d) …
+...
+i) Equipos electrónicos — Para los fines de esta Ley, todo aquel equipo o aparato
+controlado por electricidad cuyo mando sea gobernado por componentes electrónicos,
+tales como transistores y elementos asociados a esta familia tecnológica, incluyendo
+circuitos integrados, resistencias, capacitores que se describen a continuación,
+entendiéndose que cuando se haga referencia a “equipos”, significará cualquiera de los
+siguientes:
+1) …
+…
+18) …
+19) Equipos de energía solar renovable, incluyendo los sistemas fotovoltaicos
+(PVS) y los sistemas de almacenamiento en batería (BSS).
+20) Baterías de iones de litio de vehículos eléctricos y cualquier otro aparato
+análogo que se use para almacenar electricidad.
+21) Cargadores de batería de iones de litio de vehículos eléctricos.
+22) Los componentes relacionados con la energía solar, tales como: inversores,
+sistemas de monitoreo del estado de la batería y de su carga, cables solares,
+cables de conexión de la red, cables de batería y cualquier otro componente de
+sistemas de energía solar que pueda reciclarse o que necesite un proceso especial
+de disposición.
+23) Se dispone que los equipos electrónicos identificados en los sub incisos 19
+al 22 se limitan a aquellos portátiles y vehículos eléctricos micro móviles, ambos
+con garantías de manufacturero de menos de cinco (5) años.
+Además, aun cuando no contengan circuitos…
+Disponiéndose, que para la interpretación de este inciso…
+j) …
+…
+p) …
+
+5
+q) …
+r) …
+s) …
+t) Recolector — Operadores de Centros de Recolección. Todo aquél que esta Ley le
+requiera, o que esté autorizado por el DRNA a recibir equipos electrónicos desechados
+directamente de manos del consumidor. Ordinariamente, todo detallista de equipos
+electrónicos será un recolector.
+u) …
+v) …
+w) …”
+Artículo 2.- Se enmienda la Sección 3.01 del Artículo 3 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 3.01.—A partir de dieciocho (18) meses luego de la aprobación de esta Ley,
+ninguna persona dispondrá de tubos de rayos catódicos ni de equipos electrónicos o
+celulares, según definidos en la Sección 2.01 (h) y 2.01 (i) en los sistemas de relleno
+sanitario, vertederos municipales; ni en ningún otro lugar de la jurisdicción de Puerto
+Rico, salvo un centro de recolección que sea parte de un Plan de Reciclaje y Disposición
+aprobado por el DRNA. A esos efectos, el DRNA incluirá los equipos electrónicos
+desechados como una de las categorías de Desperdicios Especiales que tiene bajo su
+jurisdicción, y fiscalizará que lo dispuesto en esta Sección se ponga en vigor.”
+Artículo 3.- Se enmienda la Sección 4.01 del Artículo 4 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 4.01. — Toda entidad del sector privado que emplee once (11) personas o
+más tendrá las siguientes obligaciones:
+a) …
+b) Rendir electrónicamente un informe anual al DRNA, conforme a los reglamentos,
+evidenciando el mecanismo utilizado para el reciclaje, reutilización o reconstrucción de
+los equipos electrónicos o de telefonía.”
+Artículo 4.- Se enmienda la Sección 5.01 del Artículo 5 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 5.01.- Toda entidad del sector privado que esté dispuesta a recibir de los
+consumidores equipo electrónico o de celulares para su reciclaje, reutilización o
+reconstrucción, conforme a las disposiciones de esta Ley, será beneficiario de lo
+siguiente:
+
+6
+a) Una certificación emitida por el DRNA estableciendo que es una Empresa Verde
+la cual podrá ser exhibida por la empresa a través de todos los medios que ésta elija; y
+b) Reconocimiento en un registro a ser colocado en la página de internet del DRNA
+de que la empresa cumple con los requisitos establecidos en esta Ley para obtener la
+Certificación.”
+Artículo 5.- Se enmienda la Sección 6.01 del Artículo 6 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 6.01.- Los fabricantes, importadores y distribuidores exclusivos en Puerto
+Rico de equipos electrónicos y celulares serán responsables del destino de los equipos
+electrónicos una vez llegan al final de su vida útil o el consumidor decida devolverlo o
+desecharlo. Coordinarán con los detallistas que venden estos equipos, quienes estarán
+obligados a recibir los mismos, incluyendo los equipos huérfanos, y los re-
+manufacturados, una vez el consumidor que lo adquirió decida devolverlo o
+desecharlo. Todo fabricante, importador y distribuidor de equipos electrónicos y
+celulares en Puerto Rico deberá inscribirse ante el DRNA, presentando la siguiente
+información:
+…”
+Artículo 6.- Se enmienda la Sección 6.02 del Artículo 6 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 6.02. —
+El DRNA mantendrá un registro oficial de entidades u organizaciones que deseen
+obtener la Certificación dispuesta en esta Ley. Dicho registro deberá mantenerse
+actualizado y disponible para informar al público y a las entidades interesadas en usar
+sus servicios a través de la internet y mediante copia impresa.”
+Artículo 7.- Se enmienda la Sección 7.03 del Artículo 7 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 7.03.-
+El Plan de Reciclaje y Disposición deberá ser sometido al DRNA para su revisión y
+aprobación. Aquellas entidades que estén realizando negocios seis (6) meses luego de la
+aprobación de esta Ley y deseen obtener la Certificación, lo deberán presentar conforme
+se disponga mediante reglamento. Cualquier otra entidad que inicie negocios con
+posterioridad a ello y desee obtener la Certificación deberá presentar el plan según se
+disponga por reglamento, salvo que cualquier empresa podrá solicitar directamente al
+DRNA que sea esta misma la que asuma el diseño y manejo de un Plan de Reciclaje y
+Disposición de equipos electrónicos, más dicha solicitud deberá ser hecha formalmente
+y aprobada por el DRNA, previo a cualquier inicio de operaciones. Disponiéndose que
+
+7
+el DRNA estará facultada para imponer los cargos que estime pertinente por la
+redacción del plan a aquellas entidades que no lo hagan por cuenta propia.”
+Artículo 8.- Se enmienda la Sección 7.04 del Artículo 7 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 7.04.-
+Cualquier cambio en las disposiciones del Plan de Reciclaje y Disposición por parte
+de la empresa deberá ser notificado al DRNA dentro de los sesenta (60) días de su
+vigencia.”
+Artículo 9.- Se enmienda la Sección 7.05 del Artículo 7 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 7.05.-
+Toda empresa sujeta a la autoridad del Negociado de Telecomunicaciones de Puerto
+Rico que ofrezca o introduzca servicios que incluyan la venta o arrendamiento de
+equipo electrónicos y deseen obtener la Certificación que ofrece esta Ley deberá
+presentar al Negociado de Telecomunicaciones de Puerto Rico evidencia de la
+presentación al DRNA de un Plan de Reciclaje y Disposición.”
+Artículo 10.- Se enmienda la Sección 8.01 del Artículo 8 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 8.01. — Departamento de Recursos Naturales y Ambientales.
+a) …
+…
+g) Retendrá los manifiestos de equipos electrónicos recogidos, transportados y
+procesados. Será responsable de verificar la corrección de los manifiestos.
+h) Proveerá asistencia técnica a cualquier persona que por requisito de esta Ley o
+por iniciativa propia con o sin fines de lucro, establezca un centro de recolección o una
+facilidad de acarreo, reciclaje o disposición de equipos electrónicos desechados,
+descartados, obsoletos o inservibles y estimulará el uso y buen funcionamiento de los
+mismos. Disponiéndose que cualquier asistencia requerirá:
+1…
+2. Que se certifique que el destino final de los productos cumple con las
+disposiciones de esta Ley, la Ley Orgánica del Departamento de Recursos
+Naturales y Ambientales y la Ley de Política Pública Ambiental.
+
+8
+3. Que se certifique en el caso de recolectores y acarreadores que existe una
+demanda por procesadores de reciclaje o disposición que podrá absorber el
+volumen de materiales a recolectarse.
+4. Que, para los productos o materias primas reciclados o recuperados por los
+procesadores, se certifique que existe una demanda de mercado independiente
+del Gobierno de Puerto Rico, sus Municipios o las corporaciones públicas.
+i) Someterá un informe anual a la Asamblea Legislativa de seguimiento a la
+implantación de esta Ley.
+j) …
+k) Promulgará los reglamentos necesarios para la concesión de las licencias para la
+operación de facilidades de recolección, almacenamiento, reciclaje, procesamiento o
+disposición final de equipos electrónicos o celulares o tubos de rayos catódicos.
+l) Dispondrá que todas las empresas privadas de once (11) empleados o más tendrán
+que rendir, en un informe anual conforme a sus reglamentos, evidencia de los
+mecanismos utilizados para el reciclaje, reutilización o reconstrucción de los equipos
+electrónicos o de telefonía.
+m) Establecerá un programa de educación para proveer orientación sobre la
+importancia de la disposición correcta de los equipos electrónicos.
+n) Promoverá con prioridad la reducción de la generación de desechos de equipo
+electrónico mediante la educación; mediante incentivos para la reconstrucción y re-uso
+en Puerto Rico de equipos electrónicos desechados, aunque útiles; y establecerá una
+efectiva coordinación entre aquellos que reconstruyan y los que pueden utilizar equipo
+reconstruido.
+o) En coordinación con los fabricantes, importadores y distribuidores inscritos y los
+procesadores y recolectores efectuará un estudio de caracterización y mercado de los
+desperdicios electrónicos en Puerto Rico y preparará una estrategia general para el
+manejo de los equipos electrónicos, celulares y tubos de rayos catódico.
+p) Establecerá, promoverá y dará publicidad a un programa de reconocimiento a
+aquellas industrias o entidades con o sin fines de lucro certificadas conforme a esta Ley
+que ejemplifiquen el cumplimiento de sus objetivos.”
+Artículo 11.- Se suprime la actual Sección 8.02 del Artículo 8 de la Ley 18-2012,
+según enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos
+Electrónicos de Puerto Rico”.
+Artículo 12.- Se enmienda y reenumera la actual Sección 8.03 como Sección 8.02 del
+Artículo 8 de la Ley 18-2012, según enmendada, conocida como “Ley de Reciclaje y
+Disposición de Equipos Electrónicos de Puerto Rico”, para que lea como sigue:
+“Sección 8.02.- Municipios.
+
+9
+a) Con el apoyo del DRNA, coordinar para el control y supervisión de toda persona
+que almacene equipos electrónicos desechados para que cumpla con los requisitos
+dispuestos en esta Ley.
+…”
+Artículo 13.- Se enmienda la Sección 9.03 del Artículo 9 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 9.03. —
+Nada de lo dispuesto en esta Ley obliga al DRNA a conceder a ninguna entidad o
+grupo o clasificación de entidades dedicadas a la recolección, acarreo, reciclaje o
+disposición de equipos electrónicos o celulares o tubos catódicos una franquicia
+preferente, exclusiva o protegida en ninguna parte de la jurisdicción de Puerto Rico.”
+Artículo 14.- Se enmienda la Sección 10.03 del Artículo 10 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 10.03.-
+…
+f) Información al consumidor sobre los beneficios del reciclaje y las oportunidades
+que provee el detallista de telefonía celular, o en su defecto el DRNA, para este proceso,
+así como promover e incentivar el mismo. La información a ser provista deberá como
+mínimo:
+…”
+Artículo 15.- Se enmienda la Sección 11.01 del Artículo 11 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 11.01.- Recolectores y Acarreadores.
+a) Cualquier persona natural o jurídica podrá, con el previo permiso del DRNA,
+establecer un lugar para recibir equipos electrónicos desechados, descartados, obsoletos
+o inservibles que serán luego transportados directamente a las instalaciones de reciclaje,
+almacenamiento, procesamiento o disposición final. Dichos centros de recolección
+deberán cumplir con las leyes y reglamentos ambientales y de zonificación aplicables.
+b) Todo acarreador o manejador de equipos electrónicos desechados, previo al
+comienzo de sus operaciones, será debidamente autorizado por el DRNA.
+c) El DRNA reglamentará la cantidad de desperdicios electrónicos desechados,
+descartados, obsoletos o inservibles que un recolector o acarreador podrá acumular y/o
+transportar según su ubicación y capacidad.”
+
+10
+Artículo 16.- Se enmienda la Sección 11.02 del Artículo 11 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 11.02.- Instalaciones de Reciclaje, Procesamiento o Disposición Final de
+Equipos Electrónicos Desechados, Descartados, Obsoletos o Inservibles.
+(a) …
+Este plan deberá ser revisado por el DRNA y de ser endosado se considerará como
+requisito para la aprobación final del permiso solicitado.
+(b) Toda persona dedicada a la actividad de reciclaje, procesamiento o disposición
+final de equipos electrónicos desechados, descartados, obsoletos o inservibles obtendrán
+las licencias correspondientes del DRNA y cumplirán con todos los requisitos
+establecidos en las leyes y reglamentos aplicables. El DRNA reglamentará la cantidad
+de materiales sin procesar o parcialmente procesados que se podrán almacenar en una
+instalación antes de ser remitidos para uso o disposición final.
+(c) Toda persona que opere una instalación de reciclaje, procesamiento o disposición
+final someterá anualmente al DRNA, los siguientes documentos, entre otros:
+…
+(d) El DRNA fomentará el desarrollo de compañías que hagan inversiones en
+maquinaria destinadas al procesamiento de materiales y re-manufactura de equipos
+electrónicos.
+(e) El DRNA, también promoverá:
+…”
+Artículo 17.- Se enmienda la Sección 11.03 del Artículo 11 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 11.03.- Exportación de Equipos Electrónicos Desechados, Descartados,
+Obsoletos o Inservibles.
+Toda Persona dedicada a la exportación de equipos electrónicos desechados deberá
+obtener un permiso del DRNA y cumplirá con los requisitos dispuestos en la legislación
+y reglamentación aplicable. El exportador deberá cumplimentar el sistema de
+manifiestos según creado por el DRNA sobre la cantidad de equipos electrónicos
+exportados y su disposición final.
+…”
+Artículo 18.- Se enmienda la Sección 11.04 del Artículo 11 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 11.04.- Requisitos de manejo.
+
+11
+…
+a) El DRNA no autorizará, aprobará, ni proveerá asistencia técnica ni
+incentivos para la operación de ningún programa de disposición de tubos de
+rayos catódicos, equipos electrónicos o celulares fundamentado en transportar
+los mismos a una jurisdicción con leyes o reglamentaciones menos estrictas a
+fines de ser desechados o destruidos sin procesar, o que se limite al acopio,
+desmantelamiento y almacenaje de equipos sin un plan establecido para su
+disposición futura.
+b) Todos los acarreadores, centros de recolección, recicladores y procesadores
+de equipos electrónicos y tubos de rayos catódicos que lleven a cabo operaciones
+de recogido, almacenaje, reciclaje, manejo y procesamiento de estos equipos,
+deberán certificar su cumplimiento con los estándares de requisitos mínimos de
+manejo, procesamiento y reciclaje establecidos por el DRNA.
+El DRNA establecerá este estándar de manejo, procesamiento y reciclaje en el
+reglamento que esté relacionado o que haya sido aprobado para la implementación de
+esta Ley. Posteriormente, establecerá un método de certificación, auditoría periódica y
+fiscalización para toda empresa sujeta a esta disposición. El desarrollo de estos
+estándares de requisitos deberá tomar como base o modelo aquellos estándares de
+procesamiento de equipo electrónico recomendados por la agencia federal
+Environmental Protection Agency (EPA) y atemperarlos a las condiciones particulares
+de la situación de nuestro país. Este nuevo estándar a ser desarrollado por el DRNA
+está dirigido a proteger la salud pública y medioambiental, la seguridad y salud de los
+empleados y la seguridad tanto de información como de las instalaciones. Además,
+tendrá como propósito establecer guías para el proceso completo de reciclaje y la
+cadena de custodia de los materiales hasta su disposición final.”
+Artículo 19.- Se enmienda la Sección 12.01 del Artículo 12 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 12.01.-
+Se faculta y autoriza al DRNA a unirse en representación de Puerto Rico a
+programas, convenios u organizaciones intergubernamentales con otros estados y
+territorios de los Estados Unidos para el diseño, establecimiento o implantación de
+proyectos de reducción, reutilización, reciclaje o disposición adecuada de desperdicios
+electrónicos, a los fines de adelantar el cumplimiento con esta Ley.”
+Artículo 20.- Se enmienda la Sección 12.02 del Artículo 12 de la Ley 18-2012, según
+enmendada, conocida como “Ley de Reciclaje y Disposición de Equipos Electrónicos de
+Puerto Rico”, para que lea como sigue:
+“Sección 12.02.-
+
+12
+Se faculta y autoriza al DRNA a hacer las gestiones de rigor ante los Departamentos
+de Estado y de Comercio de los Estados Unidos para permitir la participación que esté
+dentro de su capacidad legal en programas, convenios u organizaciones internacionales
+en el área de la Cuenca del Caribe para apoyar el cumplimiento de los fines de esta
+Ley.”
+Artículo 21.- Por la presente se deroga cualquier ley, o parte de ley, que sea
+incompatible con esta.
+Artículo 22.- Las disposiciones de esta Ley prevalecerán sobre cualquier otra
+disposición de ley que no estuviere en armonía con lo aquí establecido.
+Artículo 23.- Si cualquier parte de esta Ley fuese declarada nula o inconstitucional
+por un tribunal de jurisdicción y competencia, este fallo no afectará ni invalidará el
+resto de la Ley y su efecto quedará limitado al aspecto objeto de dicho dictamen
+judicial.
+Artículo 24.- Se dispone que para los equipos solares y de almacenamiento que por
+ser no-portátiles o por estar garantizados por el manufacturero por cinco (5) años o más
+no son equipos electrónicos conforme a esta Ley, el Programa de Política Pública
+Energética (PPPE) del Departamento de Desarrollo Económico y Comercio (DDEC), con
+el insumo del Departamento de Recursos Naturales y Ambientales (DRNA) emitirá un
+Informe Final, tras la realización de talleres participativos presenciales con entidades
+interesadas, asociaciones expertas en energía solar y almacenamiento, expertos en
+materia de reciclaje y municipios, guiados por un moderador experto en conducción de
+procesos de este tipo. En dicho Informe Final, el PPPE establecerá estrategias y
+soluciones de mercado para el acopio, manejo, exportación, reúso y/o reciclaje de estos
+equipos y propondrá cualquier acción legislativa o regulatoria necesaria, si alguna, para
+lograr estos fines. Este Informe Final se rendirá por el PPPE no más tarde de diciembre
+30 de 2026.
+Artículo 25.- Esta Ley entrará en vigor inmediatamente después de su aprobación.
