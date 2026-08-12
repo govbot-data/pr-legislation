@@ -1,0 +1,61 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RCC0382",
+  "title": "Para ordenar a la Comisi\u00f3n de Seguridad de la C\u00e1mara de Representantes del Estado Libre Asociado de Puerto Rico, realizar una exhaustiva investigaci\u00f3n sobre las medidas de seguridad, vigilancia y la debida coordinaci\u00f3n con los municipios y agencias dirigidas a prevenir y atender diferentes situaciones que afectan el orden y seguridad p\u00fablica que pudieran realizarse en las estaciones de venta de gasolina en Puerto Rico; entre estos, sobre vigilancia preventiva, l\u00edneas de comunicaci\u00f3n confidenciales para atender llamadas sobre estos incidentes y la evidencia correspondiente de respuesta inmediata, protocolos de intervenci\u00f3n y prevenci\u00f3n, orientaci\u00f3n a la comunidad y la debida fiscalizaci\u00f3n, as\u00ed como identificar aquellas enmiendas al marco legal vigente; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rcc382"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T06:50:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161755",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-12T06:50:20Z"
+  }
+}
