@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0375",
-  "title": "Para asignar a los municipios, la cantidad de cuatro millones setecientos veintiocho mil doscientos sesenta y cinco d\u00f3lares con ochenta y nueve centavos (4,728,265.89) provenientes de los ingresos generados seg\u00fan se dispone en la Secci\u00f3n 29, Inciso b, de la Ley N\u00fam. 11 de 22 de agosto de 1933, seg\u00fan enmendada, conocida como \u201cLey de M\u00e1quinas de Juegos Azar\u201d a ser transferidos para llevar a cabo los prop\u00f3sitos que se describen en la Secci\u00f3n 1 de esta Resoluci\u00f3n Conjunta; para autorizar la contrataci\u00f3n de tales obras; autorizar el traspaso de fondos; autorizar el pareo de los fondos reasignados; y para otros fines.",
+  "title": "Para asignar a los municipios, la cantidad de cuatro millones setecientos veintiocho mil doscientos sesenta y cinco d\u00f3lares con ochenta y nueve centavos (4,728,265.89) provenientes de los ingresos generados seg\u00fan se dispone en la Secci\u00f3n 29, Inciso b,  de la Ley N\u00fam. 11 de 22 de agosto de 1933, seg\u00fan enmendada, conocida como \u201cLey de M\u00e1quinas de Juegos Azar\u201d a ser transferidos para llevar a cabo los prop\u00f3sitos que se describen en la Secci\u00f3n 1 de esta Resoluci\u00f3n Conjunta; para autorizar la contrataci\u00f3n de tales obras; autorizar el traspaso de fondos; autorizar el pareo de los fondos reasignados; y para otros fines.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -240,23 +240,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:18Z"
       }
+    },
+    {
+      "description": "Res. Conj.  57-2026",
+      "date": "2026-08-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T06:42:56Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -316,6 +326,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  57-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161571/Res. Conj. 57-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -334,7 +355,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:18Z",
+    "logs_latest_update": "2026-08-14T06:42:56Z",
     "text_extraction_latest_update": "2026-07-22T02:57:30.562450Z"
   }
 }

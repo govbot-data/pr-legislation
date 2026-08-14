@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0891",
-  "title": "Para enmendar el subinciso (d) del inciso (1) del Art\u00edculo 4.01 de la Ley N\u00fam. 154-2018 , seg\u00fan enmendada, conocida como \u201cLey de Reclamaciones Fraudulentas a los Programas, Contratos y Servicios del Gobierno de Puerto Rico\u201d, a los fines de aclarar la intenci\u00f3n legislativa de incluir como violaciones a dicha ley la evasi\u00f3n o disminuci\u00f3n de obligaciones de pagar o transmitir dinero o propiedad al Gobierno y para atemperarla a las violaciones de esta naturaleza, seg\u00fan definidas y reguladas por el False Claims Act, 31 U.S.C. \u00a7\u00a73729-3733 y la jurisprudencia federal aplicable; y para otros fines relacionados.",
+  "title": "Para enmendar el sub-inciso (d) del inciso (1) del Art\u00edculo 4.01 de la Ley N\u00fam. 154-2018, seg\u00fan enmendada, conocida como \u201cLey de Reclamaciones Fraudulentas a los Programas, Contratos y Servicios del Gobierno de Puerto Rico\u201d, a los fines de aclarar la intenci\u00f3n legislativa de incluir como violaciones a dicha ley la evasi\u00f3n o disminuci\u00f3n de obligaciones de pagar o transmitir dinero o propiedad al Gobierno y para atemperarla a las violaciones de esta naturaleza, seg\u00fan definidas y reguladas por el False Claims Act, 31 U.S.C. \u00a7 3729-3733 y la jurisprudencia federal aplicable; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -290,6 +290,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:22Z"
       }
+    },
+    {
+      "description": "Ley 176-2026",
+      "date": "2026-08-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T06:42:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -413,6 +423,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Ley 176-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158835/Ley 176-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -431,7 +452,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:25Z",
+    "logs_latest_update": "2026-08-14T06:42:56Z",
     "text_extraction_latest_update": "2026-07-22T01:25:29.155684Z"
   }
 }

@@ -1,0 +1,73 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RS0573",
+  "title": "Para ordenar a la Comisi\u00f3n de Planificaci\u00f3n, Permisos, Infraestructura y Urbanismo del\nSenado de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre el problema de\np\u00e9rdida de agua a consecuencia de salideros, aver\u00edas, equipos defectuosos o hurto\nde agua que afecta el servicio que ofrece la Autoridad de Acueductos y\nAlcantarillados; evaluar que est\u00e1 haciendo la corporaci\u00f3n p\u00fablica para atender la\nproblem\u00e1tica; examinar las soluciones y el posible costo de subsanaci\u00f3n que\nofrezcan entidades y organismos con peritaje en el tema; y auscultar si existen\nsoluciones viables a corto, mediano y largo plazo para resolver o mitigar el\nimpacto de la p\u00e9rdida masiva de agua que pueda atenderse mediante legislaci\u00f3n.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pr-2025_2028-rs573"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2026-08-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T06:42:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161799/rs0573-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/161799",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-14T06:42:56Z"
+  }
+}

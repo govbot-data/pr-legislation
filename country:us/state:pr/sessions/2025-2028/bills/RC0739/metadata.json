@@ -50,6 +50,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:20Z"
       }
+    },
+    {
+      "description": "Reuni\u00f3n Ejecutiva:  Oficina de la Comisi\u00f3n",
+      "date": "2026-08-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T06:42:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,7 +73,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161628/RC0739.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -80,7 +102,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:22Z",
+    "logs_latest_update": "2026-08-14T06:42:56Z",
     "text_extraction_latest_update": "2026-08-13T12:41:32.934164Z"
   }
 }

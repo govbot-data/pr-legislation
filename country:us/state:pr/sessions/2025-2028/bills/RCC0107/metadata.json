@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0107",
-  "title": "Para designar el tramo de la Carretera Estatal PR-185 hasta el kil\u00f3metro 2.2 en jurisdicci\u00f3n del Municipio de Can\u00f3vanas, con el nombre de \u201cNorman H. D\u00e1vila\u201d, como justo reconocimiento a su insigne trayectoria y aportes a distintas disciplinas deportivas en Puerto Rico, particularmente como el legendario narrador de carreras y voz oficial de la h\u00edpica puertorrique\u00f1a por m\u00e1s de cincuenta (50) a\u00f1os en el antiguo Hip\u00f3dromo \u201cEl Comandante\u201d en Carolina, as\u00ed como el actual Hip\u00f3dromo \u201cCamarero\u201d en Can\u00f3vanas.",
+  "title": "Para designar el tramo de la Carretera Estatal PR-185, en la jurisdicci\u00f3n del Municipio de Can\u00f3vanas, con el nombre de \u201cNorman H. D\u00e1vila\u201d, como justo reconocimiento a su insigne trayectoria y aportes a distintas disciplinas deportivas en Puerto Rico, particularmente como el legendario narrador de carreras y voz oficial de la h\u00edpica puertorrique\u00f1a por m\u00e1s de cincuenta (50) a\u00f1os en el antiguo Hip\u00f3dromo \u201cEl Comandante\u201d en Carolina, as\u00ed como el actual Hip\u00f3dromo \u201cCamarero\u201d en Can\u00f3vanas; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -364,23 +364,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:19Z"
       }
+    },
+    {
+      "description": "Res. Conj.  54-2026",
+      "date": "2026-08-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T06:42:56Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -528,6 +538,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  54-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155325/Res. Conj. 54-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -546,7 +567,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:23Z",
+    "logs_latest_update": "2026-08-14T06:42:56Z",
     "text_extraction_latest_update": "2026-07-22T01:27:07.316038Z"
   }
 }

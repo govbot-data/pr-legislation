@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC1214",
-  "title": "Para crear el \u201cSistema Uniforme de C\u00f3digos de Emergencia en las Escuelas de Puerto Rico\u201d, a fin de incorporar c\u00f3digos de emergencia para las escuelas del pa\u00eds; establecer la obligaci\u00f3n de ofrecer capacitaci\u00f3n, realizar simulacros y ejercicios para su efectividad; y disponer reglamentaci\u00f3n.",
+  "title": "Para crear el \"Sistema Uniforme de C\u00f3digos de Emergencia en las Escuelas de Puerto Rico\", a fin de incorporar c\u00f3digos de emergencia para las escuelas del Departamento de Educaci\u00f3n; establecer la obligaci\u00f3n de ofrecer capacitaci\u00f3n, realizar simulacros y ejercicios para su efectividad; y ordenar a las agencias\ncorrespondientes a adoptar reglamentaci\u00f3n.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -230,6 +230,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:21Z"
       }
+    },
+    {
+      "description": "Ley 175-2026",
+      "date": "2026-08-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T06:42:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -314,6 +324,17 @@
       ],
       "date": "2026-06-25",
       "classification": ""
+    },
+    {
+      "note": "Ley 175-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160913/Ley 175-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-11",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -332,7 +353,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:28Z",
+    "logs_latest_update": "2026-08-14T06:42:56Z",
     "text_extraction_latest_update": "2026-07-22T02:29:41.454201Z"
   }
 }
