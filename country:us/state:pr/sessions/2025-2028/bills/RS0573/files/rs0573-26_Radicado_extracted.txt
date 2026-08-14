@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. del S. 573
+13 de agosto de 2026
+Presentada por el señor Matías Rosario
+Referida a la
+RESOLUCIÓN
+Para ordenar a la Comisión de Planificación, Permisos, Infraestructura y Urbanismo del
+Senado de Puerto Rico realizar una investigación exhaustiva sobre el problema de
+pérdida de agua a consecuencia de salideros, averías, equipos defectuosos o hurto
+de agua que afecta el servicio que ofrece la Autoridad de Acueductos y
+Alcantarillados; evaluar que está haciendo la corporación pública para atender la
+problemática; examinar las soluciones y el posible costo de subsanación que
+ofrezcan entidades y organismos con peritaje en el tema; y auscultar si existen
+soluciones viables a corto, mediano y largo plazo para resolver o mitigar el
+impacto de la pérdida masiva de agua que pueda atenderse mediante legislación.
+EXPOSICIÓN DE MOTIVOS
+El acceso al agua potable constituye un servicio esencial para la salud, el bienestar
+y el desarrollo económico de Puerto Rico. No obstante, el sistema de distribución de agua
+enfrenta un grave problema de pérdidas ocasionadas, en gran medida, por salideros en
+la infraestructura de acueductos, averías, equipos defectuosos o hurtos.
+Según un artículo del periódico El Vocero, la Junta de Supervisión Fiscal, utilizando
+datos de la propia Autoridad de Acueductos y Alcantarillados (AAA) afirmó que,
+durante el año fiscal 2024, un sesenta y seis por ciento (66%) de los 513.16 millones de
+galones de agua potable producidos diariamente por la corporación pública no generaron
+
+2
+ingresos.1 El costo de producir agua potable en la AAA cuesta menos de un centavo por
+galón ($0.01); de ahí que la pérdida reportada represente un costo millonario para el
+contribuyente.
+Entre las principales razones que se aducen para la pérdida de agua destacan los
+salideros y roturas a lo largo de todo el sistema de producción de agua potable
+administrado por la AAA. Para el 2021, la corporación pública había identificado unos
+55,000 salideros ocultos de agua potable por los cuales esta se escapa de tuberías
+subterráneas, subacuáticas o de tuberías ubicadas bajo losas o empotradas en paredes de
+las instalaciones internas; que no se pueden detectar a simple vista.2
+Como bien indicamos, la situación antes descrita no es nueva. Puerto Rico lleva
+décadas enfrentando una crisis que ha costado millones de dólares a los usuarios y a la
+economía debido a la cantidad de agua producida que no llega a las residencias,
+industrias y comercios de la Isla. La problemática se agrava porque el agua que no llega
+a las comunidades que la necesitan supone interrupciones constantes y prolongadas del
+servicio, riesgos a la salud pública y pérdidas en los comercios, hoteles, alquileres a corto
+plazo (Airbnb) y otras industrias. Como si fuera poco, afecta seriamente la percepción de
+Puerto Rico como destino turístico, toda vez que contribuye a que seamos percibidos
+como uno donde los servicios esenciales escasean constantemente.
+El cuadro antes presentado es motivo de alarma y preocupación, no solo por el
+elevado porcentaje de agua que se pierde, sino porque la situación parece estar
+empeorando. Los datos precitados representan un aumento con relación a los que
+revelaba el 2019 Report Card for Puerto Rico Infrastructure de la Sociedad Americana de
+Ingenieros Civiles (ASCE, por sus siglas en inglés), que establecía entonces en un
+1 P. Menéndez Sanabria, “Junta fiscal cuestiona la pérdida del 66% del agua en la AAA”, El Vocero, 30 de
+abril de 2025. En: https://www.elvocero.com/gobierno/httpswwwelvocerocomacueductos-tendr-
+que-explicar-c-mo-minimizar-p-rdida-de-aguaarticlea6d756e8-faa8-4b96-8ba5-
+7ccd2947fccbhtml/article_a6d756e8-faa8-4b96-8ba5-7ccd2947fccb.html (última visita, 22 de julio
+de 2026).
+2 F. Rosario, “No se sabe cuánto se pierde de agua por los salideros”, Primera Hora, 14 de octubre de 2021.
+En: https://www.primerahora.com/noticias/gobierno-politica/notas/no-se-sabe-cuanto-se-pierde-
+de-agua-por-los-salideros/ (última visita, 22 de julio de 2026).
+
+3
+cincuenta y nueve por ciento (59%) el agua tratada y procesada que no llegaba al usuario.
+A modo de dimensionar lo alarmante de esa cifra es pertinente contrastarla con la pérdida
+promedio en los Estados Unidos donde, según datos de la Agencia de Protección
+Ambiental de los Estados Unidos (EPA, por sus siglas en inglés), la pérdida de agua que
+no llega al usuario representa solo un dieciséis por ciento (16%) del agua producida en la
+nación.
+Puerto Rico no puede continuar tolerando el nivel de desperdicio de agua que hoy
+sufrimos. La falta del preciado líquido afecta comunidades enteras y comercios, teniendo
+que recurrir al racionamiento. La escasez que se genera es aún más grave durante épocas
+de sequía y afecta a todos los sectores poblacionales, geográficos y económicos de la Isla.
+Ante ello, es forzoso concluir que si la pérdida de agua producida se redujera a niveles
+aceptables la gran mayoría de las dificultades de estos sectores de la población dejarían
+de existir o, cuando menos, se reducirían marcadamente. Esta realidad evidencia la
+necesidad de investigar y adoptar medidas dirigidas a fortalecer la detección, reparación
+y prevención de salideros, y roturas, la puesta al día de los equipos defectuosos y una
+mayor fiscalización ante el hurto de agua, así como promover una gestión más eficiente
+y sostenible de los recursos hídricos.
+Por todo lo antes expuesto, esta Asamblea Legislativa entiende necesario conocer
+los planes de la AAA para enfrentar la pérdida de agua que incluya, sin limitarse, el costo
+estimado de solucionar el problema, tiempo estimado para reducirlo a niveles dentro de
+los estándares de otras jurisdicciones de Estados Unidos, establecer un itinerario de
+mantenimiento continuo y permanente, y brigadas pitométricas de detección de salideros
+que eviten recaer en el problema una vez subsanado.
+RESUÉLVESE POR EL SENADO DE PUERTO RICO:
+1 Sección 1.- Se ordena a la Comisión de Planificación, Permisos, Infraestructura y
+2 Urbanismo del Senado de Puerto Rico realizar una investigación exhaustiva sobre la
+3 situación de pérdida de agua a consecuencia de salideros, averías, equipos defectuosos o
+
+4
+1 hurto de agua que afecta el servicio que ofrece la Autoridad de Acueductos y
+2 Alcantarillados; evaluar que está haciendo la corporación pública para atender la
+3 problemática; examinar las soluciones y realizar un estimado del costo de subsanar el
+4 problema que ofrezcan entidades y organismo con peritaje en el tema; y auscultar si
+5 existen soluciones viables a corto, mediano y largo plazo para solucionar o mitigar el
+6 impacto de la pérdida masiva de agua que puedan atenderse mediante legislación.
+7 Sección 2.- La investigación incluirá, pero sin limitarse a:
+8 a. Las recomendaciones de estudios que hayan sido realizados por entidades
+9 tales como el Colegio de Ingenieros y Agrimensores de Puerto Rico, la Sociedad
+10 Americana de Ingenieros Civiles, el Cuerpo de Ingenieros de los Estados
+11 Unidos, las facultades de ingeniería del Recinto Universitario de Mayagüez de
+12 la Universidad de Puerto Rico, la Universidad Politécnica de Puerto Rico, la
+13 Universidad Interamericana de Puerto Rico y cualquier otra institución
+14 académica de Puerto Rico o del exterior que haya realizado estudios sobre la
+15 materia objeto de la investigación que aquí se ordena.
+16 b. Las estrategias para atender la problemática de salideros en la infraestructura
+17 de acueductos y pérdidas de agua por otras intrumentalidades de
+18 jurisdicciones de Estados Unidos, cuyo porcentaje esté dentro de los niveles
+19 aceptables, según estos sean establecidos por la Agencia de Protección
+20 Ambiental de los Estados Unidos o por la industria de producción de agua.
+21 c. Los planes o alternativas que presente la AAA para enfrentar la pérdida de
+22 agua, el costo estimado de solucionar el problema, tiempo estimado para
+
+5
+1 reducirlo a niveles dentro de los estándares de otras jurisdicciones de Estados
+2 Unidos, itinerario propuesto para el mantenimiento continuo y permanente del
+3 sistema que impida la pérdida de agua y el posible establecimiento de brigadas
+4 pitométricas de detección de salideros que eviten recaer en el problema una
+5 vez subsanado.
+6 Sección 3.- La Comisión podrá celebrar vistas públicas; citar funcionarios y
+7 testigos; requerir información, documentos y objetos; y realizar inspecciones oculares, a
+8 los fines de cumplir con el mandato de esta Resolución.
+9 Sección 4.- La Comisión rendirá informes periódicos y un informe final a este
+10 Cuerpo Legislativo que incluyan sus hallazgos, conclusiones y recomendaciones, durante
+11 el transcurso de la presente Vigésima Asamblea Legislativa. Sin embargo, deberá rendir
+12 un primer informe parcial en un término de noventa (90) días, contados a partir de la
+13 aprobación de esta Resolución.
+14 Sección 5.- Esta Resolución comenzará a regir inmediatamente después de su
+15 aprobación.
