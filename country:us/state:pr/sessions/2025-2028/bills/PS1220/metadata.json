@@ -72,6 +72,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:28Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-08-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T06:22:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -125,7 +135,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:28Z",
+    "logs_latest_update": "2026-08-15T06:22:46Z",
     "text_extraction_latest_update": "2026-07-22T04:32:13.649973Z"
   }
 }
