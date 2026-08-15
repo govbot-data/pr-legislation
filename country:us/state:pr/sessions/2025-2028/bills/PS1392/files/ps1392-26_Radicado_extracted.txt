@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1392
+13 de agosto de 2026
+Presentado por el señor Ríos Santiago
+Referido a la
+LEY
+Para añadir un Artículo 9 a la Ley Núm. 225 de 23 de julio de 1974, según enmendada,
+conocida como “Ley del Servicio de Ambulancias en Puerto Rico” a los fines de
+requerir que todas las ambulancias de Categoría II y III tengan un suplido de sangre
+para cualquier emergencia y enmendar los actuales Artículos 9, 10, 11 y 12; y para
+otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La disponibilidad de sangre y productos sanguíneos en determinadas
+ambulancias puede representar la diferencia entre la vida y la muerte para una persona.
+En accidentes automovilísticos, heridas de bala, apuñalamientos, accidentes industriales,
+complicaciones durante el parto y otras emergencias, el paciente puede perder una gran
+cantidad de sangre antes de llegar al hospital. Cuando esto ocurre, el cuerpo deja de
+recibir suficiente oxígeno, la presión arterial disminuye y los órganos vitales comienzan
+a fallar. Esta condición constituye una de las principales causas de muerte prevenible
+entre pacientes de trauma.
+Tradicionalmente, los paramédicos han utilizado soluciones intravenosas, como la
+solución salina, para mantener temporalmente la circulación del paciente. Sin embargo,
+estos líquidos no sustituyen completamente la sangre perdida. La solución salina puede
+aumentar el volumen dentro de los vasos sanguíneos, pero no contiene glóbulos rojos
+
+2
+para transportar oxígeno, plaquetas para ayudar a formar coágulos ni los demás
+componentes necesarios para controlar una hemorragia. La sangre completa, por el
+contrario, reemplaza simultáneamente volumen, glóbulos rojos y factores de
+coagulación. Por esta razón, comenzar una transfusión antes de llegar al hospital puede
+estabilizar al paciente y darle tiempo suficiente para recibir cirugía u otros tratamientos
+definitivos.
+La Oficina Federal de Servicios Médicos de Emergencia explica que una
+transfusión prehospitalaria permite llevar sangre completa o componentes sanguíneos
+directamente al lugar donde se encuentra el paciente. Según esta oficina, los pacientes de
+trauma que recibieron sangre completa en el campo tuvieron una probabilidad de
+supervivencia considerablemente mayor en determinados estudios. Actualmente, más de
+200 agencias de servicios médicos de emergencia en Estados Unidos tienen alguna
+capacidad para administrar sangre a pacientes gravemente heridos o enfermos.
+Uno de los sistemas más reconocidos se desarrolló en el área de San Antonio,
+Texas. El programa utiliza sangre completa tipo O con títulos bajos de anticuerpos,
+conocida como low-titer O whole blood. Este tipo de sangre puede utilizarse en una
+emergencia sin tener que esperar por una prueba completa para determinar el grupo
+sanguíneo del paciente. Las unidades se almacenan en neveras especiales que mantienen
+la temperatura requerida y son transportadas por ciertas ambulancias, unidades de
+supervisión o aeronaves médicas. Los paramédicos evalúan factores como la presión
+arterial, el ritmo cardíaco, el tipo de lesión y la presencia de sangrado para determinar si
+el paciente cumple con los criterios establecidos para recibirla. Estudios relacionados con
+este sistema han encontrado que la administración prehospitalaria es viable, segura y
+puede mejorar la condición fisiológica del paciente antes de llegar al hospital.
+Washington, D. C., cuenta con uno de los ejemplos más amplios. Su programa de
+sangre completa utiliza unidades especializadas que pueden llevar el producto a distintas
+partes del Distrito en aproximadamente diez minutos o menos. De acuerdo con las
+estadísticas publicadas por DC Fire and EMS, el programa había administrado más de
+
+3
+500 unidades a cientos de pacientes y reportaba una alta supervivencia entre los pacientes
+tratados, excluyendo ciertos casos de paro cardíaco traumático. Estas cifras deben
+interpretarse con cautela, pues la supervivencia también depende de la gravedad de la
+lesión, el control del sangrado, el tiempo de transporte y la atención hospitalaria. Sin
+embargo, demuestran que un sistema urbano puede almacenar, transportar y administrar
+sangre de manera organizada.
+Existe evidencia de vidas reales salvadas gracias a estos programas. En Wisconsin,
+paramédicos del Departamento de Bomberos de Wauwatosa atendieron a una persona
+que había recibido múltiples heridas de bala. El paciente presentaba lesiones extensas y
+una presión arterial peligrosamente baja. Los paramédicos le administraron sangre
+completa antes de llegar al hospital. Después de la transfusión, la presión arterial
+aumentó y el paciente pudo mantenerse con vida hasta llegar a cirugía. El gobierno de
+Milwaukee County informó que la persona continuaba recuperándose y se esperaba que
+sobreviviera. Aunque la cirugía y el tratamiento hospitalario también fueron esenciales,
+la transfusión realizada en el campo ayudó a mantener al paciente vivo durante el
+periodo crítico anterior a la operación.
+Otro caso fue documentado por la Universidad de Alabama en Birmingham.
+Garry Taylor, de 71 años, sufrió un accidente automovilístico devastador y llegó a tener
+una probabilidad de supervivencia cercana a cero debido a la gravedad de sus heridas.
+El paciente recibió sangre antes de llegar al hospital. Según UAB, la transfusión
+prehospitalaria extendió el tiempo durante el cual pudo mantenerse con vida y permitió
+que llegara al hospital para recibir el tratamiento definitivo que necesitaba. Este caso
+ilustra el propósito principal de llevar sangre en una ambulancia: no sustituir la cirugía
+ni el trabajo del hospital, sino comprar minutos vitales para que el paciente pueda llegar
+vivo al centro de trauma.
+Llevar sangre en ambulancias especializadas puede mejorar significativamente la
+respuesta a las personas que ellos sirven. La transfusión temprana reemplaza
+componentes que las soluciones intravenosas convencionales no pueden proporcionar y
+
+4
+puede mantener con vida al paciente mientras es transportado a un hospital. Los sistemas
+implantados en diferentes estados y Washington, D. C., demuestran que es posible
+desarrollar estos programas de manera segura. Los casos de Wisconsin y Alabama
+muestran que no se trata solamente de una propuesta teórica: existen pacientes reales que
+pudieron llegar vivos a cirugía gracias a que recibieron sangre antes de entrar al hospital.
+Puerto Rico tiene que estar encaminado a un programa, cuidadosamente regulado, para
+que las ambulancias de soporte vital avanzado tengan una unidad de sangre.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se añade un Artículo 9 de la Ley Núm. 225 de 23 de julio de 1974, según
+2 enmendada, conocida como “Ley del Servicio de Ambulancias en Puerto Rico”, para que
+3 lea como sigue:
+4 “Artículo 9. — Unidad de Sangre
+5 Toda ambulancia de Puerto Rico que sea de Categoría II y III tendrá que añadir una unidad
+6 de sangre a los vehículos de emergencia.
+7 (a) Un servicio de ambulancia de dicha categoría autorizado conforme a este artículo tendrá
+8 que almacenar y distribuir sangre humana en todas sus instalaciones; asimismo, el
+9 personal médico y sanitario cualificado que opere dentro de dicho servicio autorizado
+10 podrá iniciar y administrar transfusiones de sangre humana mientras presta servicios
+11 de ambulancia o atención de soporte vital avanzado a través de una unidad móvil.
+12 (b) Todo servicio de ambulancia autorizado conforme a este artículo podrá almacenar y
+13 distribuir sangre humana de conformidad con las normas de almacenamiento de sangre
+14 de la Administración de Alimentos y Medicamentos de los Estados Unidos (FDA, por
+15 sus siglas en inglés), reglamentos, directrices o normas mínimas establecidos en virtud
+16 de esta sección.
+
+5
+1 (c) Antes de almacenar y distribuir sangre o de permitir que el personal médico y sanitario
+2 cualificado inicie y administre transfusiones sanguíneas conforme a esta sección, el
+3 servicio de ambulancia deberá asegurarse de cumplir con las reglas, reglamentos,
+4 directrices o normas mínimas establecidos por el Gobierno de Puerto Rico y
+5 reglamentos federales y con otros requisitos aplicables a los servicios médicos de
+6 urgencia. Asimismo, deberá notificar su intención de almacenar y distribuir sangre o
+7 de permitir que dicho personal inicie y administre transfusiones sanguíneas como parte
+8 de sus servicios de ambulancia o de atención de soporte vital avanzado, con una
+9 antelación mínima de sesenta (60) días al Departamento de Salud y al Departamento
+10 de Seguridad Pública.
+11 Sección 2.- Se reenumeran los Artículos 9, 10, 11 y 12 de la Ley Núm. 225 de 23 de
+12 julio de 1974, según enmendada, conocida como “Ley del Servicio de Ambulancias en
+13 Puerto Rico”, para que lea como sigue:
+14 Artículo [9] 10
+15 Artículo [10] 11
+16 Artículo [11] 12
+17 Artículo [12] 13
+18 Sección 3.- Reglamentación
+19 El Departamento de Salud enmendará o adoptará, dentro de un término no mayor
+20 de ciento ochenta (180) días a partir de la aprobación de esta Ley, la reglamentación
+21 necesaria para la implementación de sus disposiciones.
+22 Sección 3.- Esta Ley comenzará a regir inmediatamente después de su aprobación.
