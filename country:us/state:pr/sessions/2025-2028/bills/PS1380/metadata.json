@@ -26,15 +26,63 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:19Z"
       }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2026-08-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-08-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2026-08-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Carmelo  R\u00edos Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Carmelo  R\\u00edos Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -68,7 +116,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:21Z",
+    "logs_latest_update": "2026-08-18T05:34:35Z",
     "text_extraction_latest_update": "2026-07-22T04:51:23.193638Z"
   }
 }

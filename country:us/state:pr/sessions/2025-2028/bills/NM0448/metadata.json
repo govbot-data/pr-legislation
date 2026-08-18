@@ -24,6 +24,18 @@
       "_processing": {
         "log_file_created": "2026-08-07T06:49:44Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
     }
   ],
   "sponsorships": [],
@@ -57,7 +69,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T06:49:44Z",
+    "logs_latest_update": "2026-08-18T05:34:35Z",
     "text_extraction_latest_update": "2026-08-08T06:22:02.397026Z"
   }
 }

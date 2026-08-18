@@ -200,6 +200,28 @@
       "_processing": {
         "log_file_created": "2026-08-15T06:22:46Z"
       }
+    },
+    {
+      "description": "2do Informe Parcial rendido",
+      "date": "2026-08-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
+    },
+    {
+      "description": "Informe Parcial Remitido a Comisi\u00f3n de Calendarios y Reglas Especiales de Debate de la C\u00e1mara",
+      "date": "2026-08-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -279,6 +301,17 @@
       ],
       "date": "2026-06-24",
       "classification": ""
+    },
+    {
+      "note": "2do Informe Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153759/RC0147-ip 2do.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -297,7 +330,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-15T06:22:46Z",
+    "logs_latest_update": "2026-08-18T05:34:35Z",
     "text_extraction_latest_update": "2026-08-15T06:25:44.647168Z"
   }
 }

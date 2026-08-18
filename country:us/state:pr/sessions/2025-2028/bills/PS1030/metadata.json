@@ -312,6 +312,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:21Z"
       }
+    },
+    {
+      "description": "Ley 184-2026",
+      "date": "2026-08-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -324,11 +334,11 @@
       "organization_id": null
     },
     {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -340,11 +350,11 @@
       "organization_id": null
     },
     {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -459,6 +469,17 @@
       ],
       "date": "2026-06-19",
       "classification": ""
+    },
+    {
+      "note": "Ley 184-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160228/Ley 184-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -477,7 +498,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:28Z",
+    "logs_latest_update": "2026-08-18T05:34:35Z",
     "text_extraction_latest_update": "2026-07-22T04:59:37.134769Z"
   }
 }

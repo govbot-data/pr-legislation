@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0812",
-  "title": "Para a\u00f1adir los nuevos Art\u00edculos 6-A y 8; enmendar los Art\u00edculos 4, 5, 6 y 7; y reenumerar los actuales Art\u00edculos 8, 9 y 10 como Art\u00edculos 9, 10 y 11 a la Ley 133-2024, conocida como la \u201cLey para la Prevenci\u00f3n y Protecci\u00f3n Contra el Acoso y Hostigamiento Sexual en el Deporte en Puerto Rico\u201d, a los fines de fortalecer los mecanismos de cumplimiento, fiscalizaci\u00f3n y prevenci\u00f3n mediante la creaci\u00f3n de un Registro de Cumplimiento de Entidades Deportivas, la adopci\u00f3n de un Protocolo Uniforme de Prevenci\u00f3n y Respuesta, la implantaci\u00f3n de un mecanismo de denuncia confidencial, y para otros fines relacionados.",
+  "title": "Para a\u00f1adir los nuevos Art\u00edculos 6-A y 8; enmendar los Art\u00edculos 4, 5, 6 y 7; y renumerar los actuales Art\u00edculos 8, 9 y 10 como Art\u00edculos 9, 10 y 11 a la Ley 133- 2024, conocida como la \"Ley para la Prevenci\u00f3n y Protecci\u00f3n Contra el Acoso y Hostigamiento Sexual en el Deporte en Puerto Rico\", a los fines de fortalecer los mecanismos de cumplimiento, fiscalizaci\u00f3n y prevenci\u00f3n mediante la creaci\u00f3n de Registro de Cumplimiento de Entidades Deportivas, la adopci\u00f3n de un Protocolo Uniforme de Prevenci\u00f3n y Respuesta, la implantaci\u00f3n de un mecanismo de denuncia confidencial; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -290,9 +290,67 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:22Z"
       }
+    },
+    {
+      "description": "Ley 179-2026",
+      "date": "2026-08-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -307,54 +365,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -469,6 +479,17 @@
       ],
       "date": "2026-06-29",
       "classification": ""
+    },
+    {
+      "note": "Ley 179-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159130/Ley 179-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -487,7 +508,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-18T05:34:35Z",
     "text_extraction_latest_update": "2026-07-22T01:20:30.407258Z"
   }
 }

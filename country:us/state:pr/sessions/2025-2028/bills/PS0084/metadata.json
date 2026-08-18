@@ -292,6 +292,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:18Z"
       }
+    },
+    {
+      "description": "Ley 183-2026",
+      "date": "2026-08-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -423,6 +433,17 @@
       ],
       "date": "2026-06-23",
       "classification": ""
+    },
+    {
+      "note": "Ley 183-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152492/Ley 183-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -441,7 +462,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:27Z",
+    "logs_latest_update": "2026-08-18T05:34:35Z",
     "text_extraction_latest_update": "2026-07-22T04:54:30.369682Z"
   }
 }

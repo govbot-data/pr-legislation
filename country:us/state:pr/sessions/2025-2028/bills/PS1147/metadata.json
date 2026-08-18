@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS1147",
-  "title": "Para enmendar los Art\u00edculos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 y 17 de la Ley 76-\n2013, seg\u00fan enmendada, conocida como la \u201cLey del Procurador de las Personas de\nEdad Avanzada del Estado Libre Asociado de Puerto Rico\u201d a los fines de actualizar la\nnomenclatura y referencias legales contenidas en dicha Ley, armonizarla con la Ley\n121-2019, Ley 8-2017 y la Ley 38-2017; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 y 17 de la Ley 76- 2013, seg\u00fan enmendada, conocida como la \u201cLey del Procurador de las Personas de Edad Avanzada del Estado Libre Asociado de Puerto Rico\", a los fines de actualizar la nomenclatura y referencias legales contenidas en dicha Ley; armonizar sus disposiciones con la Ley 121-2019, seg\u00fan enmendada, la Ley 8-2017, seg\u00fan enmendada y la Ley 38-2017, seg\u00fan enmendada; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -278,25 +278,19 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:23Z"
       }
+    },
+    {
+      "description": "Ley 181-2026",
+      "date": "2026-08-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -319,6 +313,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -411,6 +421,17 @@
       ],
       "date": "2026-06-18",
       "classification": ""
+    },
+    {
+      "note": "Ley 181-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160763/Ley 181-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -429,7 +450,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-18T05:34:35Z",
     "text_extraction_latest_update": "2026-07-22T04:03:18.186321Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0372",
-  "title": "Para asignar la cantidad de veinte millones ($20,000,000) de d\u00f3lares, los cuales proceder\u00e1n de la Resoluci\u00f3n Conjunta de Presupuesto para el A\u00f1o Fiscal 2026-2027, para proveer asignaciones a entidades e instituciones semip\u00fablicas, p\u00fablicas y privadas cuyas actividades o servicios propendan al desarrollo de programas y bienestar social, de la salud, educaci\u00f3n, cultura, y a mejorar la calidad de vida de los puertorrique\u00f1os; los beneficiarios de los fondos aqu\u00ed asignados deber\u00e1n cumplir con los requisitos establecidos en la Ley 20-2015, de la Comisi\u00f3n Especial Conjunta de Fondos Legislativos para Impacto Comunitario; autorizar el pareo de los fondos asignados; y para otros fines relacionados.",
+  "title": "Para asignar la cantidad de diecinueve millones ochocientos ochenta mil ($19,880.000) de d\u00f3lares, los cuales proceder\u00e1n de la Resoluci\u00f3n Conjunta de Presupuesto para el A\u00f1o Fiscal 2026- 2027, para proveer asignaciones a entidades e instituciones semip\u00fablicas, p\u00fablicas y privadas cuyas actividades o servicios propendan al desarrollo de programas y bienestar social, de la salud, educaci\u00f3n, cultura, y a mejorar la calidad de vida de los puertorrique\u00f1os; los beneficiarios de los fondos aqu\u00ed asignados deber\u00e1n cumplir con los requisitos establecidos en la Ley 20-2015, de la Comisi\u00f3n Especial Conjunta de Fondos Legislativos para Impacto Comunitario; autorizar el pareo de los fondos asignados; y para otros fines relacionados",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -316,23 +316,45 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:24Z"
       }
+    },
+    {
+      "description": "Veto de L\u00ednea",
+      "date": "2026-08-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  58-2026",
+      "date": "2026-08-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:34:35Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Eddie  Charbonier Chinea - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Eddie  Charbonier Chinea - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eddie  Charbonier Chinea - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eddie  Charbonier Chinea - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -447,6 +469,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  58-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161528/Res. Conj. 58-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -465,7 +498,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:24Z",
+    "logs_latest_update": "2026-08-18T05:34:35Z",
     "text_extraction_latest_update": "2026-07-22T07:19:57.865274Z"
   }
 }
