@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(25 DE JUNIO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1027
+30 de enero de 2026
+Presentado por el señor Rivera Schatz
+Coautores los señores Colón La Santa, González López, Matías Rosario, Reyes Berríos; la señora
+Román Rodríguez; los señores Rosa Ramos y Santos Ortiz
+Referido a las Comisiones de Educación, Arte y Cultura; y de Trabajo y Relaciones Laborales
+LEY
+Para añadir un nuevo Artículo 2.12 y renumerar el actual Artículo 2.12 como 2.13,
+respectivamente, de la Ley 158-1999, según enmendada, conocida como “Ley de la
+Carrera Magisterial”, a los fines de establecer un plazo máximo de ciento ochenta
+(180) días para las revisiones salariales; pagos retroactivos automáticos desde la
+fecha de elegibilidad y un portal digital para el rastreo de solicitudes; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley 158-1999, según enmendada, conocida como “Ley de la Carrera
+Magisterial”, establece el marco normativo para el sistema de compensación, desarrollo
+profesional y evaluación de los docentes del sistema público de enseñanza en Puerto
+Rico. Este marco busca garantizar una estructura salarial justa, promover la excelencia
+educativa y fomentar la retención de talento en el magisterio. Sin embargo, desde su
+implementación, la Ley ha enfrentado desafíos significativos relacionados con retrasos
+burocráticos en la revisión y aplicación de ajustes salariales, lo que ha generado una
+profunda insatisfacción entre los educadores.
+
+2
+En la actualidad, miles de maestros en Puerto Rico continúan enfrentando
+demoras injustificadas en la revisión de sus escalas salariales, algunas pendientes desde
+el año escolar 2014-2015, lo que ha resultado en una acumulación de pagos retroactivos
+adeudados y un impacto adverso en su estabilidad económica.
+La Ley de la Carrera Magisterial, aunque establece un sistema escalonado basado
+en preparación académica y experiencia, no contempla plazos específicos para la
+tramitación de revisiones salariales, ni obliga al pago automático de retroactivos desde
+la fecha de elegibilidad, ni provee herramientas digitales para que los docentes puedan
+rastrear el estado de sus solicitudes. Esta omisión normativa ha perpetuado un sistema
+ineficiente que, según reportes sindicales, afecta a miles de maestros y ha contribuido a
+la deserción de profesionales capacitados en un contexto en el que el sistema educativo
+enfrenta una escasez crítica de personal.
+Algunos estados de los Estados Unidos continentales han implementado sistemas
+digitalizados para la gestión de revisiones salariales de docentes, con plazos estrictos y
+portales en línea que permiten a los educadores monitorear el progreso de sus
+solicitudes, reduciendo significativamente los retrasos y los costos asociados a procesos
+manuales.
+Inspirada en estos modelos, la presente Ley propone añadir un nuevo Artículo 2.12
+a la Ley 158-1999, supra, para establecer un plazo máximo de noventa (90) días para
+procesar revisiones salariales, pagos retroactivos automáticos desde la fecha de
+elegibilidad y un portal digital para el rastreo de solicitudes. Esta enmienda
+aprovechará la infraestructura digital existente en el Departamento de Educación, como
+el Sistema de Información Estudiantil (SIE) o plataformas similares, para reducir el
+papeleo, minimizar litigios y garantizar justicia salarial para los docentes, sin incurrir en
+erogaciones adicionales al erario.
+Por consiguiente, se hace imperioso aprobar esta legislación para enmendar la Ley
+de la Carrera Magisterial, simplificando procesos administrativos, garantizando pagos
+
+3
+retroactivos oportunos y fortaleciendo la transparencia en el sistema educativo público,
+en beneficio de los docentes y la calidad educativa de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se añade un nuevo Artículo 2.12 a la Ley 158-1999, según enmendada,
+2 conocida como “Ley de la Carrera Magisterial”, para que se lea como sigue:
+3 “CAPITULO II. — CLASIFICACIONES MAGISTERIALES
+4 Artículo 2.01. — Finalidad de la Clasificación y Nivel Magisterial.
+5 …
+6 Artículo 2.12.- Simplificación de Procesos y Pagos Retroactivos Obligatorios.
+7 (a) Plazo Máximo para Revisiones Salariales: El Departamento de Educación
+8 (DE) procesará todas las revisiones salariales de los docentes bajo el sistema de la
+9 Carrera Magisterial en un plazo máximo de ciento ochenta (180) días, contados desde la
+10 presentación de la solicitud completa por parte del docente o desde la fecha en que el
+11 Departamento determine la elegibilidad de oficio. Dicho plazo incluirá la evaluación de
+12 méritos, preparación académica, experiencia y cualquier otro criterio establecido en esta
+13 Ley.
+14 (b) Pagos Retroactivos Automáticos: Toda revisión salarial aprobada generará
+15 pagos retroactivos automáticos, calculados desde la fecha de elegibilidad del docente,
+16 conforme a los criterios de la Carrera Magisterial. Los pagos retroactivos se procesarán
+17 y desembolsarán dentro de los noventa (90) días siguientes a la aprobación de la
+18 revisión, utilizando los sistemas de nómina existentes del Departamento de Educación,
+19 sin requerir acción adicional por parte del docente.
+
+4
+1 (c) Portal Digital para Rastreo de Solicitudes: El Departamento de Educación
+2 establecerá y mantendrá un portal digital accesible, integrado a plataformas existentes
+3 como el Sistema de Información Estudiantil (SIE), para que los docentes puedan
+4 presentar y rastrear el estado de sus solicitudes de revisión salarial en tiempo real. El
+5 portal incluirá, al mínimo:
+6 (i) Un formulario digital estandarizado para la presentación de solicitudes,
+7 con instrucciones claras y accesibles.
+8 (ii) Actualizaciones de estatus automatizadas, notificando al docente cada
+9 cambio en el proceso (recepción, evaluación, aprobación o denegación).
+10 (iii) Un historial de solicitudes con fechas, documentos presentados y
+11 resoluciones emitidas.
+12 (iv) Un mecanismo de notificación automática por correo electrónico o
+13 SMS, informando al docente sobre plazos, requisitos pendientes y decisiones
+14 finales.
+15 (v) Cumplimiento con los requisitos de seguridad cibernética, gobernanza
+16 tecnológica, protección de información y accesibilidad establecidos en la Ley 40-
+17 2024, según enmendada, conocida como la "Ley de Ciberseguridad del Estado
+18 Libre Asociado de Puerto Rico", la Ley 75-2019, según enmendada, y cualquier
+19 reglamentación o política tecnológica aplicable al Gobierno de Puerto Rico.
+20 (d) Notificación y Derecho de Apelación: El Departamento de Educación
+21 notificará al docente, por escrito y electrónicamente, la resolución de su solicitud dentro
+22 de los cinco (5) días siguientes a la decisión. En caso de denegación, la notificación
+
+5
+1 incluirá una justificación detallada y el procedimiento para solicitar reconsideración
+2 dentro de un término de quince (15) días contados a partir de la notificación. La
+3 solicitud de reconsideración será atendida y resuelta en un plazo no mayor de treinta
+4 (30) días. Una vez notificada la determinación final sobre la reconsideración, el docente
+5 conservará todos los derechos y remedios administrativos, apelativos, sindicales y
+6 judiciales que le reconozcan las leyes, reglamentos y convenios colectivos aplicables.
+7 (e) Implementación: El Departamento de Educación utilizará recursos humanos,
+8 tecnológicos y financieros ya disponibles, incluyendo plataformas digitales existentes y
+9 personal administrativo, para implementar las disposiciones de este Artículo, sin
+10 incurrir en erogaciones adicionales al presupuesto asignado. Nada de lo dispuesto en
+11 esta Ley impedirá que la agencia realice las gestiones presupuestarias, administrativas o
+12 tecnológicas necesarias para garantizar el cumplimiento efectivo de sus disposiciones.
+13 Sección 2.- Se renumera el actual Artículo 2.12 como Artículo 2.13,
+14 respectivamente.
+15 Sección 3.- El Secretario del Departamento de Educación adoptará, dentro de los
+16 noventa (90) días siguientes a la vigencia de esta Ley, la reglamentación necesaria para
+17 su implementación. Dicha reglamentación incluirá:
+18 (a) Protocolos detallados para la tramitación de revisiones salariales,
+19 especificando los documentos requeridos, los criterios de evaluación y los
+20 procedimientos de verificación.
+21 (b) Especificaciones técnicas para el diseño, operación y mantenimiento del
+22 portal digital, conforme a las disposiciones de la Ley 75-2019, según enmendada, la Ley
+
+6
+1 40-2024, según enmendada, y las políticas de gobernanza tecnológica y ciberseguridad
+2 aplicables al Gobierno de Puerto Rico.
+3 (c) Procedimientos para la emisión y pago de retroactivos, con plazos claros y
+4 responsables asignados.
+5 (d) Mecanismos de apelación y resolución de controversias, con formularios
+6 estandarizados y plazos definidos.
+7 (e) Directrices para la capacitación del personal administrativo en el uso del
+8 portal digital y la gestión eficiente de solicitudes.
+9 La reglamentación será además publicada en el portal digital del Departamento
+10 de Educación.
+11 Sección 4.- Si alguna disposición de esta Ley fuere declarada inconstitucional o
+12 inválida por un tribunal de jurisdicción competente, tal determinación no afectará la
+13 validez de las restantes disposiciones, las cuales permanecerán en pleno vigor y efecto.
+14 Sección 5.- Esta Ley entrará en vigor inmediatamente después de su aprobación.
+Yo, Jenniffer Martínez Heyer, Secretaria del
+Senado de Puerto Rico, CERTIFICO que el
+presente documento es copia fiel y exacta del Texto
+Aprobado en Votación Final del P. del S. 1027, en
+el Capitolio, el día 25 de junio de 2026.
+_____________________________________________
+Secretaria

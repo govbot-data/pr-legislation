@@ -1,0 +1,501 @@
+Title: 
+Official Title: 
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(25 DE JUNIO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1225
+5 de mayo de 2026
+Presentado por el señor Ríos Santiago
+Referido a la Comisión de lo Jurídico
+LEY
+Para enmendar los Artículos 30, 107, 132, 224, 225, 227, 241, 245, 259, 262 y 285 de la Ley
+210-2015, según enmendada, conocida como “Ley del Registro de la Propiedad
+Inmobiliaria del Estado Libre Asociado de Puerto Rico”; enmendar los Artículos 1,
+4, derogar el Artículo 5 y enmendar el Artículo 6 de la Ley Núm. 91 de 30 de agosto
+de 1970, según enmendada, a los fines de mejorar la redacción y modernizar sus
+disposiciones, especificar varias operaciones registrales, disponer lo relativo a los
+derechos recaudados por concepto de los nuevos servicios a la ciudadanía;
+modificar el alcance del Fondo Especial creado para la modernización del Registro
+de la Propiedad de Puerto Rico; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Con la aprobación de la Ley 210-2015, según enmendada, se estableció en Puerto
+Rico el Registro Inmobiliario Digital. La funcionalidad del registro reside en el Sistema
+Karibe, el cual insertó al Registro de la Propiedad en la era de la tecnología. El Sistema
+Karibe es uno completamente digitalizado y electrónico, el cual en unión a una nueva ley
+de aranceles promueve una mayor certeza en el tráfico jurídico de los bienes inmuebles.
+El Sistema Karibe ha tenido una gran acogida entre los notarios, profesionales del
+derecho y miembros de la banca hipotecaria en Puerto Rico. Dicho programa permite
+operaciones registrales de manera digital, permitiendo a los usuarios llevar a cabo
+
+2
+transacciones de forma telemática. Este programa opera de manera eficiente veinticuatro
+(24) horas al día, siete (7) días a la semana.
+Sin embargo, aún con estos avances, para que la Ley 210-2015 sea aplicada de
+manera óptima y con mayor eficiencia, es necesario efectuar enmiendas adicionales. Éstas
+se proponen con fundamento en la experiencia adquirida en la aplicación de la Ley
+durante los años transcurridos desde su vigencia en marzo de 2016.
+Entre estas, destacamos la enmienda propuesta al Artículo 30 de la Ley para permitir
+la división y adjudicación de derechos y acciones de bienes gananciales mediante
+documento judicial o notarial. Además, se enmienda el Artículo 107 de la Ley para
+disponer como requisito para la inscripción de una escritura de venta judicial la orden de
+confirmación de adjudicación o venta, y que la ausencia de dicho documento podrá ser
+objeto de notificación. Esta enmienda persigue dar movimiento a los documentos de
+venta judicial, que ante la falta de la orden de confirmación de adjudicación o venta no
+pueden inscribirse o notificarse; quedándose en el inventario de documentos presentados
+y en ocasiones afectando la inscripción de documentos posteriores. Asimismo, en aras de
+promover mayor uniformidad, esta Ley ordena precisar por Reglamento el contenido de
+la orden de confirmación de adjudicación o venta.
+Por otro lado, se añade la Copia Informativa de Planos como parte del acceso a la
+plataforma Karibe y la Certificación Registral de Planos. Dichas certificaciones estarán
+disponibles una vez se aprueben las enmiendas necesarias al Reglamento y a la
+programación del Sistema Karibe. Relacionado a las certificaciones registrales, se
+enmienda el Artículo 225 de la Ley para eliminar la caducidad de las solicitudes de
+certificaciones, eliminando así una carga onerosa al peticionario.
+Por su parte, en el Título XV sobre las Certificaciones Registrales, se enmiendan los
+Artículos 224, 225 y 227. Las enmiendas al Artículo 225 de la Ley derogan la caducidad
+de las solicitudes de certificaciones, eliminando un trámite innecesario para el
+peticionario. En cuanto a los planos archivados en el Registro, se enmienda el Artículo
+
+3
+227 para viabilizar la expedición por la vía electrónica de copias informativas y
+certificaciones registrales de los planos.
+En atención a lo resuelto por el Tribunal Supremo de Puerto Rico en los casos de
+Firstbank Puerto Rico v. Registradora, 208 DPR 64 (2021), reiterado por Oriental Bank v.
+Registrador, 209 DPR 384 (2022), se enmienda el Artículo 245 de la Ley para eliminar el
+requisito de remitir al Registrador copia certificada en papel del documento presentado
+y calificado, el cual ya obra en el Registro. Además, se incluyen enmiendas técnicas para
+mejorar la redacción de dicho Artículo.
+En asuntos relacionados con el Diario Electrónico de Operaciones, se enmiendan los
+Artículos 259 y 262 de la Ley. La enmienda al Artículo 259 modifica el horario de la
+presentación presencial, lo cual responde a la experiencia adquirida con la presentación
+telemática.
+El Artículo 262 se enmienda para atender las situaciones en las que se presentan
+documentos sin los derechos correspondientes. En esos casos, se hará constar en el
+documento presentado o mediante documento complementario la disposición legal que
+viabiliza la exención reclamada, la cual estará sujeta a la calificación del Registrador en
+torno a la procedencia de dicha exención. Para finalizar, y en reconocimiento a la gran
+ayuda que han brindado los Registradores Especiales en adelantar la calificación e
+inscripción de documentos y reducir el volumen de documentos en atraso, se enmienda
+el Artículo 285 de la Ley para modificar el término de su contratación.
+La aplicación de la Ley 210-2015 depende del cobro de los derechos
+correspondientes para cada transacción. Por ello, resulta necesario que sus disposiciones
+mantengan concordancia y correspondencia con la Ley Núm. 91 de 30 de agosto de 1970,
+según enmendada, conocida como la “Ley para Establecer el Arancel de los Derechos que
+se han de Pagar por las Operaciones en el Registro de la Propiedad”.
+
+4
+La Asamblea Legislativa creó el Fondo de Mecanización y Modernización del
+Registro de la Propiedad con el propósito de dotar al Registro de los recursos necesarios
+para el desarrollo de mecanismos dirigidos a conseguir mayor celeridad en sus
+operaciones. Mediante dicho Fondo, el Registro debe ser autosuficiente y capaz de
+generar los ingresos necesarios para atemperarse a los cambios tecnológicos y a la
+demanda de servicios. La modernización del Registro no implica únicamente la
+adquisición de nuevos y más eficientes equipos tecnológicos y programación; conlleva,
+además, mantener al día los conocimientos del personal y de los recursos humanos que
+utilizan dicha tecnología.
+Consciente de ello, esta Asamblea Legislativa entiende que el Fondo Especial de
+Mecanización y Modernización debe proveer los recursos necesarios, tanto para el
+desarrollo tecnológico como para el desarrollo operacional del Registro, así como para el
+desarrollo y capacitación del personal que trabaja con el Sistema Karibe. Mediante esta
+pieza legislativa se cambia el nombre del referido fondo al Fondo Especial del Registro
+de la Propiedad Inmueble y se amplía su uso para posicionar al Registro como una
+agencia de excelencia en servicio.
+Con el transcurso del tiempo, la Ley 210-2015 ha experimentado varias enmiendas
+que han ampliado los servicios disponibles a la ciudadanía. El desarrollo y
+mantenimiento óptimo y continuo de dichos servicios requiere la inversión de fondos.
+Por ello, se estima necesario fijar los costos razonables para la tramitación de los nuevos
+servicios o productos disponibles a la ciudadanía. Destacamos que los costos provistos se
+tratan de servicios nuevos y representan aumentos a los servicios que actualmente se
+suministran en el Registro de la Propiedad. Los fondos que se recauden sustituyen los
+costos incurridos en la digitalización de los planos archivados físicamente en el Registro
+y servirán para proveer el mantenimiento y las actualizaciones necesarias al sistema
+registral Karibe.
+Además, se revisan las disposiciones relativas al cobro de derechos por la
+expedición de certificaciones de planos y se aclara el cobro de derechos de inscripción
+
+5
+para varias transacciones. De igual modo, se dispone la derogación del Artículo 5 de la
+Ley Núm. 91 de 30 de agosto de 1970, según enmendada, para evitar confusión, ya que
+el asunto quedará atendido en la Ley 210-2015. En síntesis, mediante esta medida se
+actualizan las disposiciones de la Ley Núm. 91 de 30 de agosto de 1970, a los fines de
+lograr el amplio desarrollo tecnológico, operacional y profesional del Registro
+Inmobiliario Digital del Estado Libre Asociado de Puerto Rico.
+Por todo lo antes expuesto, esta Asamblea Legislativa considera que las enmiendas
+a la Ley 210-2015, son necesarias y propenden al mejor desempeño del Registro
+Inmobiliario de la Propiedad como herramienta de desarrollo económico para Puerto
+Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 30 de la Ley 210-2015, según enmendada,
+2 conocida como “Ley del Registro de la Propiedad Inmobiliaria del Estado Libre Asociado
+3 de Puerto Rico”, para que se lea como sigue:
+4 “Artículo 30.- División y adjudicación de derechos y acciones en bienes
+5 gananciales
+6 Para transferir parte de la titularidad de un bien inmueble perteneciente a
+7 titulares casados entre sí bajo el régimen económico de la sociedad legal de bienes
+8 gananciales luego de disuelta dicha sociedad, no será requisito la previa división
+9 y adjudicación del inmueble entre dichos titulares, para que se inscriba a nombre
+10 de la parte interesada cualquier derecho o acción así cedido.
+11 La inscripción de los derechos o acciones cedidas procederá mediante la
+12 presentación de un documento judicial, o mediante la presentación de una
+13 escritura pública suscrita por ambas partes, o por el funcionario autorizado por el
+
+6
+1 tribunal en sustitución de cualquiera de ellos, a esos efectos. En el documento que
+2 se presente se expresará claramente el nombre y circunstancias personales de la
+3 parte cesionaria, la descripción y los datos registrales de la finca, así como el valor
+4 de la cesión, sin expresión particular de cuotas específicas o fracciones de dominio,
+5 a menos que estas ya surjan de las constancias del Registro.”
+6 Sección 2.- Se enmienda el Artículo 107 de la Ley 210-2015, según enmendada, para
+7 que se lea como sigue:
+8 “Artículo 107.- Subasta; procedimientos posteriores; confirmación de la
+9 adjudicación o venta; no confirmación y efecto
+10 Celebrada la subasta, el alguacil devolverá a la Secretaría del Tribunal el
+11 mandamiento y el acta junto con el edicto y demás documentos relativos a la
+12 subasta, incluyendo cualquier objeción al procedimiento hecho durante el mismo.
+13 El secretario pasará inmediatamente al tribunal todo el expediente del
+14 procedimiento y este dentro de un término que no excederá de diez (10) días lo
+15 examinará para cerciorarse de que en todos los trámites del procedimiento se
+16 cumplió con todos los requisitos señalados en este Subtítulo, y así lo determinará.
+17 A petición de parte, el tribunal dictará una orden confirmando la adjudicación o
+18 venta de los bienes hipotecados. Sin esta orden no será inscribible en el Registro
+19 de la Propiedad la adjudicación o venta. El contenido de esta orden se establecerá
+20 por reglamento de la Oficina de Administración de los Tribunales.
+21 Si el tribunal concluye que no se han cumplido, en todo o en parte, los
+22 requisitos dispuestos en este Subtítulo, expondrá las razones en que se funda, y
+
+7
+1 ordenará se corrijan los errores, faltas o defectos que haya observado, y que se
+2 practiquen debidamente las diligencias o actuaciones incorrectas que surjan del
+3 expediente. Podrá ordenar además al deudor o tercer poseedor que no pague
+4 cualquier cuantía que se le haya requerido pagar en exceso de las debidas o que
+5 no esté cubierta por la garantía hipotecaria. Una vez corregidos o subsanados esos
+6 errores, faltas o defectos en la forma ordenada, el tribunal confirmará la
+7 adjudicación o venta. El acreedor hipotecario podrá tramitar un nuevo
+8 procedimiento de ejecución con arreglo a lo dispuesto en este Subtítulo cuando la
+9 venta no sea confirmada por error en el procedimiento o cualquiera otra razón
+10 determinada por el tribunal.”
+11 Sección 3. – Se enmienda el Artículo 132 de la Ley 210-2015, según enmendada,
+12 para que se lea como sigue:
+13 “Artículo 132. – Legatario; inscripción a su favor
+14 El legatario podrá inscribir su título sobre los bienes inmuebles
+15 específicamente legados, mediante una escritura de pago de legado en la que
+16 comparezcan todos los herederos legitimarios y el legatario. En ausencia de
+17 herederos legitimarios, la escritura de pago de legado deberá ser otorgada por el
+18 albacea y el legatario. En aquellos casos en que el albacea y el legatario sean la
+19 misma persona, y no existan herederos legitimarios, se presentará un Acta de
+20 Aceptación de Legado firmada por el legatario. La copia certificada de la escritura
+21 de pago de legado o acta de aceptación deberá ser presentada en el registro
+22 acompañada de los siguientes documentos certificados:
+
+8
+1 …”
+2 Sección 4.- Se enmienda el Artículo 224 de la Ley 210-2015, según enmendada, para
+3 que se lea como sigue:
+4 “Artículo 224.- Devolución de solicitudes
+5 El Registrador devolverá las solicitudes de certificaciones de los interesados
+6 o las órdenes de los tribunales, cuando no expresen con claridad y precisión la
+7 clase de certificación que se solicita, los bienes, personas o período a que estas se
+8 refieran, cuando tenga duda sobre los bienes o asientos a que deba referirse la
+9 certificación, o cuando a su entender con ello pueda cometerse un error o causar
+10 confusión. Con dicha devolución, deberá expresar el motivo por el cual deniega la
+11 certificación.”
+12 Sección 5.- Se enmienda el Artículo 225 de la Ley 210-2015, según enmendada, para
+13 que se lea como sigue:
+14 “Artículo 225.- Plazo de expedición.
+15 Las certificaciones deberán expedirse en un plazo no mayor de treinta (30)
+16 días contados a partir de la fecha de la presentación de la solicitud, salvo justa
+17 causa.”
+18 Sección 6.- Se enmienda el Artículo 227 de la Ley 210-2015, según enmendada, para
+19 que se lea como sigue:
+20 “Artículo 227.- Publicidad y expedición de planos.
+21 El Registro de la Propiedad proveerá acceso público a los planos inscritos
+22 en su sistema de informática registral a través de dos (2) maneras distintas:
+
+9
+1 1. Copia Informativa de Plano: Cualquier persona podrá solicitar y
+2 obtener, a través de los medios telemáticos que disponga el Registro,
+3 una copia digital no certificada de cualquier plano inscrito que obre en
+4 el Registro. Esta copia tendrá un carácter puramente informativo, no
+5 dará fe pública de su contenido y su propósito será facilitar el acceso
+6 público a la configuración física de los inmuebles. El Secretario de
+7 Justicia, mediante reglamento, establecerá el formato y las
+8 características de su copia, la cual deberá contener una leyenda o marca
+9 de agua que indique claramente su naturaleza informativa.
+10 2. Certificación Registral de Plano: Cuando se requiera un documento con
+11 fe pública registral para un trámite judicial o administrativo, el
+12 Registrador podrá expedir una Certificación Registral de Plano. La
+13 certificación, emitida de conformidad con lo dispuesto en esta Ley,
+14 acreditará que el plano expedido es una copia fiel y exacta del que obra
+15 inscrito en el Registro y corresponde a la finca y al negocio jurídico en
+16 virtud del cual fue presentado.”
+17 Sección 7.- Se enmienda el Artículo 241 de la Ley 210-2015, según enmendada, para
+18 que se lea como sigue:
+19 “Artículo 241.- Recalificación; plazo de presentación; contenido, calificación
+20 consentida.
+21 El notario, funcionario autorizado o el interesado que no esté conforme con
+22 la calificación hecha por el Registrador podrá, dentro del término improrrogable
+
+10
+1 de veinte (20) días siguientes a la fecha de la notificación, presentar un escrito de
+2 recalificación. Expondrá sus objeciones a la calificación realizada, limitando dicho
+3 escrito a los fundamentos jurídicos en los que basa sus objeciones a la calificación,
+4 y una solicitud específica de lo que interesa. Esto a los únicos y exclusivos fines
+5 que el registrador reconsidere su determinación y recalifique el documento
+6 notificado. Los notarios y funcionarios autorizados únicamente podrán hacerlo
+7 por la vía electrónica del sistema de informática registral. El escrito de
+8 recalificación deberá ser recibido en la sección del Registro de la Propiedad
+9 correspondiente dentro del referido término. Transcurrido el término de veinte
+10 (20) días se entenderán consentidos los defectos señalados por el Registrador.
+11 Si el escrito de recalificación no cumple con los requisitos antes indicados,
+12 se entenderá como no presentado, a todos los efectos legales pertinentes, y le será
+13 devuelto a la mayor brevedad posible al presentante. El escrito as devuelto, bajo
+í
+14 los fundamentos antes expuestos, no interrumpirá de manera alguna el término al
+15 que se hace referencia en el párrafo anterior.
+16 Una vez consentida la calificación, si el interesado corrige los defectos
+17 notificados dentro del término restante de los sesenta (60) días establecidos en el
+18 Artículo 238 de esta Ley, solamente podrá recurrir gubernativamente de la
+19 denegatoria a los únicos efectos de determinar si los defectos notificados fueron
+20 corregidos.
+21 La inscripción de cualquier documento que haya sido notificado en tres
+22 ocasiones por los mismos defectos y que sea presentado una cuarta vez sin haberse
+
+11
+1 corregido los mismos, será denegada de plano por el Registrador, sin ulterior
+2 trámite y de manera final y firme. El Registrador notificará dicha denegatoria al
+3 notario o funcionario y podrá dar comienzo a la tramitación de una acción ética en
+4 su contra.”
+5 Sección 8.- Se enmienda el Artículo 245 de la Ley 210-2015, según enmendada, para
+6 que se lea como sigue:
+7 “Artículo 245.- Plazo de interposición; contenido del recurso; procedimiento.
+8 A. Recurso Gubernativo
+9 El notario, funcionario autorizado o el interesado, podrá presentar recurso
+10 gubernativo ante el Tribunal Supremo de Puerto Rico dentro del término
+11 improrrogable de veinte (20) días a partir de la notificación de la denegatoria, y
+12 simultáneamente notificará al Registrador con copia del escrito. Si el recurso es
+13 presentado por el notario o funcionario autorizado, lo hará por la vía electrónica
+14 del sistema de informática registral. El notario o funcionario autorizado que
+15 presente el recurso deberá incluir copia digital del documento que fue presentado
+16 y que es objeto del recurso, sin que sea necesario acompañar copia certificada en
+17 papel cuando dicho documento obre en el sistema de informática registral. En
+18 dicho recurso no podrá incluir objeciones a la calificación del documento que no
+19 hubiese incluido al radicar el escrito de recalificación. De no interponerse el
+20 recurso dentro del término concedido, quedará consentida la denegatoria para
+21 todos los efectos legales.
+
+12
+1 El Registrador expresará al margen de la anotación de denegatoria, el hecho de
+2 la presentación del recurso gubernativo. Dentro del plazo de cinco (5) días a partir
+3 del recibo del recurso, el Registrador presentará ante el Tribunal Supremo de
+4 Puerto Rico, el escrito de recalificación presentado por el recurrente, el cual
+5 acompañará con copias de los siguientes documentos: (1) la copia certificada del
+6 documento calificado y presentado con sus comentarios; (2) la notificación de
+7 defectos; y (3) cualquier otro documento que estime pertinente. El Registrador
+8 presentará su escrito al Tribunal Supremo de Puerto Rico contestando las
+9 alegaciones del recurrente, en un plazo no mayor de veinte (20) días, contado a
+10 partir del recibo del recurso.
+11 B. Presentación de Oficio ante el Tribunal Supremo
+12 El Registrador podrá presentar ante el Tribunal Supremo de Puerto Rico un
+13 alegato en apoyo a su calificación luego de transcurridos diez (10) días de
+14 notificada la denegatoria sin que se haya retirado el documento y antes de vencer
+15 el término que tiene el notario o funcionario para recurrir, el cual acompañará con
+16 copias de los siguientes documentos: (1) la copia certificada del documento
+17 presentado y calificado con sus complementarios; (2) la notificación de defectos;
+18 (3) el escrito de recalificación; y (4) cualquier otro documento que estime
+19 pertinente, de todo lo cual notificará al interesado.
+20 …”
+21 Sección 9.- Se enmienda el Artículo 259 de la Ley 210-2015, según enmendada, para
+22 que se lea como sigue:
+
+13
+1 “Artículo 259.- Formas de presentar documentos; horario.
+2 Los documentos se podrán presentar de forma presencial o digitalmente a
+3 través del sistema de informática registral telemática.
+4 …
+5 La presentación personal o presencial se deberá efectuar en la sección o
+6 demarcación donde radique la finca durante el horario que se disponga mediante
+7 Orden Administrativa.”
+8 Sección 10.- Se enmienda el Artículo 262 de la Ley 210-2015, según enmendada,
+9 para que se lea como sigue:
+10 “Artículo 262.- Documentos sin derechos correspondientes
+11 No se podrán presentar documentos que no estén acompañados de la
+12 totalidad de los aranceles correspondientes al negocio jurídico que se interesa
+13 inscribir.
+14 En aquellos negocios jurídicos que por disposición de ley la transacción esté
+15 exenta del pago de aranceles, se hará constar la disposición legal que viabiliza la
+16 exención corroborado y esta podrá ser acreditada mediante documento
+17 complementario. Los documentos presentados sin la totalidad de los aranceles
+18 correspondientes y sin acreditar exención alguna serán notificados de acuerdo con
+19 lo dispuesto en esta Ley. Nada de lo aquí dispuesto se entenderá como una
+20 limitación a la calificación del Registrador en torno a la procedencia de la
+21 exención.”
+
+14
+1 Sección 11.- Se enmienda el Artículo 285 de la Ley 210-2015, según enmendada,
+2 para que se lea como sigue:
+3 “Artículo 285.- Registradores Especiales
+4 Cuando el Secretario lo entienda conveniente, se le autoriza a extender
+5 nombramientos de Registrador Especial a abogados notarios del Departamento y
+6 de las agencias o corporaciones públicas que cumplan con los requisitos
+7 establecidos en el Artículo 280 de esta Ley. Cuando sean abogados de otras
+8 agencias o corporaciones públicas, los nombramientos serán extendidos por el
+9 Secretario sin erogación adicional alguna de fondos públicos. También podrá el
+10 Secretario contratar y nombrar como Registradores Especiales a personas que
+11 hayan ocupado previamente el cargo de Registrador. En todos los casos, los
+12 Registradores Especiales tendrán las mismas atribuciones de un Registrador de la
+13 Propiedad nombrado por el Gobernador y confirmado por el Senado. En el caso
+14 de abogados notarios del Departamento y de las agencias o corporaciones
+15 públicas, esta designación no podrá exceder de un término de doce (12) meses,
+16 prorrogable por doce (12) meses adicionales exclusivamente, si la necesidad del
+17 servicio aún subsiste. En el caso de contratos a exregistradores, deberá acreditarse
+18 la necesidad del servicio además del cumplimiento con las normas vigentes de
+19 contratación en el gobierno emitidas por la Oficina de Gerencia y Presupuesto o la
+20 Oficina del Gobernador, lo que aplique. Esta designación se extenderá por un
+21 término de doce (12) meses y podrá prorrogarse por términos adicionales de doce
+22 (12) meses, siempre que la necesidad del servicio subsista. En el caso de los
+
+15
+1 exregistradores, las prórrogas no se extenderán por más de cinco (5) años. Los
+2 Registradores Especiales estarán sujetos a todas las normas y reglamentos
+3 aplicables a funcionarios y empleados del Departamento de Justicia.
+4 La designación de uno o más Registradores especiales no será considerada
+5 para los efectos del número máximo de Registradores que pueden ser nombrados
+6 según la ley.”
+7 Sección 12.- Se enmienda el Artículo 1 de la Ley Núm. 91 de 30 de agosto de 1970,
+8 según enmendada, para que se lea como sigue:
+9 “Artículo 1.-
+10 Esta Ley se conocerá como Ley del Arancel de los Derechos que se han de Pagar
+11 por las Operaciones en el Registro de la Propiedad. Los derechos que se han de pagar en
+12 lo sucesivo por las operaciones en el Registro de la Propiedad Inmueble, en la forma que
+13 esta Ley dispone, serán los siguientes:
+14 Número Uno. — Por el asiento de presentación, respecto a cada documento cuya
+15 inscripción, anotación, cancelación o nota marginal de derecho se solicita, se pagará
+16 quince dólares ($15). Los derechos que se recauden por este concepto ingresarán en el
+17 Fondo Especial del Registro de la Propiedad Inmueble.
+18 Número Dos. — …
+19 Número Tres. — Por cada certificación, registral con estudio y relación de los
+20 asientos vigentes, se pagará la suma fija de quince dólares ($15).
+21 En el caso de certificaciones negativas, tanto de finca como de persona, se pagarán
+22 veinticinco dólares ($25) por finca o por persona.
+
+16
+1 Número Cuatro. — Se autoriza el cobro de derechos de acceso y consulta por
+2 medios electrónicos de las constancias del Registro de la Propiedad Inmueble, conforme
+3 a las tarifas y procedimientos dispuestos por Reglamento. Las cantidades recaudadas por
+4 estos conceptos ingresarán al Fondo Especial del Registro de la Propiedad Inmueble
+5 creado para esos fines en el Departamento de Hacienda.”
+6 Sección 13.- Se enmienda el Artículo 4 de la Ley Núm. 91 de 30 de agosto de 1970,
+7 según enmendada, para que se lea como sigue:
+8 “Artículo 4. —
+9 El Fondo Especial del Registro de la Propiedad Inmueble servirá para sufragar
+10 todos los costos de diseño, establecimiento, mantenimiento y funcionamiento de un
+11 sistema de digitalización y mecanización del Registro en todo Puerto Rico. El Fondo
+12 podrá utilizarse también para la adquisición de bienes y servicios que permitan un
+13 desarrollo operacional efectivo del Registro, y para el desarrollo académico y profesional
+14 de todos sus empleados, en aras de promover mayor productividad y mejor calidad en
+15 el servicio a la ciudadanía. Así como para cualquier otro gasto que estime necesario el (la)
+16 Secretario(a) de Justicia. Dicho Fondo constituye un Fondo Especial, creado para ser
+17 separado y distinto de todo otro dinero o fondo perteneciente al Gobierno de Puerto Rico,
+18 el cual estará bajo la custodia del (de la) Secretario(a) de Hacienda, para uso exclusivo del
+19 (de la) Secretario(a) de Justicia. Los recursos que ingresen a este Fondo Especial se
+20 contabilizarán en los libros del (de la) Secretario(a) de Hacienda en forma separada de
+21 cualesquiera fondos de otras fuentes que reciba el Departamento de Justicia, a fin de que
+22 se facilite su identificación y uso. No se permitirá el pago de comisiones de ninguna clase
+
+17
+1 con cargo a este Fondo, salvo las autorizadas por ley. De esta manera, los recursos que
+2 ingresen al Fondo Especial podrán utilizarse por el(la) Secretario(a) de Justicia para la
+3 adquisición, arrendamiento, instalación, adaptación, mantenimiento y operación de
+4 equipo o programación, el diseño, establecimiento, mantenimiento y funcionamiento del
+5 sistema registral computarizado del Registro. También podrá utilizarse para la
+6 adquisición de bienes y servicios que permitan un desarrollo operacional efectivo del
+7 Registro, y para el desarrollo académico y profesional de todos sus empleados, en aras
+8 de promover mayor productividad y mejor calidad en el servicio a la ciudadanía. Así
+9 como para cubrir cualquier otro gasto que estime necesario el (la) Secretario(a) de Justicia.
+10 Podrá asimismo el(la) Secretario(a) tomar dinero a préstamo y recibir aportaciones
+11 y donativos para el Fondo Especial provenientes de personas y entidades privadas,
+12 sujetos a lo dispuesto en la Ley Núm. 57 de 19 de junio de 1958, según enmendada, y en
+13 la Ley 1-2012, según enmendada; así como de agencias y corporaciones públicas del
+14 gobierno estatal, de los gobiernos municipales y del gobierno federal. El Fondo Especial
+15 aquí creado podrá recibir recursos provenientes del pago de derechos por otras
+16 actividades, transacciones y operaciones registrales tales como, pero sin limitarse a,
+17 ingresos por concepto de suscripciones en línea a los servicios que ofrece el Registro de
+18 la Propiedad Inmueble, desarrollo de nuevas aplicaciones y otras.
+19 De ser necesario, el(la) Secretario(a) de Justicia podrá tomar dinero a préstamo en
+20 los términos que resulten más beneficiosos para el interés público, con el propósito de
+21 agilizar la modernización y mecanización del Registro de la Propiedad Inmueble
+22 conforme al plan previamente establecido. Disponiéndose que el(la) Secretario(a)
+
+18
+1 garantizará con los recursos del Fondo Especial que se crea mediante esta Ley el pago de
+2 las obligaciones que así se contraigan.
+3 Una vez se haya completado la implantación del Plan de Modernización y
+4 Mecanización del Registro de la Propiedad Inmueble que adopte el(la) Secretario(a) de
+5 Justicia y luego de satisfechos todos los gastos de su implantación, el(la) Secretario(a)
+6 continuará utilizando este Fondo para sufragar los gastos de operación y mantenimiento
+7 del sistema mecanizado, y aquellos otros gastos permitidos por esta Ley sin tener que
+8 recurrir al Fondo General.
+9 ...”
+10 Sección 14.- Se deroga el Artículo 5 de la Ley 91-1970, según enmendada.
+11 Sección 15.- Se enmienda el Artículo 6 de la Ley 91-1970, según enmendada, para
+12 que lea como sigue:
+13 “Artículo 5.-
+14 Cuando el notario, el presentante o su representante solicite por escrito limitar el
+15 asiento de presentación, y ello resulte en un sobrante de derechos, se expedirá la
+16 correspondiente carta de crédito a favor de la parte que solicita la limitación, una vez la
+17 transacción quede inscrita.”
+18 Sección 16.- Reglamentación.
+19 El (La) Secretario(a) de Justicia, en coordinación con el(la) Director(a)
+20 Administrativo del Registro de la Propiedad Inmueble, enmendará, derogará y aprobará
+21 la reglamentación necesaria para darle cumplimiento a esta Ley. Incluyendo dicha
+22 facultad de reglamentar la fijación de costos para cualquier servicio nuevo que ofrezca el
+
+19
+1 Registro de la Propiedad Inmueble, conforme establecido dicho servicio nuevo por Ley
+2 y/o por el (la) Secretario(a) de Justicia.
+3 Los derechos que se recauden por concepto de los servicios nuevos que así ofrezca
+4 el Registro de la Propiedad Inmueble ingresarán al Fondo Especial del Registro de la
+5 Propiedad Inmueble.
+6 Sección 17.- Separabilidad.
+7 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+8 disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta Ley
+9 fuera anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal efecto
+10 dictada no afectará, perjudicará, ni invalidará el remanente de esta Ley. El efecto de dicha
+11 sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración, palabra, letra,
+12 artículo, disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de
+13 esta que así hubiere sido anulada o declarada inconstitucional. Si la aplicación a una
+14 persona o a una circunstancia de cualquier cláusula, párrafo, subpárrafo, oración,
+15 palabra, letra, artículo, disposición, sección, subsección, título, capítulo, subcapítulo,
+16 acápite o parte de esta Ley fuera invalidada o declarada inconstitucional, la resolución,
+17 dictamen o sentencia a tal efecto dictada no afectará ni invalidará la aplicación del
+18 remanente de esta Ley a aquellas personas o circunstancias en que se pueda aplicar
+19 válidamente. Es la voluntad expresa e inequívoca de esta Asamblea Legislativa que los
+20 tribunales hagan cumplir las disposiciones y la aplicación de esta Ley en la mayor medida
+21 posible, aunque se deje sin efecto, anule, invalide, perjudique o declare inconstitucional
+22 alguna de sus partes o, aunque se deje sin efecto, invalide o declare inconstitucional su
+
+20
+1 aplicación a alguna persona o circunstancia. Esta Asamblea Legislativa hubiera aprobado
+2 esta Ley sin importar la determinación de separabilidad que el Tribunal pueda hacer.
+3 Sección 18.- Vigencia.
+4 Esta Ley entrará en vigor treinta (30) días después de su aprobación; excepto lo
+5 dispuesto en torno a la expedición de las certificaciones literales y de planos, lo cual
+6 entrará en vigor una vez se incorporen las enmiendas necesarias al Reglamento y las
+7 actualizaciones a la programación del sistema de presentación digital o telemática,
+8 conocido como Sistema Karibe.
+Yo, Jenniffer Martínez Heyer, Secretaria del
+Senado de Puerto Rico, CERTIFICO que el
+presente documento es copia fiel y exacta del Texto
+Aprobado en Votación Final del P. del S. 1225, en
+el Capitolio, el día 25 de junio de 2026.
+_____________________________________________
+Secretaria

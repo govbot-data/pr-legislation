@@ -109,6 +109,10 @@
   },
   "_processing": {
     "logs_latest_update": "2026-08-18T05:34:35Z",
-    "text_extraction_latest_update": "2026-08-17T12:20:36.441625Z"
+    "text_extraction_latest_update": "2026-08-17T12:20:36.441625Z",
+    "text_extraction_unavailable": {
+      "reason": "no_versions_found",
+      "checked_at": "2026-08-18T05:39:45.317332Z"
+    }
   }
 }
