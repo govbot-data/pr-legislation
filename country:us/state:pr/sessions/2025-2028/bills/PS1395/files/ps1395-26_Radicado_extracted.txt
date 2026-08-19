@@ -1,0 +1,199 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1395
+17 de agosto de 2026
+Presentado por la señora Barlucea Rodríguez (Por Petición)
+Referido a
+LEY
+Para enmendar los Artículos 2.035 y 2.036 de la Ley 107-2020, según enmendada,
+conocida como “Código Municipal de Puerto Rico”, a los fines de requerir que la
+contratación de promotores, productores, representantes, intermediarios o personas
+naturales o jurídicas que gestionen, coordinen o contraten artistas, espectáculos o
+entretenimiento para actividades artísticas, culturales, recreativas, festivales, fiestas
+patronales o actividades análogas sufragadas, total o parcialmente, con fondos
+públicos municipales se realice mediante Solicitud de Propuestas (RFP) a través de las
+respectivas Juntas de Subastas; establecer criterios para la evaluación y adjudicación
+de dichas propuestas; disponer una excepción para la contratación directa de artistas,
+agrupaciones artísticas o proveedores de entretenimiento cuando la prestación sea de
+naturaleza personalísima; delimitar la aplicación de determinadas exclusiones al
+procedimiento competitivo; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Código Municipal de Puerto Rico, Ley 107-2020, según enmendada, establece el
+marco jurídico que rige la adquisición de bienes, obras y servicios por los municipios de
+Puerto Rico. Como parte de ese esquema, el Artículo 2.035 establece los supuestos en los
+cuales los municipios deben recurrir a procedimientos competitivos de adquisición y
+regula mecanismos tales como la Solicitud de Propuestas, conocida en inglés como
+Request for Proposal (RFP), y la Solicitud de Cualificaciones o Request for Qualifications
+(RFQ). Por su parte, el Artículo 2.036 identifica determinadas compras y contrataciones
+
+2
+que, por su naturaleza o por las circunstancias particulares allí establecidas, se
+encuentran excluidas del requisito ordinario de subasta pública.
+Estos mecanismos responden a principios fundamentales de sana administración
+pública. El uso de fondos públicos exige procedimientos que promuevan la
+transparencia, la competencia entre proveedores, la igualdad de oportunidades y la
+selección de alternativas que resulten más beneficiosas para el interés público. La
+competencia, además de constituir una herramienta para procurar condiciones
+económicas favorables, permite comparar la experiencia, capacidad, calidad y demás
+atributos de los distintos proponentes antes de comprometer recursos municipales.
+No obstante, el Código Municipal no establece expresamente un procedimiento
+competitivo específico para la contratación de promotores, productores, representantes,
+intermediarios u otras personas naturales o jurídicas que gestionen, coordinen o
+contraten artistas, espectáculos o entretenimiento para actividades artísticas, culturales,
+recreativas, festivales, fiestas patronales y actividades análogas sufragadas, total o
+parcialmente, con fondos públicos municipales. La ausencia de una disposición específica
+aplicable a estas contrataciones puede ocasionar que servicios sustancialmente similares
+sean contratados mediante mecanismos distintos y limitar la oportunidad de que otros
+proveedores cualificados compitan para prestar dichos servicios.
+Las actividades artísticas, culturales, recreativas y comunitarias que celebran los
+municipios forman parte importante de la vida social y cultural de sus comunidades. Las
+fiestas patronales, festivales, conciertos y otras actividades análogas fomentan la
+participación ciudadana, contribuyen a preservar tradiciones culturales y pueden
+constituir instrumentos para estimular la actividad comercial y el desarrollo económico
+local. Precisamente por la importancia de estas actividades y por los recursos públicos
+que pueden destinarse a su celebración, resulta necesario procurar que la contratación de
+quienes gestionan o coordinan los servicios artísticos y de entretenimiento esté sujeta a
+parámetros claros de transparencia y competencia.
+La contratación de promotores o intermediarios presenta características que
+permiten y justifican la utilización de un procedimiento competitivo. Distintos
+
+3
+proveedores pueden ofrecer alternativas diferentes respecto a los artistas o espectáculos
+disponibles, su experiencia en la producción de eventos, capacidad técnica y operacional,
+costos, términos económicos y demás elementos necesarios para la celebración de una
+actividad municipal. La utilización de una solicitud de propuestas selladas permite
+comparar esas alternativas conforme a criterios previamente establecidos y adjudicar la
+contratación a la propuesta que represente el mayor beneficio para el municipio.
+Esta Asamblea Legislativa reconoce, sin embargo, que en este tipo de contratación
+el precio no necesariamente constituye el único ni el principal criterio para determinar
+cuál propuesta resulta más beneficiosa. La experiencia del proponente, su capacidad
+técnica y operacional, la naturaleza y calidad de la propuesta artística o de
+entretenimiento, la disponibilidad de los artistas o espectáculos y los términos
+económicos ofrecidos pueden resultar igualmente relevantes. Por ello, esta Ley dispone
+que los municipios establezcan en la solicitud de propuestas criterios objetivos de
+evaluación y autoriza que la adjudicación recaiga sobre la propuesta que represente el
+mayor beneficio para el municipio considerado el conjunto de esos factores, y no
+necesariamente sobre aquella que ofrezca el menor costo.
+Asimismo, esta Ley reconoce una diferencia fundamental entre contratar a un
+promotor, productor, representante o intermediario para gestionar o procurar artistas y
+contratar directamente a un artista o agrupación artística específicamente seleccionada
+por el municipio. En este último caso, la identidad, cualidades y ejecución particular del
+artista pueden constituir precisamente el objeto de la contratación. Cuando la prestación
+sea de naturaleza personalísima y solamente pueda ser realizada por la persona o
+agrupación específicamente seleccionada, exigir competencia entre proveedores para
+obtener esa misma prestación resultaría incompatible con la naturaleza del servicio
+contratado.
+Por tal razón, esta Ley exceptúa del procedimiento establecido la contratación
+directa de un artista, agrupación artística o proveedor de entretenimiento cuando la
+prestación, por su naturaleza personalísima, solamente pueda ser realizada por la
+persona o agrupación seleccionada por el municipio. Esta excepción, sin embargo, no se
+
+4
+extiende a los promotores, productores, representantes o intermediarios que sean
+contratados para gestionar, procurar o coordinar artistas o espectáculos, pues en esos
+casos sí existe la posibilidad de competencia entre distintos proveedores capaces de
+prestar el servicio.
+De igual forma, resulta necesario armonizar el nuevo procedimiento con las
+exclusiones contenidas en el Artículo 2.036 del Código Municipal. Particularmente, la
+ausencia de proponentes en un procedimiento competitivo no debe convertirse
+automáticamente en autorización para efectuar una contratación directa. En tales
+circunstancias, la Junta de Subastas deberá documentar las gestiones realizadas para
+procurar competencia y las razones que justifiquen cualquier procedimiento alterno
+permitido por el Código. Asimismo, se aclara que la excepción aplicable a la adquisición
+de artículos u obras de arte de carácter personalísimo no podrá extenderse a promotores,
+productores, representantes o intermediarios contratados para gestionar artistas o
+espectáculos.
+Mediante esta Ley, la Asamblea Legislativa establece un mecanismo uniforme
+para la contratación municipal de promotores y demás intermediarios relacionados con
+actividades artísticas y de entretenimiento sufragadas con fondos públicos, fortaleciendo
+así la transparencia, la libre competencia y la fiscalización de dichas contrataciones, al
+tiempo que preserva la flexibilidad necesaria para que los municipios puedan contratar
+directamente aquellas prestaciones artísticas cuya naturaleza sea genuinamente
+personalísima.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 2.035 de la Ley 107-2020, según enmendada,
+2 conocida como “Código Municipal de Puerto Rico”, para añadir un nuevo inciso (f),
+3 para que lea como sigue:
+4 “Artículo 2.035 — Subasta Pública, Solicitud de Propuestas y Solicitud de
+5 Cualificaciones — Norma General.
+
+5
+1 Excepto en los casos que expresamente se disponga otra cosa en este Código, el
+2 municipio cumplirá con el procedimiento de subasta pública, cuando se trate de:
+3 (a) …
+4 (b) …
+5 (c) …
+6 (d) …
+7 (e) …
+8 (f) La contratación de promotores, productores, representantes, intermediarios o personas
+9 naturales o jurídicas que gestionen, coordinen o contraten artistas, espectáculos o
+10 entretenimiento para actividades artísticas, culturales, recreativas, festivales, fiestas patronales
+11 o actividades análogas sufragadas, total o parcialmente, con fondos públicos municipales, se
+12 realizará mediante Request for Proposal (RFP), conforme a un proceso abierto y competitivo,
+13 cuya invitación, evaluación y adjudicación estará a cargo de la Junta de Subastas,
+14 independientemente de la cuantía de la contratación. El municipio establecerá en la solicitud
+15 de propuestas los criterios objetivos que serán utilizados para evaluar las propuestas, los cuales
+16 podrán incluir, entre otros, la experiencia, capacidad técnica y operacional, propuesta artística
+17 o de entretenimiento, disponibilidad de los artistas o espectáculos propuestos, costo, términos
+18 económicos y cualquier otro factor relacionado con el interés público y municipal, y la
+19 adjudicación recaerá sobre la propuesta que represente el mayor beneficio para el municipio,
+20 considerado el conjunto de los criterios establecidos en la solicitud de propuestas, y no
+21 necesariamente sobre la propuesta de menor costo. Lo dispuesto en este inciso no será aplicable
+22 a la contratación directa de un artista, agrupación artística o proveedor de entretenimiento
+
+6
+1 cuando la prestación objeto del contrato, por su naturaleza personalísima, solo pueda ser
+2 realizada por la persona o agrupación específicamente seleccionada por el municipio,
+3 disponiéndose que esta excepción no aplicará a promotores, productores, representantes o
+4 intermediarios contratados para gestionar o procurar artistas o espectáculos.
+5 …”
+6 Sección 2.- Se enmienda el Artículo 2.036 de la Ley 107-2020, según enmendada,
+7 conocida como “Código Municipal de Puerto Rico”, para que lea como sigue:
+8 “Artículo 2.036 — Compras Excluidas de Subasta Pública.
+9 No será necesario el anuncio y celebración de subasta para la compra de bienes
+10 muebles y servicios en los siguientes casos:
+11 (a) …
+12 (b) …
+13 (c) …
+14 (d) …
+15 (e) …
+16 (f) Cuando no concurran licitadores y exista el peligro de perderse cualquier
+17 oportunidad para adquirir los bienes, suministros, equipo o servicios que se interesan,
+18 previa justificación escrita que explique el peligro y necesidad que obliga a proceder
+19 con la compra o contratación. En los casos contemplados en el Artículo 2.035(f), la ausencia
+20 de proponentes no autorizará automáticamente la contratación directa. La Junta de Subastas
+21 deberá dejar constancia escrita de las gestiones realizadas para procurar competencia y de las
+
+7
+1 circunstancias que justifiquen cualquier procedimiento alterno de contratación permitido por
+2 este Código.
+3 …”
+4 Sección 3. — Separabilidad.
+5 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, artículo, inciso,
+6 subinciso, sección o parte de esta Ley fuere declarada nula, inválida o inconstitucional
+7 por un tribunal con jurisdicción competente, dicha determinación no afectará,
+8 menoscabará ni invalidará las restantes disposiciones de esta Ley.
+9 El efecto de tal determinación quedará limitado exclusivamente a la cláusula,
+10 párrafo, subpárrafo, oración, palabra, artículo, inciso, subinciso, sección o parte
+11 específica que hubiese sido declarada nula, inválida o inconstitucional. Las demás
+12 disposiciones continuarán en pleno vigor y efecto, siempre que puedan ejecutarse de
+13 manera independiente y conforme a la intención legislativa de promover la
+14 transparencia, la libre competencia, la igualdad de oportunidades entre proveedores
+15 y la adecuada utilización de los fondos públicos en la contratación municipal de
+16 servicios relacionados con actividades artísticas, culturales, recreativas y festivales.
+17 Sección 4. — Reglamentación.
+18 Los municipios adoptarán o enmendarán, según corresponda, sus reglamentos de
+19 compras, subastas y contratación para conformarlos con las disposiciones de esta Ley
+20 dentro de un término de noventa (90) días contado a partir de su vigencia.
+21 Sección 5. — Vigencia.
+22 Esta Ley entrará en vigor inmediatamente después de su aprobación.
