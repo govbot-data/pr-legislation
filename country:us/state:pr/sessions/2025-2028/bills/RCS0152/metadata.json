@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0152",
-  "title": "Para designar la Carretera Estatal PR- 121 dentro de la jurisdicci\u00f3n del Municipio de \nSan Germ\u00e1n, con el nombre de Dr. Rafael (Rafo) Rodr\u00edguez Gonz\u00e1lez, en \nreconocimiento a su distinguida trayectoria profesional, deportiva, comunitaria y \nlegislativa como el primer Senador del Partido Nuevo Progresista por el Distrito \nMayag\u00fcez-Aguadilla y aportaci\u00f3n al desarrollo del pueblo de San Germ\u00e1n; \nautorizar la instalaci\u00f3n de los r\u00f3tulos; ordenar el pareo de fondos; y para otros \nfines relacionados.",
+  "title": "Para designar la Carretera Estatal PR-101, dentro de la jurisdicci\u00f3n del Municipio de San Germ\u00e1n, con el nombre de Dr. Rafael (Rafo) Rodr\u00edguez Gonz\u00e1lez, en reconocimiento a su distinguida trayectoria profesional, deportiva, comunitaria \u0443 legislativa como el primer Senador del Partido Nuevo Progresista por el Distrito Mayag\u00fcez-Aguadilla, y por su aportaci\u00f3n al desarrollo del pueblo de San Germ\u00e1n; autorizar la instalaci\u00f3n de los r\u00f3tulos; proveer para el pareo de fondos; y para otros fines relacionados",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -290,6 +290,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:18Z"
       }
+    },
+    {
+      "description": "Res. Conj.  59-2026",
+      "date": "2026-08-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T05:46:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -413,6 +423,17 @@
       ],
       "date": "2026-06-29",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  59-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160582/Res. Conj. 59-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -431,7 +452,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:18Z",
+    "logs_latest_update": "2026-08-19T05:46:10Z",
     "text_extraction_latest_update": "2026-07-22T03:33:46.039187Z"
   }
 }

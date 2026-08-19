@@ -28,11 +28,11 @@
       }
     },
     {
-      "description": "Aparece en Primera Lectura del Senado",
+      "description": "Referido a Comisi\u00f3n(es)",
       "date": "2026-08-17T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
-        "reading-1"
+        "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
@@ -44,18 +44,6 @@
       "date": "2026-08-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-18T05:34:35Z"
-      }
-    },
-    {
-      "description": "Referido a Comisi\u00f3n(es)",
-      "date": "2026-08-17T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "referral-committee"
-      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-18T05:34:35Z"
@@ -116,11 +104,43 @@
   ],
   "sponsorships": [
     {
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
       "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -131,6 +151,17 @@
       "links": [
         {
           "url": "https://sutra.oslpr.org/SutraFilesGen/161914/rcs0202-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161914/RCS202vot.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -154,7 +185,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T05:34:35Z",
+    "logs_latest_update": "2026-08-19T05:46:10Z",
     "text_extraction_latest_update": "2026-08-18T05:38:20.827054Z"
   }
 }

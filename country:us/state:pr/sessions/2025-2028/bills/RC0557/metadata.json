@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0557",
-  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Norte de la Camara de Representantes, a realizar una investigaci\u00f3n sobre los proyectos, evaluaciones y acciones ejecutadas, en curso o planificadas por la Autoridad de Acueductos y Alcantarillados, dirigidas a atender la problem\u00e1tica relacionada con el servicio de agua potable en diversas comunidades del Municipio de Dorado, incluyendo el Sector Santa Rosa del Barrio Maguayo, \u00e1reas del Barrio Espinosa y sectores de la comunidad Los Puertos; examinar las causas de la persistencia de interrupciones, baja presi\u00f3n e intermitencia que contin\u00faan afectando a los residentes; requerir informaci\u00f3n sobre el n\u00famero aproximado de salideros reportados y atendidos en dichas \u00e1reas; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Norte de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n sobre los proyectos, evaluaciones y acciones ejecutadas, en curso o planificadas por la Autoridad de Acueductos y Alcantarillados, dirigidas a atender la problem\u00e1tica relacionada con el servicio de agua potable en diversas comunidades del Municipio de Dorado, incluyendo el Sector Santa Rosa del Barrio Maguayo, \u00e1reas del Barrio Espinosa y sectores de la comunidad Los Puertos; examinar las causas de la persistencia de interrupciones, baja presi\u00f3n e intermitencia que contin\u00faan afectando a los residentes; requerir informaci\u00f3n sobre el n\u00famero aproximado de salideros reportados y atendidos en dichas \u00e1reas; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-08-18T05:34:35Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T05:46:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +184,17 @@
       ],
       "date": "2026-07-16",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160122/RC0557-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -190,7 +213,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T05:34:35Z",
+    "logs_latest_update": "2026-08-19T05:46:10Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-08-18T05:39:23.679964Z"

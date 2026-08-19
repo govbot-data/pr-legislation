@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0976",
-  "title": "Para a\u00f1adir un nuevo Cap\u00edtulo 48 a la Ley N\u00fam. 77 de 19 de junio de 1957, seg\u00fan\nenmendada, conocida como \u201cC\u00f3digo de Seguros de Puerto Rico\u201d, a los fines de\nregular el ofrecimiento y la venta de p\u00f3lizas de seguros para mascotas, establecer\ndivulgaciones m\u00ednimas y uniformes al consumidor, definir t\u00e9rminos aplicables,\ndisponer requisitos b\u00e1sicos de p\u00f3liza y pr\u00e1cticas de mercadeo, facultar al\nComisionado de Seguros para su implantaci\u00f3n y fiscalizaci\u00f3n, y para otros fines\nrelacionados.",
+  "title": "Para a\u00f1adir un nuevo Cap\u00edtulo 48 a la Ley N\u00fam. 77 de 19 de junio de 1957, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Seguros de Puerto Rico\", a los fines de regular el ofrecimiento y la venta de p\u00f3lizas de seguros para mascotas, establecer divulgaciones m\u00ednimas y uniformes al consumidor, definir t\u00e9rminos aplicables, disponer requisitos b\u00e1sicos de p\u00f3liza y pr\u00e1cticas de mercadeo, facultar al Comisionado de Seguros para su implantaci\u00f3n y fiscalizaci\u00f3n; y para otros fines relacionados",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -334,6 +334,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:26Z"
       }
+    },
+    {
+      "description": "Ley 186-2026",
+      "date": "2026-08-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T05:46:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -479,6 +489,17 @@
       ],
       "date": "2026-06-29",
       "classification": ""
+    },
+    {
+      "note": "Ley 186-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160053/Ley 186-2026 (2).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -497,7 +518,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-19T05:46:10Z",
     "text_extraction_latest_update": "2026-07-22T05:49:36.429378Z"
   }
 }
