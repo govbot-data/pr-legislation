@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - Nominado
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Inicio
+Recibir pedido del cliente
+Registrar pedido en el
+sistema
+¿Pago
+recibido?
+¿Pedido
+correcto?
+Sí
+Sí
+Enviar orden a cocina
+No
+¿Repartidor
+Preparar ingredientes Corregir pedido Empaquetar pedido
+disponible?
+No
+Asar carne y armar
+hamburguesa ¿Entrega en
+local o
+No Sí
+delivery?
+Enviar pedido al destino
+Delivery Esperar disponibilidad
+Local
+Entregar al cliente en Confirmar entrega con
+Asignar repartidor
+mostrador cliente
+Esperar pago o cancelar Registrar pedido como
+completado
+Fin
