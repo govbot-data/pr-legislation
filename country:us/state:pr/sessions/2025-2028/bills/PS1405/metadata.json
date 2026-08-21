@@ -88,6 +88,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:10:10Z"
+    "logs_latest_update": "2026-08-21T07:10:10Z",
+    "text_extraction_latest_update": "2026-08-21T07:13:16.711557Z"
   }
 }

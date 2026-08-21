@@ -1,0 +1,513 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+A-125
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1400
+20 de agosto de 2026
+Presentado por los señores Rivera Schatz, Ríos Santiago, la señora Jiménez Santoni, los
+señores Matías Rosario, Morales Rodríguez, la señora Barlucea Rodríguez, los señores
+Colón La Santa, González López, las señoras Padilla Alvelo, Moran Trinidad, Pérez Soto,
+el señor Reyes Berríos, la señora Román Rodríguez, los señores Rosa Ramos, Sánchez
+Álvarez, Santos Ortiz, las señoras Soto Aguilú, Soto Tolentino, y el señor Toledo López
+Referido a la Comisión de
+LEY
+Para crear la “Ley del Programa Estratégico para la Preservación, Modernización y Gestión de
+Activos del Superacueductos de Puerto Rico”; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El acceso confiable al agua potable constituye uno de los pilares fundamentales sobre los cuales
+descansan la salud pública, la seguridad ciudadana, el desarrollo económico y la calidad de vida
+de Puerto Rico. Ninguna economía puede crecer sostenidamente, ninguna comunidad puede
+prosperar y ninguna infraestructura crítica puede operar adecuadamente sin un sistema de
+abastecimiento de agua seguro, resiliente y administrado con una visión de largo plazo.
+Puerto Rico ha enfrentado en el pasado retos significativos relacionados con la disponibilidad,
+producción, transmisión y distribución de agua potable. Uno de los eventos más importantes en la
+historia reciente de Puerto Rico fue la crisis de agua de 1994, cuando una sequía severa puso de
+manifiesto las vulnerabilidades del sistema de abastecimiento de agua potable de la región
+metropolitana de San Juan.
+
+2
+Aunque la escasez de lluvia fue el detonante inmediato, la crisis evidenció problemas estructurales
+acumulados durante décadas, incluyendo la pérdida de capacidad útil del embalse Carraízo por
+sedimentación, la alta dependencia de un número limitado de fuentes de abasto y la ausencia de
+suficiente redundancia para atender eventos extraordinarios de sequía o interrupciones
+operacionales.
+En aquel momento, la región metropolitana dependía principalmente de la Planta Sergio Cuevas,
+alimentada por el embalse Carraízo; la Planta Enrique Ortega, alimentada por el sistema La Plata;
+y la Planta Los Filtros, localizada en Guaynabo. Aunque existían fuentes complementarias y
+sistemas de pozos en ciertas áreas, el núcleo del abastecimiento metropolitano descansaba sobre
+esas instalaciones principales.
+La respuesta del Gobierno de Puerto Rico a la crisis de 1994 trascendió la atención inmediata de
+la emergencia. Puerto Rico adoptó una visión estratégica para diversificar sus fuentes de agua,
+reforzar la infraestructura existente y reducir la vulnerabilidad de la región metropolitana ante
+futuras sequías. Entre las iniciativas resultantes se encontraba el desarrollo del Superacueductos
+de Puerto Rico, una de las obras de infraestructura hidráulica más importantes en la historia
+moderna de Puerto Rico.
+Construido entre 1995 y el año 2000, y puesto en servicio en septiembre del año 2000, el
+Superacueductos permitió transportar agua desde la cuenca del Río Grande de Arecibo hacia la
+región metropolitana mediante una línea principal de aproximadamente cuarenta y seis (46) millas
+de longitud y tubería de concreto preesforzado de setenta y dos (72) pulgadas de diámetro.
+El Superacueducto fue concebido originalmente como una fuente complementaria destinada a
+fortalecer la resiliencia del sistema metropolitano. Su propósito era diversificar las fuentes de
+abastecimiento y reducir la vulnerabilidad evidenciada durante la crisis de 1994. Con el paso del
+tiempo, sin embargo, su importancia operacional aumentó significativamente.
+
+3
+El crecimiento de la demanda, la evolución de las interconexiones regionales, las transferencias
+hacia sistemas localizados a lo largo del corredor norte y el envejecimiento progresivo de otras
+instalaciones de producción y transmisión de agua potable hicieron que el Superacueductos pasara
+de ser una fuente complementaria para convertirse en uno de los componentes más importantes
+del sistema de abastecimiento de agua del norte y del área metropolitana de Puerto Rico.
+Actualmente, el sistema contribuye directa o indirectamente al abastecimiento de numerosos
+municipios y sistemas regionales, incluyendo comunidades servidas desde Arecibo hasta
+Bayamón, Guaynabo, San Juan, Carolina, Caguas Norte y Gurabo, mediante una compleja red de
+transferencias, tanques, estaciones de bombeo e interconexiones hidráulicas. Su confiabilidad
+influye directamente sobre la continuidad del servicio para cientos de miles de ciudadanos, así
+como sobre la capacidad de Puerto Rico para sostener nuevas viviendas, proyectos turísticos,
+instalaciones hospitalarias, centros educativos, industrias y otras actividades económicas
+esenciales.
+La experiencia acumulada durante más de veinticinco años demuestra que el Superacueductos ha
+sido una inversión exitosa para Puerto Rico. No obstante, precisamente por ese éxito, Puerto Rico
+ha desarrollado una dependencia estratégica de esta infraestructura. Esa dependencia exige ahora
+una respuesta proporcional.
+Durante las últimas dos décadas, Puerto Rico también ha enfrentado limitaciones fiscales que
+redujeron la capacidad de inversión sostenida en infraestructura pública. Como resultado,
+numerosos programas de mejoras capitales fueron pospuestos, reducidos o ejecutados de forma
+parcial. La Autoridad de Acueductos y Alcantarillados no fue inmune a esa realidad fiscal. La
+reducción en inversión afecto el mantenimiento, la rehabilitación, la modernización y la
+renovación de activos esenciales.
+Posteriormente, el huracán María transformó nuevamente el panorama de la infraestructura de
+agua potable al propiciar una inversión significativa en instalaciones críticas mediante programas
+federales de recuperación y mitigación. Entre estas inversiones se destacan los proyectos de
+
+4
+modernización de la Planta Sergio Cuevas y de la Planta Enrique Ortega, los cuales fortalecerán
+sustancialmente la capacidad de producción de agua potable para la región metropolitana.
+No obstante, la modernización de dichas plantas hace aún más evidente la necesidad de atender el
+componente que articula gran parte del sistema regional: el Superacueductos. La continuidad y
+confiabilidad de esta infraestructura resultan indispensables para maximizar el beneficio de las
+inversiones ya comprometidas y para consolidar una estrategia integral de seguridad hídrica para
+Puerto Rico.
+El reto que enfrenta Puerto Rico no puede reducirse a inspeccionar una tubería o sustituir
+segmentos individuales conforme surjan fallas. Tampoco debe limitarse a contratar servicios
+especializados de forma aislada. Las mejores prácticas internacionales en administración de
+infraestructura crítica establecen que activos de esta naturaleza deben manejarse mediante
+programas permanentes de gestión de activos, evaluación basada en riesgo, monitoreo continuo,
+mantenimiento preventivo, rehabilitación programada y renovación selectiva.
+La infraestructura crítica no debe administrarse como si tuviera una fecha de expiración. La
+pregunta no debe ser que ocurrirá cuando el Superacueductos alcance determinado número de años
+de operación. La pregunta correcta es que programa de gestión continua debe implantarse para
+garantizar que el sistema permanezca disponible, confiable y adaptable durante las próximas
+décadas.
+Por ello, el propósito de esta Ley no es extender artificialmente la vida útil del Superacueductos
+por un período determinado. El propósito es institucionalizar un compromiso permanente de
+evaluación, preservación, modernización, rehabilitación y gestión de activos que garantice la
+confiabilidad operacional del sistema durante las próximas décadas.
+Esta Asamblea Legislativa reconoce que el Superacueductos constituye un Activo Crítico Estatal.
+Su interrupción significativa podría afectar la salud pública, la actividad económica, la estabilidad
+social y la capacidad del Gobierno para sostener servicios esenciales en la región de mayor
+concentración poblacional y económica de Puerto Rico.
+
+5
+Esta Ley reconoce además que la seguridad hídrica constituye un elemento indispensable para la
+competitividad económica de Puerto Rico. La disponibilidad confiable de agua potable es
+condición necesaria para el desarrollo de nuevas viviendas, la expansión del turismo, la atracción
+de inversión privada, el fortalecimiento del sistema de salud, el crecimiento industrial y la
+protección de la calidad de vida de la población. La infraestructura hidráulica debe verse, por tanto,
+como una inversión estratégica para el desarrollo económico y no exclusivamente como un gasto
+operacional.
+Puerto Rico tiene antecedentes institucionales que demuestran que, ante retos extraordinarios de
+infraestructura, resulta apropiado utilizar estructuras especiales de ejecución. Durante la década de
+1990, el Gobierno de Puerto Rico utilizó la Autoridad para el Financiamiento de la Infraestructura
+como vehículo para adelantar proyectos estratégicos de agua potable, alcantarillado y
+cumplimiento ambiental. Esa experiencia demostró que proyectos complejos pueden ejecutarse
+con mayor efectividad cuando existe una estructura institucional con facultades amplias,
+financiamiento adecuado, capacidad de contratación y un mandato claro de implementación.
+El Superacueductos presenta características que justifican un enfoque similar. Aunque forma parte
+integral del sistema de la Autoridad de Acueductos y Alcantarillados, constituye una
+infraestructura claramente identificable, con función estratégica propia y con necesidades de
+evaluación, rehabilitación, modernización y gestión de activos que ameritan una estructura
+dedicada.
+Por tal razón, esta Ley crea el Programa Estratégico para la Preservación, Modernización y Gestión
+de Activos del Superacueductos de Puerto Rico, concebido como una iniciativa multianual de
+planificación, evaluación, diseño, rehabilitación, modernización, monitoreo continuo y gestión de
+activos.
+La Ley dispone que dicho programa sea administrado por la Autoridad para el Financiamiento de
+la Infraestructura, entidad que cuenta con facultades legales, mecanismos de contratación y
+capacidad institucional para desarrollar programas complejos de infraestructura pública. La
+
+6
+Autoridad de Acueductos y Alcantarillados continuará ejerciendo su responsabilidad operacional
+sobre el sistema, mientras AFI dirigirá la implantación del programa estratégico en coordinación
+permanente con dicha corporación pública.
+Esta estructura no pretende sustituir a la AAA en la operación del sistema, sino proteger la
+ejecución de esta iniciativa de la fragmentación, la dilución administrativa y las presiones
+ordinarias del día a día operacional. La magnitud del reto exige una estructura de gobernanza con
+continuidad, enfoque y responsabilidad específica.
+Asimismo, esta Ley dispone que la evaluación abarque no solamente la línea principal de
+transmisión, sino la totalidad del sistema asociado, incluyendo estaciones de bombeo, tanques,
+válvulas, sistemas eléctricos, sistemas de control, protección catódica, instrumentación, fuentes de
+agua cruda, embalses, túneles, interconexiones hidráulicas, potencial de los acuíferos de la costa
+norte y oportunidades para fortalecer la redundancia y resiliencia del sistema.
+La legislación también reconoce que la delimitación precisa de áreas servidas, balances
+hidráulicos, dependencias operacionales y clientes beneficiados deberá formar parte de la
+evaluación integral inicial. Para propósitos de política pública, sin embargo, existe base suficiente
+para concluir que el Superacueductos cumple una función esencial dentro del sistema regional de
+agua potable y que su confiabilidad debe ser atendida mediante un mandato especial.
+Además, esta Asamblea Legislativa reconoce que el programa estratégico creado por esta
+Ley constituye una iniciativa de infraestructura de carácter prioritario para Puerto Rico,
+dirigida a atender necesidades apremiantes relacionadas con la preservación,
+rehabilitación, modernización y operación eficiente de infraestructura esencial para la
+prestación confiable de los servicios de agua.
+Por ello, se declara política pública del Gobierno de Puerto Rico promover, a través de la
+AFI, y en coordinación con la AAA, la evaluación, planificación y ejecución ordenada de
+los proyectos que formen parte del Programa Estratégico, procurando la coordinación
+
+7
+efectiva entre las agencias, instrumentalidades y demás entidades gubernamentales con
+competencia sobre su desarrollo.
+La implantación de esta iniciativa responderá al interés público de fortalecer la resiliencia
+de la infraestructura hídrica, proteger activos esenciales, promover el uso eficiente de los
+recursos públicos y asegurar la continuidad y confiabilidad de los servicios de agua. A
+esos fines, esta Ley establece un mandato expreso para comenzar la evaluación,
+preservación, rehabilitación, modernización y gestión de los activos del sistema de
+Superacueductos, como componente esencial de la infraestructura hídrica y de la
+seguridad hídrica de Puerto Rico.
+Finalmente, esta Asamblea Legislativa declara que la preservación del Superacueductos
+constituye una inversión estratégica para las presentes y futuras generaciones. Puerto
+Rico no debe esperar a que una falla o crisis obligue a actuar bajo presión. La acción
+planificada, basada en datos, riesgo y visión de futuro, siempre será preferible a la
+respuesta de emergencia.
+Con esta Ley, Puerto Rico adopta una política pública orientada a garantizar que uno de
+los sistemas de abastecimiento de agua más importantes de su historia continúe sirviendo
+con seguridad, eficiencia y confiabilidad durante las próximas décadas.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.-Título.
+2 Esta Ley se conocerá y podrá ser citada como la "Ley del Programa Estratégico
+3 para la Preservación, Modernización y Gestión de Activos del Superacueductos de Puerto
+4 Rico".
+
+8
+1 Artículo 2.- Política Pública.
+2 Es política pública del Gobierno de Puerto Rico reconocer, preservar, modernizar
+3 y gestionar de manera continua el Sistema del Superacueductos de Puerto Rico como
+4 infraestructura esencial para la seguridad hídrica, la salud pública, la resiliencia
+5 operacional, la estabilidad económica y el desarrollo futuro de Puerto Rico.
+6 Se declara que el Superacueductos constituye un activo crítico estatal cuya
+7 confiabilidad operacional debe ser protegida mediante una estrategia permanente de
+8 evaluación, mantenimiento, rehabilitación, modernización, monitoreo, renovación
+9 selectiva y gestión de riesgos.
+10 El Gobierno de Puerto Rico adoptara un enfoque de planificación y gestión de
+11 activos basado en datos, riesgo, continuidad operacional, resiliencia climática, eficiencia
+12 financiera y preservación de la capacidad de servicio del sistema durante las próximas
+13 décadas.
+14 Artículo 3.- Declaración de Necesidad Pública.
+15 El Gobierno de Puerto Rico declara que existe una necesidad pública apremiante
+16 de establecer un programa especial para atender de forma integral la evaluación,
+17 preservación, modernización y gestión de activos del Superacueductos de Puerto Rico.
+18 Esta necesidad surge de la importancia estratégica del sistema, su función dentro
+19 del abastecimiento de agua potable de la región metropolitana y de múltiples municipios
+20 del norte de Puerto Rico, su operación continua por más de veinticinco años, la ausencia
+21 de redundancia equivalente para sustituir plenamente su función y la necesidad de
+
+9
+1 proteger la disponibilidad de agua potable para la ciudadanía, la actividad económica y
+2 el desarrollo futuro.
+3 Artículo 4.- Definiciones.
+4 Para propósitos de esta Ley, los siguientes términos tendrán el significado que se
+5 expresa a continuación:
+6 a. AAA - Significa la Autoridad de Acueductos y Alcantarillados de Puerto Rico.
+7 b. AFI - Significa la Autoridad para el Financiamiento de la Infraestructura de Puerto
+8 Rico.
+9 c. Activo Crítico Estatal - Significa toda infraestructura, instalación, sistema o
+10 componente cuya interrupción, falla significativa o deterioro sustancial pueda afectar la
+11 salud pública, la seguridad, la economía, la prestación de servicios esenciales o la
+12 estabilidad operacional de Puerto Rico.
+13 d. Superacueductos - Significa el Sistema del Superacueductos de la Costa Norte de
+14 Puerto Rico, incluyendo su línea principal de transmisión, estaciones de bombeo,
+15 tanques, válvulas, sistemas eléctricos, sistemas de control, sistemas de protección
+16 catódica, instrumentación, telemetría, interconexiones, fuentes de agua cruda asociadas,
+17 obras de captación y demás componentes necesarios para su operación.
+18 e. Programa Estratégico - Significa el Programa Estratégico para la Preservación,
+19 Modernización y Gestión de Activos del Superacueductos de Puerto Rico creado
+20 mediante esta Ley.
+21 f. Gestión de Activos - Significa el proceso continuo y sistemático de inventariar, evaluar,
+22 monitorear, mantener, rehabilitar, modernizar, renovar y administrar infraestructura
+
+10
+1 para maximizar su desempeño, confiabilidad, resiliencia, seguridad y valor público
+2 durante su ciclo de vida.
+3 g. Plan Maestro - Significa el Plan Maestro de Gestión de Activos del Superacueductos de
+4 Puerto Rico requerido por esta Ley.
+5 h. Evaluación Integral - Significa el conjunto de estudios, inspecciones, análisis técnicos,
+6 modelaciones, diagnósticos, investigaciones y evaluaciones de riesgo requeridas para
+7 determinar la condición, capacidad, vulnerabilidad, confiabilidad y necesidades de
+8 inversión del Superacueductos y sus sistemas asociados.
+9 i. Sistemas asociados - Significa las fuentes de agua cruda, embalses, túneles,
+10 interconexiones hidráulicas, acuíferos, sistemas de transferencia, tanques, estaciones de
+11 bombeo, sistemas eléctricos, sistemas de control, sistemas de comunicación e
+12 infraestructura relacionada que afecten directa o indirectamente la confiabilidad del
+13 Superacueductos.
+14 j. RFP - Significa solicitud de propuestas competitiva para contratar servicios
+15 profesionales, técnicos, gerenciales, de diseño, construcción, inspección, monitoreo o
+16 cualquier otro servicio requerido para implantar el Programa Estratégico.
+17 Artículo 5.- Declaración del Superacueductos como Activo Crítico Estatal.
+18 Se declara formalmente el Sistema del Superacueductos de Puerto Rico como
+19 Activo Crítico Estatal.
+20 Dicha declaración tendrá el efecto de requerir que el Gobierno de Puerto Rico, AFI,
+21 la AAA y cualquier otra agencia, corporación pública o instrumentalidad pertinente
+
+11
+1 atiendan su preservación, modernización, resiliencia y confiabilidad operacional como
+2 asunto prioritario de política pública.
+3 Artículo 6.- Creación del Programa Estratégico.
+4 Se crea el Programa Estratégico para la Preservación, Modernización y Gestión de
+5 Activos del Superacueductos de Puerto Rico.
+6 El Programa Estratégico tendrá como propósito principal establecer e implantar
+7 un proceso permanente de evaluación, preservación, rehabilitación, modernización,
+8 monitoreo, renovación selectiva y gestión de activos del Superacueductos.
+9 El Programa Estratégico no se limitará a una inspección puntual ni a proyectos aislados
+10 de reparación. Su objetivo será establecer una estructura programática continua que
+11 garantice la confiabilidad, disponibilidad, resiliencia y sostenibilidad operacional del
+12 sistema durante las próximas décadas.
+13 Artículo 7.- Objetivos del Programa Estratégico.
+14 El Programa Estratégico tendrá los siguientes objetivos: evaluar integralmente la
+15 condición física, estructural, hidráulica, eléctrica, operacional y ambiental del
+16 Superacueductos; identificar riesgos actuales y futuros; desarrollar un Plan Maestro;
+17 establecer prioridades de inversión; desarrollar proyectos de rehabilitación,
+18 modernización y renovación selectiva; fortalecer la resiliencia ante sequías, eventos
+19 extremos y fallas operacionales; evaluar redundancia, bypass, interconexión y fuentes
+20 complementarias; optimizar fuentes de agua cruda, embalses, túneles e infraestructura
+21 asociada; evaluar acuíferos de la costa norte; integrar sistemas modernos de monitoreo,
+
+12
+1 instrumentación, telemetría y gestión de datos; promover continuidad administrativa,
+2 técnica y financiera; y apoyar la seguridad hídrica, el desarrollo económico, la vivienda,
+3 el turismo y la calidad de vida en Puerto Rico.
+4 Artículo 8.- Delegación a Autoridad para el Financiamiento de la
+5 Infraestructura
+6 Se delega a la AFI la responsabilidad de administrar, desarrollar e implantar el
+7 Programa Estratégico creado por esta Ley.
+8 La AFI tendrá autoridad para planificar, contratar, financiar, coordinar, supervisar
+9 y ejecutar las actividades necesarias para cumplir con los objetivos de esta Ley, conforme
+10 a sus facultades legales y a las disposiciones aquí establecidas.
+11 La delegación a AFI no transferirá la titularidad operacional ordinaria del sistema
+12 ni eliminará las responsabilidades de la AAA sobre la operación diaria del
+13 Superacueductos. La AAA continuará siendo responsable de la operación y
+14 mantenimiento ordinario del sistema, salvo aquellas actividades específicamente
+15 incluidas dentro del Programa Estratégico y coordinadas mediante los acuerdos
+16 interagenciales correspondientes.
+17 Artículo 9.- Responsabilidades de AFI.
+18 AFI tendrá la responsabilidad de desarrollar la estructura administrativa del
+19 Programa Estratégico; preparar y emitir solicitudes de propuestas; contratar equipos
+20 técnicos, profesionales, gerenciales, de diseño, construcción, inspección y monitoreo;
+21 administrar contratos; coordinar con la AAA la obtención de información operacional,
+
+13
+1 técnica, histórica, cartográfica y financiera; desarrollar el alcance detallado de la
+2 Evaluación Integral; preparar el Plan Maestro; coordinar fuentes de financiamiento;
+3 supervisar proyectos de rehabilitación, modernización y resiliencia; presentar informes
+4 periódicos; mantener un archivo técnico y digital; asegurar transparencia, competencia,
+5 eficiencia, calidad técnica y responsabilidad fiscal; y evaluar y, de resultar procedente,
+6 gestionar la consideración del Programa Estratégico.
+7 Artículo 10.- Responsabilidades de la AAA.
+8 La AAA deberá proveer a AFI toda la información técnica, operacional, histórica,
+9 financiera y cartográfica necesaria para la implantación de esta Ley; facilitar el acceso
+10 razonable a instalaciones, registros, sistemas y personal técnico; colaborar en la
+11 Evaluación Integral y en la coordinación de inspecciones, estudios, pruebas y proyectos;
+12 validar las recomendaciones desde la perspectiva operacional; y continuar operando el
+13 sistema e incorporando las medidas de mantenimiento, monitoreo y operación que
+14 correspondan.
+15 Artículo 11.- Acuerdo Interagencial.
+16 Dentro de los noventa (90) días siguientes a la aprobación de esta Ley, AFI y la
+17 AAA deberán suscribir un acuerdo interagencial para establecer mecanismos de
+18 coordinación, intercambio de información, acceso a instalaciones, revisión técnica,
+19 aprobación operacional, manejo de emergencias, responsabilidades de cada entidad y
+20 cualquier otro asunto necesario para la implantación efectiva del Programa Estratégico.
+
+14
+1 Artículo 12.- Comité Técnico Asesor.
+2 Se crea un Comité Técnico Asesor del Programa Estratégico, de carácter
+3 consultivo, compuesto por representantes de AFI, AAA, el Departamento de Recursos
+4 Naturales y Ambientales, la Oficina de Gerencia y Presupuesto, la Autoridad de Energía
+5 Eléctrica o su sucesora operacional pertinente cuando aplique, y hasta tres profesionales
+6 externos con experiencia en ingeniería hidráulica, recursos de agua, gestión de activos,
+7 infraestructura crítica o financiamiento de infraestructura designados por el/la
+8 Gobernador(a) de Puerto Rico.
+9 El Comité revisará recomendaciones estratégicas, comentará el Plan Maestro,
+10 evaluará prioridades de inversión y asesorará sobre asuntos técnicos, institucionales y
+11 financieros relacionados con el Programa Estratégico.
+12 Artículo 13.- Evaluación Integral Requerida.
+13 La AFI deberá desarrollar o contratar una Evaluación Integral del
+14 Superacueductos. La Evaluación Integral incluirá, como mínimo, la línea principal de
+15 transmisión de setenta y dos (72) pulgadas; tubería PCCP y sus componentes
+16 estructurales; juntas, válvulas, cámaras, cruces, accesos y estructuras asociadas;
+17 estaciones de bombeo; tanques de almacenamiento; sistemas eléctricos y de respaldo;
+18 sistemas de control, automatización, telemetría y SCADA; protección catódica;
+19 instrumentación y medición de flujo; capacidad hidráulica y modelación; eventos
+20 transitorios y golpe de ariete; riesgo estructural y operacional; vulnerabilidad ante
+21 sequías, eventos extremos y fallas críticas; fuentes de agua cruda; embalses incluyendo
+22 Dos Bocas y Caonillas; túneles e interconexiones hidráulicas; infraestructura
+
+15
+1 hidroeléctrica o de control de agua; sedimentación; potencial de dragados, rehabilitación
+2 de túneles, compuertas o estructuras de control; acuíferos de la costa norte; y alternativas
+3 de redundancia, bypass, interconexión o fuentes complementarias; estimados
+4 preliminares de costos, fases y prioridades.
+5 Artículo 14.- Plan Maestro de Gestión de Activos.
+6 La AFI deberá preparar, en coordinación con la AAA, un Plan Maestro de Gestión
+7 de Activos del Superacueductos de Puerto Rico dentro de los veinticuatro (24) meses
+8 siguientes a la contratación del equipo responsable de la Evaluación Integral, salvo causa
+9 justificada.
+10 El Plan Maestro incluirá, como mínimo, el inventario y condición de los activos;
+11 clasificación de criticidad y evaluación de riesgos; priorización de inversiones; programas
+12 de inspección, monitoreo y mantenimiento preventivo; proyectos de rehabilitación,
+13 modernización, resiliencia y redundancia; evaluación de fuentes de agua cruda y fuentes
+14 complementarias; estimados de costos y cronograma; métricas de desempeño;
+15 alternativas de financiamiento; y un procedimiento para su actualización periódica.
+16 Artículo 15.- Actualización del Plan Maestro.
+17 El Plan Maestro deberá actualizarse al menos cada cinco (5) años, o antes si ocurren
+18 eventos significativos que afecten la condición, capacidad, riesgo o confiabilidad del
+19 Superacueductos. AFI y la AAA mantendrán actualizado el inventario de activos, el
+20 registro de inspecciones, los datos de monitoreo, los proyectos completados, los
+21 proyectos pendientes y las prioridades de inversión.
+
+16
+1 Artículo 16.-Programa Permanente de Monitoreo.
+2 La AFI, en coordinación con la AAA, establecerá un Programa Permanente de
+3 Monitoreo del Superacueductos, que podrá incluir medición de flujo, monitoreo de
+4 presión, monitoreo de protección catódica, sensores acústicos, inspecciones internas
+5 programadas, inspecciones externas, monitoreo de transientes hidráulicos, sistemas de
+6 alerta temprana, integración con SCADA y tableros de control operacional y gerencial.
+7 Artículo 17.-Contratación Mediante Solicitud de Propuestas.
+8 La AFI implantara el Programa Estratégico mediante procesos competitivos de
+9 contratación, incluyendo solicitudes de propuestas, solicitudes de cualificaciones,
+10 licitaciones o cualquier otro método autorizado por ley que promueva competencia,
+11 transparencia, calidad técnica y valor para Puerto Rico.
+12 Para la contratación principal, AFI procurará una RFP integral dirigida a equipos
+13 multidisciplinarios con experiencia comprobada en gerencia de programas y proyectos
+14 de infraestructura; ingeniería hidráulica, civil y estructural; sistemas PCCP; gestión y
+15 evaluación de activos; protección catódica; recursos de agua, embalses, sedimentación,
+16 túneles, interconexiones hidráulicas y acuíferos; sistemas SCADA, instrumentación y
+17 telemetría; modelación hidráulica; resiliencia y redundancia operacional; diseño,
+18 construcción, rehabilitación y modernización de infraestructura; estimación de costos,
+19 evaluación de riesgos, planificación de inversiones y análisis de alternativas de
+20 financiamiento.
+
+17
+1 Artículo 18.-Prohibición de Fragmentación Injustificada.
+2 La AFI evitara fragmentar el Programa Estratégico en contratos aislados que
+3 impidan una visión integrada del sistema, salvo cuando tal fragmentación responda a
+4 razones técnicas, económicas, legales o de eficiencia administrativa debidamente
+5 documentadas. La contratación deberá promover coordinación, integración de
+6 disciplinas, continuidad técnica y responsabilidad clara sobre los productos del
+7 Programa Estratégico.
+8 Artículo 19.-Financiamiento.
+9 Se autoriza a AFI, en coordinación con el Gobierno de Puerto Rico y la AAA, a
+10 identificar, solicitar, recibir, administrar y utilizar fondos para implantar esta Ley. Las
+11 fuentes de financiamiento podrán incluir asignaciones legislativas, fondos estatales no
+12 recurrentes, fondos federales, fondos de mitigación o resiliencia cuando sean aplicables,
+13 programas federales de infraestructura de agua, prestamos o financiamiento autorizado
+14 por ley, emisiones de bonos o instrumentos financieros autorizados, fondos rotatorios
+15 estatales o federales, aportaciones de la AAA y cualquier otra fuente legalmente
+16 disponible.
+17 Artículo 20.- Fondo Especial.
+18 Se crea el Fondo Especial para la Preservación, Modernización y Gestión de
+19 Activos del Superacueductos de Puerto Rico. El Fondo será administrado por AFI
+20 conforme a esta Ley y estará destinado exclusivamente a sufragar gastos relacionados
+21 con el Programa Estratégico. Los fondos depositados en dicho Fondo no revertirán al
+
+18
+1 Fondo General al cierre del año fiscal y permanecerán disponibles hasta su utilización
+2 para los fines autorizados por esta Ley.
+3 Artículo 21.- Uso Permitido de Fondos.
+4 Los fondos disponibles bajo esta Ley podrán utilizarse para estudios, inspecciones
+5 y evaluaciones técnicas; gerencia de programa; planificación, diseño, permisos,
+6 construcción, rehabilitación y modernización; monitoreo, instrumentación y sistemas de
+7 información; contratación de servicios profesionales; adquisición de equipos; obras de
+8 resiliencia y redundancia; preparación de análisis, documentos y solicitudes de
+9 financiamiento; y cualquier otro gasto razonable y necesario para la implantación y
+10 cumplimiento de los propósitos de esta Ley.
+11 Artículo 22.- Gestión de Financiamiento y Asistencia.
+12 La AFI, en coordinación con la AAA y las entidades gubernamentales pertinentes,
+13 podrá identificar, evaluar y gestionar fuentes de financiamiento, asistencia técnica y otros
+14 recursos disponibles para apoyar la implantación del Programa Estratégico y sus
+15 proyectos componentes.
+16 A tales fines, AFI podrá preparar y someter solicitudes, estudios, análisis y demás
+17 documentación necesaria para acceder a fondos, programas, incentivos o mecanismos de
+18 financiamiento estatales o federales, siempre que sean compatibles con los objetivos de
+19 esta Ley.
+20 Estas gestiones serán complementarias al mandato establecido en esta Ley y no
+21 constituirán condición para el inicio, continuidad o ejecución del Programa Estratégico.
+
+19
+1 Artículo 23.- Informes al Gobernador y a la Asamblea Legislativa.
+2 La AFI deberá presentar anualmente al Gobernador de Puerto Rico y a la
+3 Asamblea Legislativa un informe sobre el progreso del Programa Estratégico, que incluya
+4 el estado de la Evaluación Integral y del Plan Maestro; contratos otorgados; fondos
+5 recibidos, comprometidos y utilizados; proyectos en diseño, construcción o completados;
+6 riesgos y necesidades de inversión identificados; métricas de desempeño; gestiones de
+7 financiamiento y asistencia; cumplimiento con el cronograma establecido; obstáculos que
+8 requieran acción ejecutiva o legislativa; y las prioridades y acciones proyectadas para el
+9 próximo año.
+10 Artículo 24.- Indicadores de Desempeño.
+11 La AFI, en coordinación con la AAA, establecerá indicadores de desempeño para
+12 medir la efectividad del Programa Estratégico, incluyendo porcentaje de activos
+13 evaluados, reducción de riesgo en segmentos críticos, mejoras en monitoreo, sistemas de
+14 protección catódica rehabilitados, proyectos completados, reducción de vulnerabilidades
+15 operacionales, avance del Plan Maestro, capacidad de respuesta ante emergencias y
+16 cumplimiento de cronograma y presupuesto.
+17 Artículo 25.- Auditoría Técnica.
+18 La AFI podrá contratar auditorias técnicas independientes para evaluar la calidad,
+19 efectividad y cumplimiento del Programa Estratégico. Las auditorias podrán revisar
+20 aspectos técnicos, contractuales, gerenciales, financieros y operacionales, y deberán
+21 producir recomendaciones para mejorar la implantación del programa.
+
+20
+1 Artículo 26.- Coordinación con Agencias y Entidades Públicas.
+2 Todas las agencias, corporaciones públicas, instrumentalidades y municipios del
+3 Gobierno de Puerto Rico deberán cooperar razonablemente con AFI y la AAA en la
+4 implantación de esta Ley. Dicha cooperación podrá incluir acceso a información,
+5 permisos, servidumbres, coordinación de obras, revisión de proyectos, cumplimiento
+6 ambiental y cualquier otro asunto necesario para adelantar el Programa Estratégico.
+7 Artículo 27.- Permisos y Cumplimiento Ambiental.
+8 Nada en esta Ley exime a AFI, la AAA o sus contratistas del cumplimiento con
+9 leyes y reglamentos ambientales, de permisos, seguridad, salud, preservación histórica,
+10 adquisición de terrenos, servidumbres o cualquier otro requisito aplicable. No obstante,
+11 las agencias pertinentes deberán atender de manera prioritaria las solicitudes
+12 relacionadas con el Programa Estratégico, conforme a la importancia crítica del sistema.
+13 Artículo 28.- Emergencias.
+14 Si durante la Evaluación Integral o la implantación del Programa Estratégico se
+15 identifica una condición que represente riesgo inminente para la continuidad del servicio,
+16 la salud pública o la seguridad del sistema, AFI notificara inmediatamente a la AAA, al
+17 Gobernador de Puerto Rico y a las agencias pertinentes. AFI y la AAA podrán adoptar
+18 medidas de emergencia conforme a sus facultades legales para atender dicha condición.
+19 Artículo 29.- Reglamentación.
+20 La AFI podrá adoptar reglamentos, guías, ordenes administrativas, manuales de
+21 procedimiento o normas internas necesarias para implantar esta Ley. La AAA deberá
+
+21
+1 adoptar o revisar sus procedimientos internos para asegurar consistencia con el
+2 Programa Estratégico y el Plan Maestro de Gestión de Activos.
+3 Artículo 30.- Interpretación.
+4 Esta Ley se interpretará liberalmente para adelantar sus propósitos de seguridad
+5 hídrica, preservación de infraestructura crítica, resiliencia operacional, desarrollo
+6 económico y protección del interés público. Nada en esta Ley se interpretará como una
+7 limitación a las facultades existentes de AFI o de la AAA, salvo en la medida
+8 expresamente dispuesta.
+9 Artículo 31.- Separabilidad.
+10 Si cualquier clausula, párrafo, subpárrafo, artículo, disposición o parte de esta Ley
+11 fuere declarada nula o inconstitucional por un tribunal con jurisdicción competente,
+12 dicha determinación no afectara, perjudicara ni invalidara las restantes disposiciones de
+13 esta Ley. El efecto de dicha determinación quedara limitado a la cláusula, párrafo,
+14 subpárrafo, artículo, disposición o parte declarada nula o inconstitucional.
+15 Artículo 32.- Vigencia.
+16 Esta Ley comenzara a regir inmediatamente después de su aprobación.
