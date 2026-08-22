@@ -1,0 +1,238 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 4 ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. C. del S. 203
+19 de agosto de 2026
+Presentada por la señora Santiago Negrón y el señor González Costa
+Referida a la Comisión de
+RESOLUCIÓN CONJUNTA
+Para declarar un Estado de Emergencia en el sistema de educación pública de Puerto
+Rico, con el fin de dar prioridad a la alfabetización del estudiantado en la
+planificación y ejecución de los procesos de enseñanza y aprendizaje sobre los
+estándares y expectativas ordinarias establecidos por el Departamento de Educación,
+hasta que se subsane el rezago reflejado en las destrezas de lectoescritura a raíz de
+los huracanes, los sismos, las medidas de austeridad institucional, la pandemia
+vinculada al COVID–19 y el sobreestímulo efectuado por los dispositivos
+electrónicos entre la niñez.
+EXPOSICIÓN DE MOTIVOS
+Expone la UNESCO que, a partir del siglo XIX, la alfabetización dejó de concebirse
+como una herramienta exclusiva de la burocracia estatal, la banca y la iglesia, para
+transformarse en una destreza obligatoria para la vida en sociedad. Desde entonces, la
+alfabetización adecuada y oportuna es esencial para la creación y perpetuación de
+estructuras de movilidad social, el mantenimiento del orden social, la promoción de la
+acción cultural, política o económica, así como para garantizar el acceso a la adquisición
+y creación del conocimiento. Como consecuencia, sin destrezas de lectoescritura
+
+2
+suficientes es menos probable que la ciudadanía ejerza control y gobierne a través de las
+instituciones democráticas, o que enfrente obstáculos y supere estigmas sociales.1
+A su vez, los estudios en pedagogía han demostrado consistentemente que el
+desarrollo oportuno de las destrezas de lectoescritura es un factor determinante que,
+unido a la situación socioeconómica, matiza el éxito académico del estudiantado a lo
+largo de su carrera escolar y más allá. El contexto educativo presente de Puerto Rico es
+reflejo de cómo los embates continuos de huracanes, terremotos, epidemias, trabas
+burocráticas (locales y federales) y las medidas de austeridad impuestas por la Junta de
+Control Fiscal no sólo han redundado en la precarización material de las comunidades
+escolares del sistema público, sino que han generado una evidente recesión académica
+que amerita una intervención profunda e inmediata para garantizar la adquisición de las
+destrezas básicas. Al listado de fenómenos nocivos, inequidades sociales y políticas
+inefectivas para atender la crisis se suma la innegable realidad de que la niñez del siglo
+XXI se encuentra bajo el sobreestímulo constante de la tecnología informática. Según el
+informe de un equipo denominado Global Education Monitoring de la UNSECO, los efectos
+adversos de las redes sociales y otras plataformas digitales en la capacidad de
+concentración del estudiantado han contribuido a un aumento en el analfabetismo
+funcional.2
+En los Estados Unidos, un grupo de académicos de las universidades de Stanford,
+Harvard y Dartmouth College han estado evaluando las estadísticas de aprovechamiento
+académico a nivel nacional desde el 2013. En un estudio de publicación reciente, el grupo
+halló que “[e]n lectura, la pérdida promedio anual de rendimiento antes de la pandemia
+(2017-2019) fue igual de grande que durante la misma (2019-2022). Posteriormente, el
+rendimiento en matemáticas se recuperó de inmediato… Sin embargo, en lectura, el
+rendimiento continuó disminuyendo durante [el] 2024”.3 En Puerto Rico, el
+1 UNESCO Institute for Education, Functional illiteracy in industrialized countries: an analytical bibliography. Accedido el
+18 de octubre de 2022 desde: https://unesdoc.unesco.org/ark:/48223/pf0000077067.
+2 Véase, además, UN News, UNESCO education report advises appropriate use of technology in schools, 26 de julio de 2023:
+https://news.un.org/en/story/2023/07/1139122.
+3 Díaz Ramos, supra, n. 1.
+
+3
+Departamento de Educación (DEPR) ha tenido constancia de la emergente recesión del
+aprendizaje desde, al menos, el 2018.4 El patrón de disminución en el dominio de
+destrezas de lectoescritura se detalla en un estudio publicado por el Instituto de
+Estadísticas y la Fundación Flamboyán ese mismo año. El estudio, que recomendó “crear
+un sistema comprensivo e integral de avalúo del progreso de la lectura para los grados
+K-3” identifica dificultades, tanto en la mecánica y fluidez como en la comprensión
+lectora.
+La situación en Vieques se destaca como ejemplo. En el 2022, la Comisión Especial
+para la Monitoría Legislativa del Programa de Educación Especial del Departamento de Educación
+del Senado recibió testimonios sobre el estado de situación de los servicios de Educación
+Especial provistos por el DEPR en la isla-municipio. Allí, la Comisión Especial constató que
+“[e]n Vieques hay una proporción inaudita de estudiantes de la corriente regular,
+promovidos hasta el sexto grado, que no tienen destrezas de lectoescritura”.5 La
+información fue corroborada posteriormente por la Dra. Jessica Díaz Vázquez, entonces
+Secretaria Asociada de Educación Especial, quien afirmó que la agencia es consciente del
+terrible rezago en la alfabetización del estudiantado viequense, especialmente con
+posterioridad al impacto de los huracanes Irma y María.
+Este hallazgo es consistente con lo reconocido públicamente por el Secretario de
+Educación, Lcdo. Eliezer Ramos Parés, y con datos reseñados por los medios de prensa
+para el contexto general de Puerto Rico, que señalan que para el año escolar 2020-2021,
+luego del comienzo de la pandemia del COVID–19 y tras la transición a la educación en
+línea, el 51 por ciento del estudiantado de nivel elemental no dominaba las destrezas de
+su grado, siendo las estudiantes de entre primer y tercer grado las más afectadas.6 De
+4 Id.
+5 Noveno Informe Parcial sobre la Resolución del Senado 42 de la Comisión Especial para la Monitoría Legislativa del
+Programa de Educación Especial del Departamento de Educación. Radicado el 14 de octubre de 2022.
+6 Véanse, Keila López Alicea, Ofrecen guía para atender el rezago en la lectoescritura. EL NUEVO DÍA, 4 de septiembre de
+2022. Accedido desde: https://www.elnuevodia.com/noticias/locales/notas/ofrecen-guia-para-atender-el-rezago-
+en-la-lectoescritura/.
+CyberNews, Educación dice que tendrá que competir con "influencers" para que los niños aprendan a leer. NOTICEL, 1 de
+septiembre de 2022. Accedido desde: https://www.noticel.com/educacion/ahora/20220901/educacion-dice-que-
+tendra-que-competir-con-influencers-para-que-los-ninos-aprendan-a-leer/.
+
+4
+hecho, en Puerto Rico, más de la mitad de los niños no salen del tercer grado con las
+destrezas de lectoescritura que necesitan para desarrollarse, expone la Dra. Ángeles
+Molina Urrondo, especialista en lectoescritura y exdecana de la Facultad de Educación
+en la Universidad de Puerto Rico, Recinto de Río Piedras.7
+A partir del año escolar 2022-2023, el DEPR instituyó algunas iniciativas con miras
+a subsanar la situación. Entre otras, se incluyó la evaluación periódica de las destrezas de
+lectoescritura; sin embargo, la agencia no ha logrado producir una mejoría significativa.
+En la subprueba de fluidez administrada durante el año pasado (2024-2025), sólo el 14%
+del estudiantado de primer grado alcanzó el estándar establecido por el Departamento
+de Educación, definido como la lectura de al menos 50 palabras por minuto. En segundo
+grado, el 20% alcanzó el estándar de 80 palabras por minuto. Por último, el 39 % del
+estudiantado de tercer grado alcanzó el estándar de 90 palabras por minuto.8 En la
+subprueba de recuento –cuyo propósito es evaluar si el estudiantado comprende lo que
+lee– fueron los estudiantes de primer grado quienes mostraron el mayor rezago,
+obteniendo una puntuación promedio de 1.8, por debajo del 50%, en una escala cuya
+puntuación máxima es de cuatro puntos.
+El 21 de octubre de 2022 se radicó ante la Decimonovena Asamblea Legislativa la
+Resolución Conjunta del Senado Núm. 348, cuyo propósito era declarar un estado de
+emergencia en el sistema de educación pública de Puerto Rico, con el fin de dar prioridad
+a la alfabetización del estudiantado en la planificación y ejecución de los procesos de
+enseñanza y aprendizaje sobre los estándares y expectativas ordinarias establecidos por
+el Departamento de Educación, hasta que se subsanara el rezago reflejado en las destrezas
+de lectoescritura a raíz de los huracanes, sismos, medidas de austeridad institucional y la
+pandemia vinculada al COVID–19. A pesar de haber sido aprobada en ambas cámaras,
+la pieza nunca fue remitida a la consideración del gobernador por razones que no surgen
+del tracto legislativo registrado en la plataforma de la Oficina de Servicios Legislativos.
+7 Yocahu Noticias, Ofrecen guía para atender el rezago en la lectoescritura. Publicado el 5 de septiembre de 2022. Accedido
+desde: Ofrecen guía para atender el rezago en la lectoescritura: Noticias de Puerto Rico (yocahu.net).
+8 Díaz Ramos, supra, n. 1.
+
+5
+Trascurridos varios años, la emergencia es más patente que nunca. “Para nosotros en la
+Asociación de Maestros de Puerto Rico, el rezago lector lo interpretamos como una
+emergencia educativa y de país”, afirmó el vicepresidente del sindicato, Raúl González
+Colón al Centro de Periodismo Investigativo en un reportaje de 9 de junio de 2026.9
+Resulta especialmente preocupante que, aun con plena conciencia de esta
+situación, se continúe imponiendo la enseñanza estandarizada y el mandato del DEPR en
+el sentido de que las maestras cubran el material correspondiente al grado. Hay
+testimonios documentados de maestras que exponen que la agencia les prohíbe dedicar
+su clase a cubrir rezagos en lectura y escritura,10 aunque una proporción significativa del
+grupo apenas puede leer y escribir.11 Esas destrezas fundamentales se atienden en
+programas de horario extendido o periodos aislados.
+No existe justificación pedagógica para que se replique ese apego irracional y
+dañino a la estandarización entre las comunidades escolares, cuyo único resultado es una
+proyección artificial de los niveles de aprovechamiento. Igualmente, es insensible e
+inmoral continuar imponiendo los estándares y expectativas ordinarios a estudiantes que
+no están listas para afrontarlos. Hasta hoy, las maestras han quedado atrapadas por la
+política intransigente de estandarización. Por tanto, se impone –tanto para salvaguardar
+los principios democráticos como las aspiraciones de movilidad social del Pueblo– la
+necesidad ineludible de que el Gobierno decrete un Estado de Emergencia que autorice
+al DEPR a dejar en suspenso los estándares y expectativas ordinarias establecidos por la
+agencia, hasta que se subsane el rezago reflejado en las destrezas de lectoescritura a raíz
+de los huracanes, los sismos, las medidas de austeridad institucional, la pandemia
+9 Tatiana Díaz Ramos, Mínimo el progreso en las destrezas de lectura en grados primarios para niños en escuela pública, 9 de
+junio de 2026. METRO: https://www.metro.pr/noticias/2026/06/09/minimo-el-progreso-en-las-destrezas-de-
+lectura-en-grados-primarios-para-ninos-en-escuela-publica/.
+10 Noveno Informe Parcial sobre la R. del S. 42, supra, n. 2.
+11 La política aludida por la maestra se recoge, en parte, en el Artículo 2.12(b) de la Ley 85-2018, según enmendada,
+donde se reglamenta lo pertinente a la “Autonomía Docente del Maestro”. Su segundo párrafo dispone: “La autonomía
+docente del maestro se referirá siempre a los temas comprendidos en los cursos que imparte, no a temas o materias
+marginales a los mismos. Los reglamentos reconocerán la autoridad de los maestros para mantener el orden en sus
+salas de clases. La autonomía docente que aquí se reconoce, no excusará al maestro de cubrir su curso según éste se
+establece en el currículo del sistema educativo”.
+
+6
+vinculada al COVID–19 y el sobreestímulo efectuado por los dispositivos electrónicos
+entre la niñez.
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Reconociendo que la alfabetización es un derecho humano, que las
+2 destrezas de lectura y escritura constituyen competencias puntuales para el éxito
+3 académico y el desarrollo personal a través de la vida, y que es urgente eliminar las
+4 barreras que enfrenta nuestro estudiantado en la comprensión lectora en su vernáculo; se
+5 declara un Estado de Emergencia en el sistema de educación pública de Puerto Rico con
+6 el fin de dar prioridad, en la planificación y ejecución de los procesos de enseñanza y
+7 aprendizaje, a la alfabetización del estudiantado sobre los estándares y expectativas
+8 ordinarias establecidos por el Departamento de Educación, hasta que se subsane el
+9 rezago reflejado en las destrezas de lectoescritura a raíz de los huracanes, los sismos, las
+10 medidas de austeridad institucional, la pandemia vinculada al COVID–19 y el
+11 sobreestímulo efectuado por los dispositivos electrónicos entre la niñez.
+12 Sección 2.- El Estado de Emergencia declarado en la Sección 1 de esta Resolución
+13 Conjunta se mantendrá vigente en cada escuela operada, administrada o supervisada por
+14 el Departamento de Educación hasta que se demuestre, a satisfacción de la mayoría de
+15 las personas que integren el Consejo Escolar local, según se define este cuerpo en la Ley
+16 85-2018, según enmendada, que se ha subsanado el rezago reflejado en las destrezas de
+17 lectoescritura a raíz de los huracanes, sismos, medidas de austeridad institucional y la
+18 pandemia vinculada al COVID–19.
+
+7
+1 Sección 3.- Mientras se mantenga vigente el Estado de Emergencia, las escuelas
+2 operadas, administradas o supervisadas por el Departamento de Educación tendrán la
+3 facultad de, en el ejercicio de su autonomía:
+4 1. establecer, con la colaboración del personal docente, metas internas de
+5 alfabetización a base de objetivos medibles a corto plazo y a largo plazo,
+6 incluyendo conciencia fonológica, fluidez y comprensión, con la expectativa
+7 recomendada de lograr que al menos 80% del estudiantado ubicado entre el
+8 primero y el octavo grado logre el dominio de las destrezas de lectura y
+9 escritura de su grado;
+10 2. reenfocar el currículo, los materiales didácticos y las estrategias diferenciadas
+11 en los cursos pertinentes y susceptibles de ajuste para el desarrollo de destrezas
+12 de lectoescritura en atención a las necesidades particulares de la comunidad,
+13 su composición sociodemográfica y los intereses y aspiraciones del
+14 estudiantado;
+15 3. procurar del Departamento de Educación la provisión de literatura infantil y
+16 juvenil, así como materiales de enriquecimiento lingüístico, identificados y
+17 propuestos por el magisterio especialista (sin exclusión del personal
+18 bibliotecario) que resulten pertinentes a las necesidades y aspiraciones del
+19 estudiantado;
+20 4. fortalecer y enriquecer los ambientes escolares con actividades de lectura y
+21 escritura enriquecidas, a ser articuladas en los espacios de tiempo lectivo y
+22 extracurricular;
+
+8
+1 5. aumentar las actividades escolares grupales y comunitarias en las que la
+2 lectura y escritura sean protagonistas, fomentando la colaboración e
+3 interacción entre estudiantes en actividades de escritura creativa, proyectos
+4 grupales y discusiones literarias a través de las cuales puedan beneficiarse del
+5 intercambio de ideas;
+6 6. estimular la creación y publicación de literatura infantil y juvenil
+7 puertorriqueña entre docentes, estudiantes y público en general en modalidad
+8 impresa o cibernética;
+9 7. procurar del Departamento de Educación la provisión de tutoras especialistas
+10 en lectura que apoyen a los docentes; y
+11 8. procurar del Departamento de Educación la provisión de talleres de educación
+12 continua y formación profesional sobre la implementación de estrategias
+13 pedagógicas para el desarrollo de destrezas de lectoescritura.
+14 Sección 4.- Nada de lo dispuesto en esta Resolución Conjunta podrá interpretarse
+15 de forma que incida negativamente sobre los derechos reconocidos al estudiantado
+16 registrado, o con derecho a registrarse, en el Programa de Educación Especial.
+17 Sección 5.- Cláusula de separabilidad
+18 Si alguna de las disposiciones de esta Resolución Conjunta o su aplicación fuere
+19 declarada inconstitucional o nula, tal dictamen de invalidez o nulidad no afectará la
+20 ejecutabilidad y vigor de las restantes disposiciones que no hayan sido objeto de
+21 dictamen adverso.
+
+9
+1 Sección 6.- Esta Resolución Conjunta entrará en vigor inmediatamente después de
+2 su aprobación.
