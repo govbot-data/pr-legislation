@@ -94,23 +94,25 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:18Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2026-08-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Sol Y. Higgins Cuadrado - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Swanny  E. Vargas Laureano - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Sol Y. Higgins Cuadrado - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "\u00c1ngel  A. Fourquet Cordero - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"\\u00c1ngel  A. Fourquet Cordero - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Swanny  E. Vargas Laureano - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -122,19 +124,27 @@
       "organization_id": null
     },
     {
-      "name": "Swanny  E. Vargas Laureano - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Swanny  E. Vargas Laureano - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "\u00c1ngel  A. Fourquet Cordero - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel  A. Fourquet Cordero - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sol Y. Higgins Cuadrado - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sol Y. Higgins Cuadrado - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -190,7 +200,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:26Z",
+    "logs_latest_update": "2026-08-22T05:34:57Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-08-08T06:12:57.958234Z"

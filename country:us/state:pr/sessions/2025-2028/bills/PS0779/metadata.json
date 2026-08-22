@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0779",
-  "title": "Para enmendar la Ley 107-2020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Municipal\nde Puerto Rico\u201d en sus Art\u00edculos 3.045 y 3.047 para a\u00f1adir un nuevo inciso (b), a los\nfines de ampliar las facultades de los municipios en cuanto al recogido, manejo y\ntransportaci\u00f3n de neum\u00e1ticos desechados, en particular, cuando un municipio\ndecida ejercer funciones como transportista de neum\u00e1ticos desechados, para una\nejecuci\u00f3n m\u00e1s efectiva de los deberes, funciones municipales y la consecuci\u00f3n de\nmayor autonom\u00eda; y otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 3.045 y 3.047 de la Ley 107-2020, seg\u00fan enmendada, conocida como \"C\u00f3digo Municipal de Puerto Rico\" a los fines de ampliar las facultades de los municipios en cuanto al recogido, manejo y transportaci\u00f3n de neum\u00e1ticos desechados, en particular, cuando un municipio decida ejercer funciones como transportista de neum\u00e1ticos desechados, para una ejecuci\u00f3n m\u00e1s efectiva de los deberes, funciones municipales y la consecuci\u00f3n de mayor autonom\u00eda; y otros fines relacionados",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -356,9 +356,35 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:19Z"
       }
+    },
+    {
+      "description": "Ley 192-2026",
+      "date": "2026-08-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -376,19 +402,11 @@
       "organization_id": null
     },
     {
-      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -400,19 +418,11 @@
       "organization_id": null
     },
     {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -538,6 +548,17 @@
       ],
       "date": "2026-06-29",
       "classification": ""
+    },
+    {
+      "note": "Ley 192-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159050/Ley 192-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -556,7 +577,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-22T05:34:57Z",
     "text_extraction_latest_update": "2026-07-22T02:53:07.511155Z"
   }
 }

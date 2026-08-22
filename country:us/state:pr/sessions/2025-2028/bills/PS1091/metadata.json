@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS1091",
-  "title": "Para enmendar el Art\u00edculo 4 de la Ley 205-2004, seg\u00fan enmendada, conocida como \u201cLey\nOrg\u00e1nica del Departamento de Justicia\u201d; a los fines de aclarar que las agencias de\nla Rama Ejecutiva podr\u00e1n comparecer antes los foros administrativos,\nrepresentados por empleados de la Agencia, o por personal contratado por\nservicios profesionales; realizar enmiendas t\u00e9cnicas; y para otros fines\nrelacionados.",
+  "title": "Para enmendar el Art\u00edculo 4 de la Ley 205-2004, seg\u00fan enmendada, conocida como \"Ley Org\u00e1nica del Departamento de Justicia\", a los fines de aclarar que las agencias de la Rama Ejecutiva podr\u00e1n comparecer ante los foros administrativos, representados por abogados empleados de la agencia, o por personal contratado por servicios profesionales; realizar enmiendas t\u00e9cnicas; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -332,23 +332,25 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:19Z"
       }
+    },
+    {
+      "description": "Ley 194-2026",
+      "date": "2026-08-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -360,11 +362,11 @@
       "organization_id": null
     },
     {
-      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -381,6 +383,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -517,6 +527,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Ley 194-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160500/Ley 194-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -535,7 +556,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:24Z",
+    "logs_latest_update": "2026-08-22T05:34:57Z",
     "text_extraction_latest_update": "2026-07-22T05:32:35.964405Z"
   }
 }

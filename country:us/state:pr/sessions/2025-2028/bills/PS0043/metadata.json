@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0043",
-  "title": "Para insertar un nuevo inciso (d) y renumerar los incisos subsiguientes del Art\u00edculo\n1540 y para derogar el inciso (g) del Art\u00edculo 1541 de la Ley 55-2020, conocida como\n\"C\u00f3digo Civil de Puerto Rico\", a los fines de aclarar que las instituciones de cuidado\nde salud responder\u00e1n vicariamente y no objetivamente por los da\u00f1os que causan\npersonas que operan franquicias exclusivas de servicios de salud en dichas\ninstituciones o por los da\u00f1os causados por personal de la instituci\u00f3n a un paciente\nque accede directamente sin referido de un m\u00e9dico primario; y para otros fines\nrelacionados.",
+  "title": "Para insertar un nuevo inciso (d) y renumerar los incisos subsiguientes del Art\u00edculo 1540 y para derogar el inciso (g) del Art\u00edculo 1541 de la Ley N\u00fam. 55-2020, seg\u00fan enmendada, conocida como \"C\u00f3digo Civil de Puerto Rico\", a los fines de aclarar que las instituciones de cuidado de salud responder\u00e1n vicariamente y no objetivamente por los da\u00f1os que causan personas que operan franquicias exclusivas de servicios de salud en dichas instituciones o por los da\u00f1os causados por personal de la instituci\u00f3n a un paciente que accede directamente; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -394,15 +394,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:27Z"
       }
+    },
+    {
+      "description": "Ley 191-2026",
+      "date": "2026-08-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -414,11 +432,11 @@
       "organization_id": null
     },
     {
-      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -427,14 +445,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -560,6 +570,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Ley 191-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152433/Ley 191-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -578,7 +599,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:28Z",
+    "logs_latest_update": "2026-08-22T05:34:57Z",
     "text_extraction_latest_update": "2026-08-08T06:08:16.916406Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS1031",
-  "title": "Para enmendar el Art\u00edculo 15 de la Ley 75-2019, conocida como \u201cLey de la Puerto Rico\nInnovation and Technology Service\u201d con el fin de establecer la publicaci\u00f3n de\nproyectos tecnol\u00f3gicos activos bajo la jurisdicci\u00f3n del Puerto Rico Innovation and\nTechnology Service (PRITS); y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 16 de la Ley 75-2019, seg\u00fan enmendada, conocida como \"Ley de la Puerto Rico Innovation and Technology Service\" con el fin de establecer la publicaci\u00f3n de proyectos tecnol\u00f3gicos activos bajo la jurisdicci\u00f3n del Puerto Rico Innovation and Technology Service (PRITS); y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -278,6 +278,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:20Z"
       }
+    },
+    {
+      "description": "Ley 190-2026",
+      "date": "2026-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -401,6 +411,17 @@
       ],
       "date": "2026-06-29",
       "classification": ""
+    },
+    {
+      "note": "Ley 190-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160229/Ley 190-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -419,7 +440,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:21Z",
+    "logs_latest_update": "2026-08-22T05:34:57Z",
     "text_extraction_latest_update": "2026-07-22T03:08:10.514627Z"
   }
 }

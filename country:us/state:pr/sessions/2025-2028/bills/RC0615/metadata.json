@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0615",
-  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Norte de la C\u00e1mara de Representantes del Gobierno de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre la crisis en el suministro de servicios esenciales de agua potable y energ\u00eda el\u00e9ctrica que afecta al municipio de Barceloneta; evaluar la respuesta de la Autoridad de Acueductos y Alcantarillados (AAA) y de LUMA Energy ante las aver\u00edas recurrentes; indagar sobre la efectividad de los protocolos de comunicaci\u00f3n y atenci\u00f3n de querellas; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Norte de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre la crisis en el suministro de servicios esenciales de agua potable y energ\u00eda el\u00e9ctrica que afecta al Municipio de Barceloneta; evaluar la respuesta de la Autoridad de Acueductos y Alcantarillados (AAA) y de LUMA Energy ante las aver\u00edas recurrentes; indagar sobre la efectividad de los protocolos de comunicaci\u00f3n y atenci\u00f3n de querellas; y los efectos de dicha crisis sobre la salud, la seguridad y la calidad de vida de los residentes del Municipio de Barceloneta; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:10:10Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -184,6 +196,17 @@
       ],
       "date": "2026-08-12",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160492/RC0615-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -202,7 +225,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:10:10Z",
+    "logs_latest_update": "2026-08-22T05:34:57Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-08-21T07:13:03.636400Z"

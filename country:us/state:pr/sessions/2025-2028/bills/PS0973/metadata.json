@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0973",
-  "title": "Para establecer la \u201cLey para la Protecci\u00f3n Econ\u00f3mica de Menores que realizan contenido\ndigital monetizado\u201d a los fines de establecer la obligaci\u00f3n de reservar ingresos en un\nfondo a favor de los menores que aparezcan de forma sustancial en contenido digital\nmonetizado; establecer definiciones, mecanismos de fiscalizaci\u00f3n, remedios; y para\notros fines relacionados.",
+  "title": "Para establecer la \"Ley para la Protecci\u00f3n Econ\u00f3mica de Menores en la Monetizaci\u00f3n Digital\", a los fines de establecer la obligaci\u00f3n de reservar ingresos en un fondo a favor de los menores que aparezcan de forma sustancial en contenido digital monetizad\u043e; establecer definiciones, mecanismos de fiscalizaci\u00f3n, y remedios especiales; y para otros fines relacionados",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -278,31 +278,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:20Z"
       }
+    },
+    {
+      "description": "Ley 193-2026",
+      "date": "2026-08-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "H\u00e9ctor  J. S\u00e1nchez \u00c1lvarez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
-      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Nitza  Moran Trinidad - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Nitza  Moran Trinidad - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -314,19 +316,11 @@
       "organization_id": null
     },
     {
-      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -338,11 +332,27 @@
       "organization_id": null
     },
     {
-      "name": "Nitza  Moran Trinidad - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Nitza  Moran Trinidad - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen M. Rom\u00e1n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karen M. Rom\\u00e1n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "H\u00e9ctor  J. S\u00e1nchez \u00c1lvarez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -451,6 +461,17 @@
       ],
       "date": "2026-06-15",
       "classification": ""
+    },
+    {
+      "note": "Ley 193-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159806/Ley 193-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-19",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -469,7 +490,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:28Z",
+    "logs_latest_update": "2026-08-22T05:34:57Z",
     "text_extraction_latest_update": "2026-07-22T06:27:42.231322Z"
   }
 }

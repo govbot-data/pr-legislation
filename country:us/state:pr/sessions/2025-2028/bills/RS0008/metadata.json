@@ -102,6 +102,38 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:21Z"
       }
+    },
+    {
+      "description": "2do Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -156,6 +188,28 @@
       ],
       "date": "2025-05-08",
       "classification": ""
+    },
+    {
+      "note": "2do Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152967/rs0008-Inf (2do).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152967/rs0008-ent (2do).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -174,7 +228,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:21Z",
+    "logs_latest_update": "2026-08-22T05:34:57Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-08-08T06:21:04.916335Z"

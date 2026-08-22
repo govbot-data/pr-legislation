@@ -50,9 +50,35 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:18Z"
       }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2026-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Jos\u00e9 A. Santiago Rivera - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jos\\u00e9 A. Santiago Rivera - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis J. Hern\u00e1ndez Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis J. Hern\\u00e1ndez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Jos\u00e9 Luis  Dalmau Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -76,22 +102,6 @@
       "primary": true,
       "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
-    },
-    {
-      "name": "Luis J. Hern\u00e1ndez Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Luis J. Hern\\u00e1ndez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jos\u00e9 A. Santiago Rivera - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jos\\u00e9 A. Santiago Rivera - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -105,6 +115,17 @@
         }
       ],
       "date": "2026-06-24",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161567/rs0553-Inf (negativo).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
       "classification": ""
     }
   ],
@@ -124,7 +145,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:18Z",
+    "logs_latest_update": "2026-08-22T05:34:57Z",
     "text_extraction_latest_update": "2026-07-22T05:07:39.165867Z"
   }
 }

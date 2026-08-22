@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS1024",
-  "title": "Para enmendar la Secci\u00f3n 1, 2 y 4 de la Ley N\u00fam. 17 de 10 de junio de 1939, seg\u00fan\nenmendada, con el prop\u00f3sito de armonizar sus disposiciones con los\npronunciamientos del Tribunal Supremo federal; y para otros fines relacionados.",
+  "title": "Para enmendar las Secciones 1, 2 y 4 de la Ley N\u00fam. 17 de 10 de junio de 1939, seg\u00fan enmendada, con el prop\u00f3sito de eliminar el requisito de residencia de doce meses previo a solicitar admisi\u00f3n de la abogac\u00eda; eliminar la disposici\u00f3n vigente que contempla la admisi\u00f3n sin examen de ciertos abogados admitidos en otras jurisdicciones; crear una Junta Especial para el Estudio de la Reciprocidad Profesional en la Abogac\u00eda y del Examen de Rev\u00e1lida, adscrita al Tribunal\nSupremo de Puerto Rico; y para otros fines relacionados",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -292,6 +292,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:19Z"
       }
+    },
+    {
+      "description": "Ley 189-2026",
+      "date": "2026-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -304,19 +314,19 @@
       "organization_id": null
     },
     {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -455,6 +465,17 @@
       ],
       "date": "2026-06-19",
       "classification": ""
+    },
+    {
+      "note": "Ley 189-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160212/Ley 189-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -473,7 +494,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:22Z",
+    "logs_latest_update": "2026-08-22T05:34:57Z",
     "text_extraction_latest_update": "2026-07-22T06:47:39.949757Z"
   }
 }

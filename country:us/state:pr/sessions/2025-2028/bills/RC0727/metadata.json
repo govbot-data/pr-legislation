@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0727",
-  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Norte de la C\u00e1mara de Representantes del Gobierno de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre el estado, la condici\u00f3n y el funcionamiento del sistema de alumbrado p\u00fablico de la carretera estatal PR-2 en el tramo comprendido entre los municipios de Manat\u00ed y Barceloneta; evaluar las causas de las deficiencias y apagones, las responsabilidades y los planes de mantenimiento, reparaci\u00f3n y reposici\u00f3n de las luminarias por parte del Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP), la Autoridad de Carreteras y Transportaci\u00f3n (ACT) y la entidad a cargo del servicio de energ\u00eda el\u00e9ctrica; identificar los fondos disponibles y las medidas necesarias para garantizar la seguridad de conductores y peatones en dicho tramo; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Norte de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre los problemas recurrentes de funcionamiento, mantenimiento y reparaci\u00f3n del alumbrado p\u00fablico de la carretera estatal PR-2 en el tramo comprendido entre los municipios de Manat\u00ed y Barceloneta; la respuesta y gesti\u00f3n del Departamento de Transportaci\u00f3n y Obras P\u00fablicas, la Autoridad de Carreteras y Transportaci\u00f3n y la entidad a cargo del servicio de energ\u00eda el\u00e9ctrica ante estas deficiencias, y los efectos de dicha problem\u00e1tica en la seguridad vial y la calidad de vida de los residentes y transe\u00fantes de dichos municipios; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:10:10Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T05:34:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -184,6 +196,17 @@
       ],
       "date": "2026-07-08",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161490/RC0727-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -202,7 +225,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:10:10Z",
+    "logs_latest_update": "2026-08-22T05:34:57Z",
     "text_extraction_latest_update": "2026-08-21T07:13:06.264794Z"
   }
 }
