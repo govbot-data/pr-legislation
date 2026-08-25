@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "NM0453",
-  "title": "Ing. Omar M. Rodr\u00edguez Gonz\u00e1lez como Comisionado Asociado del Negociado de Energ\u00eda de Puerto Rico.",
+  "title": "Omar M. Rodr\u00edguez Gonz\u00e1lez, MEng, como Comisionado Asociado del Negociado de Energ\u00eda de Puerto Rico.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "appointment"
@@ -36,6 +36,16 @@
       "_processing": {
         "log_file_created": "2026-08-18T05:34:35Z"
       }
+    },
+    {
+      "description": "Nombramiento enmendado",
+      "date": "2026-08-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T05:48:54Z"
+      }
     }
   ],
   "sponsorships": [],
@@ -50,6 +60,17 @@
         }
       ],
       "date": "2026-08-14",
+      "classification": ""
+    },
+    {
+      "note": "Nombramiento enmendado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161837/0453-Omar M. Rodr\u00edguez Gonz\u00e1lez, MEng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-24",
       "classification": ""
     }
   ],
@@ -69,7 +90,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T05:34:35Z",
+    "logs_latest_update": "2026-08-25T05:48:54Z",
     "text_extraction_latest_update": "2026-08-18T05:38:30.324223Z"
   }
 }
