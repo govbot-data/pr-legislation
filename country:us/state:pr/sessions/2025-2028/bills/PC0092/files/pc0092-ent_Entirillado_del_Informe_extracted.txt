@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+(ENTIRILLADO ELECTRÓNICO)
+(TEXTO DE APROBACIÓN FINAL POR LA CÁMARA)
+(22 DE JUNIO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 1ra. Sesión
+Legislativa Ordinaria
+CÁMARA DE REPRESENTANTES
+P. de la C. 92
+2 DE ENERO DE 2025
+Presentado por el representante Varela Fernández
+Referido a la Comisión de lo Jurídico
+LEY
+Para enmendar el inciso “b” de la Regla 51.7 de las Reglas de Procedimiento Civil, a los
+fines de fijar un tipo mínimo en las subastas en venta pública de bienes muebles e
+inmuebles cuando la deuda por cobrar no esté garantizada por hipoteca la acreencia
+objeto de ejecución no esté garantizada por una hipoteca, prenda, garantía mobiliaria u otro
+gravamen constituido sobre el bien objeto de la venta; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Dispone la Ley Núm. 210-2015, según enmendada, conocida como “Ley del
+Registro de la Propiedad Inmobiliaria del Estado Libre Asociado de Puerto Rico” que en
+la ejecución y cobro de un crédito hipotecario la escritura de constitución de hipoteca
+exprese el valor de la finca o derecho real hipotecado acordado entre las partes, para que
+sirva de tipo mínimo en la primera subasta a celebrarse. Disponía la ley anterior, Ley
+Hipotecaria de 1979, y lo dispone la vigente, tipos mínimos para la primera, segunda y
+tercera subasta del bien inmueble llevado a venta pública para cobrar el crédito
+hipotecario de que se trate.
+No ocurre lo mismo con la subasta en venta pública para ejecutar una sentencia en
+cobro de una acreencia cuando el bien subastado no está garantizado por una garantía real
+constituida sobre el bien objeto de la venta gravado como garantía hipotecaria de la deuda.
+
+2
+La Regla 51.7(b) de Procedimiento Civil solo dispone que la venta pública deberá efectuar
+por subasta “al mejor postor”. La Regla no establece un tipo mínimo para la venta de los
+bienes subastados, sean muebles o inmuebles.
+Esta circunstancia provocó una controversia larga y costosa en el caso S.L.G.
+Sánchez v. S.L.G. Valentín, 186 DPR 503 (2012). Allí, después que un acreedor por
+sentencia ejecutó una propiedad valorada en $475,000, adquiriéndola en subasta judicial
+por el precio de $50,000 acreditables a una sentencia de $325,000, el referido acreedor
+intentó cobrar de sus deudores la diferencia hasta el monto total de la sentencia. Dos años
+después de esa subasta, el caso retornó al tribunal para dilucidar, entre otras cosas, si en
+una subasta judicial para cobrar una deuda no garantizada con hipoteca tenía que fijarse
+por el tribunal un tipo mínimo para la venta en pública subasta.
+Expresamente el Tribunal Supremo se negó a aplicar por analogía la disposición
+de la Ley Hipotecaria de 1979 que requería fijación de tipo mínimo para la subasta judicial
+a la misma situación bajo las Reglas de Procedimiento Civil, por cuanto estas no requieren
+fijar el tipo mínimo de la venta judicial en ejecución de una sentencia.
+La falta de un tipo mínimo en la subasta de un bien inmueble no hipotecado se
+presta al enriquecimiento injusto y al abuso del acreedor contra el deudor, que podría
+adquirir una propiedad de gran valor por un precio irrisorio o, por lo menos, por un
+precio mucho menor que el valor del bien ejecutado. Esta situación tiene una solución:
+debe fijarse un tipo mínimo cuando el bien sea llevado a pública subasta. Esta Ley
+enmienda la Regla 51.7 (b) para proveer para la fijación del tipo mínimo.
+Es la intención legislativa que esta enmienda sea aplicable a bienes inmuebles y
+muebles, según es expresado en la misma.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.-Se enmienda el inciso “b” de la Regla 51.7 de las Reglas de Procedimiento
+2 Civil, según enmendada, para que se lea como sigue:
+3 “Regla 51.7. Ventas judiciales
+4 (a) …
+5 (b) Manera de hacer la venta. - La venta judicial de bienes en
+6 cumplimiento de una orden de ejecución podrá celebrarse después
+7 de catorce (14) días desde la primera publicación del edicto. Deberá
+
+3
+1 efectuarse por subasta al mejor postor y tendrá lugar entre las nueve
+2 de la mañana (9 a.m.) y las cinco de la tarde (5 p.m.). Una vez que se
+3 vendan bienes suficientes para cumplir la orden de ejecución, no se
+4 podrán vender bienes adicionales. El(La) oficial que cumpla la
+5 orden, su delegado(a) u otro(a) funcionario(a) o empleado(a) de
+6 cualquier sala, no podrá comprar ni participar directa o
+7 indirectamente en la compra de los bienes objeto de la venta. Cuando
+8 la venta sea de propiedad mueble, susceptible de entrega manual,
+9 ésta deberá estar a la vista de los postores y venderse por lotes que
+10 tengan probabilidad de alcanzar los precios más elevados. Cuando
+11 la venta sea de propiedad inmueble, consistente de varias parcelas o
+12 lotes conocidos, deberán venderse separadamente, pero si alguna
+13 porción de dicha propiedad inmueble se reclama por una tercera
+14 persona y ésta exige que dicha porción se venda separadamente,
+15 deberá venderse en la forma exigida. El(La) deudor(a) declarado(a)
+16 por sentencia podrá determinar el orden para la venta de la
+17 propiedad mueble o inmueble cuando esté compuesta de objetos que
+18 puedan venderse con ventaja separadamente, o de varias parcelas o
+19 lotes conocidos, y el alguacil o alguacila deberá ceñirse a sus
+20 instrucciones.
+21 Cuando la venta sea de propiedad inmueble, la deuda por
+22 cobrar no tenga garantía hipotecaria la acreencia objeto de la orden de
+
+4
+1 ejecución no esté garantizada por una hipoteca constituida sobre el
+2 inmueble objeto de la venta y el valor del inmueble haya quedado
+3 establecido en el procedimiento, o si se establece por consenso de las
+4 partes mediante determinación judicial o estipulación de las partes
+5 aprobada por el tribunal, ese valor será el tipo mínimo una vez
+6 establecido antes de la fecha de la subasta para la primera subasta,
+7 siempre que corresponda al justo valor en el mercado del inmueble y haya
+8 sido determinado dentro de los seis (6) meses anteriores a la fecha señalada
+9 para su celebración.
+10 Si el valor no está establecido y no hay consenso estipulación
+11 entre las partes sobre el valor, el tribunal ordenará que se practique
+12 una tasación por un tasador certificado y ese será el tipo mínimo
+13 para la subasta. No podrá aceptarse una oferta por un precio menor
+14 al tipo mínimo. Los costos de la tasación serán con cargo a las costas
+15 de ejecución.
+16 Cuando la venta sea de propiedad mueble, la deuda por cobrar
+17 no tenga garantía hipotecaria o de otra forma la acreencia objeto de la
+18 orden de ejecución no esté garantizada por una prenda, garantía mobiliaria
+19 u otro gravamen constituido sobre el bien objeto de la venta, y el valor del
+20 bien mueble haya quedado establecido en el procedimiento, o si se
+21 establece por consenso de las partes mediante determinación judicial o
+
+5
+1 estipulación de las partes aprobada por el tribunal, ese valor será el tipo
+2 mínimo una vez establecido antes de la fecha de para la subasta.
+3 Si el valor no está establecido y no hay consenso existe
+4 estipulación entre las partes sobre tal valor, el tribunal podrá ordenar,
+5 a su discreción, que se practique una tasación por un tasador
+6 certificado una persona debidamente cualificada para valorar esa clase de
+7 bien. Al ejercer su discreción, el tribunal considerará la naturaleza y
+8 condición del bien, su valor estimado, el costo de la tasación, su posible
+9 depreciación y el riesgo de que la venta al mejor postor produzca un precio
+10 manifiestamente inadecuado.
+11 y ese será El Tribunal determinará, a la luz del informe pericial, el
+12 tipo mínimo para la subasta. En ese caso, no podrá aceptarse una
+13 oferta por un precio menor al tipo mínimo. Los costos de la tasación
+14 serán con cargo a las costas de ejecución.
+15 En todos los casos de subastas de bienes muebles e inmuebles
+16 sin garantía hipotecaria comprendidos en los párrafos anteriores, el
+17 tribunal podrá tomar en consideración las deudas que graven la
+18 propiedad para modificar el valor del tipo mínimo, o el valor a ser
+19 acreditado a la deuda por sentencia del adquiriente, de haberlo.
+20 (c) …
+21 (d) …”
+22 Sección 2.- Separabilidad
+
+6
+1 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+2 disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta Ley
+3 fuera anulada o declarada inconstitucional, la orden a tal efecto dictada no afectará,
+4 perjudicará, ni invalidará el remanente de esta Ley.
+5 Sección 3.- Vigencia
+6 Esta Ley comenzará a regir inmediatamente después de su aprobación.

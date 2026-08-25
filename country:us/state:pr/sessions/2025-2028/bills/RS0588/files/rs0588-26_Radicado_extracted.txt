@@ -1,0 +1,192 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. del S. 588
+24 de agosto de 2026
+Presentada por el señor Molina Pérez
+Referida a la Comisión ________
+RESOLUCIÓN
+Para ordenar a la Comisión de Innovación, Reforma y Nombramientos del Senado de Puerto
+Rico a realizar una investigación exhaustiva sobre los contratos de gerencia,
+administración, ingeniería, supervisión y ejecución vinculados al Programa de
+Mejoras Capitales de la Autoridad de Acueductos y Alcantarillados de Puerto Rico;
+examinar el costo, alcance, enmiendas, desempeño, resultados y retorno de
+inversión de los principales gerentes de programa y contratistas; evaluar los
+mecanismos de contratación, fiscalización, facturación, supervisión y auditoría
+utilizados por la Autoridad; investigar la relación entre los recursos destinados a
+servicios de gerencia y el progreso físico y financiero de las obras; evaluar los
+controles aplicables a subcontratistas y subconsultores; examinar el cumplimiento
+con las leyes, reglamentos, requisitos federales y condiciones aplicables a fondos de
+FEMA, CDBG-DR y otras fuentes de financiamiento; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Autoridad de Acueductos y Alcantarillados de Puerto Rico (AAA) enfrenta uno
+de los mayores retos de infraestructura pública en la historia reciente de Puerto Rico. El
+deterioro acumulado de sus instalaciones, la necesidad de modernizar plantas de
+tratamiento y sistemas de distribución, el rezago en mantenimiento preventivo y los
+daños ocasionados por huracanes, terremotos y otros eventos naturales han aumentado
+
+2
+significativamente la necesidad de inversión para garantizar la continuidad,
+confiabilidad y resiliencia del servicio de agua potable y alcantarillado sanitario. El
+propio Gobierno de Puerto Rico ha reconocido la existencia de deficiencias de
+infraestructura y mantenimiento, así como la necesidad de acelerar proyectos de mejoras
+capitales para estabilizar el sistema.
+La infraestructura bajo la responsabilidad de la AAA comprende plantas de
+filtración y tratamiento de aguas usadas, estaciones de bombeo, embalses, sistemas de
+distribución, líneas de transmisión, sistemas de alcantarillado sanitario, instalaciones
+eléctricas y otros componentes esenciales para el funcionamiento de comunidades,
+hospitales, escuelas, comercios, industrias y demás actividades económicas. Los
+huracanes Irma y María agravaron significativamente las deficiencias existentes y,
+posteriormente, los terremotos, otros eventos atmosféricos, el aumento en los costos de
+construcción y otras circunstancias incrementaron aún más la necesidad de inversión
+pública.
+Como respuesta a estas necesidades, la AAA ha desarrollado un Programa de
+Mejoras Capitales (PMC) de gran magnitud, financiado mediante una combinación de
+recursos propios, financiamiento, fondos federales de recuperación y otras fuentes. La
+ejecución de este programa requiere coordinar múltiples etapas, incluyendo
+planificación, ingeniería, adquisición de terrenos, permisos, cumplimiento ambiental y
+reglamentario, diseño, contratación, construcción, supervisión, administración de
+contratos, pruebas, puesta en operación y cierre de proyectos.
+Ante la complejidad y magnitud del PMC, la AAA ha recurrido a empresas
+privadas especializadas en Administración de Programa, Ingeniería y Construcción para
+administrar y apoyar la ejecución de estas funciones. Entre los principales gerentes del
+programa se encuentran Black & Veatch Puerto Rico; Jacobs Caribe Engineers, P.S.C.;
+Arcadis Caribe; CSA Architects & Engineers, LLP; Acciona Agua Puerto Rico LLC y AB
+Agua Puerto Rico LLC.
+
+3
+La magnitud económica alcanzada por estos contratos hace necesaria una
+evaluación legislativa de su costo, evolución y resultados. De acuerdo con los
+documentos contractuales y registros públicos examinados, los cuatro contratos han
+experimentado aumentos sustanciales con respecto a sus cuantías originales. Black &
+Veatch pasó de tener un contrato de aproximadamente $9.02 millones a tener uno de
+$183.33 millones, después de las enmiendas -un incremento de aproximadamente 1,932%;
+Jacobs aumentó de aproximadamente $554 mil a $179.1 millones, un incremento cercano
+al 32,300%; CSA aumentó de aproximadamente $10.3 millones a $159.9 millones,
+equivalente a aproximadamente 1,452%; mientras que Arcadis aumentó de
+aproximadamente $5.2 millones a $131.8 millones, equivalente a aproximadamente
+2,435%.
+En conjunto, los máximos contractuales reportados para estas cuatro entidades
+alcanzan aproximadamente $654.1 millones, según el siguiente desglose:
+Contratista Contrato Original Máximo Contractual Incremento %
+Reportado
+Black & Veatch $9.02M $183.3M 1,932%
+Jacobs $0.55M $179.1M 32,300%
+CSA $10.3M $159.9M 1,452%
+Arcadis $5.2M $131.8M 2,435%
+AB Agua PR $136.8M $137.8M 1.88%
+Acciona Agua PR $152.1M Recién adjudicado N/A
+
+4
+Estas cantidades representan techos o máximos contractuales reportados y no
+necesariamente desembolsos efectivos. La existencia de un máximo contractual no
+significa que la totalidad de dicha cantidad haya sido obligada, facturada o pagada.
+Precisamente por ello, resulta necesario que la Asamblea Legislativa pueda establecer con
+precisión la diferencia entre el máximo contractual autorizado, las obligaciones
+efectivamente contraídas, las cantidades facturadas, los desembolsos realizados y los
+resultados concretos obtenidos.
+En el caso de la rehabilitación de la planta de tratamiento Enrique Ortega en Toa
+Alta, resulta necesario examinar una aparente discrepancia documental relacionada con
+la identidad jurídica de la entidad contratada. Según la información examinada, el
+contrato fue otorgado a Acciona Agua Puerto Rico LLC el 15 de febrero de 2024, mientras
+que se identifica el 6 de septiembre de 2024 como la fecha de formación de dicha entidad
+en el Departamento de Estado de Puerto Rico. Asimismo, en el contrato se habría
+utilizado el número de registro correspondiente a AB Agua Puerto Rico LLC, cuya fecha
+de formación se identifica como el 2 de agosto de 2022.
+Los registros oficiales de contratos de la AAA confirman, además, la magnitud de
+estas relaciones contractuales. Por ejemplo, el Informe de Contratos Vigentes de la
+Autoridad para la Transición Gubernamental de 2024 identificó contratos de gerencia de
+proyectos por aproximadamente $125.3 millones para Black & Veatch, $118.9 millones
+para Jacobs y $92.6 millones para Arcadis, reflejando que estas relaciones contractuales
+se han extendido en el tiempo y representan compromisos fiscales de considerable
+magnitud.
+La AAA ha sostenido que las sucesivas enmiendas responden a la incorporación
+de proyectos adicionales, la ampliación del alcance de los servicios y la necesidad de
+garantizar la continuidad de la administración de proyectos que atraviesan múltiples
+etapas, desde la planificación y el diseño hasta la construcción y puesta en operación.
+
+5
+Es necesario conocer qué servicios, proyectos y responsabilidades fueron
+incorporados con cada modificación, cuál fue su justificación, cuánto se comprometió,
+cuánto se facturó, cuánto se pagó y qué resultados produjo cada aumento.
+La magnitud de esta inversión pública exige que la ejecución del PMC pueda
+evaluarse mediante indicadores objetivos de desempeño. La Asamblea Legislativa debe
+poder determinar cuántos proyectos han sido completados, cuántos permanecen en
+planificación, diseño o construcción, cuáles han sufrido atrasos, qué órdenes de cambio
+han sido emitidas, cuáles han generado aumentos de costos y, finalmente, cuánta
+infraestructura nueva o rehabilitada ha sido efectivamente puesta en servicio.
+Asimismo, resulta necesario examinar los mecanismos utilizados por la AAA para
+verificar las horas trabajadas, tarifas profesionales, gastos reembolsables, costos de
+subconsultores y subcontratistas, servicios facturados y demás componentes de las
+facturas presentadas bajo estos contratos. La fiscalización debe permitir establecer una
+relación verificable entre los recursos públicos invertidos, los servicios efectivamente
+prestados y los resultados obtenidos.
+Esta evaluación adquiere particular importancia ante la condición actual del
+sistema de agua potable y alcantarillado de Puerto Rico. La necesidad de continuar
+rehabilitando infraestructura crítica y atender deficiencias de mantenimiento demuestra
+que el éxito del PMC no puede medirse únicamente por la cantidad de fondos asignados,
+contratos suscritos o servicios administrativos prestados. Debe medirse por la capacidad
+de transformar esos recursos en plantas rehabilitadas, sistemas modernizados, capacidad
+operacional recuperada, infraestructura resiliente y un servicio de agua más confiable
+para la ciudadanía.
+
+6
+RESUÉLVESE POR EL SENADO DE PUERTO RICO:
+1 Sección 1.- Se ordena a la Comisión de Innovación, Reforma y Nombramientos del
+2 Senado de Puerto Rico realizar una investigación exhaustiva sobre los contratos,
+3 enmiendas, servicios, desembolsos, desempeño y resultados relacionados con la gerencia,
+4 administración, ingeniería, diseño, supervisión y ejecución del Programa de Mejoras
+5 Capitales de la Autoridad de Acueductos y Alcantarillados de Puerto Rico.
+6 Sección 2.- La investigación comprenderá, sin que se entienda como una limitación,
+7 los contratos y relaciones contractuales de Black & Veatch Puerto Rico, PSC; Jacobs Caribe
+8 Engineers; Arcadis Caribe; CSA Architects & Engineers, LLP; AB Agua Puerto Rico, LLC;
+9 Acciona Agua Puerto Rico, LLC; y cualquier otra entidad que desempeñe funciones de
+10 gerencia de programa, ingeniería, diseño, construcción, supervisión, administración
+11 contractual, operación o mantenimiento relacionadas con el Programa de Mejoras
+12 Capitales.
+13 Sección 3.- Como parte de la investigación, la Comisión examinará la evolución de
+14 cada contrato desde su adjudicación original hasta su término o vigencia actual,
+15 incluyendo el monto original, cada enmienda aprobada, la fecha y cuantía de cada
+16 modificación, la modificación del alcance de los servicios, los proyectos incorporados o
+17 eliminados, la justificación presentada para cada modificación, el término de vigencia, el
+18 máximo contractual vigente, las obligaciones contraídas, las cantidades facturadas, los
+19 desembolsos realizados y los resultados asociados.
+20 Sección 4.- La Comisión investigará la relación entre los recursos destinados a los
+21 servicios de gerencia y administración del Programa de Mejoras Capitales y el progreso
+
+7
+1 físico y financiero de los proyectos. A tales efectos, deberá identificar -como mínimo- los
+2 proyectos completados y los que se encuentren en las etapas de construcción, de diseño,
+3 de planificación o de adquisición, los atrasados, los cancelados o los reprogramados; el
+4 costo original y actual de cada proyecto; el calendario original y vigente; el porcentaje de
+5 avance físico y financiero; las órdenes de cambio; las reclamaciones contractuales; y la
+6 fecha de entrada en operación de cada proyecto completado.
+7 Sección 5.- La Comisión evaluará el retorno de inversión y la costo-efectividad de los
+8 servicios de gerencia y administración mediante indicadores objetivos de desempeño;
+9 incluyendo, entre otros, el costo de gerencia por dólar de construcción, costo de gerencia
+10 por proyecto, porcentaje de proyectos completados, desviaciones de calendario,
+11 desviaciones presupuestarias, órdenes de cambio, aumentos de costo atribuibles a errores
+12 u omisiones de diseño, reclamaciones y litigios, tiempo transcurrido entre diseño,
+13 contratación y construcción, infraestructura efectivamente puesta en operación y
+14 cualquier otro indicador que permita determinar el valor producido por los servicios
+15 contratados
+16 Sección 6.- La Comisión rendirá un informe parcial en un término no mayor a noventa
+17 (60) días luego de ser asignada esta resolución y un informe final con sus hallazgos,
+18 conclusiones y recomendaciones antes de que se termine la Cuarta Sesión Ordinaria de
+19 la Vigésima Asamblea Legislativa, con el fin de proponer acciones correctivas, legislativas
+20 o administrativas que respondan a las necesidades identificadas.
+
+8
+1 Sección 7.- La Comisión podrá celebrar vistas públicas; citar funcionarios y testigos;
+2 requerir información, documentos y objetos; y realizar inspecciones oculares, a los fines
+3 de cumplir con el mandato de esta resolución investigativa.
+4 Sección 8.- Esta Resolución entrará en vigor inmediatamente después de su
+5 aprobación.

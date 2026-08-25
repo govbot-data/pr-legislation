@@ -161,6 +161,7 @@
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-08-18T05:38:40.607475Z"
-    }
+    },
+    "text_extraction_latest_update": "2026-08-25T05:53:43.153413Z"
   }
 }

@@ -1,0 +1,227 @@
+Title: 
+Official Title: 
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+(ENTIRILLADO ELECTRÓNICO)
+(TEXTO DE APROBACIÓN FINAL POR LA CÁMARA)
+(13 DE ABRIL DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+CÁMARA DE REPRESENTANTES
+P. de la C. 1149
+18 DE FEBRERO DE 2026
+Presentado por la representante del Valle Correa
+Referido a la Comisión de lo Jurídico
+LEY
+Para enmendar los Artículos 5, 6 y 7 de la Ley Núm. 223-2011, según enmendada,
+conocida como “Ley Protectora de los Derechos de los Menores en Procesos el
+Proceso de Adjudicación de Custodia” a los fines de promover la utilización de las
+aplicaciones parentales (Co-parenting) en los procesos de adjudicación de custodia;
+para correcciones técnicas; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 223-2011, según enmendada, dispone en su Artículo 2 que:
+“Artículo 2.- Declaración de la Política Pública.
+…, se decreta que constituye política pública del Gobierno de Puerto Rico la
+promoción de la custodia compartida y corresponsabilidad sobre los hijos; la
+consideración de la misma como primera alternativa en los casos que se ajuste al
+mejor bienestar del menor; y el promover la participación activa de ambos
+progenitores en las actividades de los hijos, en el mayor grado posible.”
+
+2
+El Artículo 602 del Código Civil de Puerto Rico, establece lo que se entenderá por
+custodia compartida. Esta definición se recoge en el Artículo 3 de la Ley Núm. 223-2011,
+antes citada. A esos efectos señala:
+“Artículo 602. — Custodia compartida; definición.
+Custodia compartida es la obligación de ambos progenitores de ejercer directa y
+totalmente todos los deberes y funciones que conlleva la patria potestad de los
+hijos, relacionándose con estos el mayor tiempo posible y brindándoles la
+compañía y atención que se espera del progenitor responsable. …”
+El Artículo 604 del Código Civil de Puerto Rico sobre “Criterios a considerar en la
+adjudicación de custodia compartida”, indica que el tribunal debe evaluar los criterios
+que allí se establecen, entre los que se encuentran la comunicación entre los progenitores
+y la capacidad de estos para comunicarse directamente o utilizando, mecanismos
+alternos. Permite, además, que el Tribunal considere cualquier otro criterio que garantice
+el interés óptimo de los menores.
+En el informe estadístico del Tribunal General de Justicia,1, se indica que se
+presentaron 2,025 casos de custodia, quedando pendientes por resolver al finalizar el 30
+de junio de 2024, 931 casos. Al 1 de julio de 2023, quedaron pendientes de resolver 1,031
+casos. Se radicaron, además, 541 casos de custodia y alimento para menores de edad y 7
+casos para custodia, alimentos y hogar seguro; quedando pendientes 268 casos y 4 casos
+respectivamente. La tabla que precede resume los casos recibidos, atendidos y que
+quedaron pendientes de adjudicar en las salas del Tribunal General de Justicia al finalizar
+el mes de junio de 2023, relacionados con asuntos de custodia.
+1 Oficina de Administración de los Tribunales. (2025, Mayo 19). Anuario Estadístico del Poder Judicial de Puerto
+Rico 2023-2024. OAT, Poder Judicial. Recuperado de: https://poderjudicial.pr/informes-a-la-
+comunidad/otros-informes/informes-anuales-y-fiscales-de-la-rama-judicial/.
+
+3
+Nota. Fuente (OAT, Anuario Estadístico del Poder Judicial, 2023-2024)
+Por su parte, en los casos de divorcio presentados, aquellos que incluían un asunto de
+custodia sumaron 108. Quedaron pendientes de adjudicar 35 casos al 30 de junio de 2023.
+La tabla que precede resume los casos recibidos, atendidos y que quedaron pendientes
+de adjudicar en las salas del Tribunal General de Justicia al finalizar el mes de junio de
+2023, relacionados con divorcios y custodia.
+Nota. Fuente (OAT, Anuario Estadístico del Poder Judicial, 2023-2024)
+
+4
+En cuanto a casos que envuelvan asuntos de patria potestad y custodia, el Poder
+Judicial informa que se presentaron 272 casos, quedando pendientes 114 casos al 30 de
+junio de 2023. La tabla que precede resume los casos recibidos, atendidos y que quedaron
+pendientes de adjudicar en las salas del Tribunal General de Justicia al finalizar el mes de
+junio de 2023, relacionados con asuntos de patria potestad y custodia.
+Nota. Fuente (OAT, Anuario Estadístico del Poder Judicial, 2023-2024)
+Se reportaron, además, 535 órdenes de emergencia de custodia. Para el mismo periodo
+recibieron 8,447 casos sobre pensiones alimentarias.
+Nota. Fuente (OAT, Anuario Estadístico del Poder Judicial, 2023-2024)
+Conforme a los números provistos por la Oficina de Administración de los Tribunales
+en su Anuario Estadístico, el Poder Judicial recibió sobre 2,600 casos que atendían algún
+asunto de custodia, sin contar los 535 casos de custodia de emergencia que le fueran
+presentados. La información anterior demuestra el alto número de asuntos relacionados
+con custodia que reciben los tribunales de Puerto Rico.
+
+5
+De acuerdo con la normativa vigente, los tribunales poseen facultad para atender las
+situaciones de custodia que se le presentan, siempre procurando el mejor bienestar de los
+menores. En la época moderna se han desarrollado diversas aplicaciones que facilitan la
+vida diaria del ciudadano, entre las que se encuentran aquellas dedicadas a facilitar las
+relaciones entre los padres y madres custodios y no custodios.
+Los llamados Co-Parenting Apps son ampliamente utilizados en los tribunales de los
+estados para facilitar las comunicaciones entre las partes y aminorar los altos costos de
+casos, en especial aquellos complejos y altamente contenciosos. Estas aplicaciones se
+utilizan para documentar las conversaciones entre las partes, establecer calendarios, y los
+registros de gastos, entre otros. Este tipo de plataforma crea un mecanismo sencillo y
+accesible que está alineado con los mejores intereses del menor. Una vez las partes dan
+su consentimiento para la utilización de este mecanismo, el mismo se puede convertir en
+una herramienta confiable a utilizarse por los tribunales ya que disminuye los conflictos
+entre las partes y facilita la comunicación entre estos. Las aplicaciones de crianza
+compartida que actualmente existen son variadas. Entre estas se encuentran
+“OurFamilyWizard”, “TalkingParents”, “CustodyXChange “, “AppClose”, entre otras.
+Los padres y las madres juegan un papel importante en el desarrollo saludable de sus
+menores. El envolvimiento positivo de estos en la vida de sus hijos, tanto en su relación
+directa con el menor como con la persona custodia, puede contribuir al desarrollo
+positivo del menor.2.
+Esta Asamblea Legislativa tiene como objetivo principal apoyar de una forma
+consistente la comunicación efectiva y la toma de decisiones que salvaguarda y prioriza
+el mejor interés del menor. Por lo que es necesario facilitar las soluciones justas, rápidas
+y económicas que benefician al menor, como lo es la utilización de las aplicaciones
+parentales. Es prioritario darle esta alternativa al juzgador, principalmente en litigios
+contenciosos que no abonan al mejor interés del menor ni a mejorar la comunicación entre
+las partes. Una comunicación efectiva es necesaria para una convivencia tranquila y un
+desarrollo adecuado de nuestros niños y niñas. Es nuestra responsabilidad velar porque
+se salvaguarde el mejor interés del menor.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+2 Administration for Children and Families. (2019, Junio 28). Integrating Approaches that Prioritize and
+Enhance Father Engagement. ACF, US Department of Health & Human Services. Recuperado de
+https://acf.gov/ofa/policy-guidance/acf-acf-im-18-01-integrating-approaches-prioritize-and-enhance-
+father.
+
+6
+1 Sección 1.-Se enmienda el Artículo 5 de la Ley Núm. 223-2011, según enmendada,
+2 conocida como “Ley Protectora de los Derechos de los Menores en el Proceso de Adjudicación de
+3 Custodia”, para que lea como sigue:
+4 “Artículo 5.- Deber del Juez.
+5 En la vista judicial en los casos de divorcio, separación o disolución de una relación
+6 consensual donde esté involucrado un menor de edad, el juez deberá:
+7 1) Asegurarse de que los abogados de las respectivas partes los han orientado sobre
+8 los diferentes derechos, deberes y responsabilidades que conllevan las diferentes
+9 formas de custodia que por ley existen.
+10 2) Asegurarse de proveer alternativas para una sana y efectiva comunicación entre
+11 las partes, como lo es la utilización de aplicaciones parentales (‘Co-parenting’) que
+12 las partes sean orientadas sobre las alternativas disponibles para facilitar una
+13 comunicación sana y efectiva, incluyendo el uso de aplicaciones parentales (‘co-parenting’).
+14 El tribunal podrá sugerir la utilización de estas aplicaciones cuando, luego de considerar
+15 las circunstancias particulares del caso, estime que constituyen una herramienta viable y
+16 adecuada para promover el interés optimo del menor.”
+17 Sección 2.- Se enmienda el Artículo 6 de la Ley Núm. 223-2011, según enmendada,
+18 conocida como “Ley Protectora de los Derechos de los Menores en el Proceso de Adjudicación de
+19 Custodia”, para que lea como sigue:
+20 “Artículo 6.- Acuerdos.
+21 Si las partes están de acuerdo en asumir la custodia compartida, procederán a someter
+22 someterán un acuerdo por escrito al Tribunal. En los casos en que las partes o una de ellas
+
+7
+1 no tengan representación legal o aun teniendola no han hayan podido acordar la forma y
+2 manera en que se establecerá la custodia compartida, se referirá a las partes al programa
+3 de mediación del Tribunal Negociado de Métodos Alternos del Poder Judicial o a un
+4 Mediador/a certificado, de la práctica privada, con conocimientos de la conducta
+5 humana, para que ayuden a la pareja una persona mediadora certificada de la práctica privada,
+6 con conocimientos sobre la conducta humana, para que ayude a las partes a preparar el convenio
+7 sobre custodia compartida, corresponsabilidad y patria potestad.
+8 En el caso de que ambos progenitores del menor estén de acuerdo con la custodia
+9 compartida, y suscriban un acuerdo a tales efectos, el juez pasará juicio sobre el mismo y,
+10 de impartirle su aprobación, luego de ponderar, dentro de su discreción, que la misma es
+11 en este y, luego de determinar, en el ejercicio de su discreción, que responde a los mejores
+12 intereses del menor, deberá seguir los procedimientos judiciales posteriores basado podrá
+13 impartirle su aprobación y continuar los procedimientos judiciales posteriores basados en dicho
+14 acuerdo. Si el juez no está conforme con los términos del acuerdo, podrá disponer lo que
+15 entienda procedente para ajustarlo al mejor bienestar del menor.
+16 No obstante, si una de las partes no está de acuerdo o desea la custodia monoparental
+17 del menor, el juez deberá continuar los procedimientos basado basándose en lo establecido
+18 en los Artículos 6, 7, 8 y 9 de esta Ley. En cualquiera de las instancias el Tribunal podrá
+19 sugerirle a las partes que utilicen una aplicación parental (‘Co-parenting’) que facilite y
+20 permita las comunicaciones saludables entre las partes, en bienestar de los menores.
+21 En cualquiera de estas etapas, el Tribunal podrá sugerir a las partes el uso de una aplicación
+22 parental (“co-parenting”) para facilitar una comunicación sana y efectiva, cuando, luego de
+
+8
+1 considerar las circunstancias particulares del caso, determine que esta constituye una alternativa
+2 viable y adecuada para promover el mejor bienestar del menor. Al realizar esta sugerencia, el
+3 Tribunal podrá considerar, entre otros factores, la disposición y capacidad de las partes para
+4 utilizar la aplicación, los costos asociados y las salvaguardas de seguridad, privacidad y
+5 confidencialidad aplicables. Su utilización será estrictamente voluntaria y la aprobación del
+6 acuerdo de custodia no podrá condicionarse a que las partes acepten utilizarla. La negativa de
+7 cualquiera de las partes tampoco podrá considerarse como criterio adverso o inferencia negativa en
+8 la evaluación del acuerdo.”
+9 Sección 3.- Se enmienda el Artículo 7 de la Ley Núm. 223-2011, según enmendada,
+10 conocida como “Ley Protectora de los Derechos de los Menores en el Proceso de Adjudicación de
+11 Custodia”, para que lea como sigue:
+12 “Artículo 7.- Criterios a Considerarse en la Adjudicación de Custodia.
+13 Al considerarse una solicitud de custodia en la que surjan controversias entre los
+14 progenitores en cuanto a la misma, el tribunal referirá el caso al trabajador social de
+15 Relaciones de Familia a la Unidad Social de Relaciones de Familia, o al profesional
+16 licenciado que entienda necesario, tales como psicólogos, psiquiatras, consejeros o
+17 trabajadores sociales, quien realizará una evaluación y rendirá un informe con
+18 recomendaciones al Tribunal. Tanto el trabajador social o el profesional licenciado antes
+19 indicado, al hacer su evaluación, como el tribunal, al emitir su determinación, tomarán
+20 en consideración los siguientes criterios:
+21 1) …
+22 …
+
+9
+1 12) La comunicación que existe entre los progenitores y la capacidad para
+2 comunicarse mediante comunicación directa o utilizando mecanismos alternos. El
+3 Tribunal podrá sugerirle a las partes que usen una aplicación parental (‘Co-parenting’)
+4 que facilite y permita las comunicaciones saludables entre las partes, en bienestar de
+5 los menores. El Tribunal podrá sugerir a las partes el uso de una aplicación parental (“co-
+6 parenting”) para facilitar una comunicación sana y efectiva, cuando, luego de considerar las
+7 circunstancias particulares del caso, determine que esta constituye una alternativa viable y
+8 adecuada para promover el mejor bienestar del menor. Al formular dicha sugerencia, el
+9 Tribunal podrá considerar, entre otros factores, la disposición y capacidad de las partes para
+10 utilizar la aplicación, los costos asociados, el nivel de conflicto entre los progenitores, cualquier
+11 historial de violencia doméstica o control coercitivo y las salvaguardas de seguridad, privacidad
+12 y confidencialidad aplicables. La recomendación que emita el tribunal respecto al uso de
+13 aplicaciones parentales tendrá carácter estrictamente voluntario y no constituirá
+14 requisito ni condición para la adjudicación de controversias relacionadas a con la
+15 custodia, patria potestad, relaciones filiales o cualquier otro asunto vinculado al
+16 bienestar del menor. La negativa de cualquiera de las partes a utilizar dichas
+17 herramientas, no podrá ser considerada como criterio adverso, inferencia negativa, ni
+18 factor determinante en la evaluación judicial de los méritos de un caso. El uso de estas
+19 aplicaciones no sustituirá la intervención, evaluación o acompañamiento de los profesionales
+20 que atiendan a la familia, cuando ello resulte necesario.
+21 13) …
+
+10
+1 (14) Cualquier otro criterio válido o pertinente que pueda considerarse para
+2 garantizar el mejor bienestar del menor.”
+3 Sección 4.-Protocolo de protección y seguridad
+4 La Puerto Rico Innovation and Technology Service (PRITS) establecerá los protocolos
+5 necesarios para el uso adecuado de las aplicaciones parentales en Puerto Rico. Estos
+6 protocolos también establecerán las políticas de protección y seguridad de la información
+7 que se comparta en las aplicaciones parentales. Así, se le concede a PRITS un término de
+8 cien (100) días para que cumpla con lo que establece esta sección.
+9 Sección 5.- Esta Ley entrará en vigor a los cien (100) días después de su aprobación.
