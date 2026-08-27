@@ -1,0 +1,153 @@
+Title: 
+Official Title: 
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+(TEXTO DE APROBACIÓN FINAL POR LA CÁMARA)
+(15 DE JUNIO DE 2026)
+ENTIRILLADO ELECTRÓNICO
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+CÁMARA DE REPRESENTANTES
+P. de la C. 835
+3 DE SEPTIEMBRE DE 2025
+Presentado por la representante Pérez Ramírez
+y suscrita por los representantes Colón Rodríguez y Rodríguez Torres
+Referido a la Comisión de Transportación e Infraestructura
+LEY
+Para enmendar el Artículo 2.13 y el inciso (c) del Artículo 2.48 los artículos 2.13 y 2.49 de
+la Ley Núm. 22-2000, según enmendada, conocida como “Ley de Vehículos y
+Tránsito de Puerto Rico”, a fin de establecer que el permiso de vehículos de motor,
+arrastres o semiarrastres sea integrado permanentemente en la aplicación CESCO
+Digital, para que pueda ser utilizado por los conductores como una herramienta
+suplementaria o sustitutiva válida de autorización para transitar por las vías
+públicas de Puerto Rico; ordenar al Departamento de Transportación y Obras
+Públicas, en coordinación con el “Puerto Rico Innovation and Technology Service”,
+actualizar la aplicación de CESCO Digital para integrar permanentemente en esta,
+el permiso de vehículos de motor, arrastres o semiarrastres, luego de que se haya
+satisfecho el pago de los derechos correspondientes; y establecer reglamentación al
+respecto; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 22-2000, según enmendada, conocida como “Ley de Vehículos y
+Tránsito de Puerto Rico”, establece la obligación de que todo conductor lleve en el
+vehículo, o porte consigo, el permiso de vehículo de motor expedido por el Departamento
+
+2
+de Transportación y Obras Públicas (DTOP). El incumplimiento con este deber acarrea la
+imposición de una multa administrativa de cien (100) dólares.
+Por otro lado, en la era digital, la eficiencia, transparencia y seguridad de la información
+se ha convertido en punta de lanza para una gestión pública moderna y confiable. A raíz
+de ello, mucha de la información que maneja el gobierno se tramita digitalmente, lo que
+contribuye a la agilidad y flexibilidad de los procesos. Ejemplo de esto es la aplicación de
+CESCO Digital. Esta plataforma fue creada por el Gobierno de Puerto Rico en el año 2018
+para ofrecer servicios a los conductores de forma virtual. Sin embargo, no toda la
+información que pudiese estar disponible en dicha herramienta, actualmente lo está,
+como es el caso del permiso de vehículo de motor, comúnmente conocido como la licencia
+del vehículo.
+En vista de lo anterior, y considerando que ya la aplicación de CESCO Digital provee
+acceso confiable y seguro a información vehicular y de licencias de conducir, creemos que
+en esta también debe figurar el permiso de vehículo de motor una vez se hayan satisfecho
+todos los derechos correspondientes.
+Permitir que dicho permiso esté disponible en la aplicación y tenga la misma validez
+que la versión física para transitar por las vías públicas de Puerto Rico, otorga claros
+beneficios. En primer lugar, ofrece transparencia y seguridad a la información, ya que la
+digitalización garantiza que los datos reflejados correspondan directamente a los
+sistemas oficiales del Estado, lo que evita alteraciones, falsificaciones o el uso de
+documentos vencidos. En segundo lugar, reduce la necesidad de imprimir, volver a
+expedir o sustituir permisos físicos, lo que podría representar ciertos ahorros en recursos,
+tanto para los ciudadanos como para el propio gobierno. Tercero, resulta más práctico
+para los conductores, quienes a veces olvidan llevar el permiso físico o lo pierden. Ello
+deriva en multas que no necesariamente reflejan un incumplimiento con su obligación
+contributiva, ya que estos sí pagaron los derechos correspondientes. Cuarto, los oficiales
+de la Policía podrán verificar instantáneamente la validez del permiso desde la aplicación
+o sistemas enlazados, lo que ciertamente fortalece la seguridad en nuestras vías.
+Al integrar los permisos de vehículos de forma permanente en la aplicación de CESCO
+Digital no pretendemos sustituir la versión en papel que siempre se ha utilizado. Lo que
+esta medida procura es que con la versión virtual se complementen y amplíen las
+alternativas de cumplimiento para los conductores. De esta manera, se adapta la ley a las
+realidades tecnológicas de la sociedad moderna.
+Por todo lo anterior, esta Asamblea Legislativa entiende meritorio ordenar al DTOP,
+en coordinación con el “Puerto Rico Innovation and Technology Service” (PRITS), a
+actualizar la aplicación de CESCO Digital para integrar permanentemente en esta los
+permisos de vehículos de motor, arrastres o semiarrastres. Asimismo, que se enmiende
+la Ley Núm. 22, supra, a los efectos de que refleje que la versión virtual del permiso de
+
+3
+vehículo de motor será tan válida como la física para transitar por las vías públicas de la
+isla del país.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 2.13 de la Ley Núm. 22-2000, según
+2 enmendada, para que se lea como sigue:
+3 “Artículo 2.13.- Certificado de título y permiso de vehículos de motor, arrastres o
+4 semiarrastres.
+5 Una vez aceptada la inscripción de un vehículo de motor, arrastre o semiarrastre,
+6 el Secretario le expedirá al dueño, previo el pago de los derechos correspondientes, un
+7 certificado de título en el cual se hará constar la fecha de su expedición, número de título
+8 asignado, nombre y dirección física y postal, y los últimos cuatro dígitos del número de
+9 seguro social del dueño, nombres y direcciones de las personas con gravámenes sobre
+10 dicho vehículo de motor, arrastre o semiarrastre, y una descripción completa del mismo,
+11 incluyendo marca, modelo y número de identificación del vehículo (vehicle identification
+12 number o VIN), número de la tablilla, o nombre del conductor certificado en el caso de
+13 arrendamientos financieros, donde fueron trasferidas las multas o gravámenes, así como
+14 cualquier otra información que el Secretario estime conveniente o necesaria para
+15 identificar los mismos para su inscripción. Este certificado se conocerá como el certificado
+16 de título del vehículo, según sea el caso. Toda transacción relacionada con la titularidad
+17 del vehículo de motor, arrastre o semiarrastre se hará al dorso del certificado, previa
+18 cancelación de los gravámenes que puedan existir y con los derechos correspondientes.
+19 El Secretario proveerá en el reverso del certificado de título, un formulario para la
+
+4
+1 formalización del traspaso o reasignación del mismo, a tenor con los requisitos
+2 establecidos en esta Ley. El permiso o documento físico continuará siendo la evidencia
+3 original, para todos los fines de esta Ley.
+4 Además del certificado de título, a solicitud del titular del vehículo, el Secretario
+5 emitirá un permiso de vehículo de motor, arrastre o semiarrastre, el cual constituirá la
+6 autorización para transitar por las vías públicas de Puerto Rico con la tablilla del dueño,
+7 previo el pago de los derechos correspondientes. El permiso figurará permanentemente
+8 en la aplicación móvil de CESCO Digital, y tendrá completa validez para evidenciar la
+9 autorización para transitar por las vías públicas ante la Policía de Puerto Rico. En este se
+10 deberá incluir un campo o espacio en el cual se identifique al asegurador del SRO que fue
+11 seleccionado en el Formulario de Selección por el dueño o conductor del vehículo. Este
+12 permiso impreso, fotocopia legible del mismo, tarjeta digitalizada, o en la aplicación de
+13 CESCO Digital, será llevado continuamente en el vehículo de motor, arrastre o
+14 semiarrastre, o portado por la persona que lo conduzca como evidencia de la autorización
+15 para transitar por las vías públicas de Puerto Rico. La fotocopia legible, tarjeta
+16 digitalizada del permiso, o la aplicación de CESCO Digital no serán válidas para efectuar
+17 transacciones de los vehículos. Entendiéndose, que cualquier transacción de vehículo o
+18 gesta que envuelva titularidad o transmisión de título debe contar con el permiso físico.
+19 El permiso concedido a los vehículos de motor, arrastre o semiarrastre para
+20 transitar por las vías públicas, tendrá una fecha de expedición y de expiración.”
+21 Sección 2.- Se enmienda el inciso (c) Artículo 2.48 2.49 de la Ley Núm. 22-2000,
+22 según enmendada, para que se lea como sigue:
+
+5
+1 “Artículo 2.48 2.49.- Actos ilegales y penalidades.
+2 Será ilegal realizar cualquiera de los siguientes actos:
+3 (a)…
+4 …
+5 (c) Conducir un vehículo de motor o tirar de un arrastre o semiarrastre por las vías
+6 públicas, sin llevar en este o consigo, copia del permiso, el permiso de vehículo de motor
+7 de manera virtual a través de la aplicación de CESCO Digital o los documentos o
+8 membretes que en sustitución de dicho permiso autorizan a tal vehículo a transitar. Toda
+9 persona que viole esta disposición incurrirá en falta administrativa y será sancionada con
+10 multa de cien (100) dólares.
+11 (d)…
+12 …
+13 …
+14 (x) …”
+15 Sección 3.- Se ordena al Secretario del Departamento de Transportación y Obras
+16 Públicas a atemperar cualquier reglamentación vigente conforme a lo establecido en esta
+17 Ley.
+18 Sección 4.- Se ordena al Departamento de Transportación y Obras Públicas, en
+19 coordinación con el “Puerto Rico Innovation and Technology Service”, a actualizar la
+20 aplicación de CESCO Digital para integrar permanentemente en esta el permiso de
+21 vehículos de motor, arrastres o semiarrastres, luego de que se haya satisfecho el pago de
+
+6
+1 los derechos correspondientes, de modo que pueda servir de evidencia de autorización
+2 para transitar por las vías públicas ante la Policía de Puerto Rico.
+3 Sección 5.- Esta Ley comenzará a regir inmediatamente después de su aprobación.
