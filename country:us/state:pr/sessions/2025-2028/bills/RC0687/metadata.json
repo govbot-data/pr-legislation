@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0687",
-  "title": "Para ordenar a la Comisi\u00f3n de Asuntos Federales y Veteranos de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre el estado de la infraestructura, el personal, los equipos m\u00e9dicos y los servicios que se brindan en la Cl\u00ednica de Veteranos de Arecibo; identificar deficiencias, limitaciones operacionales y necesidades existentes; evaluar el acceso y la calidad de los servicios ofrecidos a la poblaci\u00f3n veterana en la regi\u00f3n norte de Puerto Rico; y someter recomendaciones y propuestas dirigidas a mejorar la calidad, eficiencia y accesibilidad de dichos servicios; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Asuntos Federales y Veteranos de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre el estado de la infraestructura, el personal, los equipos m\u00e9dicos y los servicios de la Cl\u00ednica de Veteranos de Arecibo; la gesti\u00f3n del Sistema de Salud del Caribe del Departamento de Asuntos del Veterano de los Estados Unidos en la operaci\u00f3n de dicha cl\u00ednica; y sus efectos en el acceso y la calidad de los servicios a la poblaci\u00f3n veterana en la Regi\u00f3n Norte de Puerto Rico; y someter recomendaciones y propuestas dirigidas a mejorar la calidad, eficiencia y accesibilidad de dichos servicios; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -148,6 +148,18 @@
       "_processing": {
         "log_file_created": "2026-08-25T05:48:54Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T16:39:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -194,6 +206,17 @@
       ],
       "date": "2026-07-20",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161095/RC0687 ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -212,7 +235,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T05:48:54Z",
+    "logs_latest_update": "2026-08-27T16:39:15Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-08-25T05:55:02.540127Z"

@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RC0279",
   "title": "Para ordenar a la Comisi\u00f3n de Vivienda y Desarrollo Urbano, realizar una investigaci\u00f3n sobre la situaci\u00f3n actual de la titularidad de los terrenos ocupados por la comunidad La Alegr\u00eda Chang\u00e1i del Municipio de Toa Alta, con el fin de establecer los procesos necesarios para viabilizar la legalizaci\u00f3n y otorgamiento de t\u00edtulos de propiedad a los residentes; y para otros fines relacionados.",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
   ],
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-08-25T05:48:54Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T16:39:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -190,7 +202,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T05:48:54Z",
+    "logs_latest_update": "2026-08-27T16:39:15Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-08-25T05:53:30.888413Z"

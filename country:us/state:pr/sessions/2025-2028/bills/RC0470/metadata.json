@@ -1,8 +1,8 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0470",
-  "title": "Para ordenar a la Comisi\u00f3n de Salud y a la Comisi\u00f3n de Turismo de la C\u00e1mara de Representantes de Puerto Rico a realizar una investigaci\u00f3n exhaustiva para cuantificar las atenciones m\u00e9dicas brindadas a los visitantes no residentes de la Isla en los centros hospitalarios o de salud y el monto de los servicios prestados que no han podido ser recuperados; evaluar mecanismos de cobro de dinero por servicios m\u00e9dicos prestados y no pagados para mantener la solvencia de las instituciones de salud; analizar la viabilidad de esquemas de seguro temporero para visitantes; y delimitar las acciones regulatorias posibles en Puerto Rico sin invadir competencias federales; identificar otras alternativas de pol\u00edtica p\u00fablica orientadas a mitigar el impacto econ\u00f3mico ante la falta de pago a los hospitales y centros de salud; y para otros fines relacionados.",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "title": "Para ordenar a las comisiones de Salud; y de Turismo de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva dirigida a examinar el impacto de la prestaci\u00f3n de servicios m\u00e9dicos a visitantes no residentes en los centros hospitalarios y de salud de Puerto Rico, incluyendo el monto de los servicios prestados y no sufragados; evaluar los mecanismos disponibles para el cobro de servicios m\u00e9dicos facturados y no pagados as\u00ed como su efecto en la sostenibilidad financiera de las instituciones de salud; analizar la viabilidad de esquemas de seguro temporero para visitantes; examinar el alcance de las facultades regulatorias del Gobierno de Puerto Rico en materia de seguros y salud, en armon\u00eda con el ordenamiento federal aplicable; considerar otras alternativas de pol\u00edtica p\u00fablica dirigidas a atender el impacto econ\u00f3mico que la falta de pago por servicios m\u00e9dicos genera en el sistema de salud; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
   ],
@@ -148,6 +148,18 @@
       "_processing": {
         "log_file_created": "2026-08-25T05:48:54Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T16:39:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -194,6 +206,17 @@
       ],
       "date": "2026-01-28",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158917/RC0470 ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -212,7 +235,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T05:48:54Z",
+    "logs_latest_update": "2026-08-27T16:39:15Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-08-25T05:52:42.680913Z"

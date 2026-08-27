@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RC0291",
   "title": "Para ordenar a la Comisi\u00f3n de Desarrollo Econ\u00f3mico de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n sobre el proceso para la otorgaci\u00f3n de permisos para la construcci\u00f3n, establecimiento y operaci\u00f3n de estaciones de gasolina; las leyes y la reglamentaci\u00f3n aplicable; y para otros fines relacionados.",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
   ],
@@ -136,6 +136,18 @@
       "_processing": {
         "log_file_created": "2026-08-25T05:48:54Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T16:39:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +183,17 @@
       ],
       "date": "2025-08-21",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155461/RC0291 ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-08-24",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -189,7 +212,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T05:48:54Z",
+    "logs_latest_update": "2026-08-27T16:39:15Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-08-25T05:55:30.876621Z"

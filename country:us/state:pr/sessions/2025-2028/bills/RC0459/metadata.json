@@ -1,8 +1,8 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0459",
-  "title": "Para ordenar a la Comisi\u00f3n de Transportaci\u00f3n e Infraestructura de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n sobre la implementaci\u00f3n de la \u201ctablilla \u00fanica\u201d la cual surge de la Ley N\u00fam. 22-2000, seg\u00fan enmendada, conocida como \u201cLey de Veh\u00edculos y Tr\u00e1nsito de Puerto Rico\u201d conforme a las enmiendas introducidas a la misma mediante la Ley N\u00fam. 2-2016 y la Ley N\u00fam. 23-2020; y para otros fines relacionados.",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "title": "Para ordenar a la Comisi\u00f3n de Transportaci\u00f3n e Infraestructura de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n sobre el proceso de implantaci\u00f3n y cumplimiento del sistema de \u201ctablilla \u00fanica\u201d establecido por la Ley N\u00fam. 22-2000, seg\u00fan enmendada, conocida como \u201cLey de Veh\u00edculos y Tr\u00e1nsito de Puerto Rico\u201d conforme a las enmiendas introducidas a la misma mediante la Ley N\u00fam. 2-2016 y la Ley N\u00fam. 23-2020; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
   ],
@@ -138,6 +138,18 @@
       "_processing": {
         "log_file_created": "2026-08-21T07:10:10Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T16:39:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -184,6 +196,17 @@
       ],
       "date": "2025-11-10",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158787/RC0459-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -202,7 +225,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T07:10:10Z",
+    "logs_latest_update": "2026-08-27T16:39:15Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-08-21T07:13:13.896668Z"
