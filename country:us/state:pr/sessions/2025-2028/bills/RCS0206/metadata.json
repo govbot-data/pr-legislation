@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RCS0206",
   "title": "Para ordenar al Superintendente de la Polic\u00eda de Puerto Rico y al Secretario del\nDepartamento de Correcci\u00f3n y Rehabilitaci\u00f3n a cumplir con lo dispuesto en el\nArt\u00edculo 59 del Plan de Reorganizaci\u00f3n del Departamento de Correcci\u00f3n y\nRehabilitaci\u00f3n de 2011 (Plan 2-2011, seg\u00fan enmendado), mediante la elaboraci\u00f3n,\nadopci\u00f3n e implementaci\u00f3n de un protocolo conjunto que establezca los acuerdos\nde intervenci\u00f3n e investigaci\u00f3n de delitos y faltas dentro de las instituciones\ncorreccionales; establecer par\u00e1metros para su cumplimiento; y para otros fines\nrelacionados.",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
   ],
@@ -25,6 +25,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-27T16:39:15Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:12:29Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:12:29Z"
       }
     }
   ],
@@ -68,7 +92,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T16:39:15Z",
+    "logs_latest_update": "2026-08-28T17:12:29Z",
     "text_extraction_latest_update": "2026-08-27T16:44:07.153545Z"
   }
 }

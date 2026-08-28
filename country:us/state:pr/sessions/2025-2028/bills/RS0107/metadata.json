@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RS0107",
   "title": "Para ordenar a la Comisi\u00f3n de Salud del Senado de Puerto Rico, realizar una investigaci\u00f3n sobre todo asunto relacionado con la elaboraci\u00f3n e implantaci\u00f3n de la pol\u00edtica p\u00fablica de todos los servicios p\u00fablicos y privados que inciden sobre la salud; los servicios m\u00e9dicos-hospitalarios y ambulatorios; los planes m\u00e9dicos (incluyendo privados y el Plan de Salud del Gobierno de Puerto Rico); las agencias y/o instrumentalidades que recopilan estad\u00edsticas vitales y aquellas instituciones que realizan investigaciones y desarrollos de nuevas tecnolog\u00edas en el campo de la salud, medicamentos y artefactos prost\u00e9ticos, as\u00ed como su fabricaci\u00f3n, distribuci\u00f3n y venta; las facilidades f\u00edsicas, m\u00e9dicas, equipo param\u00e9dico, la administraci\u00f3n, implantaci\u00f3n y gerencia de cualquier modificaci\u00f3n de car\u00e1cter general de los sistemas de salud, la salud mental, la reglamentaci\u00f3n, los profesionales de salud, profesionales de diagn\u00f3stico y tratamiento, los servicios que combaten el alcoholismo y la drogadicci\u00f3n, la nutrici\u00f3n y la salud en general; as\u00ed como los funcionarios responsables de ejecutar dichas gestiones, tomar decisiones dentro de la agencia, departamento, instrumentalidad y/o municipios y el alcance de las facultades inherentes a sus puestos.",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
   ],
@@ -204,6 +204,16 @@
       "_processing": {
         "log_file_created": "2026-08-22T05:34:57Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Miguel Angel Garc\u00eda M\u00e9ndez",
+      "date": "2026-09-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:12:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -268,7 +278,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T05:34:57Z",
+    "logs_latest_update": "2026-08-28T17:12:29Z",
     "text_extraction_latest_update": "2026-08-22T05:42:46.468645Z"
   }
 }

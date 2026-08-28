@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "PS1436",
   "title": "Para crear la \u201cLey para Reglamentar la Pr\u00e1ctica de la Musicoterapia en Puerto Rico\u201d;\nestablecer la pol\u00edtica p\u00fablica del Gobierno de Puerto Rico en torno a la regulaci\u00f3n\nde la pr\u00e1ctica profesional de la musicoterapia; definir t\u00e9rminos; establecer los\nrequisitos para el licenciamiento de musicoterapeutas; facultar al Departamento\nde Salud a reglamentar y fiscalizar dicha profesi\u00f3n; disponer sobre penalidades y\nmedidas disciplinarias; y para otros fines relacionados.",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
@@ -25,6 +25,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-27T16:39:15Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:12:29Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:12:29Z"
       }
     }
   ],
@@ -68,7 +92,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T16:39:15Z",
+    "logs_latest_update": "2026-08-28T17:12:29Z",
     "text_extraction_latest_update": "2026-08-27T16:44:24.032665Z"
   }
 }

@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "PS1438",
   "title": "Para enmendar los Art\u00edculos 2, 6, 20, 21 y 22, y reenumerar los actuales art\u00edculos 20, 21,\n22 y 23 como los art\u00edculos 23, 24, 25, 26 y 27 de la Ley N\u00fam. 241-1999, seg\u00fan\nenmendada, conocida como la \u201cNueva Ley de Vida Silvestre de Puerto Rico\u201d, a los\nfines de incluir expresamente a los peces dentro de la definici\u00f3n de fauna silvestre;\nprohibir la alimentaci\u00f3n, cebado, atracci\u00f3n o condicionamiento intencional de\ntiburones, delfines y otra fauna marina silvestre con el prop\u00f3sito de provocar o\nfacilitar encuentros para actividades tur\u00edsticas, recreativas o comerciales; prohibir\nel mercadeo, promoci\u00f3n, venta u operaci\u00f3n de excursiones dirigidas a provocar\neste tipo de interacci\u00f3n, nataci\u00f3n o buceo; establecer penalidades; disponer\nexcepciones para encuentros accidentales, actividades cient\u00edficas, conservaci\u00f3n,\nrescate y otras actividades debidamente autorizadas; y para otros fines\nrelacionados",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
@@ -25,6 +25,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-27T16:39:15Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:12:29Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:12:29Z"
       }
     }
   ],
@@ -68,7 +92,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T16:39:15Z",
+    "logs_latest_update": "2026-08-28T17:12:29Z",
     "text_extraction_latest_update": "2026-08-27T16:44:20.645671Z"
   }
 }
