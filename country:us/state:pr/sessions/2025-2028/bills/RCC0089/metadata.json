@@ -162,6 +162,28 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:26Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "date": "2026-08-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-29T11:52:54Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-08-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-29T11:52:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -230,6 +252,17 @@
       ],
       "date": "2026-06-22",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154474/rcc0089-Inf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -248,7 +281,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-08-29T11:52:54Z",
     "text_extraction_latest_update": "2026-07-22T04:52:15.360791Z"
   }
 }

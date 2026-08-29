@@ -150,6 +150,16 @@
       "_processing": {
         "log_file_created": "2026-08-28T17:12:29Z"
       }
+    },
+    {
+      "description": "Inspecci\u00f3n Ocular: Instalaciones de la Autoridad de Acueductos y Alcantarillados Bo. Palma Sola, sector Arca de No\u00e9, Can\u00f3vanas",
+      "date": "2026-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-29T11:52:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -225,7 +235,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T17:12:29Z",
+    "logs_latest_update": "2026-08-29T11:52:54Z",
     "text_extraction_latest_update": "2026-08-28T17:17:00.708104Z"
   }
 }
