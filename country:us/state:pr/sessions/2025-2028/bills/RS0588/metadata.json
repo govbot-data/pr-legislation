@@ -40,6 +40,18 @@
       }
     },
     {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:12:29Z"
+      }
+    },
+    {
       "description": "Relevado de Comisi\u00f3n(es): \u00b0",
       "date": "2026-08-27T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -114,15 +126,55 @@
       }
     },
     {
-      "description": "Referido a Comisi\u00f3n(es)",
-      "date": "2026-08-27T04:00:00+00:00",
+      "description": "Se solicita reconsideraci\u00f3n de la medida",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-08-31T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
-        "referral-committee"
+        "amendment-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-28T17:12:29Z"
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
+    },
+    {
+      "description": "Se reconsider\u00f3",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
       }
     }
   ],
@@ -159,6 +211,17 @@
       ],
       "date": "2026-08-27",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/162027/rs0588a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -177,7 +240,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T17:12:29Z",
+    "logs_latest_update": "2026-09-01T11:03:48Z",
     "text_extraction_latest_update": "2026-08-28T17:16:15.395882Z"
   }
 }

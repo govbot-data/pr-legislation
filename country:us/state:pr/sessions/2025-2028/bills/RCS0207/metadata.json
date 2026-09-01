@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RCS0207",
   "title": "Para asignar la cantidad de ciento veinte mil d\u00f3lares ($120,000) de d\u00f3lares, los cuales\nproceder\u00e1n de la Resoluci\u00f3n Conjunta de Presupuesto para el A\u00f1o Fiscal 2026-\n2027, para proveer asignaciones a entidades e instituciones semip\u00fablicas, p\u00fablicas\ny privadas cuyas actividades o servicios propendan al desarrollo de programas y\nbienestar social, de la salud, educaci\u00f3n, cultura, y a mejorar la calidad de vida de\nlos puertorrique\u00f1os; establecer que los beneficiarios de los fondos aqu\u00ed asignados\ndeber\u00e1n cumplir con los requisitos establecidos en la Ley 20-2015, de la Comisi\u00f3n\nEspecial Conjunta de Fondos Legislativos para Impacto Comunitario; autorizar el\npareo de los fondos asignados; y para otros fines relacionados.",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
   ],
@@ -25,6 +25,92 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-28T17:12:29Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
+    },
+    {
+      "description": "Relevado de Comisi\u00f3n(es)",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
+    },
+    {
+      "description": "Descargado en Senado",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
+    },
+    {
+      "description": "Aprobado sin enmiendas",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
       }
     }
   ],
@@ -58,6 +144,17 @@
       ],
       "date": "2026-08-27",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/162039/RCS207vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-31",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -76,7 +173,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T17:12:29Z",
+    "logs_latest_update": "2026-09-01T11:03:48Z",
     "text_extraction_latest_update": "2026-08-28T17:16:07.519568Z"
   }
 }

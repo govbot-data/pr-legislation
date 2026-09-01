@@ -196,6 +196,26 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:22Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
+    },
+    {
+      "description": "Derrotado a viva voz",
+      "date": "2026-08-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:03:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -304,7 +324,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:24Z",
+    "logs_latest_update": "2026-09-01T11:03:48Z",
     "text_extraction_latest_update": "2026-07-22T05:54:02.330988Z"
   }
 }
