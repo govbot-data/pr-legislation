@@ -1,0 +1,492 @@
+Title: 
+Official Title: 
+Source: versions - 1er Informe Comisión rendido con enmiendas
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa O r d i n a ria
+SENADO DE PUERTO RICO
+P. del S. 972
+INFORME POSITIVO
+28 de agosto de 2026
+AL SENADO DE PUERTO RICO:
+La Comisión de lo Jurídico del Senado de Puerto Rico, previo estudio y
+consideración del Proyecto del Senado 972, recomienda a este Alto Cuerpo su
+aprobación, con las enmiendas contenidas en el entrillado electrónico que se acompaña.
+ALCANCE DE LA MEDIDA
+El Proyecto del Senado 972 (en adelante, P. del S. 972), tiene como propósito
+“enmendar la Regla 182 de la Ley Núm. 87 de 26 de junio de 1963, según enmendada,
+conocida como “Reglas de Procedimiento Criminal de 1963”, a los fines de aclarar que
+el tiempo que una persona hubiere permanecido privada de su libertad por arresto
+domiciliario o cualquier otros mecanismos no se descontará del término que deba
+cumplir dicha persona de ser sentenciada por los mismos hechos por los cuales
+hubiere sufrido dicha privación de libertad, cuando se trate de delitos graves que
+envuelvan actos de violencia; y para otros fines relacionados”.
+ANÁLISIS DE LA MEDIDA
+El P. del S. 972 propone enmendar la Regla 182 de Procedimiento Criminal,1
+para aclarar que no se descontará de la pena impuesta en la sentencia, aquel tiempo
+que un acusado permaneció en “arresto domiciliario”, o bajo cualquier otro
+mecanismo de restricción antes de ser sentenciado, cuando el delito imputado haya
+envuelto actos de violencia. Aunque la medida hace referencia a “otros mecanismos”,
+presumimos que dicho lenguaje excluye la reclusión en una institución correccional
+1 34 LPRA Ap. II.
+
+INFORME POSITIVO| P. DEL S. 972 | COMISIÓN DE LO JURÍDICO
+(cárcel), y solo se refiere a mecanismos similares al “arresto domiciliario”, previo a que
+la persona sea sentenciada.
+Como justificación para la enmienda propuesta, en la Exposición de Motivos del
+P. del S. 972 se indica que existen cierto tipos de conductas y actos violentos—como,
+por ejemplo, el maltrato y la violencia doméstica—que dificultan la convivencia
+pacífica y armoniosa. Así las cosas, la medida sostiene que la persona que lleva a cabo
+ese tipo de conducta antisocial no puede beneficiarse de una reducción en su pena,
+mediante el descuento de aquel tiempo que permaneció en “arresto domiciliario”,
+previo a la sentencia.
+Siendo esta la enmienda propuesta, la Comisión de lo Jurídico del Senado de
+Puerto Rico estima necesario realizar un análisis jurídico exhaustivo del derecho
+aplicable sobre conceptos como la “detención preventiva”, el “arresto domiciliario” y
+la “fianza”, a los fines de evaluar la viabilidad del P. del S. 972. Veamos.
+Como es sabido, la Constitución de Puerto Rico dispone que “la detención
+preventiva antes del juicio no excederá de seis meses”.2 Según el Tribunal Supremo,
+este concepto “se refiere al período anterior al juicio en el cual el acusado se encuentra
+detenido preventivamente (sumariado), por razón de no haber prestado la fianza, y
+en espera de que se le celebre el correspondiente proceso criminal”.3 El propósito de
+esta protección constitucional es “impedir la encarcelación prolongada de quien no ha
+podido prestar fianza”.4 En esa línea, pretende “desincentivar la dilación y promover
+que el Ministerio Público actúe diligentemente, limitando su autoridad para mantener
+bajo custodia indefinida a un acusado que no pagó fianza”.5
+Estrechamente atado con lo anterior, se ha resuelto que, como “nadie puede ser
+privado de su libertad en exceso a lo dispuesto en su sentencia, se ha adoptado el
+mecanismo de abonar el tiempo cumplido en detención preventiva al término de la
+sentencia”.6 En tal sentido, la Asamblea Legislativa codificó dicho principio en la
+Regla 182 de Procedimiento Criminal, la cual dispone lo siguiente:
+El tiempo que hubiere permanecido privada de su libertad
+cualquier persona acusada de cometer cualquier delito público se
+descontará totalmente del término que deba cumplir dicha persona de ser
+sentenciada por los mismos hechos por los cuales hubiere sufrido dicha
+privación de libertad.7
+2 Art. II, Sec. 11, Const. PR, LPRA.
+3 Ruíz v. Alcaide, 155 DPR 492, 502 (2001).
+4 Íd., págs. 502-503. (Bastardillas en el original suprimidas).
+5 Pueblo v. Méndez Pérez, 193 DPR 781, 788 (2015).
+6 Pueblo v. Viera, KLCE202400143, pág. 4.
+7 34 LPRA Ap. II.
+PÁG. 2
+
+INFORME POSITIVO| P. DEL S. 972 | COMISIÓN DE LO JURÍDICO
+De igual modo, el cuerpo legislativo recogió ese principio en el Artículo 68 de
+la Ley 146-2012, según enmendada, conocida como “Código Penal de Puerto Rico”,8
+donde se dispuso:
+A la persona convicta de delito se le abonarán los términos de
+detención o reclusión que hubiere cumplido, en la forma siguiente:
+(a) El tiempo de reclusión cumplido por cualquier convicto desde su
+detención y hasta que la sentencia haya quedado firme, se abonará
+en su totalidad para el cumplimiento de la pena, cualquiera que sea
+ésta.
+(b) Si la sentencia se impone bajo una ley penal especial y consiste
+exclusivamente de pena de multa, el tiempo que permaneció privado
+de libertad se le abonará a razón de cincuenta (50) dólares de multa
+por cada día de privación de libertad que haya cumplido. Si la pena
+de multa impuesta fuere menor de cincuenta (50) dólares, quedará
+satisfecha con un (1) solo día de reclusión o de detención del
+convicto.
+(c) El tiempo que cualquier persona haya permanecido privada de su
+libertad, en restricción domiciliaria, en cumplimiento de sentencia
+posteriormente anulada o revocada se descontará totalmente del
+término de reclusión o restricción de libertad que deba cumplir en
+caso de ser nuevamente sentenciada por los mismos hechos que
+motivaron la sentencia anulada o revocada.
+(d) Si la sentencia impone pena de multa o de servicios comunitarios,
+cada día en restricción de libertad bajo los incisos (a) y (c), se abonará
+a base de ocho (8) horas de servicios comunitarios.9
+Con esto en mente, y según el Alto Foro, “ambas disposiciones deben
+interpretarse en conjunto”.10 Así, pues, para que la bonificación de la Regla 182 de
+Procedimiento Criminal y del Artículo 68 del Código Penal se activen, es necesario
+que la persona “se le prive de su libertad, se le acuse y, posteriormente, se le ingrese
+para cumplir una sentencia por los mismos hechos por los que se le detuvo en primera
+instancia”.11 Similarmente, la profesora Dora Nevares-Muñiz ha manifestado que se
+“provee para el abono de la pena de los días en que la persona estuvo recluida previo
+a que su sentencia fuera firme”.12
+8 33 LPRA § 5001, et al.
+9 33 LPRA § 5101.
+10 Méndez Pérez, 193 DPR, pág. 789.
+11 Pueblo v. Contreras Severino, 185 DPR 646, 657 (2012). (Énfasis suplido).
+12 D. Nevares-Muñiz, Derecho Penal Puertorriqueño: Parte General, 7ma ed. rev., SAN JUAN, INST. PARA
+EL DESARROLLO DEL DERECHO, 2015, pág. 383. (Énfasis suplido).
+PÁG. 3
+
+INFORME POSITIVO| P. DEL S. 972 | COMISIÓN DE LO JURÍDICO
+En consideracion a ello, en Pueblo v. Méndez Pérez el Tribunal Supremo sostuvo
+que “ambas [disposiciones] giran alrededor del hecho de la privación de libertad que
+sufre el acusado durante el curso del procedimiento penal”.13 Por tal razón, concluyó
+que estas “ordenan que el tiempo que una persona acusada permanezca privada de
+su libertad, pendiente la conclusión del proceso en su contra, se abone a la pena
+impuesta mediante sentencia por los mismos hechos”.14 Por consiguiente, “lo decisivo
+es el tiempo que una persona haya estado privada de su libertad desde el momento
+en que inició el procedimiento penal y hasta que se dictó la sentencia condenatoria”.15
+Ahora bien, a través de los años los distintos paneles apelativos del Tribunal de
+Apelacciones se han enfrentado a la siguiente controversia: ¿Si el tiempo que una
+persona permaneció en restricción domiciliaria con supervisión electrónica, previo a
+la sentencia por los mismos hechos, es abonable, acreditable o descontable al tiempo a
+ser cumplido como parte de la pena impuesta en la sentencia que es dictada
+posteriormente? Aunque el Tribunal Supremo no se ha expresado sobre esto, el
+Tribunal de Apelaciones ha sido consistente y ha reiterado que la contestación a esa
+interrogante es en la negativa.
+A modo ejemplo, en Cruz Soto v. DCR,16 un confinado presentó una solicitud de
+remedio administrativo en la cual reclamó que se le abonara a su sentencia de cárcel
+el tiempo que estuvo “restringido de la libertad” en su hogar con supervisión
+electrónica, en virtud de las condiciones que se le impusieron para la concesión de
+la fianza. En respuesta, la Oficina de Remedios Administrativos del Departamento de
+Corrección y Rehabilitación (DCR) le indicó que “el tiempo
+en supervisión electrónica no se le acredita ya que se encontraba en fianza esperando
+ser sentenciado bajo supervisión electrónica”.17 Tras una reconsideración denegada,
+así como una solicitud adicional de remedio administrativo, la División de Remedios
+Administrativos del DCR informó que “la restricción domiciliaria mediante
+supervisión electrónica es diferente a la prisión preventiva o sumaria”; y que esto
+último “para efectos del procedimiento criminal[,] es el tiempo que el imputado está
+ingresado en un Centro de Detención en espera de que pague la fianza impuesta por
+el Tribunal o que se ventile su caso y sea sentenciado”.18
+Así las cosas, en su Sentencia, el foro apelativo resolvió que “la detención
+preventiva se da cuando el imputado de delito no presta la fianza y es privado de su
+libertad hasta que medie un fallo”.19 No obstante, “distinto es el caso del recurrente,
+13 193 DPR 781, 790 (2015). (Énfasis suplido).
+14 Íd. (Énfasis suplido).
+15 Íd., pág. 791. (Énfasis suplido).
+16 KLRA201300890.
+17 Íd., pág. 1.
+18 Íd., pág. 2.
+19 Íd., pág. 9.
+PÁG. 4
+
+INFORME POSITIVO| P. DEL S. 972 | COMISIÓN DE LO JURÍDICO
+pues se estaba bajo fianza, y para ello, el tribunal le impuso una restricción
+domiciliaria con grillete electrónico como condición para su libertad, según lo faculta
+la Regla 6.1 y 218 de Procedimiento Criminal”.20 Por ende, “no se abona a su sentencia
+de cárcel el término que estuvo bajo fianza, aunque estuviera con un grillete
+electrónico restringido en su domicilio”.21
+Por otro lado, en Pueblo v. Rodriguez Rodriguez,22 el acusado fue convicto por
+múltiples infracciones a la entonces Ley 149-2004, según enmendada, “Código Penal
+de 2004”,23 y a la derogada Ley 404-2000, según enmendada, “Ley de Armas de Puerto
+Rico”.24 Previo a su convicción, este se encontraba en restricción domiciliaria con
+supervisión electrónica, tras haber prestado la correspondiente fianza. Una vez
+ingresó a prisión, presentó en su institución penal una Solicitud de Remedio
+Administrativo, peticionando que el tiempo en el que estuvo en restricción domiciliaria
+se le abonara a su sentencia. Así las cosas, la División de Remedios Administrativos
+emitió su respuesta, indicándole que su “arresto” domiciliario era una medida
+cuatelar a la privisón preventiva. Así, pues, le expresó que el término que una persona
+pasa en “arresto” domiciliario, como medida preventiva, no es acreditable
+posteriormente al término de la sentencia, de salir culpable. Insatisfecho, el confinado
+recurrió al Tribunal de Apelaciones donde un Panel Especial confirmó la
+determinación del ente administrativo.
+En su Resolución, el panel indicó “que el término en el cual el peticionario estuvo
+bajo supervisión electrónica mientras esperaba su convicción no es abonable al
+tiempo a ser cumplido como parte de su sentencia, por este no haber estado bajo
+reclusión para fines del abono de la Regla 182 de Procedimiento Criminal […] y el
+Artículo 75 del Código Penal de Puerto Rico de 2004”.25 Desde su perspectiva, “el
+tiempo bajo supervisión electrónica no forma parte de la definición de reclusión del
+Artículo 75 del Código Penal de Puerto Rico de 2004”, ya que esta se define como “la
+privación de libertad en una institución penal durante el tiempo que se establece en la
+sentencia”.26 En cambio, la detención preventiva “se refiere al periodo de tiempo en
+que un imputado se encuentra sumariado en espera de que se celebre el proceso
+criminal porque no pudo prestar la fianza que se le impuso”.27
+20 Íd.
+21 Íd.
+22 KLCE201500099.
+23 33 LPRA § 4629 et al.
+24 25 LPRA § 455 et al.
+25 Íd., pág. 7. (Énfasis en el original suprimido).
+26 Íd.
+27 Íd.
+PÁG. 5
+
+INFORME POSITIVO| P. DEL S. 972 | COMISIÓN DE LO JURÍDICO
+Similarmente, en Pueblo v. Cabán Santana,28 el acusado, a pesar de no haber
+prestado una fianza, estuvo un año (1) y seis (6) meses en restricción domiciliaria con
+supervisión electrónica, luego de haber sido excarcelado mediante la figura del habeas
+corpus. Así las cosas, luego de que recayera una sentencia por varias violaciones al
+Código Penal de 2012, cuya pena totalizaba catorce (14) años y seis (6) meses, el
+confinado solicitó la acreditación del tiempo que pasó en restricción domiciliaria al
+término dispuesto en la sentencia. Al evaluar su petición, el foro primario la denegó.
+Confirmando esa determinación, el foro apelativo sostuvo que “el tiempo que el señor
+Cabán estuvo en libertad, irrespectivo de la medida cautelar (supervisión electrónica),
+no se abona a su sentencia”,29 ya que “las disposiciones legales aplicables disponen
+que, únicamente, se abonará el tiempo que el acusado estuvo sumariado”.30
+De igual modo, en Meléndez Martínez v. DCR,31 el confinado presentó ante la
+División de Remedios Administrativos de Corrección, una Solicitud de Remedio
+Administrativo, peticionando que se le adjudicara el tiempo que estuvo en detención
+por supervisión electrónica, ya que el Tribunal de Primera Instancia indicó en la
+sentencia que se abonase el término que este estuvo en prisión preventiva. La
+respuesta del DCR fue que la “preventiva es cuando [la persona] estuvo ingresado[a]
+por los mismos delitos que lo sentenciaron cuando estaba sumariado”, por lo que “el
+tiempo que estuvo en supervisión electrónica por OSAJ (Lock Down) […] tiene que
+solicitarlo al Tribunal”.32 En revisión, el Tribunal de Apelaciones revocó en cuanto a
+la determinación de que le correspondía al tribunal primario atender la petición del
+confinado. No obstante, confirmó en el aspecto de que el tiempo que había estado en
+supervisión electrónica no podía ser bonificado a la sentencia.33 Para llegar a esta
+conclusión, explicó que “el recurrente no estuvo privado de su libertad”, pues “una
+persona que presta la fianza que le fue impuesta por el Tribunal, no se encuentra
+restringida de su libertad”.34 Así, pues, mencionó que la detención preventiva “se
+refiere al periodo de tiempo en que un imputado se encuentra sumariado en espera
+de que se celebre el proceso criminal porque no pudo prestar la fianza que se le
+impuso”.35
+28 KLCE201700319.
+29 Íd., pág. 3.
+30 Íd.
+31 KLRA201700688.
+32 Íd., pág. 1.
+33 Íd., pág. 7.
+34 Íd.
+35 Íd., citando a Pueblo v. Torres Rodríguez, 186 DPR 183, 191 (2012).
+PÁG. 6
+
+INFORME POSITIVO| P. DEL S. 972 | COMISIÓN DE LO JURÍDICO
+Por otra parte, en Pueblo v. Maldonado Serrano,36 luego de ser encontrado
+culpable por infracción al Artículo 411-A de la Ley Núm. 4 de 23 de junio de 1971,
+según enmendada, conocida como “Ley de Sustancias Controladas de Puerto Rico”,37
+el confinado presentó ante el Tribunal de Primera Instancia una Moción de Corrección
+de Sentencia. En esta, peticionó una orden dirigida al DCR para que le bonificara a su
+sentencia de veinte (20) años aquel tiempo que estuvo bajo supervisión electrónica en
+su residencia. Naturalmente el foro primario denegó la petición, y el Tribunal de
+Apelaciones confirmó sosteniendo que “el término en el cual el peticionario estuvo
+bajo supervisión electrónica mientras esperaba su convicción no es abonable al
+tiempo a ser cumplido como parte de su sentencia, por este no haber estado bajo
+reclusión para fines del abono de la Regla 182 de Procedimiento Criminal”.38
+Finalmente, en Pueblo v. Viera,39 un confinado peticionó, al igual que Cabán
+Santana, que se le acreditara a su sentencia el período de tiempo que estuvo en
+restricción domiciliaria antes de su convicción, como consecuencia de haber sido
+excarcelado por un recurso de habeas corpus. Según el Tribunal de Apelaciones,
+coincidiendo con la postura de la Oficina del Procurador General, “el [r]ecurrente no
+estuvo privado de su libertad pues no se encontraba recluido en una institución penal,
+al contrario, fue puesto en libertad según es el fin del recurso de habeas corpus”.40
+ALCANCE DEL INFORME
+La Comisión de lo Jurídico del Senado de Puerto Rico, como parte del estudio y
+evaluación del P. del S. 972, solicitó memoriales explicativos a las siguientes agencias
+y entidades: La Sociedad para Asistencia Legal (SAL), la Oficina Administración de
+Tribunales (OAT), el Departamento de Justicia (DJ), el Departamento de Corrección y
+Rehabilitación (DCR), el Colegio de Abogados y Abogadas de Puerto Rico (CAAPR),
+A pesar de nuestras solicitudes, las siguientes entidades no comparecieron ante
+la Comisión: La Oficina Administración de Tribunales (OAT), el Departamento de
+Justicia (DJ), y el Colegio de Abogados y Abogadas de Puerto Rico (CAAPR).
+A continuación, se expone lo expresado por las entidades que comparecieron por
+escrito.
+DEPARTAMENTO DE CORRECCIÓN Y REHABILITACIÓN
+El Departamento de Corrección y Rehabilitación (DCR) expresó no tener
+objeción, y recomendó favorablemente su consideración sujeto a la incorporación de
+36 KLCE201800995.
+37 24 LPRA § 2101 et al.
+38 Íd., pág. 4. (Énfasis en el original suprimido).
+39 KLCE202400143.
+40 Íd., pág. 4. (Bastardillas en el original).
+PÁG. 7
+
+INFORME POSITIVO| P. DEL S. 972 | COMISIÓN DE LO JURÍDICO
+algunas observaciones técnicas. El DCR entiende que en la medida existen algunos
+aspectos cuya precisión contribuiría significativamente a una implantación más
+uniforme y reduciría potenciales controversias interpretativas
+Así las cosas, recomendó que se defina la frase “cualquier otro mecanismo”, ya
+que su amplitud podría generar dudas respecto a cuáles modalidades de supervisión
+previa a la sentencia quedarían comprendidas dentro de la exclusión propuesta. Por
+otra parte, entendió conveniente precisar el término “delitos graves que envuelvan
+actos de violencia”, a los fines de reducir el margen de interpretaciones entre los
+diferentes operadores del Sistema de Justicia Criminal. Finalmente, recomendó que la
+medida incluya una directriz dirigida a los tribunales para que la sentencia contenga
+una determinación expresa respecto a cuándo procede la exclusión del crédito por la
+restricción domiciliaria.
+Con dichas recomendaciones, el DCR reconoció que la presente medida
+responde a un objetivo legítimo de política pública dirigido a fortalecer el
+cumplimiento efectivo de las penas correspondientes a delitos graves que envuelvan
+actos de violencia. De ahí, sostuvo que, desde el punto de vista operacional, el P. del
+S. 972 resulta viable porque puede implantarse mediante ajustes razonables a los
+procedimientos internos actualmente vigentes en el DCR. A su entender, como la
+Oficina de Récord ya realiza el cálculo del tiempo acreditable conforme las sentencias
+emitidas por los tribunales, y las disposiciones legalmente aplicables, la aprobación de
+esta medida solamente implicaría incorporar un nuevo criterio de exclusión del
+crédito por tiempo servido en determinados casos.
+La postura del DCR se enmarcó en la noción de que, aunque el arresto
+domiciliario constituye una medida cautelar que limita significativamente la libertad
+de movimiento del imputado, dicha modalidad no supone el mismo nivel de
+restricción que experimenta una persona confinada en una institución correccional
+donde existe una custodia permanente, supervisión continua, limitaciones de estricta
+movilidad, y un régimen institucional dirigido al cumplimiento de la pena impuesta.
+Por tanto, explicó que, por esa diferencia objetiva entre ambas modalidades de
+restricción de libertad, y tratándose de delitos graves que envuelvan actos de
+violencia, es loable que el tiempo transcurrido bajo el arresto domiciliario, previo a la
+sentencia, no sea descontado del término de reclusión finalmente impuesto.
+SOCIEDAD PARA ASISTENCIA LEGAL
+La Sociedad para Asistencia Legal (SAL) no tiene objeción con la presente
+medida porque reconoce que el estado de Derecho es claro al establecer que el tiempo
+que una persona permanece en restricción domiciliaria, previo a juicio, no se
+descuenta para efectos de la sentencia luego de ser encontrada culpable y convicta. En
+esa línea, aseguró que, en nuestro ordenamiento jurídico, aunque no se permite que
+una persona sea privada de su libertad en exceso de lo que se dispone en su sentencia,
+la restricción domiciliaria, como condición luego de prestar la fianza, no es abonable
+al término de la sentencia.
+PÁG. 8
+
+INFORME POSITIVO| P. DEL S. 972 | COMISIÓN DE LO JURÍDICO
+SAL cimentó su postura en que la privación de la libertad significa estar bajo la
+custodia del Estado cuando el imputado no presta la fianza. A estos fines, mencionó
+lo resuelto en Pueblo v. Méndez Pérez,41 sobre que todo el tiempo que una persona
+permanece privada de su libertad bajo custodia del Estado, independientemente de si
+el procedimiento contra el acusado sumariado estuvo suspendido en algún momento
+por motivo de una determinación de procesabilidad, se abona a la sentencia que
+eventualmente imponga el tribunal.
+Ahora bien, SAL recomendó que se elimine de la medida la frase: “cualquier
+otro mecanismo”, ya que no surge del proyecto cuál es su definición. De igual modo,
+estimó pertinente excluir del alcance de esta medida aquel tiempo en el que un
+imputado bajo fianza se encuentre ingresado en un centro de tratamiento interno para
+atender asuntos de salud, físicos, mentales o de alguna dependencia al uso de
+sustancias o de alcohol. Desde su perspectiva, debe reconocerse que ese tiempo que la
+persona está bajo fianza, pero ingresado en un programa de tratamiento interno como
+parte de sus condiciones, se le debe abonar al tiempo de cumplimiento de la sentencia
+que eventualmente pueda ser dictada en su contra, aun cuando se trate de actos
+violentos. Ello, según SAL, a discreción del tribunal.
+IMPACTO FISCAL MUNICIPAL
+En cumplimiento con el Artículo 1.007 de la Ley 107–2020, según enmendada,
+conocida como “Código Municipal de Puerto Rico”, la Comisión Informante certifica
+que la medida ante nuestra consideración no impone una obligación económica en el
+presupuesto de los gobiernos municipales.
+CONCLUSIÓN
+La Comisión de lo Jurídico del Senado de Puerto Rico efectuó un análisis
+minucioso, detallado y riguroso del P. del S. 972, según fue referido. De igual modo,
+analizó la Regla 182 de Procedimiento Criminal, el Artículo 68 del Código Penal de
+2012, como también la jurisprudencia del Tribunal Supremo de Puerto Rico, y las
+decisiones persuasivas del Tribunal de Apelaciones local. Esto, además de evaluar
+detenidamente las preocupaciones, observaciones, recomendaciones y comentarios
+sometidos por el Departamento de Corrección y Rehabilitación, y la Sociedad para
+Asistencia Legal.
+Si bien la medida persigue un fin legítimo—garantizar la seguridad de la
+ciudadanía y evitar que cierto tipo de convictos reduzcan de su sentencia aquel tiempo
+que estuvieron en restricción domiciliaria antes de que se les dictase sentencia—lo
+cierto es que la medida propuesta debe enmendarse. Esto, a los fines de armonizarla
+con los principios jurídicos establecidos por el Tribunal Supremo y el Tribunal de
+41 193 DPR 781 (2015).
+PÁG. 9
+
+INFORME POSITIVO| P. DEL S. 972 | COMISIÓN DE LO JURÍDICO
+Apelaciones sobre el concepto de detención preventiva y su descuento en la
+correspondiente sentencia.
+El P. del S. 972 propone enmendar la Regla 182 de Procedimiento Criminal para
+disponer que el descuento que se le hace al término de la sentencia "no incluye el término
+de arresto domiciliario o cualquier otro mecanismo previo a la sentencia, cuando se trate de
+delitos graves que envuelvan actos de violencia". Sobre esto, tenemos que mencionar que
+dicho lenguaje parte de una premisa que no recoge con precisión los conceptos
+jurídicos adecuados. Nos explicamos.
+Cuando una persona es imputada de un delito grave, el Estado tiene la
+autoridad en ley para ingresarla a una institución penal. A ese período de tiempo
+donde la persona está ingresada en la cárcel se le conoce como la “detención
+preventiva”, la cual no puede exceder de seis meses sin que se haya celebrado el
+correspondiente juicio.42 Ahora bien, la persona también tiene el derecho
+constitucional de quedar en libertad mediante la prestación de una “fianza”.43 De
+prestarla, la persona queda en la libre comunidad y, por consecuente, deja de estar
+bajo la custodia del Estado durante el procesamiento criminal.44
+Teniendo en cuenta de que “el Estado está facultado para condicionar la
+libertad del acusado antes del juicio”,45 el tribunal “puede tomar medidas que
+garanticen que el imputado no habrá de escapar, e incluso puede tomar medidas de
+protección social en determinados casos”.46 Lo anterior descansa en que “la fianza se
+requiere históricamente para asegurar la presencia del imputado o acusado en las
+diversas etapas del proceso judicial”.47 Así, pues, nuestro ordenamiento jurídico
+permite que a la fianza se le impongan ciertas condiciones que, de no cumplirse,
+provocarían su revocación y, en consecuencia, el ingreso de la persona a la cárcel.
+Dichas condiciones están codificadas en la Regla 218 de Procedimiento Criminal, y
+permiten, entre otras: (1) que la persona se someta a tratamiento médico o siquiátrico,
+incluyendo tratamiento para evitar la dependencia a drogas o bebidas alcohólicas; (2)
+que la persona no abandone su lugar de residencia, vivienda o vecindad en
+determinados días y horas para preservar su seguridad o la de otros ciudadanos, y (3)
+que la persona esté sujeta a supervisión electrónica.
+En la mayoría de los casos, las dos últimas condiciones siempre se imponen de
+forma conjunta, y a ese régimen condicionado se le conoce como “restricción
+42 Art. II, Sec. 11, Const. PR, LPRA (“la detención preventiva antes del juicio no excederá de seis meses”).
+43 Íd. (“todo acusado tendrá derecho a quedar en libertad bajo fianza antes de mediar un fallo
+condenatorio”).
+44 Pueblo v. Méndez Perez, 193 DPR 781, 788 (2015) (la fianza “pretende desincentivar la dilación y
+promover que el Ministerio Público actúe diligentemente, limitando su autoridad para mantener bajo
+custodia indefinida a un acusado que no pagó fianza”).
+45 Ruiz v. Alcaide, 155 DPR 492, 502 (2001).
+46 Íd.
+47 Pueblo v. Soto Ortiz, 151 DPR 619, 625-626 (2000).
+PÁG. 10
+
+INFORME POSITIVO| P. DEL S. 972 | COMISIÓN DE LO JURÍDICO
+domiciliaria” o “lock down 24/7”. En tal escenario, aunque la libertad de la persona está
+condicionada a que se mantenga en su casa, mediante la constante e ininterrumpida
+vigilancia del tribunal, es norma universal que dicha persona no se encuentra
+arrestada ni bajo la custodia del Estado. Por tal razón, ese período de tiempo donde la
+persona se encuentra en restricción domiciliaria se excluye del concepto de “detención
+preventiva”, ya que el individuo no se encuentra detenido preventivamente ni está
+privado de su libertad. Así lo ha resuelto un sinnúmero de paneles del Tribunal de
+Apelaciones de Puerto Rico a través de los años al enfrentarse con recursos judiciales
+que peticionan el abono, descuento o acreditación de ese tiempo al período de tiempo
+fijado en la sentencia.48
+Similarmente, como condición a la prestación de la fianza, el tribunal puede
+ordenar el ingreso temporero del imputado a una institución médica o de tratamiento
+interno para que reciba servicios médicos, psicológicos o de tratamiento a sustancias
+controladas o alcoholismo. En estas situaciones, la persona tampoco se encuentra
+arrestada, bajo la custodia del Estado ni privada de su libertad. En cambio, se
+encuentra en la libre comunidad, pero con ciertas condiciones que restringen su
+libertad para garantizar su comparecencia al proceso penal, y para preservar su
+seguridad y la de la sociedad.
+Por otro lado, antes de dictarse sentencia, un imputado o acusado de delito
+también puede quedar en la libre comunidad mediante el régimen de restricción
+domiciliaria con supervisión electrónica, pero por una razón distinta a la prestación
+de la fianza. Esto, por haber sido excarcelado mediante un recurso de habeas corpus tras
+no celebrarse el juicio en su fondo dentro de los seis meses posteriores a su ingreso a
+una institución penal. En tales casos, la libertad de la persona queda condicionada por
+las mismas razones por las cuales se presta la fianza. Por ende, el tiempo que la
+persona esté en restricción domiciliaria con supervisión electrónica, antes de que se le
+dicte sentencia, tampoco se descontaría del tiempo que se disponga en la sentencia.
+En consideración a lo anterior, es norma clara y reiterada que, aquel tiempo en
+el que una persona se encuentra en restricción domiciliaria con supervisión
+electrónica, o en una institución médica o centro de tratamiento interno—previo a que
+se le dicte sentencia—no puede descontarse o abonarse al tiempo que deba cumplir en
+virtud de la sentencia que se le imponga por los mismos hechos por los cuales estuvo
+48 En este punto es importante destacar que el inciso (c) del Artículo 68 del Código Penal de 2012,
+dispone que al convicto se le descontará aquel “tiempo que cualquier persona haya permanecido […]
+en restricción domiciliaria, en cumplimiento de sentencia posteriormente anulada o revocada”, a aquel
+“término de […] restricción de libertad que deba cumplir en caso de ser nuevamente sentenciada por
+los mismos hechos que motivaron la sentencia anulada o revocada”.48 Como se desprende, la restricción
+domiciliaria a la que hace referencia ese artículo no es a la restricción domiciliaria objeto del presente
+análisis. El término de la restricción domiciliaria del Artículo 68(c) del Código Penal de 2012 es el tiempo
+que está cumpliendo una persona convicta de un delito como medida alterna a la cárcel luego de
+habérsele encontrado culpable y dictado sentencia. En cambio, el término de restricción domiciliaria
+del P. del S. 952 es el tiempo que cumple una persona previo a que se le encuentre culpable por un
+delito.
+PÁG. 11
+
+INFORME POSITIVO| P. DEL S. 972 | COMISIÓN DE LO JURÍDICO
+en restricción domiciliaria con supervisión electrónica, o en una institución médica o
+centro de tratamiento interno. Esto, indistintamente el delito imputado sea uno grave
+que haya envuelto actos de violencia.
+Así las cosas, la Comisión de lo Jurídico estima, jurídicamente necesario,
+proponer un nuevo lenguaje, a aquel empleado en el P. del S. 972 para atemperarlo a
+las decisiones del Tribunal Supremo, y del Tribunal de Apelaciones de Puerto Rico. El
+nuevo lenguaje sería: “excluyendo aquel término que la persona hubiere permanecido en
+restricción domiciliaria, supervisión electrónica, o en una institución médica o de tratamiento
+interno, previo a que se le dicte sentencia por los mismos hechos. En tal caso, el tribunal hará
+constar en la sentencia que no procede el descuento”.
+En cuanto la oración: “En tal caso, el tribunal hará constar en la sentencia que no
+procede el descuento”, la Comisión de lo Jurídico acogió la recomendación del DCR
+sobre que:
+“El Departamento recomienda que la sentencia emitida por el
+tribunal contenga una determinación expresa respecto a la aplicación de
+esta disposición, indicando cuando proceda la exclusión del crédito por
+arresto domiciliario”.49
+Consideramos que tal recomendación no le impone a los tribunales una carga
+onerosa, y permite el DCR ejecute la sentencia conforme la intención expresa del
+tribunal, evitando así la necesidad de que dicha agencia incurra en interpretaciones
+administrativas inconsistentes con los preceptos judiciales previamente discutidos.
+POR TODO LO ANTES EXPUESTO, la Comisión de lo Jurídico del Senado de Puerto
+Rico tiene a bien presentar ante este Alto Cuerpo el Informe Positivo sobre el Proyecto
+del Senado 972, recomendando su aprobación con las enmiendas contenidas en el
+entrillado electrónico que se acompaña.
+RESPETUOSAMENTE SOMETIDO.
+Hon. Ángel A. Toledo López
+Presidente
+Comisión de lo Jurídico
+Senado de Puerto Rico
+49 Memorial Explicativo del Departamento de Corrección y Rehabilitación sobre el P. del S. 972, pág. 3,
+del 22 de junio de 2026.
+PÁG. 12
