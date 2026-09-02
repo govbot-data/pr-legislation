@@ -304,6 +304,26 @@
       "_processing": {
         "log_file_created": "2026-08-19T05:46:10Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2026-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T09:30:53Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T09:30:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -427,6 +447,28 @@
       ],
       "date": "2026-08-17",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153385/PC0279 Conc..pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-01",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153385/PC0279 enrolado.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-01",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -445,7 +487,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-19T05:46:10Z",
+    "logs_latest_update": "2026-09-02T09:30:53Z",
     "text_extraction_latest_update": "2026-08-19T05:49:40.955254Z"
   }
 }
