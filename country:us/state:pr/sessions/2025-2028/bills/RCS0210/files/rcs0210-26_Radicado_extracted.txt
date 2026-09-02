@@ -1,0 +1,369 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20 ma Asamblea 4 ta Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. C. del S. 210
+1 de septiembre de 2026
+Presentada por el señor Reyes Berríos
+Referida a
+RESOLUCIÓN CONJUNTA
+Para ordenar a la Oficina de Turismo del Departamento de Desarrollo Económico y
+Comercio del Gobierno de Puerto Rico desarrollar, implementar y administrar el
+Programa “PRPass” como una plataforma digital dirigida a facilitar a residentes y
+visitantes el descubrimiento de atracciones, experiencias, productos y servicios
+turísticos en Puerto Rico y conectarlos con los canales oficiales de los proveedores
+participantes; disponer para la colaboración de la Organización de Mercadeo de
+Destino de Puerto Rico en la promoción del Programa en mercados externos;
+disponer para la integración voluntaria de instalaciones públicas, municipios y
+entidades privadas; promover el desarrollo económico regional y la participación
+de pequeñas y medianas empresas; disponer para la accesibilidad, privacidad,
+ciberseguridad y recopilación de información estadística; ordenar la preparación
+de un Plan de Implementación y el desarrollo de un proyecto piloto; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Puerto Rico posee una oferta turística excepcional por su diversidad,
+concentración geográfica y riqueza cultural y natural. En un territorio relativamente
+compacto, residentes y visitantes pueden acceder a playas, montañas, bosques, reservas
+naturales, cavernas, bahías bioluminiscentes, centros históricos, museos, gastronomía,
+actividades culturales, instalaciones recreativas, agroturismo, turismo de aventura y una
+amplia variedad de experiencias distribuidas a través de los setenta y ocho municipios.
+1
+
+Esta diversidad constituye uno de los principales activos de la industria turística
+de Puerto Rico. Sin embargo, contar con una amplia oferta de atractivos y experiencias
+no garantiza, por sí solo, que el visitante pueda conocerla y aprovecharla plenamente.
+Para que esa oferta produzca su mayor impacto económico, es necesario facilitar que las
+personas puedan descubrir qué hacer, dónde hacerlo y cómo acceder a las distintas
+experiencias disponibles durante su estadía.
+La manera en que las personas planifican y disfrutan sus viajes ha cambiado
+significativamente. El viajero contemporáneo utiliza cada vez más herramientas digitales
+para tomar decisiones antes y durante su visita. La facilidad para encontrar información,
+comparar alternativas, organizar actividades e identificar dónde reservar o adquirir una
+experiencia se ha convertido en parte integral de la experiencia turística.
+Actualmente, la oferta turística de la Isla está compuesta por una multiplicidad de
+atractivos, instalaciones, empresas y experiencias públicas y privadas. Esa diversidad es
+una fortaleza, pero también presenta el reto de conectar al visitante con las distintas
+alternativas disponibles. Una persona puede llegar a Puerto Rico con conocimiento de
+determinados destinos o atracciones, pero desconocer experiencias de igual valor
+turístico ubicadas en otros municipios o regiones.
+Facilitar ese descubrimiento puede producir beneficios que trascienden la
+experiencia individual del viajero. Cuando un visitante descubre una actividad adicional,
+visita otro municipio, extiende su recorrido, consume en un establecimiento local o
+incorpora una nueva experiencia a su itinerario, aumenta la posibilidad de que el gasto
+turístico alcance a más sectores de la economía y a una mayor diversidad de comunidades
+y empresarios.
+Uno de los grandes retos de la política turística de Puerto Rico debe ser lograr que
+los beneficios de la economía del visitante tengan un alcance cada vez mayor a través de
+la Isla. El potencial turístico de Puerto Rico no se limita a determinadas zonas. Cada
+región posee atributos particulares capaces de complementar la experiencia del visitante
+y generar actividad económica.
+2
+
+Los restaurantes, operadores turísticos, guías, comercios, artesanos, proyectos de
+agroturismo, establecimientos culturales, empresas de recreación y aventura, y otras
+pequeñas y medianas empresas forman parte esencial de esa oferta. Facilitar su conexión
+con residentes y visitantes puede ampliar sus oportunidades económicas y,
+simultáneamente, enriquecer la experiencia turística que Puerto Rico ofrece.
+La tecnología permite atender este reto mediante una herramienta digital que sirva
+como punto de encuentro entre el visitante y una oferta turística distribuida entre
+distintos municipios, sectores y proveedores. Esta herramienta puede facilitar que una
+persona descubra nuevas experiencias y, cuando interese obtener información adicional,
+reservar o adquirir un producto o servicio, pueda acceder directamente al canal oficial
+del proveedor correspondiente.
+Este modelo permite conectar al consumidor con la oferta turística sin sustituir los
+sistemas de reservación, venta o comercio electrónico que utilizan los proveedores. De
+esta manera, cada empresa o entidad participante conserva el control sobre sus
+productos, disponibilidad, precios, reservaciones, ventas y relación contractual con sus
+clientes, mientras Puerto Rico cuenta con una herramienta integrada para facilitar el
+descubrimiento de su oferta turística.
+Esa capacidad adquiere particular importancia en una jurisdicción como Puerto
+Rico. Las distancias relativamente cortas entre regiones permiten que un visitante pueda
+combinar, durante una misma estadía, experiencias de naturaleza, cultura, gastronomía,
+recreación, historia y entretenimiento en distintos municipios. Facilitar el conocimiento y
+acceso a esas alternativas puede incentivar una mayor movilidad del visitante y una
+distribución más amplia de la actividad turística.
+Asimismo, una iniciativa de esta naturaleza puede beneficiar al propio residente
+de Puerto Rico. El turismo interno constituye una fuente importante de actividad
+económica y permite que los puertorriqueños conozcan y disfruten de atractivos,
+establecimientos y experiencias localizadas en distintas regiones de la Isla.
+Por ello, esta Asamblea Legislativa entiende conveniente establecer el Programa
+PassPR como una iniciativa dirigida a facilitar el descubrimiento de la oferta turística de
+3
+
+Puerto Rico y conectar a residentes y visitantes directamente con las entidades que
+ofrecen las distintas experiencias, productos y servicios. PassPR persigue ampliar la
+exposición de atractivos y empresas ubicados en diferentes regiones; fortalecer la
+participación de pequeños y medianos negocios en la economía del visitante; fomentar el
+turismo interno; y contribuir a que una mayor proporción de la actividad turística alcance
+a los municipios y comunidades de toda la Isla.
+La iniciativa parte de una premisa sencilla, mientras más fácil sea descubrir Puerto
+Rico, mayores serán las oportunidades para recorrerlo, disfrutarlo y generar actividad
+económica a través de sus regiones. Puerto Rico posee una amplia y diversa oferta
+turística. El próximo paso es facilitar que residentes y visitantes puedan descubrir todo
+lo que la Isla tiene para ofrecer y conectarse fácilmente con quienes hacen posibles esas
+experiencias.
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Creación del Programa “PRPass”
+2 Se ordena a la Oficina de Turismo del Departamento de Desarrollo Económico y
+3 Comercio del Gobierno de Puerto Rico, en adelante “Turismo”, desarrollar, implementar
+4 y administrar el Programa PassPR.
+5 “PRPass” será una iniciativa digital dirigida a facilitar que residentes y visitantes
+6 puedan descubrir atracciones, experiencias, productos y servicios relacionados con la
+7 oferta turística de Puerto Rico y acceder directamente a los canales oficiales de las
+8 entidades públicas y privadas participantes para obtener información adicional y, cuando
+9 corresponda, realizar reservaciones o adquirir sus productos o servicios.
+4
+
+1 Turismo tendrá la responsabilidad principal sobre el desarrollo, implementación,
+2 administración y promoción de “PRPass” dentro de Puerto Rico, de conformidad con
+3 sus facultades y responsabilidades.
+4 La Organización de Mercadeo de Destino de Puerto Rico colaborará con Turismo
+5 en la promoción de “PRPass” en mercados externos y mediante aquellos canales de
+6 promoción dirigidos a potenciales visitantes antes de su llegada a Puerto Rico, de
+7 conformidad con sus facultades y responsabilidades.
+8 Sección 2. — Política pública.
+9 Se declara política pública del Gobierno de Puerto Rico promover la utilización de
+10 herramientas digitales para facilitar el descubrimiento y acceso a la oferta turística de la
+11 Isla, mejorar la experiencia del visitante, fomentar el turismo interno y externo, promover
+12 una mayor distribución geográfica de la actividad turística y facilitar la participación de
+13 municipios, pequeñas y medianas empresas y otros actores de la economía del visitante.
+14 Sección 3. — Infraestructura digital.
+15 Turismo desarrollará o integrará la infraestructura digital necesaria para
+16 implementar “PRPass”, procurando utilizar y complementar portales, plataformas,
+17 sistemas y recursos tecnológicos existentes cuando ello resulte viable, eficiente y
+18 compatible con los objetivos del Programa.
+19 “PRPass” deberá estar optimizado prioritariamente para dispositivos móviles,
+20 estar disponible, como mínimo, en español e inglés, cumplir con los requisitos de
+21 accesibilidad digital aplicables y permitir el acceso a sus funciones esenciales mediante
+22 navegador de Internet sin requerir obligatoriamente la descarga de una aplicación móvil.
+5
+
+1 Sección 4. — Funciones esenciales.
+2 “PRPass” deberá procurar facilitar a sus usuarios, según corresponda:
+3 (a) descubrir atracciones, experiencias, productos y servicios relacionados con la
+4 oferta turística de Puerto Rico;
+5 (b) identificar su localización, horarios y otra información pertinente;
+6 (c) identificar experiencias por municipio, región o categoría;
+7 (d) conocer información general sobre las experiencias, productos y servicios
+8 ofrecidos por los participantes;
+9 (e) acceder a mapas e información relacionada con la localización de los
+10 participantes;
+11 (f) identificar establecimientos, alojamientos, servicios y experiencias relacionadas;
+12 (g) acceso directo al portal de Internet, sistema de reservaciones, plataforma de
+13 venta o cualquier otro canal oficial designado por el proveedor para obtener
+14 información adicional, realizar reservaciones o adquirir sus productos o
+15 servicios; y
+16 (h) identificar información de contacto oficial del proveedor cuando este no
+17 disponga de un mecanismo electrónico para realizar reservaciones o
+18 transacciones. “PRPass” no procesará reservaciones, ventas o pagos
+19 correspondientes a los productos o servicios ofrecidos por los participantes. Toda
+20 reservación, adquisición o contratación se realizará directamente entre el usuario
+21 y el proveedor correspondiente mediante los canales oficiales de este.
+22 Sección 5. — Acceso y promoción de “PRPass”.
+6
+
+1 Turismo desarrollará mecanismos para facilitar que residentes y visitantes
+2 conozcan y accedan a “PRPass” durante su estadía y desplazamiento por Puerto Rico. A
+3 esos fines, podrá utilizarse un código de respuesta rápida, conocido como “QR Code”, u
+4 otro mecanismo electrónico que permita al usuario acceder directamente a “PRPass”.
+5 Turismo gestionará con las agencias, autoridades, concesionarios, operadores y
+6 demás entidades correspondientes la promoción y colocación de mecanismos de acceso
+7 a “PRPass” en aeropuertos, terminales de cruceros, terminales marítimos, centros de
+8 información turística, áreas de recogido de equipaje, áreas de transportación terrestre,
+9 hospederías, instalaciones participantes, zonas turísticas y otros puntos estratégicos de
+10 contacto con residentes y visitantes dentro de Puerto Rico.
+11 Toda utilización de dichos espacios estará sujeta a las autorizaciones, contratos,
+12 leyes y reglamentos aplicables.
+13 Turismo podrá coordinar con la Organización de Mercadeo de Destino de Puerto
+14 Rico la promoción de “PRPass” en mercados externos y mediante canales dirigidos a
+15 potenciales visitantes antes de su llegada a Puerto Rico.
+16 Sección 6. — Participación de entidades públicas y municipios.
+17 Podrán integrarse voluntariamente a “PRPass” atracciones, instalaciones,
+18 actividades y experiencias turísticas administradas por departamentos, agencias,
+19 instrumentalidades, corporaciones públicas y municipios.
+20 Turismo podrá celebrar los acuerdos de colaboración, Memorandos de
+21 Entendimiento y demás instrumentos autorizados por ley que resulten necesarios para
+7
+
+1 establecer los términos de participación, intercambio y actualización de información,
+2 utilización de enlaces oficiales y cualquier otro asunto pertinente.
+3 Sección 7. — Participación de entidades privadas.
+4 Podrán participar voluntariamente en “PRPass” entidades privadas relacionadas
+5 con la economía turística o del visitante.
+6 Podrán participar, entre otros, hospederías, restaurantes, operadores turísticos,
+7 guías turísticos autorizados, empresas de transportación turística, atracciones privadas,
+8 empresas de turismo de naturaleza, aventura o actividades náuticas, haciendas y
+9 proyectos de agroturismo, establecimientos culturales, artesanos y otras empresas que
+10 ofrezcan productos, servicios o experiencias relacionados con la oferta turística de Puerto
+11 Rico.
+12 Turismo establecerá requisitos objetivos, razonables y uniformemente aplicados
+13 para la participación en “PRPass”.
+14 Cada participante será responsable de proveer y mantener actualizada la
+15 información correspondiente a sus productos, servicios, experiencias, horarios y canales
+16 oficiales de acceso.
+17 La inclusión de una entidad en “PRPass” no constituirá certificación, garantía o
+18 endoso por parte de la Oficina de Turismo del Departamento de Desarrollo Económico
+19 ni del Gobierno de Puerto Rico respecto a los productos o servicios ofrecidos por esta.
+20 Sección 8. — Enlaces y transacciones externas.
+8
+
+1 “PRPass” dirigirá a los usuarios exclusivamente a páginas de Internet, sistemas
+2 de reservaciones, plataformas de venta u otros canales oficiales identificados o
+3 autorizados por el proveedor correspondiente.
+4 Turismo establecerá mecanismos razonables para procurar que los enlaces
+5 incorporados a “PRPass” correspondan a canales oficiales de los participantes y se
+6 mantengan actualizados.
+7 Toda reservación, compra, pago, cancelación, cambio, reembolso o contratación de
+8 un producto o servicio identificado mediante “PRPass” se realizará directamente entre
+9 el usuario y el proveedor correspondiente y estará sujeta a los términos, condiciones y
+10 políticas de dicho proveedor y a las leyes y reglamentos aplicables.
+11 El Gobierno de Puerto Rico no será parte de las transacciones realizadas entre los
+12 usuarios y los proveedores como consecuencia de los enlaces provistos mediante
+13 “PRPass”.
+14 Sección 9. — Información al consumidor.
+15 “PRPass” deberá identificar claramente la entidad responsable de cada producto,
+16 servicio o experiencia incluida en la plataforma.
+17 Cuando “PRPass” presente información relacionada con precios, disponibilidad,
+18 horarios, restricciones u otros términos correspondientes a un participante, deberá
+19 procurar identificar la fuente de dicha información y dirigir al usuario al canal oficial del
+20 proveedor para verificar la información vigente antes de realizar cualquier reservación o
+21 adquisición.
+9
+
+1 La información presentada mediante PassPR no sustituirá los términos y
+2 condiciones establecidos por el proveedor correspondiente.
+3 Sección 10. — Ciberseguridad, privacidad y accesibilidad.
+4 Turismo deberá procurar que la infraestructura tecnológica utilizada para
+5 “PRPass” incorpore controles adecuados de ciberseguridad y protección de información,
+6 conforme a los estándares y requisitos legales aplicables.
+7 “PRPass” recopilará únicamente aquella información personal que resulte
+8 razonablemente necesaria para el funcionamiento, seguridad, análisis y mejoramiento del
+9 Programa.
+10 La información personal será manejada conforme a las leyes y políticas aplicables.
+11 PassPR cumplirá con los requisitos de accesibilidad digital aplicables.
+12 Sección 11. — Datos y métricas.
+13 Turismo establecerá indicadores para evaluar la utilización y efectividad de
+14 “PRPass”.
+15 Estos podrán incluir, según corresponda:
+16 (a) cantidad de usuarios y visitas;
+17 (b) interacciones con las distintas categorías de experiencias;
+18 (c) enlaces utilizados para acceder a los canales oficiales de los participantes;
+19 (d) cantidad y categoría de participantes;
+20 (e) municipios y regiones consultados;
+21 (f) distribución geográfica de las interacciones;
+22 (g) atracciones, experiencias, productos o servicios con mayor interacción;
+10
+
+1 (h) utilización de los códigos QR u otros mecanismos de acceso a “PRPass”; y
+2 (i) otros indicadores que permitan evaluar el alcance y funcionamiento del
+3 Programa.
+4 Cuando resulte técnica y razonablemente posible, Turismo podrá establecer
+5 mecanismos voluntarios de colaboración con los participantes para evaluar de forma
+6 agregada la actividad económica o reservaciones que puedan atribuirse a usuarios
+7 referidos mediante “PRPass”.
+8 Los datos utilizados para análisis estadístico, formulación de política pública o
+9 informes públicos deberán presentarse de manera agregada o anonimizada cuando
+10 corresponda.
+11 Sección 12. — Plan de Implementación.
+12 Dentro de los ciento ochenta (180) días siguientes a la aprobación de esta
+13 Resolución Conjunta, Turismo, previa consulta con aquellas agencias, municipios,
+14 entidades públicas y privadas y organizaciones que resulten pertinentes, preparará un
+15 Plan de Implementación de “PRPass”.
+16 El Plan deberá incluir, sin limitarse:
+17 (a) evaluación de la infraestructura digital existente que pueda utilizarse o
+18 integrarse al Programa;
+19 (b) diseño funcional y modelo tecnológico propuesto;
+20 (c) funciones que estarán disponibles durante la fase inicial;
+21 (d) criterios y procedimientos para incorporar entidades públicas, municipales y
+22 privadas;
+11
+
+1 (e) mecanismos para recibir, validar y actualizar la información de los
+2 participantes;
+3 (f) mecanismos para verificar e incorporar los canales oficiales de los participantes;
+4 (g) estrategia para la promoción y acceso a “PRPass” dentro de Puerto Rico;
+5 (h) mecanismos de coordinación con la Organización de Mercadeo de Destino de
+6 Puerto Rico para la promoción de “PRPass” en mercados externos y entre
+7 potenciales visitantes antes de su llegada a Puerto Rico;
+8 (i) requisitos de accesibilidad, privacidad y ciberseguridad;
+9 (j) métricas de desempeño;
+10 (k) costos estimados;
+11 (l) fuentes de financiamiento legalmente disponibles;
+12 (m) procesos de contratación que resulten necesarios; y
+13 (n) calendario para el proyecto piloto y las fases posteriores de implementación.
+14 Sección 13. — Proyecto piloto.
+15 Turismo implementará “PRPass” inicialmente mediante un proyecto piloto
+16 dirigido a evaluar su viabilidad tecnológica y operacional antes de su expansión.
+17 El proyecto piloto deberá procurar incluir una combinación representativa de
+18 instalaciones, experiencias y proveedores públicos, municipales y privados de distintas
+19 categorías y regiones de Puerto Rico.
+20 El proyecto piloto deberá permitir evaluar, como mínimo:
+21 (a) la facilidad para descubrir experiencias;
+22 (b) la navegación y experiencia del usuario;
+12
+
+1 (c) el funcionamiento de los enlaces hacia los canales oficiales de los participantes;
+2 (d) la incorporación y actualización de información de los participantes;
+3 (e) la participación de entidades públicas, municipales y privadas;
+4 (f) la utilización de “PRPass” por residentes y visitantes;
+5 (g) la distribución regional de las interacciones; y
+6 (h) la recopilación de métricas.
+7 Turismo procurará iniciar el proyecto piloto dentro de los doce (12) meses
+8 siguientes a la aprobación de esta Resolución Conjunta, sujeto a la disponibilidad de
+9 fondos y a la culminación de los procesos de contratación, integración tecnológica y
+10 acuerdos necesarios.
+11 Sección 14. — Expansión del Programa.
+12 Luego de evaluar los resultados del proyecto piloto, Turismo podrá ampliar
+13 progresivamente “PRPass” a nuevas regiones, municipios, categorías de experiencias y
+14 participantes.
+15 La determinación de ampliar el Programa deberá considerar, entre otros factores
+16 pertinentes, su utilización, funcionamiento tecnológico, participación de proveedores,
+17 costos operacionales y resultados obtenidos durante el proyecto piloto.
+18 Sección 15. — Informe a la Asamblea Legislativa.
+19 Turismo presentará a la Secretaría del Senado de Puerto Rico y a la Secretaría de
+20 la Cámara de Representantes un primer informe no más tarde de noventa (90) días
+21 después de concluido el primer año de operación del proyecto piloto.
+22 El informe deberá incluir, sin limitarse:
+13
+
+1 (a) participantes incorporados;
+2 (b) municipios representados;
+3 (c) utilización de “PRPass”;
+4 (d) interacciones y enlaces utilizados hacia los canales oficiales de los
+5 participantes;
+6 (e) distribución regional de las interacciones;
+7 (f) costos de desarrollo y operación;
+8 (g) resultados de las métricas establecidas;
+9 (h) dificultades encontradas durante la implementación; y
+10 (i) recomendaciones sobre la continuación, modificación o expansión del
+11 Programa.
+12 Luego de la expansión permanente de “PRPass”, Turismo presentará un informe
+13 anual sobre su funcionamiento y resultados.
+14 Sección 16. — Fondos.
+15 La implementación de esta Resolución Conjunta se realizará con cargo a fondos
+16 disponibles para promoción y desarrollo turístico, transformación digital, desarrollo
+17 económico u otros propósitos compatibles con el Programa.
+18 Turismo podrá identificar y solicitar fondos federales, subvenciones y otras
+19 fuentes de financiamiento legalmente disponibles para el desarrollo e implementación de
+20 PassPR.
+21 Sección 17. — Normas y procedimientos.
+14
+
+1 Turismo podrá establecer aquellas normas y procedimientos administrativos
+2 necesarios para la implementación de “PRPass”, de conformidad con las leyes y
+3 reglamentos aplicables.
+4 Sección 18. — Separabilidad.
+5 Si cualquier cláusula, párrafo, subpárrafo, sección o parte de esta Resolución
+6 Conjunta fuere declarada nula o inconstitucional por un tribunal con jurisdicción
+7 competente, dicha determinación no afectará las restantes disposiciones.
+8 Sección 19. — Vigencia.
+9 Esta Resolución Conjunta comenzará a regir inmediatamente después de su
+10 aprobación.
+15

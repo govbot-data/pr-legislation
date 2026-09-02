@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(24 DE AGOSTO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 867
+4 de diciembre de 2025
+Presentado por el señor Rivera Schatz (Por Petición)
+Coautores los señores Colón La Santa, González López; la señora Pérez Soto; los señores Reyes
+Berríos, Sánchez Álvarez y Santos Ortiz
+Referido a la Comisión de Salud
+LEY
+Para crear la “Ley de la Reforma Médica para la Eficiencia, Salud y Agilidad”, a los
+fines de crear eficiencia, transparencia y agilidad en la operación del sistema de
+salud de Puerto Rico mediante la regulación del proceso de reclamaciones
+sometidas por los proveedores de servicios de salud a las aseguradoras o planes
+médicos, tanto en la esfera privada como bajo el Plan Vital; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+El sistema de salud de Puerto Rico enfrenta una crisis estructural que afecta la
+calidad, continuidad y eficiencia de los servicios médicos. Los hospitales se encuentran
+operando bajo presión financiera severa debido a tarifas insuficientes, alza en costos
+operacionales y, especialmente, retrasos prolongados en los pagos provenientes de las
+aseguradoras.
+Los proveedores de servicios de salud, incluyendo médicos, subespecialistas,
+hospitales, laboratorios, centros de salud, proveedores de salud mental y profesionales
+aliadas, experimentan una carga administrativa extrema producto de procesos
+
+2
+burocráticos lentos, reclamaciones denegadas, redes cerradas y demoras injustificadas
+en credencialización.
+Los médicos subespecialistas enfrentan una crisis particular debido a la
+dificultad para integrarse a redes, la falta de incentivos contributivos, los procesos
+engorrosos de certificación y los altos costos de sus préstamos estudiantiles.
+El sistema de reclamaciones vigente carece de eficiencia y transparencia. La
+ausencia de un método obligatorio de pago electrónico automático permite que los
+atrasos en pagos se extiendan por semanas o meses, afectando directamente la
+operación de hospitales y proveedores.
+Esta Ley regula específicamente el proceso de reclamaciones sometidas por los
+proveedores de servicios de salud a las aseguradoras o planes médicos, tanto en la
+esfera privada como bajo el Plan Vital. Además, regula la relación operacional entre el
+Gobierno, los proveedores de salud y los planes médicos, asegurando uniformidad,
+claridad y eficiencia en el procesamiento de reclamaciones.
+El Plan Vital maneja entre $2,200 y $2,400 millones anuales, fondos que deben
+utilizarse de forma transparente, estratégica y eficiente. Es imperativo garantizar que
+estos recursos se distribuyan apropiadamente para fortalecer la infraestructura
+hospitalaria, retener profesionales y asegurar servicios médicos oportunos.
+Esta Ley moderniza el sistema mediante la implementación de pagos
+automáticos obligatorios, apertura de redes, procesos de credencialización acelerados y
+auditorías periódicas para promover la estabilidad financiera y profesional del sistema
+de salud.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título.
+
+3
+1 Esta Ley se conocerá como la “Ley de la Reforma Médica para Eficiencia, Salud y
+2 Agilidad” o “Ley REMESA”. Para todos los fines legales y administrativos, podrá
+3 abreviarse como “REMESA”.
+4 Artículo 2.- Declaración de Política Pública.
+5 Se declara política pública del Gobierno de Puerto Rico:
+6 (a) Garantizar que todo proveedor reciba pagos puntuales y justos por servicios
+7 prestados.
+8 (b) Establecer obligatoriedad en el uso de sistemas electrónicos para la
+9 presentación, procesamiento y pago de reclamaciones.
+10 (c) Eliminar la burocracia que afecta la entrega de servicios médicos y
+11 hospitalarios.
+12 (d) Asegurar la disponibilidad adecuada de médicos, subespecialistas y
+13 profesionales de la salud.
+14 (e) Prevenir la práctica de redes cerradas sin justificación basada en evidencia.
+15 (f) Promover la estabilidad financiera y operativa de hospitales, centros de salud
+16 y proveedores.
+17 (g) Retener profesionales mediante incentivos contributivos y programas de
+18 repago.
+19 (h) Asegurar uso transparente de fondos públicos mediante auditorías estrictas.
+20 Artículo 3.- Definiciones.
+21 Para fines de esta Ley, los siguientes términos tendrán el significado que a
+22 continuación se expresa:
+
+4
+1 (a) “Aseguradora” o “Plan Médico”: Toda entidad autorizada a emitir o
+2 administrar pólizas de salud, Medicare Advantage o fondos públicos del Plan Vital.
+3 (b) “Credencialización”: Evaluación de cualificaciones del proveedor.
+4 (c) “Disputa”: Se refiere a solicitudes de ajuste, reconsideraciones, correcciones o
+5 controversias que requieren evaluación clínica o contractual.
+6 (d) “Pago automático”: Desembolso electrónico obligatorio dentro de los
+7 términos de esta Ley.
+8 (e) “Proveedor Médico” o “Proveedor de Servicios de Salud”: Toda persona
+9 natural o jurídica autorizada a ofrecer servicios clínicos, diagnósticos o terapéuticos,
+10 incluyendo médicos, subespecialistas, hospitales, farmacias, laboratorios, proveedores
+11 de salud mental, terapistas y profesionales aliadas.
+12 (f) “Reclamación”: Toda facturación sometida por un proveedor médico a una
+13 aseguradora por servicios prestados.
+14 (g) “Reclamación procesable”: Reclamación que contiene la información
+15 requerida para adjudicación.
+16 Artículo 4.- Sistema REMESA de Pago Automático.
+17 El sistema REMESA regulará exclusivamente reclamaciones sometidas por
+18 proveedores médicos a planes médicos o aseguradoras. El proceso incluirá lo siguiente:
+19 (a) Toda reclamación deberá someterse electrónicamente. (b) La aseguradora deberá
+20 adjudicar la reclamación en un término máximo de quince (15) días. (c) Toda
+21 reclamación procesable deberá pagarse dentro de un término no mayor de siete (7) días.
+22 (d) La falta de respuesta en treinta (30) días constituirá aceptación automática. (e) Todo
+
+5
+1 atraso conllevará intereses de 0.03% por cada día de retraso. (f) Se establecerá un portal
+2 digital para seguimiento continuo. (g) Toda disputa deberá resolverse en un término de
+3 siete (7) días, salvo que se pueda demostrar justa causa para la demora. (h) El
+4 Comisionado de Seguros fiscalizará su cumplimiento.
+5 Artículo 5.- Credencialización y Apertura de Redes.
+6 Se dispone que: (a) Toda solicitud de credencialización deberá adjudicarse en un
+7 término máximo de sesenta (60) días. (b) Si la aseguradora no responde en dicho
+8 término, la solicitud se considerará aprobada. (c) Se prohíben redes cerradas y que se
+9 limite el lugar donde el proveedor pueda ofrecer servicios, salvo justificación basada en
+10 evidencia. (d) El Secretario de Salud podrá ordenar la apertura de redes cuando el
+11 acceso esté comprometido. (e) Se creará el “Programa REMESA de Repago de
+12 Préstamos para Subespecialistas”, como medida de retención. (f) La relación contractual
+13 y sus efectos serán retroactivos a la fecha de radicación de la solicitud de
+14 credencialización de ser finalmente aprobada.
+15 Artículo 6.- Transparencia y Fiscalización.
+16 Las aseguradoras deberán: (a) Presentar informes trimestrales sobre tiempos de
+17 pago, denegaciones y utilización. (b) Someterse a auditorías anuales. (c) Publicar
+18 información en el Portal REMESA. (d) Facilitar acceso completo al Gobierno de Puerto
+19 Rico para su fiscalización.
+20 Artículo 7.- Reglamentación.
+
+6
+1 Las agencias pertinentes deberán en un término de ciento ochenta (180) días
+2 desde la aprobación de esta Ley, adoptar la reglamentación necesaria para la
+3 implementación de lo aquí dispuesto.
+4 Artículo 8.- Supremacía.
+5 Las disposiciones de esta Ley prevalecerán sobre cualquier otra disposición de
+6 ley o reglamento que no estuviere en armonía con lo aquí establecido.
+7 Artículo 9.- Separabilidad.
+8 Si alguna disposición de esta Ley fuere declarada inconstitucional o inválida por
+9 un tribunal de jurisdicción competente, tal determinación no afectará la validez de las
+10 restantes disposiciones, las cuales permanecerán en pleno vigor y efecto.
+11 Artículo 10.- Vigencia.
+12 Esta Ley comenzará a regir inmediatamente después de su aprobación.

@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 4 ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1451
+1 de septiembre de 2026
+Presentado por la señora Santiago Negrón y el señor González Costa
+Referido a la Comisión de
+LEY
+Para enmendar la Sección 6 del Artículo VI de la Ley 72-1993, según enmendada,
+conocida como “Ley de la Administración de Seguros de Salud de Puerto Rico”, a los
+fines de requerir a todas las aseguradoras y organizaciones de servicios de salud
+establecidas conforme a la Ley Núm. 77 del 19 de junio de 1957, según enmendada,
+conocida como “Código de Seguros de Puerto Rico”, así como a la Administración de
+Seguros de Salud de Puerto Rico y a cualquier entidad contratada para ofrecer
+servicios de salud o de seguros de salud en Puerto Rico a través de la Ley 72-1993,
+según enmendada, conocida como “Ley de la Administración de Seguros de Salud de
+Puerto Rico”, proveer, como parte de su cubierta básica y beneficios mínimos, las
+cirugías para tratar el pectus carinatum, el pectus excavatum y cualquier otra deformidad
+de la pared torácica; y para decretar otras disposiciones complementarias.
+EXPOSICIÓN DE MOTIVOS
+El pectus carinatum es una desviación de la posición y proporción típica de la pared
+torácica en la que el esternón y las costillas se desplazan hacia afuera. Esta afección ocurre
+en aproximadamente uno de cada mil nacimientos, y se presenta con mayor frecuencia
+entre los niños que entre las niñas.1 El pectus carinatum suele agravarse a medida que la
+1 El promedio de nacimientos totales en Puerto Rico entre el 2020 y el 2024 fue de 18,831 al año. Eso permite proyectar
+la cantidad de casos de pectus carinatum a aproximadamente 19 casos por año. En Estados Unidos, sólo el 21% de las
+pacientes afectadas terminó requiriendo cirugía. Esto representaría cerca de 4 casos al año en Puerto Rico.
+Véase, Edward KR, John OR, Jay GM, Ann KM, Mary MM, Stopp DD, Khrisna PH, Woodrow FF. Ten-year experience
+with staged management of pectus carinatum: Results and lessons learned. J Pediatr Surg. 2021 Oct;56(10):1835-1840. doi:
+10.1016/j.jpedsurg.2021.01.027. Epub 2021 Jan 27. PMID: 33558070.
+
+2
+persona crece, especialmente durante la pubertad, resultando en el desarrollo de
+escoliosis en cerca del 15% de los casos. Con frecuencia, el desplazamiento es asimétrico,
+por lo cual un lado del pecho suele ser más prominente que el otro. En situaciones más
+complejas, algunas personas presentan pectus carinatum en un lado del pecho y una
+depresión denominada pectus excavatum en el otro.2 En el 95% de los casos la parte media
+e inferior del esternón sobresale hacia adelante. Esa variación se conoce como
+prominencia condrogladiolar. Mientras, la prominencia condromanubrial, o pectus
+arcuatum, es un tipo poco frecuente en la que la parte superior del esternón sobresale y la
+parte inferior está hundida.
+Las personas con pectus carinatum tienen un mayor riesgo de presentar trastornos
+del tejido conectivo, como el síndrome de Marfan o el síndrome de Ehlers-Danlos; pueden
+experimentar dolor durante la actividad física; y, en ocasiones, ven afectado el
+funcionamiento adecuado del corazón a causa de la estructura inusual de la pared
+torácica. A su vez, la carga psicosocial, que incluye una autoimagen corporal deteriorada
+y ansiedad social, es significativa entre adolescentes y adultos jóvenes con pectus
+carinatum y pectus excavatum. Ésta se manifiesta a menudo mediante aislamiento social,
+conductas de ocultamiento y malestar emocional.3 Consecuentemente, las pacientes con
+estas afecciones suelen presentar una menor calidad de vida, tanto con relación a la salud
+física como en el ámbito mental.4 Afortunadamente, el tratamiento quirúrgico de las
+deformidades de la pared torácica mejora notablemente la autoimagen corporal, la
+autoestima, la participación social y los indicadores de salud mental, con beneficios que
+se mantienen a largo plazo.5
+2 La cifra documentada de casos de pectus excavatum en Estados Unidos es de aproximadamente un caso por cada
+mil nacimientos. Esto equivaldría en Puerto Rico a aproximadamente 19 casos al año.
+Véase, Girish Sharma; Yvonne M. Carter, Pectus Excavatum. National Library of Medicine: National Center for
+Biotechnology Information:
+https://www.ncbi.nlm.nih.gov/books/NBK430918/?utm_source=chatgpt.com. February 15, 2026.
+3 Barmash EA, Mathai BB, Mansfield SA, Van Arendonk KJ. Psychological Impact of Congenital Chest Wall Deformities
+Among Adolescents and Young Adults. Children (Basel). 2026 Feb 7;13(2):237. doi: 10.3390/children13020237. PMID:
+41749593; PMCID: PMC12939798.
+4 Steinmann C, Krille S, Mueller A, Weber P, Reingruber B, Martin A. Pectus excavatum and pectus carinatum patients
+suffer from lower quality of life and impaired body image: a control group comparison of psychological characteristics prior to
+surgical correction. Eur J Cardiothorac Surg. 2011 Nov;40(5):1138-45. doi: 10.1016/j.ejcts.2011.02.019. Epub 2011 Mar 25.
+PMID: 21440452.
+5 Barmash EA, et al., supra, n. 3.
+
+3
+Las profesionales de la salud recomiendan tratar las afecciones de la pared torácica
+mediante cirugía cuando éstas causan problemas físicos o psicosociales. La cirugía más
+común es una operación denominada procedimiento de Ravitch, en la que se realiza una
+incisión en la pared torácica, se retira el cartílago que se encuentra entre las costillas y el
+esternón, y luego se remodela y reposiciona el esternón; aunque existen tratamientos y
+procedimientos más sencillos dependiendo de la gravedad del caso y el criterio clínico.
+A pesar de las complicaciones que las desviaciones en la posición y proporción de
+la pared torácica, como el pectus carinatum y el pectus excavatum, pueden suponer para la
+salud física y mental de las pacientes, no todos los planes o cubiertas ofrecidas por las
+organizaciones de seguros de salud financian las cirugías correctivas. Como justificación,
+los planes médicos suelen informar que las cirugías deben clasificarse como “estéticas”,
+sin prestar atención a los efectos documentados de estos procedimientos sobre los
+indicadores de salud física, salud mental y bienestar social. El propósito de esta ley es
+garantizar la provisión y cubierta de las cirugías para tratar el pectus carinatum, el pectus
+excavatum y cualquier otra deformidad de la pared torácica de conformidad con el criterio
+clínico. De esta manera, la Asamblea Legislativa evita que se levanten lagunas en la
+legislación pertinente como subterfugio para negar a las beneficiarias un servicio
+conducente a la salud integral.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Se enmienda la Sección 6 del Artículo VI de la Ley 72-1993, según
+2 enmendada, conocida como “Ley de la Administración de Seguros de Salud de Puerto
+3 Rico”, para que lea como sigue:
+4 “ARTÍCULO VI. — PLAN DE SEGUROS DE SALUD
+5 Sección 1. – …
+6 …
+7 …
+
+4
+1 Sección 6. – Cubierta y Beneficios Mínimos.
+2 Los planes de salud tendrán una cubierta amplia, con un mínimo de
+3 exclusiones. No habrá exclusiones por condiciones preexistentes, como
+4 tampoco períodos de espera, al momento de otorgarse la cubierta al
+5 beneficiario.
+6 Cubierta A. La Administración establecerá una cubierta de
+7 beneficios a ser brindados por los aseguradores contratados o
+8 proveedores participantes. La cubierta comprenderá, entre otros
+9 beneficios, los siguientes: servicios ambulatorios, hospitalizaciones,
+10 salud dental, salud mental, estudios, pruebas y equipos para
+11 beneficiarios que requieran el uso de un ventilador para mantenerse con
+12 vida, laboratorios, rayos X, cirugías para tratar el pectus carinatum, el pectus
+13 excavatum y cualquier otra deformidad de la pared torácica de conformidad con
+14 el criterio clínico, así como medicamentos mediante prescripción médica,
+15 los cuales deberán ser despachados en una farmacia participante,
+16 libremente seleccionada por el asegurado, y autorizada bajo las Leyes de
+17 Puerto Rico. La cubierta dispondrá para que cada beneficiario tenga a su
+18 alcance anualmente los exámenes de laboratorio e inmunización
+19 apropiados para su edad, sexo y condición física. Disponiéndose que la
+20 lista de medicamentos para los pacientes de VIH/SIDA deberá[n]
+21 revisarse anualmente a los fines de, en caso de que la Administración lo
+22 estime pertinente, incluir aquellos nuevos medicamentos que sean
+
+5
+1 necesarios para el tratamiento de la condición que serán dispensados y
+2 ofrecidos en conformidad con las mejores prácticas médicas, siempre y
+3 cuando no se afecte el “State Plan” suscrito por el Departamento de Salud
+4 y el “Health Resources and Services Administration”.
+5 La Administración revisará esta cubierta periódicamente.
+6 Cubierta B. …
+7 Cubierta C. …
+8 Sección 7. – …
+9 …
+10 Sección 19. – …”
+11 Artículo 2.- Cláusula de supremacía.
+12 Las disposiciones de esta Ley prevalecerán sobre cualquier otra disposición de
+13 ley, reglamento o norma que no estuviere en armonía con ellas.
+14 Artículo 3.- Cláusula de separabilidad.
+15 Si alguna de las disposiciones de esta Ley o su aplicación fuere declarada
+16 inconstitucional o nula, tal dictamen de invalidez o nulidad no afectará la
+17 ejecutabilidad y vigor de las restantes disposiciones que no hayan sido objeto de
+18 dictamen adverso.
+19 Artículo 4.- Cláusula de vigencia.
+20 Esta Ley comenzará a regir inmediatamente después de su aprobación.

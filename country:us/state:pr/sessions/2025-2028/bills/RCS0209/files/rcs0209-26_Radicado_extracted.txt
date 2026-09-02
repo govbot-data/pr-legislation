@@ -1,0 +1,325 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20 ma Asamblea 4 ta Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. C. del S. 209
+1 de septiembre de 2026
+Presentada por el señor Reyes Berríos
+Referida a
+RESOLUCIÓN CONJUNTA
+Para ordenar al Departamento de Desarrollo Económico y Comercio del Gobierno de
+Puerto Rico, en coordinación con Invest Puerto Rico, Inc., desarrollar e implementar
+la iniciativa “Do Business in Puerto Rico”, dirigida a utilizar los principales puntos
+de entrada de pasajeros a Puerto Rico como espacios estratégicos para promover la
+inversión, el establecimiento y expansión de empresas y el desarrollo económico en
+la Isla; disponer para el uso de rotulación, códigos de respuesta rápida y
+herramientas digitales que faciliten el acceso a información sobre incentivos,
+oportunidades de inversión, municipios, infraestructura, sectores económicos,
+talento, instituciones de educación superior y permisos; establecer mecanismos
+para la captación y atención de potenciales inversionistas; disponer para la
+medición de resultados; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Cada año, millones de personas entran y salen de Puerto Rico a través de sus
+aeropuertos, terminales marítimos y muelles de cruceros. Entre estas se encuentran
+empresarios, ejecutivos, desarrolladores, inversionistas, profesionales, científicos,
+académicos, emprendedores y otras personas con capacidad para establecer empresas,
+desarrollar proyectos, invertir capital y generar actividad económica en la Isla.
+Los puntos de entrada a Puerto Rico representan, por tanto, una oportunidad para
+promover activamente a la Isla como destino de inversión y negocios. La experiencia de
+un visitante con Puerto Rico comienza desde su llegada y puede aprovecharse para
+1
+
+presentar, de manera sencilla y accesible, las ventajas competitivas, oportunidades
+económicas y recursos disponibles para quienes interesen invertir o establecer
+operaciones en nuestra jurisdicción.
+Puerto Rico cuenta con herramientas importantes para promover la inversión. La
+Ley 60-2019, según enmendada, conocida como el “Código de Incentivos de Puerto Rico”,
+agrupa diversos programas dirigidos a fomentar actividades económicas y promover
+inversión y creación de empleos. Asimismo, el Departamento de Desarrollo Económico
+y Comercio e Invest Puerto Rico, Inc., realizan funciones dirigidas a promover a Puerto
+Rico como destino de inversión y facilitar el establecimiento y expansión de empresas.
+No obstante, la información que un potencial inversionista necesita para evaluar a
+Puerto Rico se encuentra distribuida entre distintas agencias, entidades, municipios,
+instituciones y plataformas. Un inversionista interesado en la Isla puede necesitar
+información sobre incentivos, propiedades, infraestructura, permisos, talento,
+instituciones académicas, sectores económicos y contactos gubernamentales. El acceso
+inicial a esa información debe ser sencillo y servir como punto de entrada hacia los
+recursos y sistemas oficiales correspondientes.
+A esos fines, esta Resolución Conjunta establece la iniciativa “Do Business in
+Puerto Rico”, mediante la cual el Departamento de Desarrollo Económico y Comercio, en
+coordinación con Invest Puerto Rico, Inc., utilizará estratégicamente los principales
+puntos de entrada de pasajeros para promover oportunidades de inversión en Puerto
+Rico y facilitar el contacto entre potenciales inversionistas y las entidades responsables
+de atenderlos.
+La iniciativa deberá utilizar, entre otros mecanismos, rotulación y códigos de
+respuesta rápida, conocidos como “QR Codes”, que permitan acceder mediante
+dispositivos móviles a una experiencia digital diseñada para presentar información
+relevante para un potencial inversionista. Para evitar duplicidad de esfuerzos y recursos,
+la iniciativa deberá aprovechar prioritariamente las plataformas digitales, sistemas e
+infraestructura tecnológica existentes, realizando las modificaciones o integraciones que
+resulten necesarias.
+2
+
+La información deberá permitir que un potencial inversionista pueda identificar,
+de manera sencilla, las ventajas de invertir en Puerto Rico, los sectores económicos
+estratégicos, los incentivos que pudieran resultar aplicables, oportunidades de inversión
+y desarrollo, infraestructura disponible, información general sobre permisos y los
+mecanismos para establecer contacto con las entidades correspondientes. Los resúmenes
+sobre incentivos serán exclusivamente informativos y no sustituirán el texto de las leyes
+y reglamentos aplicables ni el asesoramiento legal, contributivo, financiero o profesional.
+La iniciativa deberá procurar, además, que las oportunidades de inversión puedan
+identificarse en todo Puerto Rico. Los setenta y ocho municipios poseen activos,
+infraestructura, propiedades, talento y oportunidades particulares que pueden resultar
+atractivos para distintas actividades económicas. Por ello, la plataforma deberá permitir
+progresivamente la presentación de información por municipio, región y sector
+económico, utilizando información suministrada o validada por las entidades
+correspondientes.
+El talento constituye igualmente un elemento fundamental en cualquier decisión
+de inversión. Las instituciones de educación superior de Puerto Rico representan una
+parte esencial de la infraestructura económica de la Isla, tanto por la preparación de
+profesionales como por su capacidad de investigación, innovación y colaboración con la
+industria. La iniciativa deberá permitir que potenciales inversionistas puedan identificar
+instituciones, programas académicos, áreas de investigación y otros recursos educativos
+relacionados con las necesidades de talento de los sectores económicos promovidos.
+Más importante aún, la iniciativa no deberá limitarse a presentar información.
+Deberá permitir que una persona interesada en invertir pueda manifestar ese interés y
+establecer contacto con el DDEC, Invest Puerto Rico, Inc., un municipio u otra entidad
+pertinente. De esta forma, una interacción originada en un aeropuerto, terminal
+marítimo, muelle de cruceros u otro punto estratégico podrá convertirse en un prospecto
+de inversión susceptible de seguimiento.
+La efectividad de la iniciativa deberá medirse por sus resultados. Además de las
+visitas y utilización de sus herramientas digitales, deberán establecerse indicadores que
+3
+
+permitan conocer la cantidad de prospectos generados, reuniones coordinadas, proyectos
+bajo evaluación, inversiones realizadas y empleos generados como resultado de los
+contactos originados mediante la iniciativa.
+Puerto Rico debe aprovechar cada oportunidad razonable para presentar ante
+quienes nos visitan las ventajas de invertir, establecer empresas y desarrollar proyectos
+en la Isla. El visitante de hoy puede convertirse en el inversionista de mañana, y
+corresponde al Gobierno facilitar que esa posibilidad pueda transformarse en una
+oportunidad concreta de desarrollo económico.
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. — Creación de “Do Business in Puerto Rico”.
+2 Se ordena al Departamento de Desarrollo Económico y Comercio del Gobierno de
+3 Puerto Rico, en adelante “DDEC”, en coordinación con Invest Puerto Rico, Inc.,
+4 desarrollar e implementar la iniciativa denominada “Do Business in Puerto Rico”. La
+5 iniciativa tendrá como objetivo utilizar estratégicamente los principales puntos de
+6 entrada de pasajeros a Puerto Rico para promover la Isla como destino de inversión,
+7 establecimiento y expansión de empresas y desarrollo económico, y facilitar la
+8 identificación y captación de potenciales inversionistas.
+9 Sección 2. — Política pública.
+10 Se declara política pública del Gobierno de Puerto Rico aprovechar
+11 estratégicamente el flujo de visitantes que recibe la Isla como una oportunidad adicional
+12 para promover la inversión, el establecimiento y expansión de empresas, la creación de
+13 empleos y el desarrollo económico.
+4
+
+1 A esos fines, el DDEC, en coordinación con Invest Puerto Rico, Inc., procurará
+2 integrar los principales puntos de entrada de pasajeros a las estrategias de promoción y
+3 captación de inversiones de Puerto Rico.
+4 Sección 3. — Puntos de entrada y promoción.
+5 El DDEC, en coordinación con Invest Puerto Rico, Inc., gestionará con las agencias,
+6 autoridades, concesionarios, operadores y demás entidades con jurisdicción o control
+7 sobre los espacios correspondientes la instalación o utilización de mecanismos de
+8 promoción de la iniciativa en lugares de alto tránsito de pasajeros.
+9 Estos podrán incluir aeropuertos, terminales de cruceros, muelles de pasajeros,
+10 terminales marítimos, áreas de llegadas y salidas, áreas de recogido de equipaje, centros
+11 de información turística y otros puntos estratégicos.
+12 La utilización de dichos espacios estará sujeta a las leyes, reglamentos, contratos,
+13 autorizaciones y demás disposiciones aplicables.
+14 Sección 4. — Rotulación y códigos de respuesta rápida.
+15 La iniciativa utilizará rotulación y otros mecanismos de promoción diseñados para
+16 presentar a Puerto Rico como destino de inversión y negocios.
+17 La rotulación principal deberá incorporar códigos de respuesta rápida, conocidos
+18 como “QR Codes”, u otra tecnología equivalente, que permita al usuario acceder
+19 directamente mediante un dispositivo móvil a la plataforma digital de la iniciativa.
+20 Los mecanismos utilizados deberán permitir, cuando sea técnicamente viable,
+21 identificar de forma agregada el punto de entrada, ubicación o campaña desde la cual se
+22 originó la interacción para fines de evaluación y medición de resultados.
+5
+
+1 Sección 5. — Plataforma digital.
+2 El DDEC, en coordinación con Invest Puerto Rico, Inc., desarrollará la experiencia
+3 digital necesaria para implementar “Do Business in Puerto Rico”, utilizando
+4 prioritariamente portales, plataformas, sistemas e infraestructura tecnológica existentes
+5 y realizando las modificaciones, integraciones o desarrollos adicionales que resulten
+6 necesarios.
+7 La plataforma deberá estar diseñada prioritariamente para dispositivos móviles,
+8 estar disponible, como mínimo, en español e inglés, cumplir con los requisitos de
+9 accesibilidad digital aplicables y permitir acceso a sus funciones esenciales sin requerir la
+10 descarga de una aplicación móvil.
+11 Sección 6. — Contenido mínimo.
+12 La plataforma deberá permitir que un potencial inversionista pueda acceder de
+13 manera sencilla a información relacionada con:
+14 (a) las ventajas de invertir y establecer operaciones en Puerto Rico;
+15 (b) sectores económicos estratégicos;
+16 (c) programas de incentivos;
+17 (d) oportunidades de inversión y desarrollo;
+18 (e) municipios y regiones;
+19 (f) propiedades o instalaciones identificadas como disponibles o potencialmente
+20 disponibles para desarrollo;
+21 (g) infraestructura económica;
+22 (h) talento e instituciones de educación superior;
+6
+
+1 (i) orientación general sobre permisos y establecimiento de negocios;
+2 (j) programas de financiamiento y otros recursos económicos, cuando
+3 corresponda; y
+4 (k) información de contacto con el DDEC, Invest Puerto Rico, Inc., municipios y
+5 demás entidades pertinentes.
+6 La plataforma procurará dirigir al usuario a las fuentes y sistemas oficiales
+7 correspondientes cuando la información o trámite sea administrado por otra entidad.
+8 Sección 7. — Código de Incentivos de Puerto Rico.
+9 La plataforma incluirá información general y accesible sobre los principales
+10 programas e incentivos establecidos mediante la Ley 60-2019, según enmendada,
+11 conocida como el “Código de Incentivos de Puerto Rico”.
+12 Sección 8. — Oportunidades de inversión y municipios.
+13 El DDEC e Invest Puerto Rico, Inc., en coordinación con los municipios y entidades
+14 públicas pertinentes, procurarán desarrollar progresivamente herramientas que
+15 permitan identificar oportunidades potenciales de inversión por municipio, región y
+16 sector económico.
+17 La información podrá incluir propiedades industriales, terrenos, zonas
+18 comerciales, centros urbanos, áreas turísticas, instalaciones susceptibles de redesarrollo,
+19 infraestructura logística, activos públicos disponibles mediante los mecanismos
+20 autorizados por ley y otras oportunidades identificadas por las entidades
+21 correspondientes.
+7
+
+1 La plataforma procurará incluir información económica pertinente sobre los
+2 setenta y ocho municipios de Puerto Rico y mecanismos de contacto con las dependencias
+3 municipales responsables de asuntos relacionados con desarrollo económico.
+4 La inclusión de cualquier propiedad, instalación o activo en la plataforma no
+5 constituirá adjudicación, reserva, derecho preferente, autorización para su desarrollo ni
+6 compromiso contractual por parte del Gobierno de Puerto Rico, un municipio o la
+7 entidad propietaria.
+8 Sección 9. — Talento e instituciones de educación superior.
+9 La plataforma incluirá información dirigida a facilitar que potenciales
+10 inversionistas puedan identificar instituciones de educación superior y recursos
+11 académicos relacionados con las necesidades de talento, investigación e innovación de
+12 los sectores económicos promovidos.
+13 La información podrá incluir instituciones y recintos, programas académicos
+14 relevantes, áreas de especialización, centros de investigación, laboratorios, programas de
+15 capacitación y mecanismos de contacto para promover colaboraciones entre la industria
+16 y la academia.
+17 La información deberá obtenerse de fuentes oficiales o ser suministrada o validada
+18 por las instituciones correspondientes.
+19 Sección 10. — Infraestructura y establecimiento de operaciones.
+20 La plataforma incluirá información general sobre infraestructura económica
+21 relevante para potenciales inversionistas, incluyendo, según corresponda, puertos,
+8
+
+1 aeropuertos, carreteras, zonas industriales, telecomunicaciones, conectividad,
+2 infraestructura logística y otros activos pertinentes.
+3 Asimismo, incluirá orientación general y enlaces oficiales relacionados con
+4 permisos, organización de empresas y aquellos otros trámites que puedan resultar
+5 pertinentes para el establecimiento o expansión de operaciones en Puerto Rico.
+6 La iniciativa no sustituirá los sistemas, procedimientos ni determinaciones de las
+7 agencias o entidades con jurisdicción sobre dichas materias.
+8 Sección 11. — Captación y atención de potenciales inversionistas.
+9 La plataforma deberá incluir un mecanismo visible y de fácil acceso mediante el
+10 cual una persona o empresa interesada pueda solicitar información, orientación o una
+11 reunión relacionada con oportunidades de inversión en Puerto Rico.
+12 El mecanismo podrá solicitar voluntariamente aquella información
+13 razonablemente necesaria para evaluar y canalizar el prospecto, incluyendo información
+14 sobre la empresa, sector económico, naturaleza del proyecto, inversión aproximada,
+15 empleos proyectados, región o municipio de interés y necesidades de instalaciones o
+16 talento.
+17 Los prospectos serán canalizados al DDEC, Invest Puerto Rico, Inc., municipios u
+18 otras entidades correspondientes, de conformidad con sus respectivas facultades y
+19 responsabilidades.
+20 Sección 12. — Seguimiento y métricas.
+21 El DDEC, en coordinación con Invest Puerto Rico, Inc., establecerá mecanismos de
+22 seguimiento e indicadores para evaluar la efectividad de “Do Business in Puerto Rico”.
+9
+
+1 Las métricas deberán incluir, cuando sea posible:
+2 (a) interacciones con los códigos QR u otros mecanismos utilizados;
+3 (b) visitas a la plataforma;
+4 (c) solicitudes de información recibidas;
+5 (d) prospectos de inversión generados;
+6 (e) prospectos cualificados;
+7 (f) reuniones coordinadas;
+8 (g) proyectos bajo evaluación;
+9 (h) sectores, regiones y municipios de interés;
+10 (i) inversiones anunciadas o realizadas relacionadas con prospectos originados
+11 mediante la iniciativa;
+12 (j) capital de inversión identificado o comprometido; y
+13 (k) empleos proyectados y empleos creados.
+14 La información personal suministrada por los usuarios será manejada conforme a
+15 las leyes y políticas aplicables. Los datos utilizados para fines estadísticos o informes
+16 públicos deberán presentarse de forma agregada cuando corresponda.
+17 Sección 13. — Coordinación y acuerdos de colaboración.
+18 Para la implementación de esta Resolución Conjunta, el DDEC e Invest Puerto
+19 Rico, Inc. podrán celebrar, conforme a derecho, acuerdos de colaboración, Memorandos
+20 de Entendimiento u otros instrumentos autorizados con municipios, universidades,
+21 entidades públicas, operadores aeroportuarios y portuarios, líneas aéreas, líneas de
+22 cruceros, organizaciones empresariales y otras entidades públicas o privadas pertinentes.
+10
+
+1 La iniciativa podrá extender sus esfuerzos de promoción a convenciones,
+2 congresos, reuniones empresariales y otros eventos que representen oportunidades para
+3 la captación de potenciales inversionistas.
+4 Sección 14. — Plan de Implementación.
+5 Dentro de los ciento ochenta (180) días siguientes a la aprobación de esta
+6 Resolución Conjunta, el DDEC, en coordinación con Invest Puerto Rico, Inc., preparará
+7 un Plan de Implementación de “Do Business in Puerto Rico”.
+8 El Plan deberá incluir, sin limitarse:
+9 (a) la estrategia de promoción y rotulación;
+10 (b) los puntos de entrada propuestos para la primera fase;
+11 (c) la infraestructura digital que será utilizada o modificada;
+12 (d) el contenido inicial de la plataforma;
+13 (e) la metodología para incorporar información de municipios, oportunidades de
+14 inversión e instituciones de educación superior;
+15 (f) los mecanismos para captar, canalizar y dar seguimiento a potenciales
+16 inversionistas;
+17 (g) las métricas para evaluar resultados;
+18 (h) los costos estimados;
+19 (i) las fuentes de financiamiento legalmente disponibles; y
+20 (j) un calendario de implementación.
+21 Sección 15. — Primera fase.
+11
+
+1 En la primera fase del plan deberá procurar incluir los principales aeropuertos
+2 comerciales y terminales de cruceros de Puerto Rico, sujeto a la obtención de las
+3 autorizaciones correspondientes y a la disponibilidad de fondos.
+4 El DDEC e Invest Puerto Rico, Inc. podrán ampliar posteriormente la iniciativa a
+5 otros aeropuertos, terminales marítimos, centros de convenciones y lugares estratégicos
+6 atendiendo a los resultados obtenidos y a los recursos legalmente disponibles.
+7 Sección 16. — Informe a la Asamblea Legislativa.
+8 El DDEC, en coordinación con Invest Puerto Rico, Inc., presentará a la Secretaría
+9 del Senado de Puerto Rico y a la Secretaría de la Cámara de Representantes un informe
+10 sobre la implementación y resultados de la iniciativa al cumplirse un (1) año de su puesta
+11 en funcionamiento y, posteriormente, de forma anual.
+12 El informe deberá incluir información sobre los puntos de entrada participantes,
+13 utilización de las herramientas digitales, prospectos generados, reuniones realizadas,
+14 proyectos bajo evaluación, sectores y regiones de interés, inversiones relacionadas con
+15 prospectos originados mediante la iniciativa, empleos proyectados y creados, así como
+16 recomendaciones para mejorar o ampliar el programa.
+17 Sección 17. — Fondos.
+18 La implementación de esta Resolución Conjunta se realizará utilizando fondos
+19 disponibles para promoción de inversión, desarrollo económico, mercadeo,
+20 transformación digital u otros propósitos compatibles con la iniciativa.
+21 El DDEC e Invest Puerto Rico, Inc. podrán identificar y utilizar, conforme a
+22 derecho, fondos federales y otras fuentes de financiamiento legalmente disponibles.
+12
+
+1 Sección 18. — Normas y procedimientos.
+2 El DDEC podrá establecer aquellas normas, reglamentos y procedimientos
+3 administrativos que resulten necesarios para implementar esta Resolución Conjunta, de
+4 conformidad con las leyes y reglamentos aplicables.
+5 Sección 19. — Separabilidad.
+6 Si cualquier cláusula, párrafo, subpárrafo, sección o parte de esta Resolución
+7 Conjunta fuere declarada nula o inconstitucional por un tribunal con jurisdicción
+8 competente, dicha determinación no afectará las restantes disposiciones.
+9 Sección 20. — Vigencia.
+10 Esta Resolución Conjunta comenzará a regir inmediatamente después de su
+11 aprobación.
+13

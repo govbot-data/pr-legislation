@@ -1,0 +1,406 @@
+Title: 
+Official Title: 
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(20 DE AGOSTO DE 2026)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1197
+14 de abril de 2026
+Presentado por el señor Sánchez Álvarez
+Coautores los señores Colón La Santa, Reyes Berríos y Rosa Ramos
+Referido a la Comisión de Gobierno
+LEY
+Para enmendar el Artículo 3, añadir un nuevo Artículo 8 y reenumerar los actuales
+Artículos 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 26-A, 27, 28,
+29, 30, 31, 32, 33 y 34 de la Ley Núm. 44 de 21 de junio de 1988, según enmendada,
+conocida como “Ley de la Autoridad para el Financiamiento de la Infraestructura
+de Puerto Rico”, con el propósito de crear un Comité Intergubernamental encargado
+de confeccionar un plan para el estudio, planificación, diseño, viabilidad fiscal,
+financiamiento, coordinación e implantación del “Sistema de la Reserva Estratégica
+de Combustible de Puerto Rico”; definir dicho Sistema; establecer criterios para la
+evaluación técnica, fiscal, operacional, ambiental, agrícola y logística de sus
+componentes; disponer requisitos sobre fuentes de financiamiento, infraestructura
+existente, rotación de inventario, protocolos de activación, distribución y reposición
+de combustibles; establecer salvaguardas sobre terrenos de valor o uso agrícola y
+propiedades públicas; requerir informes al Gobernador y a la Asamblea Legislativa;
+disponer normas de interpretación; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El petróleo, el carbón y el gas natural son las fuentes energéticas más utilizadas en
+el planeta Tierra. Respecto a Puerto Rico, la política pública energética local tiene como
+misión alcanzar, entre otros, el objetivo de promover la más rápida y efectiva
+reconstrucción, modernización y actualización del sistema de transmisión y distribución
+de la red para desarrollar un sistema robusto y flexible, que pueda integrar nuevas
+
+2
+tecnologías, generación distribuida, fuentes de energía renovable, mecanismos de
+eficiencia energética y provea a los consumidores alternativas en el sector energético,
+maximizando los recursos estatales y federales disponibles; promover el uso de centrales
+eléctricas de menor escala que tengan la capacidad de operar con múltiples combustibles
+(“diversified fuel mix”), de los cuales uno debe ser gas natural, que minimicen las
+emisiones de gases de efectos de invernadero, con tecnología e infraestructura asociada
+moderna y de alta eficiencia (“high efficiency capacity”), según definido por el Negociado
+de Energía, y con capacidad para integrar generación distribuida y energía renovable a
+la red eléctrica; y eliminar el uso de carbón como fuente de generación de energía, no más
+tarde del 31 de diciembre de 2032.
+Por otra parte, mientras la tecnología permita, sin comprometer la confiabilidad,
+estabilidad y continuidad del sistema eléctrico, reducir el uso de combustibles fósiles para
+la generación de energía, mediante la integración de energía renovable de forma
+ordenada y progresiva, garantizando la estabilidad del Sistema Eléctrico a un costo
+razonable mientras se maximizan los recursos de energía renovable a corto, mediano y
+largo plazo, se estableció una Cartera de Energía Renovable con el fin de alcanzar un cien
+por ciento (100%) de la producción para suplir la demanda en o antes del 2050.
+No obstante, en lo que la política pública que antecede logra desarrollarse y ser
+implementada por el Gobierno de Puerto Rico, este continúa expuesta a riesgos externos
+asociados al mercado internacional de combustibles, incluyendo fluctuaciones de precios,
+conflictos geopolíticos, interrupciones marítimas, eventos naturales, emergencias
+operacionales y disrupciones en la cadena de suministro. Por su condición insular y su
+dependencia de combustibles importados, cualquier atraso, interrupción o reducción en
+el suplido puede tener efectos directos sobre la generación energética, la transportación,
+la seguridad pública, la salud, las operaciones gubernamentales, la actividad económica
+y otros servicios esenciales.
+Dicho lo anterior, nuestra Isla no debería estar a la merced del entorno geopolítico
+mundial para suplir sus necesidades de combustibles y sostener la continuidad de sus
+
+3
+servicios esenciales durante situaciones de emergencia. Debemos tener un plan de acción
+que evite colocarnos en situaciones de desventaja nuevamente. Por ello se propone
+establecer un marco de estudio, planificación, viabilidad fiscal, coordinación e
+implantación para el desarrollo del Sistema de la Reserva Estratégica de Combustible de
+Puerto Rico, de manera que el Gobierno pueda evaluar, con criterios técnicos, fiscales,
+ambientales, agrícolas, logísticos y operacionales, la conveniencia y forma de hacer
+disponible combustible durante emergencias, desastres naturales, eventos causados por
+el ser humano o interrupciones significativas en la cadena de suministro.
+Así las cosas, debemos destinar los recursos necesarios para hacer un estudio de
+viabilidad que permita determinar, antes de cualquier fase de construcción, adquisición,
+operación o compra de inventario, cuáles son los tipos de combustible adecuados, los
+costos reales del proyecto, las fuentes de financiamiento, los permisos requeridos, los
+mecanismos de rotación de inventario, los protocolos de activación, distribución y
+reposición, y la infraestructura existente que podría utilizarse para maximizar recursos
+disponibles y reducir costos de desarrollo e implementación.
+Específicamente, la propuesta que aquí se presenta persigue crear un Comité
+Intergubernamental encargado de confeccionar un plan para el estudio, establecimiento,
+implementación, desarrollo, financiamiento, construcción y manejo del “Sistema de la
+Reserva Estratégica de Combustible de Puerto Rico”, según definido en esta Ley. Dicho
+Sistema no se limita a tanques de abastecimiento, sino que comprende infraestructura,
+facilidades, equipos, mejoras, inventarios, sistemas de almacenamiento, mecanismos de
+rotación, protocolos de despacho, acuerdos operacionales y demás componentes
+necesarios para almacenar, manejar, conservar, rotar, distribuir o hacer disponible
+combustible durante emergencias declaradas, interrupciones críticas en la cadena de
+suministro, desastres naturales o cualquier otra situación que afecte o pueda afectar la
+continuidad de servicios esenciales, operaciones gubernamentales, infraestructura crítica,
+transportación, seguridad pública, salud, generación energética o actividad económica
+indispensable para el bienestar general de Puerto Rico.
+
+4
+El Comité operará bajo criterios de planificación responsable y deberá evaluar,
+entre otros asuntos, las áreas geográficas que podrían considerarse para ubicar
+componentes del Sistema; la disponibilidad de infraestructura existente; el acceso
+marítimo o terrestre; la proximidad a infraestructura crítica; la distancia de centros
+poblacionales; la resiliencia ante desastres naturales; la compatibilidad con los usos de
+suelo; el impacto ambiental; la seguridad contra incendios; la seguridad operacional; la
+protección de terrenos de valor o uso agrícola; los costos de estudio, diseño, permisos,
+adquisición, arrendamiento, servidumbres, construcción, rehabilitación, operación,
+mantenimiento, seguridad, seguros, cumplimiento ambiental, compra inicial de
+combustible, rotación de inventario, reposición de combustible y disposición de
+combustible vencido o contaminado; así como las fuentes de financiamiento disponibles
+y la viabilidad fiscal del proyecto.
+Asimismo, antes de recomendar nueva construcción el Comité deberá evaluar la
+utilización de terminales, instalaciones portuarias o aeroportuarias, sistemas de
+almacenamiento existentes, acuerdos operacionales con entidades públicas o privadas,
+colaboración interagencial y alianzas público-privadas. Esta evaluación permitirá evitar
+duplicación innecesaria de infraestructura, maximizar recursos disponibles, reducir
+costos de implantación y aprovechar facilidades compatibles con el manejo de
+combustibles.
+La medida también reconoce que la seguridad energética no debe alcanzarse en
+menoscabo de otros intereses públicos fundamentales. Por ello, se incorporan
+salvaguardas para proteger terrenos de valor o uso agrícola, seguridad alimentaria,
+activos públicos estratégicos, propiedades industriales, obligaciones contractuales,
+política pública de desarrollo económico, permisos, evaluación ambiental, seguridad
+operacional, contratación pública, control fiscal y demás requisitos aplicables. En
+particular, la identificación preliminar de propiedades públicas no constituirá una
+transferencia, reserva, gravamen, obligación de disposición, autorización de uso,
+determinación de disponibilidad ni compromiso de cesión gratuita. Toda propiedad
+
+5
+deberá evaluarse de forma individualizada y conforme a la ley orgánica de la entidad
+titular o administradora, la Ley 26-2017, según enmendada, el Plan Fiscal certificado, el
+presupuesto certificado y la normativa aplicable.
+No cabe duda de que la Asamblea Legislativa cuenta con amplios poderes para
+regular asuntos concernientes al bienestar de los residentes de Puerto Rico. Esa facultad
+de la Asamblea Legislativa emana del poder público del Estado o de razón de Estado que
+se utiliza para salvaguardar la salud, la seguridad y el bienestar de los ciudadanos. En el
+ejercicio del poder de razón de Estado, la Asamblea Legislativa posee plena facultad para
+aprobar legislación dirigida a que se confeccione un plan para el estudio, establecimiento,
+implementación, desarrollo, financiamiento, construcción y manejo del “Sistema de la
+Reserva Estratégica de Combustible de Puerto Rico”.
+La presente legislación fomenta un ambiente social de seguridad, acentuando en
+la continuación ininterrumpida de las operaciones comerciales y gubernamentales en
+Puerto Rico, aun a pesar del impacto de algún desastre creado por la naturaleza o causado
+por el ser humano. A su vez, establece un marco prudente de planificación, rendición de
+cuentas, coordinación interagencial, sostenibilidad fiscal, protección agrícola,
+cumplimiento ambiental y uso eficiente de infraestructura existente, de modo que la
+respuesta energética del Gobierno de Puerto Rico sea técnica, fiscalmente responsable y
+compatible con el ordenamiento jurídico vigente.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 3 de la Ley Núm. 44 de 21 de junio de 1988,
+2 según enmendada, conocida como la “Ley de la “Autoridad para el Financiamiento
+3 de la Infraestructura de Puerto Rico”, para que lea como sigue:
+4 “Artículo 3.- Definiciones.
+
+6
+1 Las siguientes palabras y términos, cuando sean usados o se haga referencia a los
+2 mismos en esta Ley, tendrán los significados que se indican a continuación, a no ser
+3 que del contexto se entienda claramente otra cosa:
+4 (a)…
+5 …
+6 (i) Infraestructura — Significará aquellas obras capitales y facilidades de interés
+7 público sustancial, tales como sistemas de acueductos y alcantarillados, incluyendo
+8 todos los sistemas para suplir, tratar y distribuir agua, sistemas de tratamiento y
+9 eliminación de aguas de albañal, mejoras que sean financiadas bajo las disposiciones
+10 de la Ley Federal de Agua Limpia y de la Ley Federal de Agua Potable o cualquier
+11 otra legislación o reglamento federal similar o relacionado; sistemas de eliminación de
+12 desperdicios sólidos y peligrosos; sistemas de recuperación de recursos, sistemas de
+13 energía eléctrica; sistemas de almacenamiento, manejo, rotación, despacho y
+14 abastecimiento de combustibles para emergencias, incluyendo tanques, terminales,
+15 facilidades existentes, equipos, mejoras y componentes accesorios necesarios para su
+16 operación segura y continua, autopistas, carreteras, paseos peatonales, facilidades de
+17 estacionamiento, aeropuertos, centros de convenciones, puentes, puertos marítimos,
+18 túneles, sistemas de transportación, incluyendo los de transportación colectiva;
+19 sistemas de comunicación, incluyendo teléfonos, facilidades industriales, tierras y
+20 recursos naturales, vivienda pública y toda clase de facilidades de infraestructura
+21 turística, médica y agroindustrial.
+22 …
+
+7
+1 (t) Sistema de la Reserva Estratégica de Combustible de Puerto Rico — Significará
+2 el conjunto de infraestructura, facilidades, equipos, mejoras, inventarios, sistemas de
+3 almacenamiento, mecanismos de rotación, protocolos de despacho, acuerdos
+4 operacionales y demás componentes necesarios para almacenar, manejar, conservar,
+5 rotar, distribuir o hacer disponible combustible durante emergencias declaradas,
+6 interrupciones críticas en la cadena de suministro, desastres naturales o cualquier otra
+7 situación que afecte o pueda afectar la continuidad de servicios esenciales, operaciones
+8 gubernamentales, infraestructura crítica, transportación, seguridad pública, salud,
+9 generación energética o actividad económica indispensable para el bienestar general
+10 de Puerto Rico.”
+11 Sección 2.- Se añade un nuevo Artículo 8 en la Ley Núm. 44 de 21 de junio de 1988,
+12 según enmendada, conocida como la “Ley de la “Autoridad para el Financiamiento
+13 de la Infraestructura de Puerto Rico”, que leerá como sigue:
+14 “Artículo 8.- Comité Intergubernamental a cargo del estudio, planificación, diseño,
+15 viabilidad fiscal, financiamiento, coordinación e implementación del Sistema de la
+16 Reserva Estratégica de Combustible de Puerto Rico.
+17 (a) Se establece el “Comité Intergubernamental a cargo del estudio, planificación,
+18 diseño, viabilidad fiscal, financiamiento, coordinación e implementación del Sistema
+19 de la Reserva Estratégica de Combustible de Puerto Rico”, el cual estará constituido
+20 por el Departamento de Seguridad Pública, la Autoridad de Energía Eléctrica, el
+21 Departamento de Asuntos del Consumidor, la Autoridad de Asesoría Financiera y
+22 Agencia Fiscal de Puerto Rico, la Autoridad para el Financiamiento de la
+
+8
+1 Infraestructura, el Negociado de Energía de Puerto Rico y el Programa de Política
+2 Pública Energética del Departamento de Desarrollo Económico y Comercio de Puerto
+3 Rico, el Departamento de Agricultura, la Autoridad de Tierras de Puerto Rico, el
+4 Departamento de Recursos Naturales y Ambientales, la Oficina de Gerencia de
+5 Permisos, la Autoridad de los Puertos de Puerto Rico y el Departamento de
+6 Transportación y Obras Públicas.
+7 Cada entidad estará representada por su Secretario, Director Ejecutivo,
+8 Comisionado, Presidente o funcionario equivalente, o por un representante
+9 autorizado con conocimiento técnico en la materia concernida. La Autoridad para el
+10 Financiamiento de la Infraestructura de Puerto Rico presidirá el Comité. La Autoridad
+11 de Asesoría Financiera y Agencia Fiscal de Puerto Rico asesorará al Comité en cuanto
+12 a viabilidad fiscal, compatibilidad con el Plan Fiscal, identificación de fuentes de
+13 financiamiento y cumplimiento con las normas fiscales aplicables.
+14 El Comité podrá invitar, con carácter consultivo y sin derecho al voto, a
+15 representantes del sector privado de importación, almacenamiento, distribución,
+16 venta y transportación de combustibles, así como a representantes del sector de
+17 producción y distribución de alimentos, cuando el asunto bajo consideración requiera
+18 peritaje operacional, logístico, agrícola o de mercado.
+19 El Comité aquí creado será responsable de confeccionar un plan para el estudio,
+20 establecimiento, implementación, desarrollo, financiamiento, construcción y manejo
+21 del “Sistema de la Reserva Estratégica de Combustible de Puerto Rico”, según definido
+22 en el Artículo 3 de esta Ley. La creación del Comité y la preparación del Plan no
+
+9
+1 constituirán, por sí solas, autorización para construir, adquirir, transferir, expropiar,
+2 operar, obligar fondos públicos, contratar, disponer de bienes públicos o establecer
+3 inventarios de combustible. Este Plan de desarrollo integrado considerará y deberá
+4 incluir, como mínimo, los siguientes criterios:
+5 1. Evaluar las áreas geográficas que podrían ser consideradas para ubicar
+6 componentes del Sistema, tomando en consideración criterios de seguridad pública,
+7 acceso marítimo o terrestre, distancia de centros poblacionales, resiliencia ante
+8 desastres naturales, proximidad a infraestructura crítica, continuidad operacional,
+9 disponibilidad de infraestructura existente, impacto ambiental, compatibilidad con
+10 usos de suelo y protección de terrenos de valor o uso agrícola. Ninguna propiedad se
+11 entenderá designada, reservada, adquirida, transferida o autorizada para uso por el
+12 mero hecho de ser identificada o evaluada en el Plan.
+13 2. Determinar los costos estimados de estudio, diseño, permisos, adquisición,
+14 arrendamiento, servidumbres, construcción, rehabilitación, operación,
+15 mantenimiento, seguridad, seguros, cumplimiento ambiental, cumplimiento con
+16 normas de seguridad contra incendios, compra inicial de combustible, rotación de
+17 inventario, reposición de combustible, disposición de combustible vencido o
+18 contaminado y cualquier proceso de expropiación que pudiera recomendarse.
+19 3. Identificar las fuentes de financiamiento disponibles, incluyendo fondos
+20 estatales, federales, municipales, asignaciones legislativas, fondos de emergencia,
+21 acuerdos interagenciales o alianzas público-privadas. El Plan deberá incluir una
+22 certificación de viabilidad fiscal preparada con la participación de la Autoridad de
+
+10
+1 Asesoría Financiera y Agencia Fiscal de Puerto Rico. Ninguna fase de construcción,
+2 adquisición, operación o compra de inventario podrá comenzar hasta que se
+3 identifique la fuente de fondos correspondiente y se cumpla con los requisitos fiscales,
+4 presupuestarios y de contratación pública aplicables.
+5 4. Evaluar, antes de recomendar nueva construcción, la utilización de
+6 infraestructura existente, facilidades ya desarrolladas, terminales, instalaciones
+7 portuarias o aeroportuarias, sistemas de almacenamiento existentes, acuerdos
+8 operacionales con entidades públicas o privadas y posibles mecanismos de
+9 colaboración interagencial o alianzas público-privadas que permitan maximizar
+10 recursos disponibles, reducir costos de desarrollo e implantación y evitar duplicación
+11 innecesaria de infraestructura.
+12 5. Definir los tipos de combustible que podrían formar parte del Sistema, la
+13 capacidad recomendada de almacenamiento, los criterios de activación, los usos
+14 prioritarios durante emergencias, los protocolos de distribución, despacho y
+15 reposición, los controles de calidad, los mecanismos de rotación del inventario,
+16 incluyendo sistemas de “first in, first out”, y las medidas para evitar deterioro,
+17 contaminación, pérdidas económicas, riesgos ambientales o costos excesivos de
+18 disposición y reemplazo de combustible.
+19 6. Establecer las normas directivas, programáticas, operacionales y de
+20 cumplimiento necesarias para el diseño, financiamiento, implementación, operación,
+21 mantenimiento, seguridad, monitoreo, auditoría y evaluación continua del Sistema.
+
+11
+1 7. Establecer el rol de cada entidad integrante del Comité en la evaluación,
+2 financiamiento, permisos, operación, fiscalización, respuesta a emergencias,
+3 continuidad operacional, manejo ambiental, protección agrícola y seguridad del
+4 Sistema. La Autoridad para el Financiamiento de la Infraestructura de Puerto Rico
+5 podrá gerenciar, coordinar, administrar o servir como entidad ejecutora de aquellas
+6 fases del Plan que sean aprobadas conforme a ley, siempre sujeto a la disponibilidad
+7 de fondos, a los permisos aplicables, a las autorizaciones gubernamentales
+8 correspondientes y a su ley orgánica.
+9 8. Incluir un diseño conceptual, un análisis de alternativas, un análisis de riesgos,
+10 un análisis de impacto fiscal y operacional, un calendario estimado por fases y una
+11 recomendación sobre si procede implementar el Sistema mediante infraestructura
+12 existente, nueva infraestructura, acuerdos operacionales, alianzas público-privadas o
+13 cualquier combinación de dichos mecanismos.
+14 9. Incluir una evaluación específica sobre seguridad alimentaria y terrenos de valor
+15 o uso agrícola. Para fines de este Artículo, se considerarán terrenos de valor o uso
+16 agrícola aquellos terrenos en producción; terrenos en descanso, barbecho o
+17 recuperación; predios con historial agrícola; terrenos bajo arrendamiento, programa o
+18 titularidad de la Autoridad de Tierras de Puerto Rico; reservas agrícolas; suelos
+19 clasificados como agrícolas o rústicos especialmente protegidos agrícolas; suelos
+20 prime, unique o de importancia estatal; terrenos con riego, drenaje, pozos, canales,
+21 caminos agrícolas o infraestructura agroindustrial; áreas necesarias para la
+22 continuidad de fincas colindantes; y terrenos aptos para reactivación productiva.
+
+12
+1 10. El Plan de desarrollo del Sistema de la Reserva Estratégica de Combustible de
+2 Puerto Rico, así como cualquier enmienda, modificación, estudio, informe de
+3 viabilidad, análisis fiscal, análisis ambiental, análisis agrícola o informe técnico
+4 relacionado, será remitido al Gobernador y a la Asamblea Legislativa de Puerto Rico.
+5 El Comité deberá rendir un informe preliminar dentro de ciento ochenta (180) días
+6 contados a partir de su constitución y un informe final dentro de un (1) año, salvo justa
+7 causa debidamente explicada por escrito. Posteriormente, de implementarse alguna
+8 fase del Sistema, el Comité rendirá informes anuales al Gobernador y a la Asamblea
+9 Legislativa que incluyan, como mínimo, localización de facilidades, costos, fuentes de
+10 financiamiento, inventario, incidentes, auditorías, cumplimiento ambiental,
+11 cumplimiento de permisos, certificaciones agrícolas, estado operacional y justificación
+12 de alternativas seleccionadas.
+13 (b) Disposiciones sobre Tierras o Propiedades Públicas
+14 La Compañía de Fomento Industrial de Puerto Rico, la Administración de
+15 Terrenos, la Autoridad de Tierras de Puerto Rico, la Autoridad de los Puertos de
+16 Puerto Rico y el Departamento de Transportación y Obras Públicas podrán, a solicitud
+17 del Comité, identificar propiedades bajo su titularidad, administración o control que
+18 pudieran ser evaluadas preliminarmente para ubicar componentes del Sistema,
+19 siempre que dicha identificación no constituya una transferencia, reserva, gravamen,
+20 obligación de disposición, autorización de uso, determinación de disponibilidad ni
+21 compromiso de cesión gratuita.
+
+13
+1 Toda evaluación de propiedades públicas deberá realizarse conforme a la ley
+2 orgánica de la entidad titular o administradora y la Ley 26-2017, según enmendada,
+3 conocida como “Ley de Cumplimiento con el Plan Fiscal”.
+4 Ninguna propiedad pública podrá hacerse disponible, transferirse, arrendarse,
+5 cederse, gravarse, expropiarse, impactarse o utilizarse para el Sistema sin evaluación
+6 individualizada de disponibilidad, conveniencia pública, compatibilidad de uso,
+7 impacto fiscal, impacto ambiental, impacto agrícola, seguridad contra incendios,
+8 seguridad operacional y autorización expresa de la entidad titular o administradora
+9 conforme a su ley orgánica y a la legislación vigente.
+10 La Autoridad de Tierras de Puerto Rico no estará obligada a incluir, transferir,
+11 ceder o hacer disponibles predios agrícolas o terrenos de valor o uso agrícola.
+12 Cualquier propiedad bajo titularidad, administración, arrendamiento, programa o
+13 control de la Autoridad de Tierras de Puerto Rico solo podrá considerarse en el Plan
+14 si el Secretario de Agricultura certifica previamente, por escrito y de forma
+15 fundamentada, que dicha propiedad no constituye terreno de valor o uso agrícola, que
+16 su evaluación no afecta la continuidad de operaciones agrícolas presentes o futuras y
+17 que existen salvaguardas suficientes para proteger la seguridad alimentaria y los
+18 recursos productivos de Puerto Rico.
+19 Las propiedades de la Compañía de Fomento Industrial de Puerto Rico solo
+20 podrán ser evaluadas si dicha corporación pública certifica, mediante determinación
+21 escrita, que la propiedad no está comprometida, reservada o proyectada para fines de
+22 desarrollo industrial, comercial, turístico, tecnológico, manufacturero, logístico o de
+
+14
+1 generación de ingresos y que su evaluación no afecta obligaciones contractuales,
+2 financieras, patrimoniales o programáticas existentes.
+3 En todo caso, el Comité deberá dar prioridad a la evaluación de infraestructura
+4 existente, facilidades previamente impactadas, propiedades compatibles con usos
+5 industriales o logísticos, terminales, instalaciones portuarias o aeroportuarias y
+6 mecanismos de colaboración interagencial o alianzas público-privadas, antes de
+7 recomendar la adquisición, transferencia, expropiación o construcción en propiedades
+8 públicas no previamente destinadas a usos compatibles con el manejo de
+9 combustibles.”
+10 Sección 3.- Se reenumeran los actuales Artículos 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+11 19, 20, 21, 22, 23, 24, 25, 26, 26-A, 27, 28, 29, 30, 31, 32, 33 y 34 de la Ley Núm. 44 de 21
+12 de junio de 1988, según enmendada, conocida como la “Ley de la “Autoridad para el
+13 Financiamiento de la Infraestructura de Puerto Rico”, como los Artículos 9, 10, 11, 12,
+14 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35 y 36,
+15 respectivamente.
+16 Sección 4.- Primacía de esta Ley.
+17 Esta Ley se aprueba en el ejercicio del poder de razón del Estado, así como en la
+18 facultad constitucional que tiene la Asamblea Legislativa, reconocida en el Artículo II,
+19 Secciones 18 y 19 de la Constitución de Puerto Rico, de aprobar leyes en protección de
+20 la vida, la salud y el bienestar del pueblo, así como en casos de grave emergencia
+21 cuando estén claramente en peligro la salud, la seguridad pública o los servicios
+22 gubernamentales esenciales. Por esta razón, esta Ley tendrá primacía sobre cualquier
+
+15
+1 otra ley. No obstante, nada de lo dispuesto en esta Ley se interpretará como una
+2 exención, dispensa, derogación o limitación del cumplimiento del Plan Fiscal
+3 certificado, el presupuesto certificado y la Ley 26-2017, según enmendada, conocida
+4 como “Ley de Cumplimiento con el Plan Fiscal”.
+5 Sección 5.- Interpretación de la Ley
+6 Las disposiciones de esta Ley deberán interpretarse ampliamente para adelantar y
+7 apoyar sus propósitos. Por tanto, las disposiciones de esta Ley serán interpretadas de
+8 manera que promuevan la preparación, resiliencia energética, continuidad de
+9 servicios esenciales, seguridad pública, estabilidad operacional e infraestructura
+10 crítica de Puerto Rico durante emergencias, desastres naturales, eventos causados por
+11 el ser humano o interrupciones significativas en la cadena de suministro de
+12 combustibles.
+13 La interpretación amplia dispuesta en esta Sección no podrá utilizarse para ampliar
+14 las facultades del Comité Intergubernamental, de la Autoridad para el Financiamiento
+15 de la Infraestructura de Puerto Rico o de cualquier entidad participante más allá de lo
+16 expresamente autorizado por esta Ley. La enumeración de facultades, criterios,
+17 deberes o responsabilidades contenida en esta Ley no se interpretará como
+18 autorización implícita para obviar permisos, evaluaciones, certificaciones, procesos
+19 fiscales, procesos de contratación pública, requisitos ambientales, requisitos de
+20 seguridad, protección agrícola, justa compensación, control fiscal, participación
+21 ciudadana, obligaciones contractuales vigentes ni cualquier otra exigencia legal
+22 aplicable.
+
+16
+1 Toda interpretación de esta Ley deberá favorecer la utilización eficiente de
+2 infraestructura existente, la coordinación interagencial, la protección de terrenos de
+3 valor o uso agrícola, la seguridad ambiental y operacional, la sostenibilidad fiscal, la
+4 transparencia, la rendición de cuentas y la compatibilidad con la política pública
+5 energética vigente de Puerto Rico.
+6 Sección 6.- Si cualquier cláusula, párrafo, artículo, o parte de esta Ley fuera
+7 declarada inconstitucional o nula por un tribunal con jurisdicción, la sentencia dictada
+8 no afectará ni invalidará el resto de esta Ley y su efecto se limitará a la cláusula,
+9 párrafo, artículo o parte declarada inconstitucional o nula.
+10 Sección 7.- Esta Ley entrará en vigor inmediatamente después de su aprobación.
