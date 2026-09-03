@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0718",
-  "title": "Para ordenar a las comisiones de Asuntos Municipales; y de Desarrollo Econ\u00f3mico de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre la viabilidad de construir tres nuevos muelles en los municipios de Toa Baja y Cata\u00f1o; evaluar alternativas para el desarrollo econ\u00f3mico regional mediante el establecimiento de industrias de apoyo a las operaciones de carga mar\u00edtima; y para otros fines relacionados.",
+  "title": "Para ordenar a las comisiones de Asuntos Municipales; y de Desarrollo Econ\u00f3mico de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre la viabilidad de construir tres nuevos muelles en los municipios de Toa Baja y Cata\u00f1o; la gesti\u00f3n realizada por la Autoridad de los Puertos para atender la insuficiencia de espacios de atraque en la Bah\u00eda de San Juan; evaluar alternativas para el desarrollo econ\u00f3mico regional mediante el establecimiento de industrias de apoyo a las operaciones de carga mar\u00edtima; y los efectos de dicha insuficiencia portuaria sobre la seguridad mar\u00edtima y la calidad de vida de los residentes de los municipios afectados; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,23 +138,35 @@
       "_processing": {
         "log_file_created": "2026-09-02T09:30:53Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T09:48:23Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Jos\u00e9 F. Aponte Hern\u00e1ndez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jos\\u00e9 F. Aponte Hern\\u00e1ndez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Pedro  J. Santiago Guzm\u00e1n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Pedro  J. Santiago Guzm\\u00e1n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jos\u00e9 F. Aponte Hern\u00e1ndez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jos\\u00e9 F. Aponte Hern\\u00e1ndez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -192,6 +204,17 @@
       ],
       "date": "2026-08-12",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161474/RC0718-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-01",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -210,7 +233,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-02T09:30:53Z",
+    "logs_latest_update": "2026-09-03T09:48:23Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-09-02T09:34:03.191560Z"

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0586",
-  "title": "ara ordenar a la Comisi\u00f3n de Juventud, Recreaci\u00f3n y Deportes del Senado de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre la ausencia de reglamentos p\u00fablicos y de aplicaci\u00f3n uniforme para la certificaci\u00f3n y selecci\u00f3n de atletas por parte del Comit\u00e9 Ol\u00edmpico de Puerto Rico (COPUR) y las federaciones deportivas nacionales afiliadas, particularmente en el ciclo de los Juegos Centroamericanos y del Caribe Santo Domingo 2026; requerir informaci\u00f3n sobre el cumplimiento con la presentaci\u00f3n de estados financieros auditados y el uso de fondos p\u00fablicos asignados a dichos organismos; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Juventud, Recreaci\u00f3n y Deportes del Senado de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre la ausencia de reglamentos p\u00fablicos y de aplicaci\u00f3n uniforme para la certificaci\u00f3n y selecci\u00f3n de atletas por parte del Comit\u00e9 Ol\u00edmpico de Puerto Rico (COPUR) y las federaciones deportivas nacionales afiliadas, particularmente en el ciclo de los Juegos Centroamericanos y del Caribe Santo Domingo 2026; requerir informaci\u00f3n sobre el cumplimiento con la presentaci\u00f3n de estados financieros auditados y el uso de fondos p\u00fablicos asignados a dichos organismos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -50,6 +50,38 @@
       "_processing": {
         "log_file_created": "2026-08-25T05:48:54Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-09-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T09:48:23Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-09-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T09:48:23Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-09-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T09:48:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -74,6 +106,28 @@
       ],
       "date": "2026-08-21",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/162011/rs0586-Inf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-02",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/162011/rs0586-ent.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-02",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -92,7 +146,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T05:48:54Z",
+    "logs_latest_update": "2026-09-03T09:48:23Z",
     "text_extraction_latest_update": "2026-08-25T05:55:25.692817Z"
   }
 }

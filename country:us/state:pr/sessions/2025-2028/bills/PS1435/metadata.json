@@ -17,14 +17,14 @@
   "actions": [
     {
       "description": "Radicado",
-      "date": "2026-08-24T04:00:00+00:00",
+      "date": "2026-08-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-25T05:48:54Z"
+        "log_file_created": "2026-09-03T09:48:23Z"
       }
     },
     {
@@ -50,6 +50,16 @@
       "_processing": {
         "log_file_created": "2026-08-25T05:48:54Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Mar\u00eda Mart\u00ednez de P\u00e9rez Almiroty",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T09:48:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,7 +73,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/162024/ps1435-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-21",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -80,7 +102,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T05:48:54Z",
+    "logs_latest_update": "2026-09-03T09:48:23Z",
     "text_extraction_latest_update": "2026-09-02T15:27:48.996635Z"
   }
 }
