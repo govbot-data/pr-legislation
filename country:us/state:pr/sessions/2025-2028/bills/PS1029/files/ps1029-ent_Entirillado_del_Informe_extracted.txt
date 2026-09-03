@@ -1,0 +1,234 @@
+Title: 
+Official Title: 
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+(ENTIRILLADO ELECTRONICO)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1029
+30 de enero de 2026
+Presentado por el señor Rivera Schatz
+Referido a las Comisiones de lo Jurídico; y de Seguridad Pública y Asuntos del Veterano
+LEY
+Para enmendar los Artículos 1 y 5 de la Ley Núm. 45 de 1 de junio de 1983, según
+enmendada, conocida como “Ley para Facultar la Toma de Huellas Digitales y
+Fotografías por Delito Grave”; enmendar el Artículo 37 (e) de la Ley Núm. 88 de 9
+de julio de 1986, según enmendada, conocida como “Ley de Menores de Puerto
+Rico”; enmendar la Regla 6.6 de las Reglas de Procedimiento para Asuntos de
+Menores, según enmendadas; y enmendar el Artículo 8 de la Ley 143-2014, según
+enmendada, conocida como “Ley de Protocolo para Garantizar la Comunicación
+Efectiva entre los Componentes de Seguridad del Estado Libre Asociado de Puerto
+Rico y del Sistema de Información de Justicia Criminal”, a los fines de clasificar
+como confidenciales revestir de confidencialidad y prohibir que se divulguen, las
+fotografías y huellas digitales tomadas en una investigación criminal, a una
+persona que no ha cumplido dieciocho (18) años de edad, aunque sea procesada
+como persona adulta; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El manejo de la información obtenida durante el fichaje policial está regulado por
+la Ley Núm. 45 de 1 de junio de 1983, según enmendada, conocida como “Ley de
+Huellas Digitales y Fotografías por Delito Grave”. Surge del Artículo 1 de la
+mencionada Ley, que la Policía de Puerto Rico, deberá tomarle las huellas digitales y
+
+2
+fotografiar a cualquier persona a la que, previa determinación de casusa probable para
+arresto, se le impute la comisión de un delito grave.
+En la Carta de Derechos de la Constitución de Puerto Rico se dispone que “toda
+persona tiene derecho a protección de la ley contra ataques abusivos a su honra, a su
+reputación y a su vida privada”. Artículo II, Sec. 8, Const. PR. Sin embargo, esta
+garantía constitucional no es de carácter absoluto ni supera todo valor en conflicto.
+Véase, Indulac v. Unión, 207 DPR 303 (2021). Ante todo, su objetivo básico es proteger
+el ámbito de intimidad y dignidad del individuo frente a actuaciones arbitrarias del
+Estado. Véase, Pueblo v. Yip Berríos, 142 DPR 386, 397 (1997). La expectativa de
+intimidad que un individuo pueda tener en circunstancias relacionadas directamente
+con la comisión de un acto criminal es limitada. Véase, Pueblo v. Santiago Feliciano, 139
+DPR 361, 390 (1995). El Tribunal Supremo de Puerto Rico validó la toma de huellas
+dactilares y fotografías por parte del Estado y estableció la norma respecto a que es
+permisible por su doble propósito de identificar al imputado como la persona que
+incurrió en el acto delictivo y ayudar a su procesamiento si reincidiera. Véase, Pueblo v.
+Torres Albertorio, 115 DPR 128 (1984). A la vez, el Tribunal Supremo de Estados Unidos
+ha expresado que la identidad de un individuo es más que simplemente su nombre o
+número de seguro social, y que el interés del gobierno en la identificación va más allá
+de garantizar que se escriba el nombre correcto en la acusación. Véase, Maryland v.
+King, 569 U.S. 435, 450 (2013).
+La Constitución de Puerto Rico consagra el principio cardinal de que “la dignidad del ser
+humano es inviolable”. Art. II, Sec. 1, Const. ELA, LPRA, Tomo 1. Basándose en ello, se
+reconocen como derechos fundamentales la intimidad y la protección contra ataques abusivos a la
+honra, la reputación y la vida privada o familiar. Así las cosas, en Puerto Rico “el derecho a la
+intimidad goza de especial protección, por su exaltado rango constitucional”. Pueblo v. Arocho
+Soto, 137 DPR 762, 768 (1994). En otras palabras, tiene “especial preeminencia en nuestro
+esquema constitucional”. Lozada Tirado v. Testigos Jehová, 177 DPR 893, 910 (2010). Por ello,
+el Tribunal Supremo ha establecido “que el derecho a la intimidad es un derecho fundamental,
+que ‘goza de la más alta protección bajo nuestra Constitución y constituye un ámbito exento
+
+3
+capaz de impedir o limitar la intervención de terceros —sean particulares o poderes públicos—
+contra la voluntad del titular’”. Indulac v. Cent. Gen. de Trabajadores, 207 DPR 279, 303
+(2021).
+Ahora bien, “a pesar de considerarse un derecho de alta jerarquía, no es de carácter
+absoluto, ni vence a todo valor en conflicto bajo todo supuesto posible”. Vega et al. v. Telefónica,
+156 DPR 584, 602 (2002). En tal sentido, ante un reclamo de violación a este derecho
+constitucional, “la cuestión central es si la persona tiene un derecho razonable a abrigar, donde
+sea, dentro de las circunstancias del caso específico, la expectiva de que su intimidad se respete”.
+Pueblo v. Lebrón, 108 DPR 324, 331 (1979). Con esto en mente, se ha dicho que “la expectativa
+de intimidad que un individuo pueda tener en circunstancias relacionadas directamente con la
+comisión de un acto criminal es limitada”. Pueblo v. Santiago Feliciano, 139 DPR 361, 390
+(1995). Así, pues, se ha dicho que el derecho de intimidad de un imputado o acusado de delito no
+supera la necesidad del Estado en proteger a la sociedad mediante el almacenamiento de sus datos
+personales. United States v. Kalish, 271 F. Supp. 968, 970 (D.P.R. 1967).
+En esa línea, es norma reiterada que “la toma de fotografías y huellas dactilares a las
+personas detenidas para responder de delito público constituye una práctica aceptable como parte
+de la labor investigativa de la Policía”. Pueblo v. Torres Albertorio, 115 DPR 128, 130 (1984).
+Esto, porque “son procedimientos usuales y necesarios para la labor de la Policía en protección de
+la seguridad pública y en la persecución del crimen”, por lo que “es permisible por su doble
+propósito de identificar al imputado como la persona que incurrió en el acto delictivo y ayudar a
+su procesamiento si reincidiere”. Archevali v. ELA, 110 DPR 767, 771 (1981).
+Así las cosas, y con el fin de establecer en forma general y explicita lo relativo a la
+práctica de la toma de huella digitales y fotografías, la Asamblea Legislativa promulgó la Ley
+Núm. 45 de 1 de junio de 1983, según enmendada, conocida como “Ley de Huellas Digitales y
+Fotografías por Delito Grave”. En esencia, dicha Ley autoriza al Superintendente de la Policía a
+tomarle las huellas digitales y fotografiar a cualquier persona a la que, previa determinación de
+causa probable para arresto, se le impute la comisión de un delito grave.
+
+4
+Por otro lado, la Ley Núm. 88 de 9 de julio de 1986, según enmendada, conocida
+como “Ley de Menores de Puerto Rico”, se aprobó para garantizar el cuidado,
+protección, desarrollo, habilitación y rehabilitación de los menores. Dicha Ley busca
+proteger el bienestar de la comunidad y el interés público, tratando a los menores como
+personas que necesitan supervisión, cuidado y tratamiento, a la vez que se les exige
+responsabilidad por sus actos. También asegura un trato justo, el debido proceso de ley
+y el reconocimiento de sus derechos constitucionales.
+Relacionado a la obtención por parte del Estado de las huellas digitales y fotos de
+un menor, la Regla 6.6 de las “Reglas de Procedimiento para Asuntos de Menores”,
+establece que, a solicitud del Procurador de Menores, el tribunal podrá autorizar el uso
+de mecanismos para la identificación de un menor, tales como la toma de huellas
+digitales, fotografías y la utilización de una rueda de detenidos.
+Por último, surge del Artículo 2 de la Ley 143-2014, según enmendada, conocida
+como “Ley de Protocolo para Garantizar la Comunicación Efectiva entre los
+Componentes de Seguridad del Estado Libre Asociado de Puerto Rico y del Sistema de
+Información de Justicia Criminal”, que el propósito de la creación del Sistema de
+Información de Justicia Criminal (SIJC), es promover que los distintos componentes de
+seguridad del Estado se integren a un sistema tecnológico y un procedimiento uniforme
+que permita el intercambio efectivo de información entre las entidades
+gubernamentales.
+Con esto presente, Recientemente recientemente se ha publicado en varios medios
+de comunicación la fotografía de fichaje de una menor que es procesada como adulta, lo
+que ha generado un debate sobre la confidencialidad de dicha imagen. Es preciso
+aclarar que, en el caso de las huellas digitales y fotografías tomadas por parte del Estado
+a una persona que no ha cumplido los dieciocho (18) años, pero procesada como
+persona adulta, las leyes vigentes no establecen disposiciones sobre la clasificación ni la
+distribución de estas por parte de las agencias gubernamentales de ley y orden.
+
+5
+El Gobierno de Puerto Rico tiene un interés apremiante en promover el desarrollo
+integral del menor y velar por su mejor interés. Esta Ley tiene la finalidad de llenar esa
+laguna y establecer que las huellas digitales y fotografías tomadas a una persona que no
+ha cumplido dieciocho (18) años, sean clasificadas como confidenciales y se prohíba su
+publicación por parte del Estado, independientemente si es procesada como adulta.
+revestir de confidencialidad, y prohibir expresamente su divulgación, la toma de huellas digitales
+y fotografías de una persona que no ha cumplido dieciocho (18) años de edad, aunque esta sea
+procesada como adulta.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1 de la Ley Núm. 45 de 1 de junio de 1983,
+2 según enmendada, conocida como “Ley para Facultar la Toma de Huellas Digitales y
+3 Fotografías por Delito Grave”, para que lea como sigue:
+4 “Artículo 1. –
+5 El Superintendente de la Policía, el [Director] Comisionado del Negociado de
+6 Investigaciones Especiales del Departamento de [Justicia] Seguridad Pública, o
+7 cualquier persona autorizada por éstos, o cualquier persona autorizada por Ley a
+8 esos efectos, deberá tomarle las huellas digitales y fotografiar a cualquier persona a
+9 la que, previa determinación de causa probable para arresto, se le impute la comisión
+10 de un delito grave. Sin embargo, no se podrá divulgar y será confidencial, toda fotografía y
+11 huellas digitales tomadas a una persona que no ha cumplido los dieciocho (18) años de edad.
+12 toda fotografía y huella digital tomada a una persona menor de dieciocho (18) años será
+13 confidencial y no podrán divulgarse. Disponiéndose que, solo podrán ser utilizadas para
+14 investigaciones criminales.”
+
+6
+1 Sección 2.- Se enmienda el Artículo 5 de la Ley Núm. 45 de 1 de junio de 1983,
+2 según enmendada, conocida como “Ley para Facultar la Toma de Huellas Digitales y
+3 Fotografías por Delito Grave, para que lea como sigue:
+4 “Artículo 5.-
+5 El Superintendente de la Policía, el [Director] Comisionado del Negociado de
+6 Investigaciones Especiales del Departamento de [Justicia] Seguridad Pública y toda
+7 otra persona autorizada por Ley para tomar las huellas digitales o fotografías
+8 establecerá mediante reglamento, el procedimiento que habrá de ser utilizado para
+9 tomar las huellas digitales o fotografías. La reglamentación incluirá el procedimiento
+10 para la confidencialidad de la toma de fotografías y y huellas digitales a personas que no han
+11 cumplido los dieciocho (18) años de edad.”
+12 Sección 3.- Se enmienda el Artículo 37 (e) de la Ley Núm. 88 de 9 de julio de 1986,
+13 según enmendada, conocida como “Ley de Menores de Puerto Rico”, según
+14 enmendada, para que lea como sigue:
+15 “Artículo 37. – Disposiciones generales.
+16 (a) …
+17 …
+18 (e) Publicación de nombre, y fotografía y huella digital; mecanismos de identificación.
+19 – No se publicará el nombre de un menor ni su fotografía y no se tomarán
+20 sus huellas digitales, ni se incluirá en una rueda de detenidos a menos que,
+21 a discreción del tribunal, sea necesario recurrir a cualquiera de estos
+22 medios para identificarlo. En estos casos, el juez expedirá la autorización
+
+7
+1 por escrito. Si el tribunal renuncia a la jurisdicción del menor y este es procesado
+2 como adulto, las fotografías y huellas digitales tomadas no podrán ser publicadas.
+3 Si un menor es procesado como adulto, conforme el Artículos 4(2) y 15 de esta
+4 Ley, las fotografías y huellas digitales tomadas tampoco serán publicadas. Se
+5 considerará desacato al tribunal cualquier persona o entidad que publique
+6 nombres, o fotografías o huellas digitales de menores, aunque sean procesados
+7 como adultos.
+8 Todo expediente de un menor en poder de la Policía deberá ser destruido al
+9 éste cumplir dieciocho (18) años de edad, al igual que cualquier expediente que obre
+10 en manos del fiscal de distrito, cuando el menor fuese juzgado o fuese iniciado
+11 indebidamente en su contra un proceso como adulto.”
+12 Sección 4.- Se enmienda la Regla 6.6. de las Reglas de Procedimiento para
+13 Asuntos de Menores, según enmendadas, para que lea como sigue:
+14 “Regla 6.6- Moción para solicitar el uso de mecanismos de identificación.
+15 A solicitud fundamentada del Procurador y mediante resolución al efecto, para
+16 propósitos investigativos, el tribunal podrá autorizar el uso de mecanismos para la
+17 identificación de un menor, tales como la toma de huellas digitales, fotografías y la
+18 utilización de una rueda de detenidos.
+19 La toma de huellas digitales deberá limitarse a los casos en que se hayan
+20 encontrado huellas en el lugar de los hechos y sea necesario para la verificación de
+21 existencia de contacto personal previo del menor con objetos en dicho lugar.
+
+8
+1 El registro de huellas digitales, las fotografías y sus negativos [se] serán
+2 confidenciales y se remitirán al tribunal inmediatamente después de que termine la
+3 investigación. Serán identificadas únicamente con el nombre, dirección y fecha de
+4 nacimiento del menor y se archivarán dentro del expediente judicial en un sobre
+5 sellado que sólo podrá abrirse por orden del tribunal, a petición del Superintendente de
+6 la Policía, el Comisionado del Negociado de Investigaciones Especiales del Departamento de
+7 Seguridad Pública, del Ministerio Público o el Procurador de Menores. Permanecerán hasta
+8 que el menor cumpla los veintiún (21) dieciocho (18) años de edad.”
+9 Sección 5.- Se enmienda el Artículo 8 de la de la Ley 143-2014, según enmendada,
+10 conocida como “Ley de Protocolo para Garantizar la Comunicación Efectiva entre los
+11 Componentes de Seguridad del Estado Libre Asociado de Puerto Rico y del Sistema
+12 de Información de Justicia Criminal”, para que lea como sigue:
+13 “Artículo 8. – Información disponible en el sistema.
+14 Será obligación del Departamento de Justicia del [Estado Libre Asociado]
+15 Gobierno de Puerto Rico, la Policía de Puerto Rico, el Departamento de Corrección y
+16 Rehabilitación y la Rama Judicial de Puerto Rico, y los otros componentes de la
+17 Junta, asegurarse que el sistema tecnológico y procedimiento uniforme provea la
+18 siguiente información de naturaleza criminal, tanto de delitos graves como menos
+19 graves, entre otras:
+20 a. …
+21 …
+
+9
+1 o. Datos o características de identificación física, tales como: fotos, cicatrices,
+2 tatuajes, marcas, etc., de toda aquella persona que sea imputada y/o convicta
+3 de delito y la información de su proceso penal esté almacenada en SIJC. Los
+4 datos almacenados de una persona que no ha cumplido los dieciocho (18) años de edad,
+5 serán confidenciales, y no podrán divulgarse. Disponiéndose que, solo podrán ser
+6 utilizados para investigaciones criminales.”
+7 Sección 6.- Separabilidad.
+8 Si cualquier disposición de esta Ley fuera declarada inconstitucional, nula o
+9 inválida por un tribunal competente, dicha declaración no afectará las demás
+10 disposiciones de esta Ley, las cuales continuarán en pleno vigor y efecto.
+11 Sección 7.- Vigencia.
+12 Esta Ley comenzará a regir inmediatamente después de su aprobación.

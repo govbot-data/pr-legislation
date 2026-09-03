@@ -1,0 +1,303 @@
+Title: 
+Official Title: 
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+(Entirillado Electrónico)
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1212
+27 de abril de 2026
+Presentado por la señora Barlucea Rodríguez
+Referido a la Comisión de Asuntos Municipales
+LEY
+Para enmendar los Artículos 2.018, y el 4.011, 4.012 y 4.012A de la Ley 107-2020, según
+enmendada, conocida como “Código Municipal de Puerto Rico”, a los fines de
+incorporar recomendaciones de política pública y mejoras procesales relacionadas
+al manejo de propiedades declaradas estorbo público; derogar el inciso (e) del
+Artículo 4.011 de la Ley 107-2020, según enmendada, conocida como “Código
+Municipal de Puerto Rico”; enmendar las Secciones 3 y 5a la Sección 5(a) de la Ley
+de 12 de marzo de 1903, según enmendada, conocida como “Ley General de
+Expropiación Forzosa”, para atemperar sus disposiciones relacionadas; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley 107-2020, según enmendada, conocida como el “Código Municipal de
+Puerto Rico”, reconoce la importancia de que los municipios atiendan el problema de
+propiedades abandonadas que, por sus condiciones, afectan la salud y la seguridad de
+las comunidades y contribuyen a la desvalorización de propiedades aledañas.
+La política pública vigente persigue la restauración de comunidades y vecindarios en el
+orden físico, económico, social y cultural, así como fortalecer la seguridad y la calidad de
+vida, y reconoce la necesidad de ampliar alternativas de vivienda para familias de
+ingresos bajos y moderados.
+
+2
+Según la información que se desprende del Censo de 2020, alrededor de unas
+257,625 propiedades se encuentran vacantes en Puerto Rico, lo que representa la tasa de
+desocupación más alta en los Estados Unidos de América. Para atender esta situación, la
+Asamblea Legislativa ha dotado a los municipios de amplias facultades para declarar las
+propiedades abandonadas como estorbos públicos y expropiar estas para desarrollarlas
+para distintos fines. De hecho, mediante la Ley 114-2024 se enmendó el Código Municipal de
+Puerto Rico y se estableció un proceso de expropiación sumario para estas transacciones.
+Por otro lado, la Asamblea Legislativa ha reconocido que uno de los obstáculos
+fundamentales para que los municipios actúen con prontitud es la falta de fondos para
+iniciar procesos de expropiación, particularmente cuando la legislación exige consignar
+el valor tasado al momento de radicar la demanda, aún en escenarios donde no
+comparece persona alguna con derecho a reclamar la compensación. En ese contexto, se
+ha planteado que la Constitución de Puerto Rico dispone que no se tomar o perjudicar
+“[n]o se tomará o perjudicará la propiedad privada para uso público sino mediante el pago
+de una justa compensación y de acuerdo con la forma provista por ley…”, y que la forma
+y manera del pago puede ser delineada por la Asamblea Legislativa, siempre que el pago
+eventualmente se realice y el proceso no imponga una carga onerosa al debido proceso
+de ley.
+La jurisprudencia del Tribunal Supremo de Puerto Rico ha reiterado que, para que
+el Estado pueda expropiar forzosamente, la Constitución exige justa compensación, fin o
+uso público y sujeción a las leyes que regulan el procedimiento, y que la determinación
+de la justa compensación es una tarea eminentemente judicial orientada a reflejar el valor
+en el mercado del bien expropiado. Administración de Terrenos v. Ponce Bayland Enterprises,
+Inc., 207 DPR 586 (2021).
+De igual forma, la Ley General de Expropiación Forzosa de 12 de marzo de 1903,
+según enmendada, contempla el mecanismo de declaración de adquisición y entrega, el
+depósito de la cantidad estimada como compensación y la investidura del título, así como
+el pago de intereses sobre la cuanta adicional finalmente adjudicada, conforme allí se
+
+3
+dispone. En cuanto al requisito de fin público, la doctrina aplicable reconoce deferencia a
+la determinación legislativa, sujeta a un análisis de vínculo racional entre el propósito
+declarado y el objetivo perseguido. ELA v. Sucesión Planas Parrilla, 166 DPR 700 (2006).
+Para mejorar los procesos de expropiación forzosa que llevan a cabo los municipios,
+mediante la presente ley se enmienda el Código Municipal de Puerto Rico para: (1)
+viabilizar herramientas costo-efectivas para que los municipios atiendan estorbos
+públicos; (2) fortalecer salvaguardas de debido proceso y transparencia; y (3) atar
+flexibilidades excepcionales, como el diferimiento de consignación inmediata, a
+transacciones de alto interés público, particularmente vivienda principal y vivienda
+asequible, entre otras, evitando usos que puedan desvirtuar el carácter público de la
+intervención municipal. Además, incorpora enmiendas para reducir costos
+transaccionales (tasación restringida, eliminación de revisión independiente y sustitución
+de plano por plot plan cuando proceda), ajustar requisitos de publicación de inventarios,
+fortalecer el tratamiento de gravámenes municipales y promover capacitación judicial
+para uniformar la aplicación del procedimiento sumario.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.– Se enmiendan los incisos (6) y (7) del Artículo de la Sección 2.018 de
+2 la Ley 107-2020, según enmendada, conocida como “Código Municipal de Puerto
+3 Rico”, para que lea como sigue:
+4 “Artículo 2.018.- Adquisición de Bienes por Expropiación Forzosa
+5 (a) Las disposiciones contenidas en la Ley General de Expropiación Forzosa de
+6 12 de marzo de 1903, según enmendada, serán de carácter supletorias en las acciones
+7 de expropiación forzosa por parte de los municipios y estos podrán instar procesos de
+8 expropiación forzosa por cuenta propia bajo lo establecido en este Código:
+9 (1) …
+
+4
+1 …
+2 (6) Plano de Mensura o plot plan. — [De igual forma, en casos de
+3 adquisición de bienes inmuebles, los municipios deberán
+4 realizar un plano de mensura donde se describa la ubicación,
+5 linderos, cabida y codificación de la propiedad a adquirirse, y
+6 deberá someterse el mismo junto a la Petición de Expropiación.]
+7 En los casos de adquisición de bienes inmuebles, el municipio deberá
+8 acompañar la Petición de Expropiación con un plano que describa la
+9 ubicación, linderos, cabida y codificación de la propiedad a adquirirse.
+10 Dicho plano podrá consistir en un plano de mensura o, en la alternativa,
+11 en un plot plan, siempre que la configuración y delimitación del
+12 inmueble permitan identificar adecuadamente la finca objeto de
+13 adquisición.
+14 (7) Informe de Valoración. — Los municipios contratarán los servicios
+15 de evaluadores profesionales de bienes raíces, debidamente
+16 autorizados a ejercer dicha profesión, a los fines de establecer el
+17 valor actual de la propiedad a adquirirse. Los informes de
+18 valoración contendrán la siguiente información:
+19 (i) …
+20 …
+21 [Cada informe de valoración deberá ser sometido a un Tasador
+22 Revisor, distinto de quien lo preparó, para su evaluación. El
+
+5
+1 informe de valoración a presentarse ante el Tribunal deberá ser
+2 aprobado mediante certificación de aprobación del Tasador
+3 Revisor. De no contar con un Tasador Revisor, los municipios
+4 deberán remitir el informe de valoración al Centro de
+5 Recaudación de Ingresos Municipales para su revisión y
+6 aprobación o rechazo. De surgir cualquier discrepancia entre el
+7 Tasador, Tasador Revisor o el Centro de Recaudaciones
+8 Municipales en torno a la valoración de la propiedad y no se
+9 llegara a un acuerdo entre ellos, el informe de valoración deberá
+10 someterse al Alcalde para una decisión final.] El informe de
+11 valorización podrá presentarse en formato de tasación restringida
+12 (Restricted Appraisal Report) en sustitución del formato narrativo
+13 extenso tradicional, siempre que cumpla con los estándares aplicables de
+14 la Uniform Standards of Professional Appraisal Practice (USPAP).
+15 (8)…
+16 …”
+17 Sección 2.- Se enmienda el inciso (b) y deroga el inciso (e) del Artículo 4.011 de
+18 la Ley 107-2020, según enmendada, conocida como “Código Municipal de Puerto
+19 Rico”, para que lea como sigue:
+20 “Artículo 4.011.- Inventario de Propiedades Declaradas como Estorbo Público
+
+6
+1 Cuando el municipio no fuere a expropiar inmuebles declarados como estorbo
+2 público, por motivos de utilidad pública, procederá a preparar un Inventario de
+3 Propiedades Declaradas como Estorbo Público, que incluirá la siguiente información:
+4 (a) …
+5 (b) Descripción registral, de estar inscrita en el Registro de la Propiedad; con
+6 una relación de las hipotecas y otros gravámenes sobre el inmueble, incluyendo deuda
+7 de contribución sobre la propiedad inmueble, con el Centro de Recaudación de
+8 Ingresos Municipales (CRIM), sobre la propiedad objeto del procedimiento.. En los
+9 casos donde no esté disponible la descripción registral en el Registro de la Propiedad, el
+10 municipio así lo hará constar en el inventario.
+11 (c) …
+12 (d) …
+13 [(e) Valor en el mercado según tasación.]
+14 …”
+15 Sección 3.- Se enmiendan los incisos (a) y (f) del enmienda el inciso (f) y se añade
+16 un inciso (h) al Artículo 4.012 de la Ley 107-2020, según enmendada, conocida como
+17 “Código Municipal de Puerto Rico”, para que lea como sigue:
+18 “Artículo 4.012.- Intención de Adquirir; Expropiación
+19 Las propiedades incluidas en el Inventario de Propiedades Declaradas como
+20 Estorbo Publico podrán ser objeto de expropiación por el municipio, para su posterior
+21 transferencia a toda persona que esté en disposición de adquirirla para su
+22 reconstrucción y restauración o para hacer una nueva edificación. Para ello, el
+
+7
+1 municipio tendrá que adquirir la propiedad, ya sea por compraventa o sujetándose al
+2 procedimiento de expropiación forzosa, mediante el cual viene obligado a pagar al
+3 titular el justo valor de la propiedad en los casos que así aplique. A los efectos, se
+4 observará el siguiente procedimiento:
+5 (a) El adquiriente le notificará al municipio de su intención de adquirir el
+6 inmueble de que se trate. En aquellos casos en que más de un adquirente interese
+7 adquirir la misma propiedad, tendrá prioridad aquel que proponga destinarla al
+8 establecimiento de su vivienda principal o primer hogar. Si dos o más adquirentes
+9 interesan adquirir la propiedad para ese mismo fin, tendrá prioridad la persona que
+10 cualifique como de ingresos bajos o moderados, de conformidad con las guías del
+11 Departamento de Vivienda y Desarrollo Urbano de los Estados Unidos (HUD),
+12 según el Ingreso Mediano Familiar del Área. Si dos o más adquirentes cualifican en
+13 igualdad de condiciones conforme a los criterios antes dispuestos, el municipio
+14 adjudicará la prioridad utilizando criterios objetivos tales como la menor capacidad
+15 económica relativa, la composición del núcleo familiar, la existencia de
+16 dependientes, la condición de persona mayor o con diversidad funcional, y la
+17 viabilidad de ocupación y rehabilitación inmediata del inmueble.
+18 Las propiedades incluidas en el Inventario de Propiedades Declaradas como
+19 Estorbo Publico podrán ser objeto de expropiación y adquisición por el Municipio,
+20 para su posterior transferencia a toda persona que esté en disposición de adquirirla
+21 para su rehabilitación, reconstrucción, restauración, demolición o para hacer una
+22 nueva edificación. Para ello, el Municipio tendrá que adquirir la propiedad, ya sea por
+
+8
+1 compraventa o sujetándose al procedimiento de expropiación forzosa, mediante el
+2 cual viene obligado a pagar al titular el justo valor de la propiedad en los casos que así
+3 aplique. A los efectos, se observará el siguiente procedimiento:
+4 (a) El solicitante-adquiriente le notificará al Municipio de su intención de
+5 adquirir el inmueble de que se trate.
+6 …
+7 (f) La demanda de expropiación se presentará por el municipio Municipio de
+8 conformidad con las disposiciones de la Regla 58 de Procedimiento Civil de
+9 2009, según enmendada. El pleito judicial, desde la contestación a la demanda
+10 o la anotación en rebeldía, en caso de no contestar la demanda en el tiempo
+11 estipulado por las Reglas de Procedimiento Civil, hasta la resolución en sus
+12 méritos, no podrá exceder de un (1) año. Una vez presentada la demanda de
+13 expropiación forzosa al amapro de las disposiciones de este Artículo, el municipio deberá
+14 consignar en el tribunal los fondos suministrados por el adquiriente para el pago de la
+15 justa compensación por la propiedad a ser expropiada. Una vez el o los demandados
+16 comparezcan mediante alegaciones responsivas a la demanda de expropiación forzosa
+17 presentada al amparo de las disposiciones de este Artículo, el municipio deberá
+18 consignar en el tribunal los fondos suministrados por el solicitante-adquiriente para el
+19 pago de la justa compensación por la propiedad a ser expropiada, conforme a lo dispuesto
+20 en el Artículo 2.018(a)(10) de este Código.
+21 (g)…
+22 …”
+
+9
+1 (h) Cuando más de un solicitante-adquiriente interese adquirir la misma propiedad,
+2 tendrá prioridad aquel que proponga destinarla al establecimiento de su vivienda
+3 principal o primer hogar. Si dos o más solicitantes-adquirientes interesan adquirir la
+4 propiedad para ese mismo fin, tendrá prioridad la persona que cualifique como de
+5 ingresos bajos o moderados, de conformidad con las guías del Departamento de Vivienda
+6 y Desarrollo Urbano de los Estados Unidos de América (HUD), según el Ingreso
+7 Mediano Familiar del Área. Si dos o más solicitantes-adquirientes cualifican en igualdad
+8 de condiciones conforme a los criterios antes dispuestos, el municipio adjudicará la
+9 prioridad utilizando criterios objetivos tales como la menor capacidad económica
+10 relativa, la composición del núcleo familiar, la existencia de dependientes, la condición
+11 de persona mayor o con diversidad funcional, y la viabilidad de ocupación y
+12 rehabilitación inmediata del inmueble.”
+13 Sección 4.- Se enmienda el inciso (f) del Artículo 4.012 de la Ley 107-2020, según
+14 enmendada, conocida como “Código Municipal de Puerto Rico”, para que lea como
+15 sigue:
+16 “Artículo 4.012A.- Procedimiento de Expropiación Sumario.
+17 Se establece un procedimiento sumario de expropiación en los casos que el
+18 municipio pretenda expropiar inmuebles declarados como estorbo público, a tales
+19 efectos:
+20 (a)…
+21 …
+
+10
+1 (f) El municipio no vendrá obligado a consignar dinero alguno sobre la
+2 expropiación al radicar la demanda cuando se presenta la demanda para una propiedad que
+3 será utilizada para vivienda principal o primer hogar, vivienda de interés social, según dicho
+4 término es definido por la Ley Núm. 47 del 26 de junio de 1987, según enmendada, conocida
+5 como “Ley de Coparticipación del Sector Público y Privado para la Nueva Operación de
+6 Vivienda”, o usos públicos del municipio. Dicha obligación comenzará al momento en que
+7 el o los demandados comparezcan al tribunal mediante las alegaciones responsivas
+8 contenidas en su contestación a la demanda. En caso de que el demandado
+9 comparezca al procedimiento, el municipio sólo podrá descontar de la justa
+10 compensación que debe consignar, la cantidad adeudada de contribuciones sobre la
+11 propiedad y la cantidad adeudada por concepto de multas y los gastos de limpieza y
+12 de mantenimiento de la propiedad, en que el municipio haya incurrido, según lo
+13 dispuesto en el Artículo 4.010 de este Código.
+14 …”
+15 Sección 5.- Se añade el inciso (h) a la Sección 3 de la Ley de 12 de marzo de 1903,
+16 según enmendada, conocida como "Ley General de Expropiación Forzosa", para que
+17 lea como sigue:
+18 “Sección 3.- Los fines para los cuales se puede ocupar o destruir la propiedad
+19 privada, o causar perjuicios en ella, son los siguientes:
+20 (a)…
+21 …
+
+11
+1 (h) Haya sido declarada estorbo público conforme a las disposiciones de la Ley 107-2020,
+2 según enmendada, conocida como “Código Municipal de Puerto Rico”.”
+3 Sección 6 4.- La Oficina de Administración de los Tribunales (OAT), proveerá
+4 talleres de capacitación a los jueces sobre el proceso de expropiación forzosa que se
+5 realiza al amparo de las disposiciones del Artículo 4.012A del Código Municipal de
+6 Puerto Rico, particularmente sobre las diferencias entre dicho proceso y los procesos
+7 de expropiación forzosa que se llevan a cabo a tenor con las disposiciones de la Ley
+8 de 12 de marzo de 1903, según enmendada, conocida como “Ley General de
+9 Expropiación Forzosa”.
+10 Sección 5.- Se enmienda el inciso (5) a la Sección 5(a) de la Ley de 12 de marzo de 1903,
+11 según enmendada, conocida como “Ley General de Expropiación Forzosa", para que lea como
+12 sigue:
+13 “… Dicha declaración sobre adquisición y entrega material deberá contener y
+14 estar acompañada de:
+15 (1) …
+16 (2) …
+17 (3) …
+18 (4) …
+19 (5) Una fijación de la suma de dinero estimada por la autoridad adquirente
+20 como justa compensación de la propiedad que se pretende adquirir.
+21 Disponiéndose que en el caso de aquellas propiedades que hayan sido
+22 declaradas estorbos públicos, y sean objeto de expropiación por parte de un
+
+12
+1 municipio por motivo de utilidad pública, y las mismas deban alguna
+2 cantidad por el concepto de contribución sobre la propiedad inmueble o
+3 gravámenes por el concepto de multas, gastos de limpieza y mantenimiento
+4 y/o cualquier otro gasto necesario y conveniente a los fines de eliminar la
+5 condición de estorbo público o gastos de mitigación de una declaración
+6 formal de estorbo público, la suma de dinero como justa compensación será
+7 el valor de tasación menos las deudas por contribución y de los gravámenes,
+8 gasto de limpieza y mantenimiento y/o cualquier otro gasto necesario y
+9 conveniente a los fines de eliminar la condición de estorbo público
+10 correspondientes a la propiedad, incluyendo deudas, intereses, recargos o
+11 penalidades.
+12 A los fines de este inciso, el valor de tasación de propiedades declaradas estorbo
+13 público podrá establecerse mediante un informe de valoración en formato de tasación
+14 restringida (Restricted Appraisal Report), conforme a lo dispuesto en el Artículo
+15 2.018(a)(7) de la Ley 107-2020, según enmendada, siempre que dicho informe
+16 cumpla con los estándares aplicables de la Uniform Standards of Professional
+17 Appraisal Practice (USPAP).
+18 …”
+19 Sección 7 6.- Esta Ley entrará en vigor inmediatamente después de su
+20 aprobación.

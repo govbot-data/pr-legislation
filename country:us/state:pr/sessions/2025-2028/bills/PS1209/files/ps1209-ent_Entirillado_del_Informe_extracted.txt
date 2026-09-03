@@ -1,0 +1,275 @@
+Title: 
+Official Title: 
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+(ENTIRILLADO ELECTRÓNICO)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1209
+22 de abril de 2026
+Presentado por la señora Barlucea Rodríguez
+Referido a la Comisión de lo Jurídico
+LEY
+Para enmendar la Regla 52.2 de las Reglas de Procedimiento Civil de Puerto Rico, según
+enmendadas a fin los fines de establecer que el Tribunal Supremo podrá expedir el
+auto de certiorari cuando el recurso reciba el voto favorable disponer que será
+suficiente el voto afirmativo de no menos de cuatro (4) jueces o juezas del Tribunal
+Supremo de Puerto Rico para la expedición de un auto de certiorari; disponer igual
+norma para la expedición de autos de certificación; enmendar la Regla 217 de
+Procedimiento Criminal de Puerto Rico, a los fines de establecer el mismo umbral para la
+expedición de autos de certiorari en casos criminales; uniformar las normas aplicables a los
+recursos civiles y criminales ante el Tribunal Supremo; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Puerto Rico forma parte de la tradición constitucional y judicial de los Estados
+Unidos. Nuestro sistema procesal, cultura forense y buena parte de nuestras
+instituciones judiciales han evolucionado en diálogo constante con la experiencia
+federal. Por ello, cuando se examinan mecanismos diseñados para fortalecer la función
+revisora de un tribunal de última instancia, resulta no solo legítimo, sino prudente,
+atender aquellas prácticas institucionales del Tribunal Supremo de los Estados Unidos
+que han demostrado estabilidad, racionalidad y utilidad a través del tiempo. Una de
+ellas es la conocida Rule of Four. Esta es una norma consuetudinaria conforme a la cual
+
+2
+cuatro de los nueve jueces bastan para conceder un writ of certiorari y, por ende, para
+colocar un caso en el calendario del más alto foro judicial de la Nación.
+El Juez Félix Frankfurter describió la Rule of Four como una regla de trabajo
+diseñada por el propio Tribunal Supremo de los Estados Unidos como un método
+práctico para determinar cuándo un caso merece revisión. Según explicó, la teoría de
+esa norma es que, si cuatro jueces estiman que la petición plantea una cuestión jurídica
+de importancia general, ello constituye prueba suficiente de que el asunto reviste la
+importancia necesaria para justificar la intervención del foro de última instancia. En esa
+medida, la regla responde a una concepción institucional profundamente arraigada en
+la tradición judicial americana. Rogers v. Missouri Pac. R. Co. Ferguson v. Moore-
+McCormack Lines, Inc, 352 U.S. 521, 529 (1957) (Frankfurter, J., disidente).
+La autoridad de la Asamblea Legislativa para aprobar esta medida surge del
+propio texto de la Constitución de Puerto Rico. El Artículo V, Sección 2, dispone que los
+tribunales de Puerto Rico constituirán un sistema judicial unificado y que la Asamblea
+Legislativa, en cuanto no resulte incompatible con la Constitución, podrá crear y
+suprimir tribunales, con excepción del Tribunal Supremo, y “determinará su
+competencia y organización”. Esa delegación es una concesión expresa de poder para
+estructurar normativamente los cauces mediante los cuales se ejerce la función judicial,
+incluyendo las vías procesales y los mecanismos de acceso a la revisión del foro de
+última instancia. A su vez, el Artículo V, Sección 3, garantiza que el Tribunal Supremo
+continuará siendo el tribunal de última instancia en Puerto Rico, mientras que la
+Sección 5 confirma que conocerá en primera instancia del hábeas corpus y de “aquellos
+otros recursos y causas que se determinen por ley”.
+Más directamente, la Sección 6 del Artículo V dispone que el Tribunal Supremo adoptará
+las reglas de evidencia y de procedimiento civil y criminal, pero reconoce expresamente que la
+Asamblea Legislativa tendrá la facultad de enmendar, derogar o complementar cualquiera de esas
+reglas mediante una ley específica a tal efecto. El ejercicio de esa facultad no constituye, por sí
+
+3
+solo, una interferencia con el Poder Judicial, sino la utilización del mecanismo de colaboración
+normativa expresamente establecido por la Constitución.
+La jurisprudencia puertorriqueña ha reconocido consistentemente ese deslinde. En
+Petrovich v. Secretario de Hacienda, 79 DPR 250, 260 (1956), el Tribunal Supremo
+explicó que la excepción al poder legislativo de configurar la competencia judicial es
+que el Supremo conserve su condición de tribunal de última instancia y su competencia
+originaria en hábeas corpus, además de los otros recursos y causas que la ley determine.
+En la misma dirección, Rodríguez v. Registrador, 75 DPR 712 (1953), distinguió entre
+jurisdicción y competencia, al aclarar que la jurisdicción se refiere al poder del tribunal
+para decidir casos y controversias, mientras que la competencia atiende la forma en que
+el ordenamiento distribuye y canaliza el ejercicio de esa jurisdicción. Más adelante,
+Lausell Ducós v. A.C.A.A., 111 DPR 593 (1981), reiteró que la Constitución restringió a
+la Asamblea Legislativa en cuanto a la jurisdicción unificada del sistema, pero le reservó
+la facultad de ordenar la competencia de los tribunales. (:“La Asamblea Legislativa no
+puede variar el principio de unidad jurisdiccional del sistema. Puede, sin embargo …
+determinar la competencia que deba corresponder a cada sección o sala del Tribunal
+General de Justicia”).
+Ese entendimiento también quedó claramente reflejado en los debates de la
+Asamblea Constituyente. El Informe de la Comisión de la Rama Judicial expresó que la
+unificación judicial eliminaba los viejos problemas técnicos de jurisdicción, pero dejaba
+al poder legislativo facultado para determinar la competencia de los tribunales. De igual
+forma, el delegado Víctor Gutiérrez Franqui explicó que, aunque la Asamblea
+Legislativa no podía abolir el Tribunal Supremo, alterar su integración ni quitarle su
+carácter de tribunal apelativo y de última instancia, sí debía conservar “suficiente
+libertad” para disponer de tiempo en tiempo “lo que la razón y las circunstancias
+aconsejen” respecto a la competencia. . 1 Diario de Sesiones de la Convención
+Constituyente de Puerto Rico 591–592 (1952), 25to Día de Sesión (Expresiones del
+delegado Sr. Gutiérrez Franqui). Es decir, la Constitución no reservó al Tribunal
+
+4
+Supremo un monopolio absoluto sobre la definición de todos los mecanismos de acceso
+a su función revisora, sino que dejó espacio a la configuración legislativa, siempre que
+no se le despoje de su rol final dentro del sistema judicial.
+A la luz de ese marco, una disposición que establezca que el auto de certiorari o el
+auto de certificación se expedirá con el voto favorable de no menos de cuatro jueces o
+juezas no despoja al Tribunal Supremo de jurisdicción y no le arrebata su condición de
+último intérprete del derecho puertorriqueño. Lo que hace es regular una condición de
+ejercicio de su competencia revisora discrecional al fijar el umbral mínimo de
+coincidencia interna necesario para activar la consideración plena del recurso. Esa es
+una regla sobre competencia y organización del acceso al foro revisor, no una orden
+sobre cómo adjudicar los méritos del caso, ni una imposición legislativa del resultado.
+La Asamblea Legislativa no le estaría indicando al Tribunal Supremo cómo resolver una
+controversia, sino estableciendo el umbral procesal suficiente para abrir la puerta a su revisión
+plenaria diciendo al Tribunal Supremo cómo resolver sino que le estaría diciendo la
+competencia necesaria para abrir la puerta a la revisión. Esa clase de regulación cae,
+precisamente, dentro del ámbito normativo que la Constitución le reconoce al
+legislador.
+La compatibilidad constitucional de una medida de esta naturaleza se aprecia aún
+mejor cuando se contrasta con la legislación que el propio Tribunal Supremo declaró
+inválida en Alvarado Pacheco y otros v. E.L.A., 188 DPR 594 (2013) (Resolución). Allí, la
+mayoría concluyó que la Ley 18-2013 era inconstitucional porque, por su propósito y
+efecto, creaba obstáculos que podían convertir a foros inferiores en tribunales
+prácticamente finales en ciertas controversias, restringía severamente la revisión
+interlocutoria y, en el caso de la certificación desde el Tribunal de Primera Instancia,
+subordinaba la intervención del Supremo al consentimiento de las partes. En otras
+palabras, aquella ley cerraba o estrechaba el acceso. La presente medida haría lo
+contrario, pues no crea “islas jurisdiccionales”, no somete la revisión al veto de litigante
+alguno, no busca inmunizar al Estado ni a ningún particular y no reduce el acceso al
+
+5
+tribunal de última instancia. Por el contrario, amplía prudentemente la posibilidad de
+revisión y fortalece el papel institucional del Tribunal Supremo.
+Por ello, esta legislación es un ejercicio válido de la facultad que la Constitución
+asigna a la Asamblea Legislativa para determinar la competencia y organización de los
+tribunales y para enmendar o complementar las reglas de procedimiento mediante una ley
+específica. Esta Ley, en vez de cerrar caminos hacia el tribunal de última instancia, los
+preserva y los robustece. Esa es precisamente la clase de configuración legislativa que la
+Constitución permite, pues estamos ante una legislación que organiza el acceso al poder
+judicial sin destruir su esencia, sin desplazar su autoridad final y sin convertir la
+regulación de competencia en un instrumento para frustrar la justicia.
+La experiencia federal demuestra, además, que la Rule of Four ha servido para
+armonizar dos valores esenciales de todo tribunal de última instancia: la eficiencia
+institucional y la justicia en casos de alta relevancia jurídica. En Puerto Rico, sin
+embargo, la regla vigente para la expedición de autos discrecionales por el Pleno del
+Tribunal Supremo requiere el voto de la mayoría de los jueces y juezas que intervengan.
+Los informes estadísticos oficiales del Tribunal Supremo demuestran que el certiorari
+constituye el principal mecanismo de acceso a su función revisora. Durante los años fiscales
+2021-2022 a 2024-2025, los recursos de certiorari representaron entre el 61.74% y el 66.02% de
+todos los asuntos presentados o reabiertos ante dicho Foro. Si bien estas cifras no permiten
+concluir que los recursos denegados debieron necesariamente ser expedidos, sí evidencian la
+relevancia de la etapa de selección, pues es en ella donde se determina cuáles controversias
+accederán a consideración plenaria y, potencialmente, contribuirán al desarrollo, uniformidad y
+claridad del derecho en Puerto Rico.1
+1 Secretaría del Tribunal Supremo de Puerto Rico, Informe Estadístico: Año Fiscal 2021–2022 11 (2022) (Gráfica
+1.4) (66.02% de los casos presentados y reabiertos correspondió a recursos de certiorari); Secretaría del Tribunal
+Supremo de Puerto Rico, Informe Estadístico: Año Fiscal 2022–2023 11 (2023) (Gráfica 1.4) (63.03%);
+Secretaría del Tribunal Supremo de Puerto Rico, Informe Estadístico: Año Fiscal 2023–2024 13 (2024) (Gráfica
+1.4) (61.74%); Secretaría del Tribunal Supremo de Puerto Rico, Informe Estadístico: Año Fiscal 2024–2025
+(2025) (Gráfica 1.4) (63.73%).
+
+6
+En el proceso criminal, la Regla 215 de Procedimiento Criminal dispone que los autos de
+certificación se tramitarán conforme al procedimiento establecido en las Reglas de Procedimiento
+Civil. Por consiguiente, la enmienda a la Regla 52.2 también regirá la expedición de autos de
+certificación en casos criminales. No obstante, la Regla 217 regula separadamente la revisión
+mediante certiorari de las sentencias y resoluciones del Tribunal de Apelaciones en materia
+criminal. Por ello, resulta necesario enmendar expresamente esa Regla para establecer el mismo
+umbral de cuatro votos y asegurar un tratamiento uniforme de los recursos civiles y criminales.
+La presente medida adopta, para nuestro ordenamiento, una norma inspirada en
+la mejor tradición judicial de los Estados Unidos. En ese sentido, el auto de certiorari, y
+de igual manera el auto de certificación, se expida cuando así lo favorezcan no menos
+de cuatro jueces o juezas del Tribunal Supremo será suficiente el voto afirmativo de no
+menos de cuatro jueces o juezas del Tribunal Supremo para acordar la expedición de un auto de
+certiorari o de certificación. Con ello no se menoscaba la autoridad adjudicativa del
+Tribunal, ni se altera la decisión final sobre los méritos, que seguirá descansando en las
+reglas ordinarias de deliberación y votación aplicables. Lo único que se dispone es que
+una minoría cualificada del Tribunal pueda asegurar que un asunto de especial
+importancia llegue a la etapa de revisión plena donde las partes tendrán la oportunidad
+de presentar sus alegatos ante ese foro.
+Mediante esta Ley, la Asamblea Legislativa reafirma una política pública de mayor
+apertura al escrutinio judicial, de mayor fidelidad a la experiencia institucional
+americana y de mayor protección del carácter del Tribunal Supremo de Puerto Rico
+como verdadero foro de última instancia en los asuntos de mayor importancia para
+nuestro Pueblo.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda la Regla 52.2 de las Reglas de Procedimiento Civil, según
+2 enmendada, a los fines de que lea como sigue:
+
+7
+1 “Regla 52.2. Términos y efectos de la presentación de una apelación, un recurso
+2 de certiorari y un recurso de certificación
+3 (a) …
+4 (b) Recurso de “certiorari”. Los recursos de certiorari al Tribunal de Apelaciones
+5 para revisar las resoluciones finales en procedimientos de jurisdicción voluntaria o al
+6 Tribunal Supremo para revisar, discrecionalmente, las sentencias o resoluciones del
+7 Tribunal de Apelaciones en recursos de apelación o las sentencias o resoluciones
+8 finales en recursos de certiorari en procedimientos de jurisdicción voluntaria
+9 deberán ser presentados dentro del término jurisdiccional de treinta (30) días
+10 contados desde el archivo en autos de copia de la notificación de la sentencia o
+11 resolución recurrida.
+12 Los recursos de certiorari al Tribunal de Apelaciones para revisar resoluciones u
+13 órdenes del Tribunal de Primera Instancia o al Tribunal Supremo para revisar las
+14 demás sentencias o resoluciones finales del Tribunal de Apelaciones en recursos
+15 discrecionales o para revisar cualquier resolución interlocutoria del Tribunal de
+16 Apelaciones deberán presentarse dentro del término de treinta (30) días contados
+17 desde la fecha de notificación de la resolución u orden recurrida. El término aquí
+18 dispuesto es de cumplimiento estricto, prorrogable sólo cuando medien
+19 circunstancias especiales debidamente sustentadas en la solicitud de certiorari.
+20 En aquellos casos que mediante recurso de certiorari se paralicen los procesos
+21 ante el Tribunal de Primera Instancia, el Tribunal de Apelaciones deberá resolver la
+
+8
+1 controversia presentada ante sí dentro de los sesenta (60) días siguientes a que las
+2 partes concernidas se hayan expresado.
+3 En los recursos de certiorari ante el Tribunal Supremo, la expedición del auto podrá ser
+4 acordada mediante será suficiente el voto afirmativo de no menos de cuatro (4) jueces o juezas
+5 para acordar la expedición del auto. La expedición del auto no constituirá adjudicación en los
+6 méritos ni alterará el requisito de que toda decisión, opinión o sentencia del Tribunal
+7 Supremo sea acordada conforme al voto mayoritario de los jueces que participen en la toma de
+8 la decisión. En ningún caso podrá declararse inconstitucional ley alguna salvo por una
+9 mayoría del número total de los jueces y juezas de que esté compuesto el Tribunal Supremo,
+10 de conformidad con la Constitución y las leyes de Puerto Rico.
+11 (c) …
+12 (d) Recursos de certificación al Tribunal Supremo. Mediante auto de certificación,
+13 a ser expedido discrecionalmente, motu proprio o a solicitud de parte, el Tribunal
+14 Supremo podrá traer inmediatamente ante sí para considerar y resolver cualquier
+15 asunto pendiente ante el Tribunal de Primera Instancia o el Tribunal de Apelaciones,
+16 cuando se plantee la existencia de un conflicto entre decisiones previas del Tribunal
+17 de Apelaciones, se planteen cuestiones noveles de derecho o se planteen cuestiones
+18 de alto interés público que incluyan cualquier cuestión constitucional sustancial al
+19 amparo de la Constitución [del Estado Libre Asociado] de Puerto Rico o de la
+20 Constitución de Estados Unidos de América. La expedición del auto de certificación
+21 podrá acordarse mediante Será suficiente el voto afirmativo de no menos de cuatro (4) jueces o
+22 juezas del Tribunal Supremo para acordar la expedición del auto de certificación. Dicha
+
+9
+1 determinación tendrá el único efecto de acoger el asunto para su consideración por el Tribunal
+2 y no se entenderá como una resolución en los méritos.
+3 También el recurso de certificación se formalizará cuando el Tribunal Supremo
+4 de Estados Unidos de América, un Tribunal de Circuito de Apelaciones de Estados
+5 Unidos de América, un Tribunal de Distrito de Estados Unidos de América, o el más
+6 alto tribunal apelativo de cualquiera de los estados y territorios de los Estados
+7 Unidos de América, tenga ante su consideración un caso en el cual surja cualquier
+8 asunto judicial en el que estén implicadas cuestiones de derecho puertorriqueño que
+9 puedan determinar el resultado del mismo y respecto al cual, en la opinión del
+10 Tribunal solicitante, no existan precedentes claros en la jurisprudencia de este
+11 Tribunal. En estos casos, la expedición del auto de certificación igualmente podrá acordarse
+12 mediante igualmente será suficiente el voto afirmativo de no menos de cuatro (4) jueces o
+13 juezas del Tribunal Supremo para acordar la expedición del auto de certificación.
+14 (e) …
+15 (1) …
+16 (2) …
+17 (3) …
+18 (4) …
+19 (f) …
+20 (g) …
+21 (h) …”
+
+10
+1 Sección 2. — Se enmienda la Regla 217 de las Reglas de Procedimiento Criminal de
+2 Puerto Rico, según enmendada, a los fines de que lea como sigue:
+3 “Regla 217. - Revisión de sentencia dictada en apelación; término.
+4 La sentencia dictada en apelación o certiorari, o la resolución final denegando el
+5 auto de certiorari dictada por el Tribunal de Apelaciones, podrá ser revisada por el
+6 Tribunal Supremo mediante certiorari a ser librado a su discreción, y de ningún otro
+7 modo. Para acordar la expedición del auto, será suficiente el voto afirmativo de no menos de
+8 cuatro (4) jueces o juezas del Tribunal Supremo. En ningún caso podrá declararse
+9 inconstitucional ley alguna salvo por una mayoría del número total de los jueces y juezas de
+10 que esté compuesto el Tribunal Supremo, de conformidad con la Constitución y las leyes de
+11 Puerto Rico.
+12 La solicitud de certiorari deberá presentarse dentro de los treinta (30) días del
+13 archivo en autos de la notificación de la sentencia o de la resolución de una moción
+14 de reconsideración en la forma dispuesta en la Regla 216. Este término es
+15 jurisdiccional. Si la fecha de archivo en autos de copia de la notificación de la
+16 sentencia o resolución es distinta a la del depósito en el correo de dicha notificación,
+17 el término se calculará a partir de la fecha del depósito en el correo.”
+18 Sección 2 3. - Vigencia
+19 Esta Ley entrará en vigor inmediatamente después de su aprobación.

@@ -1,0 +1,142 @@
+Title: 
+Official Title: 
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+(ENTIRILLADO ELECTRONICO)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1194
+10 de abril de 2026
+Presentado por el señor Morales Rodríguez
+Referido a las Comisiones de lo Jurídico; y de Ciencia, Tecnología e Inteligencia Artificial
+LEY
+Para enmendar el Artículo 268 de la Ley Núm. 146-2012, según enmendada, conocida
+como “Código Penal de Puerto Rico”, a los fines de incluir como conducta delictiva
+el uso de sistemas de inteligencia artificial en la fabricación de alegaciones falsas que
+induzcan a investigaciones criminales. agravante a la pena, la simulación, fabricación o
+alteración de un contenido audiovisual, documental o de cualquier otra naturaleza, mediante
+el uso de medios digitales; y para otros fines.
+EXPOSICIÓN DE MOTIVOS
+Históricamente, y como piedra angular del Estado de Derecho, El el ordenamiento jurídico
+puertorriqueño ha reconocido históricamente la importancia cardinal de la veracidad en
+los procesos investigativos y judiciales como piedra angular del Estado de Derecho. La
+administración de la justicia descansa, en gran medida, sobre la presunción de que las
+declaraciones, alegaciones y denuncias presentadas ante las autoridades responden a
+hechos verídicos o, al menos, a una creencia honesta en su veracidad. Cuando dicha
+presunción es quebrantada mediante la falsedad deliberada, no solo se afecta un
+procedimiento particular, sino que se socava la integridad misma del sistema judicial.
+El delito de declaración o alegación falsa sobre delito, tipificado en el Artículo 268
+de la Ley 146-2012, según enmendada, conocida como del “Código Penal de Puerto Rico”,
+
+2
+precisamente responde precisamente a la necesidad de proteger la función investigativa
+del Estado frente a denuncias maliciosas o fraudulentas. No obstante, el acelerado
+desarrollo de las tecnologías digitales, particularmente los sistemas de inteligencia
+artificial, ha introducido nuevas modalidades de engaño que no fueron contempladas al
+momento de la redacción original de dicha disposición. representan un desafío significativo
+para las instituciones de seguridad pública.
+En años recientes, el uso de herramientas de inteligencia artificial medios digitales,
+incluyendo sistemas de generación artificial de imágenes, audio y video sintético,
+comúnmente conocidos como “deepfakes” ha permitido la creación de evidencia
+contenido completamente fabricada fabricado con un alto grado de realismo. Estas
+tecnologías han sido utilizadas para simular eventos inexistentes, manipular
+declaraciones de individuos y construir narrativas falsas con apariencia de autenticidad,
+lo que representa un riesgo significativo para los procesos investigativos y judiciales. En
+el caso de las agencias del orden público, esto puede provocar investigaciones innecesarias, la
+movilización inadecuada de recursos públicos, la difusión masiva de información falsa a la
+ciudadanía, y la toma transcendental de decisiones.
+Recientemente, todo Puerto Rico fue testigo de cómo una persona, mediante el uso de medio
+digitales, simuló la comisión de un delito y se lo informó a un policía. Según los hechos que
+trascendieron en los medios de comunicación, el individuo se acercó a un policía municipal de San
+Juan que se encontraba ingiriendo sus alimentos dentro de un restaurante de comida rápida, y le
+mostró un video desde su teléfono celular en el que aparentaba verse una persona montándose en
+su patrulla y abandonando el lugar. A raíz de ello, y creyendo en la presunta buena fe del individuo,
+el uniformado salió del establecimiento para intervenir con la situación. Sin embargo, al llegar al
+estacionamiento se percató la patrulla estaba estacionada en el lugar donde la había dejado, y que
+el supuesto incidente nunca ocurrió. Según la investigación, la policía determinó que el video había
+sido alterado mediante el uso de inteligencia artificial.
+La experiencia comparada ha evidenciado las consecuencias de este fenómeno. En
+el ámbito federal, el caso United States v. Guy Wesley Reffitt, NO. 1:21- cr-00032 (D.D.C.
+
+3
+2022). destacó una realidad jurídica contemporánea: la evidencia digital, aunque
+admisible, susceptible a alteración, edición o manipulación. Esta vulnerabilidad adquiere
+mayor relevancia en el contexto actual, donde tecnologías avanzadas, como la
+inteligencia artificial, permiten la creación o modificación de contenido digital con un alto
+grado de realismo, lo que representa un reto significativo para la función judicial y la
+determinación de la verdad.
+Estos desarrollos han sido acompañados por preocupaciones expresadas en
+decisiones como Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993), que
+establecen la necesidad de confiabilidad en la evidencia científica, principio que adquiere
+renovada relevancia ante la proliferación de tecnologías capaces de distorsionar la
+realidad. Igualmente, en Napue v. Illinois, 360 U.S. 264 (1959), el Tribunal Supremo de los
+Estados Unidos reafirmó que la presentación de información falsa en un proceso judicial
+atenta contra el debido proceso de ley, subrayando que la verdad constituye un elemento
+indispensable para la justicia.
+En este contexto, resulta imperativo reconocer que el uso de inteligencia artificial
+medios digitales para fabricar hechos falsos, con el propósito de informar falsamente sobre
+la comisión de delitos, y de activar la maquinaria investigativa del Estado, constituye una
+forma agravada de engaño. A diferencia de la falsedad tradicional, estas tecnologías estos
+medios digitales permiten la creación de realidades paralelas con un nivel de sofisticación
+que dificulta su detección, aumentando exponencialmente el potencial de daño
+institucional.
+Mentir ante la función judicial, o de seguridad, no es un acto trivial ni meramente
+individual, sino que constituye una afrenta directa al orden público, al debido proceso de
+ley y a la confianza ciudadana en las instituciones. La falsedad deliberada,
+particularmente cuando se instrumentaliza mediante tecnologías avanzadas, medios
+digitales, distorsiona la búsqueda de la verdad, desvía recursos públicos, expone a
+personas inocentes a investigaciones injustificadas y compromete la legitimidad del
+
+4
+sistema de justicia. En términos doctrinales, ello implica una vulneración del principio de
+buena fe procesal y del deber de veracidad que rige toda actuación ante el Estado.
+Por tanto, esta Asamblea Legislativa reconoce la necesidad urgente de atemperar el
+ordenamiento penal a las realidades tecnológicas contemporáneas, incorporando
+expresamente dentro del ámbito delictivo aquellas conductas en las cuales se utilicen
+sistemas de inteligencia artificial para crear, alterar o simular hechos falsos que induzcan
+a las autoridades a iniciar investigaciones criminales. Esta enmienda no solo fortalece la
+protección de la función judicial, sino que reafirma el compromiso del Estado con la
+verdad como fundamento esencial de la justicia.
+Por tanto, esta Asamblea Legislativa reconoce la necesidad urgente de atemperar el
+ordenamiento penal a las realidades tecnológicas contemporáneas. En consecuencia, mediante
+la presente legislación se enmienda el Artículo 268 del Código Penal de Puerto Rico, a los
+fines de tipificar de manera expresa el uso indebido de inteligencia artificial en la
+fabricación de alegaciones falsas de delito, y reconocer dicha conducta como una
+modalidad particularmente lesiva que amerita una respuesta penal clara y contundente.
+incluir como agravante a la pena, la simulación, fabricación o alteración de un contenido
+audiovisual, documental o de cualquier otra naturaleza, mediante el uso de medios digitales. Esta
+enmienda no solo fortalece la protección de la función investigativa, sino que reafirma el
+compromiso del Estado con la verdad como fundamento esencial de la justicia.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda al Artículo 268 de la Ley Núm. 146-2012, según
+2 enmendada, conocida como “Código Penal de Puerto Rico”, para que lea como sigue:
+3 “Artículo 268. — Declaración o alegación falsa sobre delito.
+4 Toda persona que, mediante querella, solicitud, información, confidencia,
+5 independientemente que sea anónima o bajo falso nombre, dirigida a personas o
+
+5
+1 funcionarios con autoridad en Ley para hacer investigaciones de naturaleza criminal,
+2 declare o alegue falsamente teniendo conocimiento de su falsedad, que se ha cometido
+3 un delito, que provoque así el inicio de una investigación encaminada a esclarecerlo,
+4 incurrirá en delito menos grave.
+5 Asimismo, incurrirá en delito menos grave toda persona que, mediante el uso de sistemas
+6 de inteligencia artificial, herramientas tecnológicas avanzadas o cualquier medio digital, cree,
+7 altere, simule o fabrique una situación, evidencia o hecho falso con la intención de presentarlo a las
+8 autoridades, provocando una investigación criminal basada en dicha falsedad.
+9 Si el hecho alegado falsamente es uno que constituye delito grave, la persona
+10 incurrirá en delito grave y será sancionada con pena de reclusión por un término fijo de
+11 tres (3) años.
+12 Cuando la conducta descrita en este artículo se realice mediante el uso de inteligencia
+13 artificial o tecnologías análogas, el tribunal podrá considerar dicho uso como circunstancia
+14 agravante al momento de imponer la multa correspondiente.” Se considerará una circunstancia
+15 agravante a la pena, cuando la conducta prohibida en este Artículo conlleve la simulación,
+16 fabricación o alteración de un contenido audiovisual, documental o de cualquier otra naturaleza,
+17 mediante el uso de medios digitales.”
+18 Sección 2.- Vigencia
+19 Esta Ley comenzará a regir inmediatamente después de su aprobación.
