@@ -352,17 +352,61 @@
       "_processing": {
         "log_file_created": "2026-08-18T05:34:35Z"
       }
+    },
+    {
+      "description": "2do Informe de Comit\u00e9 de Conferencia rendido",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
+    },
+    {
+      "description": "Entirillado Electr\u00f3nico Informe de Conferencia",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
+    },
+    {
+      "description": "C\u00e1mara aprueba informe de Comisi\u00f3n de Conferencia",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
+    },
+    {
+      "description": "Senado aprueba informe de Comisi\u00f3n de Conferencia",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Axel  Roque Gracia - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Axel  Roque Gracia - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Jos\u00e9 E. Torres Zamora - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -385,6 +429,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"\\u00c1ngel  Morey Noble - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Axel  Roque Gracia - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Axel  Roque Gracia - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -521,6 +573,50 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "2do Informe de Comit\u00e9 de Conferencia rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158163/PC0822-ic (2do).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-03",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado Electr\u00f3nico Informe de Conferencia",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158163/PC0822- eec (2do).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-03",
+      "classification": ""
+    },
+    {
+      "note": "C\u00e1mara aprueba informe de Comisi\u00f3n de Conferencia",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158163/PC0822 2do. Inf. Conf..pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-03",
+      "classification": ""
+    },
+    {
+      "note": "Senado aprueba informe de Comisi\u00f3n de Conferencia",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158163/PC822conf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-03",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -539,7 +635,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T05:34:35Z",
+    "logs_latest_update": "2026-09-04T09:31:17Z",
     "text_extraction_latest_update": "2026-08-18T05:37:59.703946Z"
   }
 }

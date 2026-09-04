@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RCC0307",
   "title": "Para ordenar a la Autoridad de Transporte Integrado de Puerto Rico a autorizar y coordinar con el Sal\u00f3n de la Fama del Deporte Riopedrense la instalaci\u00f3n de un mosaico en la estaci\u00f3n R\u00edo Piedras del Tren Urbano en honor al fenecido baloncelista puertorrique\u00f1o Juan \u201cJohnny\u201d B\u00e1ez Mari\u00f1o; y para otros fines relacionados.",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
   ],
@@ -230,6 +230,36 @@
       "_processing": {
         "log_file_created": "2026-08-28T17:12:29Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -336,6 +366,28 @@
       ],
       "date": "2026-08-27",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160698/RCC0307 Conc..pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-03",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160698/RCC0307 enrolado.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-03",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -354,7 +406,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T17:12:29Z",
+    "logs_latest_update": "2026-09-04T09:31:17Z",
     "text_extraction_latest_update": "2026-08-28T17:16:57.981666Z"
   }
 }

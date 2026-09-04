@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "PS1014",
   "title": "\u201cPara a\u00f1adir un nuevo Art\u00edculo 136-A de la Ley 146-2012, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Penal de Puerto Rico\u201d, a los fines de tipificar como modalidad agravada el delito de exposici\u00f3n obscena cuando se cometa en presencia de un menor de dieciocho (18) a\u00f1os o menos, estableciendo para dicha conducta una pena de reclusi\u00f3n por un t\u00e9rmino no menor de un (1) a\u00f1o, ni mayor de tres (3), a discreci\u00f3n del tribunal; y para otros fines relacionados.\u201d",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
@@ -138,6 +138,30 @@
       "_processing": {
         "log_file_created": "2026-08-28T17:12:29Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -211,6 +235,17 @@
       ],
       "date": "2026-08-27",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160202/ps1014a-26 (002).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -229,7 +264,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T17:12:29Z",
+    "logs_latest_update": "2026-09-04T09:31:17Z",
     "text_extraction_latest_update": "2026-08-28T17:16:51.047218Z"
   }
 }

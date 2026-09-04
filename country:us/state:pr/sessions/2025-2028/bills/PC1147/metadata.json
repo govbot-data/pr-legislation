@@ -206,6 +206,28 @@
       "_processing": {
         "log_file_created": "2026-09-03T09:48:23Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
+    },
+    {
+      "description": "Derrotada por el Senado en Votaci\u00f3n Final",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -218,19 +240,19 @@
       "organization_id": null
     },
     {
-      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "F\u00e9lix E. Pacheco  Burgos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"F\\u00e9lix E. Pacheco  Burgos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -301,6 +323,17 @@
       ],
       "date": "2026-06-11",
       "classification": ""
+    },
+    {
+      "note": "Derrotada por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160506/PC1147vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-03",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -319,7 +352,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T09:48:23Z",
+    "logs_latest_update": "2026-09-04T09:31:17Z",
     "text_extraction_latest_update": "2026-09-03T09:52:39.974389Z"
   }
 }

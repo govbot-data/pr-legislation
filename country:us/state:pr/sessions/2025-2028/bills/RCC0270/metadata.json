@@ -84,6 +84,50 @@
       "_processing": {
         "log_file_created": "2026-09-02T09:30:53Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
+    },
+    {
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:31:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -113,8 +157,8 @@
       "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/160175/RCC0270-iee.pdf",
-          "media_type": "application/pdf"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160175/RCC0270 - i.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
       "date": "2026-09-01",
@@ -124,11 +168,22 @@
       "note": "Entirillado del Informe",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/160175/RCC0270 - iee.docx",
-          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160175/RCC0270 - ee.doc",
+          "media_type": "application/msword"
         }
       ],
       "date": "2026-09-01",
+      "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160175/RCC0270 votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-03",
       "classification": ""
     }
   ],
@@ -148,7 +203,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-02T09:30:53Z",
+    "logs_latest_update": "2026-09-04T09:31:17Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-08-23T08:31:14.568782Z"
