@@ -1,0 +1,1202 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+A-155
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1453
+8 de septiembre de 2026
+Presentado por los señores Rivera Schatz, Ríos Santiago, la señora Jiménez Santoni, los
+señores Matías Rosario, Morales Rodríguez, la señora Barlucea Rodríguez, los señores
+Colón La Santa, González López, las señoras Padilla Alvelo, Moran Trinidad, Pérez Soto,
+el señor Reyes Berríos, la señora Román Rodríguez, los señores Rosa Ramos, Sánchez
+Álvarez, Santos Ortiz, las señoras Soto Aguilú, Soto Tolentino, y el señor Toledo López
+Referido a
+LEY
+Para enmendar las secciones 1 y 3 de la Ley Núm. 40 de 1 de mayo de 1945, según
+enmendada, conocida como la “Ley de la Autoridad de Acueductos y
+Alcantarillados”, con el propósito de reestablecer el concepto de “holding over”
+en la eventualidad de vacantes en la Junta; garantizar que los nombramientos de
+los sucesores de los directores independientes no alteren la estructura escalonada
+para dar continuidad a los trabajos; enmendar el término de los miembros
+representantes de los clientes de la Junta a cinco (5) años; aclarar las prohibiciones
+político-partidistas de los miembros de la Junta; crear un proceso electrónico para
+la elección del representante del interés público a la Junta, establecer la
+responsabilidad de reglamentar; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Autoridad de Acueductos y Alcantarillados de Puerto Rico (AAA) es una corporación
+pública creada mediante la Ley Núm. 40 de 1 de mayo de 1945, según enmendada, con la
+misión de brindar servicios de agua potable y alcantarillado sanitario. Estos servicios
+deben prestarse de manera económica y responsable, protegiendo el ambiente, la salud y
+
+2
+la seguridad, y procurando que las tarifas sean razonables y accesibles para residentes,
+comercios e industrias.
+La medida propuesta responde al compromiso de esta Administración de revisar y
+modernizar las estructuras gubernamentales para mejorar la calidad de los servicios
+público. Asimismo, busca eliminar, aclarar o corregir disposiciones que hayan resultado
+ineficientes, costosas o ambiguas, de manera que las responsabilidades de la Junta y de
+la gerencia de la AAA sean más claras y eficientes a la luz de la realidad actual.
+Esta legislación enmienda la Ley de la Autoridad de Acueductos y Alcantarillados para
+incorporar las experiencias adquiridas durante los últimos diez años, fortalecer las
+facultades de la Junta de Gobierno, mejorar la administración de la Autoridad y reducir
+gastos innecesarios. Entre los cambios principales se encuentran: restablecer el
+mecanismo de holding over ante vacantes; preservar la estructura escalonada de los
+términos de los directores independientes; extender a cinco años el término de los
+representantes de los clientes; eliminar el requisito de contratar firmas de búsqueda
+ejecutiva (head hunters) para los nombramientos, generando ahorros significativos y
+aclarar las restricciones sobre actividades políticas de los miembros de la Junta.
+Además, se elimina el requisito de que los directores independientes que sean nombrados
+por el/la Gobernador(a) de Puerto Rico provengan de una lista preparada por una firma
+especializada en búsqueda de talento ejecutivo. Este mecanismo, inspirado en legislación
+relacionada con la reestructuración de la Autoridad de Energía Eléctrica durante una
+coyuntura fiscal particular, ha resultado costoso, lento y oneroso, sin que haya
+demostrado ser indispensable para preservar y el profesionalismo de la Junta de la AAA.
+La experiencia de las últimas dos décadas demuestra que la selección de profesionales
+por sus capacidades, experiencia y compromiso ha contribuido a la continuidad de la
+Junta.
+
+3
+Finalmente, esta pieza legislativa procura corregir inconsistencias surgidas por la
+incorporación de disposiciones provenientes de otras leyes que no fueron armonizadas
+adecuadamente con la Ley de la Autoridad de Acueductos y Alcantarillados. Esta
+inadvertencia ha generado duplicidades, contradicciones y confusión, particularmente
+en materia de ética aplicable a directores, gerenciales y empleados. Las enmiendas buscan
+establecer reglas más claras y coherentes sobre la conducta esperada de los funcionarios
+de la Autoridad de Acueductos y Alcantarillados, fortaleciendo así su sana
+administración pública.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Se enmiendan la Sección 1 de la Ley Núm. 40 de 1 de mayo de 1945,
+2 según enmendada, conocida como la “Ley de la Autoridad de Acueductos y
+3 Alcantarillados”, para que se lea como sigue:
+4 “Sección 1. — Título Breve de la Ley - Definiciones.
+5 Esta Ley se conocerá y podrá citarse [con el nombre de] como “Ley de Acueductos y
+6 Alcantarillados de Puerto Rico”.
+7 Los siguientes términos y palabras, según se usan en esta Ley, tendrán los
+8 significados que a continuación se expresan, salvo que el contexto indique cualquier otro
+9 o distinto significado o intención:
+10 (a) …
+11 …
+12 (l) …
+13 (m) Operador privado. — Significará cualquier entidad, que podrá ser persona
+14 natural, seleccionada y contratada por la Autoridad de conformidad con los poderes conferidos
+
+4
+1 a esta bajo esta ley, y cuya función será [para] administrar y operar el Sistema Estadual de
+2 Acueductos o el Sistema Estadual de Alcantarillados o una porción de éstos o ambos.
+3 Estos operadores no se referirán a los que puedan ser contratados de conformidad con las
+4 disposiciones de la Ley Núm. 29-2009, según enmendada, mejor conocida como, “Ley de Alianzas
+5 Público-Privadas”.
+6 (n) Empleados ejecutivos. — Significará los oficiales ejecutivos identificados en la
+7 Sección 3 de esta Ley, sus asistentes, el personal de apoyo de dichos oficiales ejecutivos y
+8 cualquier otro [empleados] empleado de la Autoridad nombrado por la Junta que sea
+9 nombrado bajo la clasificación de empleado de confianza de dicha Junta.
+10 (o) …
+11 (p) Contrato de administración. — Significará el contrato entre la Autoridad y el
+12 operador privado que pueda seleccionar y contratar la Autoridad para la administración y
+13 operación del Sistema Estadual de Acueductos o el Sistema Estadual de Alcantarillado o
+14 una porción de éstos o ambos. Estos contratos no se refieren a los que puedan ejecutarse de
+15 conformidad con las disposiciones de la Ley Núm. 29-2009, según enmendada, mejor conocida
+16 como, “Ley de Alianzas Público-Privadas”.
+17 (q)…
+18 (r)…
+19 [(s)] Oficinas Ejecutivas. — Significará los cargos, puestos y empleados
+20 existentes o pasados nombrados a partir de 1ro. de julio de 2002 para la supervisión del
+21 operador privado de conformidad con la Ley Núm. 95 de 30 de junio de 2002.]”
+22 Artículo 2.- Se enmienda la Sección 3 de la Ley Núm. 40 de 1 de mayo de 1945,
+
+5
+1 según enmendada, para que se lea como sigue:
+2 “Sección 3.- Junta de Gobierno, Funcionarios.
+3 Los poderes de la Autoridad se ejercerán y su política general y dirección estratégica
+4 se determinará por una Junta de Gobierno, en adelante la Junta, que se compondrá de
+5 siete (7) miembros, los cuales incluirán: cuatro (4) directores independientes nombrados
+6 por el/la Gobernador(a) de Puerto Rico, con el consejo y consentimiento del Senado, los
+7 cuales incluirán los siguientes profesionales, con amplio conocimiento, experiencia en su campo
+8 (y poseer licencia para practicar sus respectivas profesiones en Puerto Rico, si les fuere aplicable):
+9 un (1) ingeniero o ingeniera autorizado(a) a ejercer la profesión de la ingeniería en Puerto
+10 Rico con al menos diez (10) años de experiencia en el ejercicio de dicha profesión; un (1)
+11 un abogado o abogada con al menos [diez (10)] cinco (5) años de experiencia en el
+12 licenciado o licenciada en ejercicio de dicha profesión en Puerto Rico; una (1) persona con
+13 amplio conocimiento [y experiencias] en el campo de las finanzas corporativas; y un (1)
+14 profesional especialista en cualquiera de los campos relacionados con las funciones
+15 delegadas a la Autoridad.[;] Los restantes tres miembros serán: un (1) representante
+16 seleccionado por los clientes de conformidad con el procedimiento dispuesto más
+17 adelante en esta Sección; y otros dos (2) miembros que serán los Directores Municipales [el
+18 Director Ejecutivo de la Asociación de Alcaldes y el Director Ejecutivo de la Federación
+19 de Alcaldes].
+20 (a) [Los nombramientos de los directores independientes a ser nombrados por
+21 el Gobernador serán seleccionados de una lista de por lo menos diez (10)
+22 candidatos y candidatas presentada al Gobernador y preparada por una firma
+
+6
+1 reconocida para la búsqueda de talento ejecutivo para juntas directivas en
+2 instituciones de tamaño, complejidad y riesgos similares a la Autoridad, cuya
+3 identificación de candidatos por dicha firma se realizará de acuerdo a criterios
+4 objetivos de trasfondo educativo y profesional, con no menos de diez (10) años
+5 de experiencia en su campo. Los criterios de trasfondo educativo y profesional
+6 deberán incluir como mínimo el campo de la ingeniería eléctrica, la
+7 administración de empresas, economía y finanzas o legal. Esta lista incluirá, en
+8 la medida en que estén disponibles, por lo menos cinco (5) residentes de Puerto
+9 Rico. El Gobernador, dentro de su plena discreción, evaluará la lista de
+10 candidatos recomendados y escogerá cuatro (4) personas de la lista. Si el
+11 Gobernador rechazare alguna o todas las personas recomendadas, la referida
+12 firma procederá a someter otra lista dentro de los siguientes treinta (30) días
+13 calendario. Los miembros] El miembro de la Junta que representa[n] los intereses
+14 de los clientes al momento de la aprobación de esta Ley, si alguno, permanecerá[n]
+15 en su[s] puesto[s] hasta que concluya[n] [los] el término[s] por [los] el que fue[ron]
+16 electo[s] y hasta que concluya el proceso de selección y comienzo de funciones de su
+17 sustituto. El miembro de la Junta de Gobierno, representante de los clientes se
+18 elegirá mediante una elección que será supervisada por la Oficina del Procurador
+19 del Ciudadano (Ombudsman) y que se celebrará bajo el procedimiento dispuesto
+20 en esta Sección, debiendo proveer la Autoridad las instalaciones y todos los
+21 recursos económicos necesarios a tal fin. El miembro electo representará los
+22 intereses tanto de los clientes residenciales [y] como de los clientes comerciales e
+
+7
+1 industriales, y su término será de [tres (3)] cinco (5) años o hasta que su sucesor sea
+2 electo de conformidad con el procedimiento dispuesto más adelante. En caso de no
+3 producirse un nuevo representante de los consumidores producto del proceso dispuesto en
+4 esta ley, el representante en ese momento podrá permanecer como miembro de la Junta por
+5 un nuevo término de tres (3) años, debiendo el OMBUSMAN certificar el resultado de la
+6 elección y notificar al/ a la Gobernador(a) de Puerto Rico y al Presidente de la Junta de
+7 dicha ausencia de miembro electo y las razones.
+8 Los [miembros nombrados por el Gobernador] nombramientos de los
+9 Directores Independientes tendrán términos escalonados, a saber, dos (2) de los
+10 miembros, a elección del/dela Gobernador(a), ocuparán el cargo por cinco (5) años y
+11 los dos (2) restantes por seis (6) años. Según vayan expirando los términos de
+12 designación de los cuatro (4) miembros de la Junta nombrados como Directores
+13 Independientes, [por el Gobernador, éste nombrará] sus sucesores serán nombrados
+14 por un término de cinco (5) años [, siguiendo el mismo mecanismo de
+15 identificación de candidatos descrito anteriormente]. Los miembros podrán ocupar
+16 sus cargos hasta que sus sucesores sean nombrados y tomen posesión. Los sucesores de los
+17 Directores Independientes serán nombrados de manera que los términos de dichos sucesores
+18 no alteren la estructura escalonada que aquí se provee para dar continuidad a los trabajos
+19 y a la transferencia de conocimiento en la Junta. Por ello, cualquier nombramiento para
+20 cubrir una vacante provocada por una salida prematura de un Director Independiente, se
+21 hará por el periodo restante del término de dicho Director Independiente saliente.
+22 Igualmente, cualquier nombramiento luego de un “holding over” se hará por el remanente
+
+8
+1 del término luego de reducido el periodo en que el Director Independiente predecesor estuvo
+2 en “holding over” en espera del nombramiento de su sucesor. Los Directores
+3 Independientes sucesores se designarán cumpliendo con los requisitos de selección
+4 dispuestos en el acápite (a) de esta Sección, a saber, tener amplio conocimiento y experiencia
+5 en el campo de la ingeniería, finanzas corporativas, campo legal o campos relacionados con
+6 las funciones delegadas a la Autoridad, y contar con el consejo y consentimiento del Senado.
+7 Los Directores Independientes al momento de la aprobación de esta Ley continuarán en sus
+8 funciones hasta que venzan los términos de sus respectivos nombramientos actuales
+9 calculados de conformidad con lo anterior, pudiendo luego el/la Gobernador(a) proceder
+10 con los nombramientos en la estructura escalonada que se establece en esta Sección.
+11 Ningún Director Independiente [miembro nombrado por el Gobernador] podrá ser
+12 designado para dicho cargo por más de tres (3) términos consecutivos. [El
+13 mecanismo de identificación de candidatos por una firma reconocida en la
+14 búsqueda de talento ejecutivo estará en vigor por un periodo de quince (15)
+15 años, en cuyo momento la Asamblea Legislativa evaluará si continúa o deja sin
+16 efecto tal mecanismo. Si la Asamblea Legislativa deja sin efecto tal mecanismo,
+17 procederá a determinar cuál será el método de nombramiento a utilizarse. El
+18 mecanismo provisto en esta Ley continuará en vigor hasta que la Asamblea
+19 Legislativa disponga lo contrario. Todos los miembros de la Junta deberán
+20 cumplir con las Reglas Finales de Gobierno Corporativo de la Bolsa de Valores
+21 de Nueva York (NYSE) en cuanto a la independencia de directores,
+
+9
+1 proveyéndose, no obstante, que ser cliente de la Autoridad no constituirá falta
+2 de independencia.
+3 Toda vacante en los cargos de los miembros que nombra el Gobernador se
+4 cubrirá por nombramiento de este por el término que falte para la expiración del
+5 nombramiento original del mismo modo en que se seleccionaron originalmente,
+6 a saber, con el consejo y consentimiento del Senado mediante la presentación
+7 de una lista de por lo menos diez (10) candidatos y candidatas presentados(as)
+8 al Gobernador por una firma reconocida en la búsqueda de talento ejecutivo en
+9 instituciones de tamaño, complejidad y riesgos similares a la Autoridad, cuya
+10 identificación de candidatos por dicha firma se realizará de acuerdo a criterios
+11 objetivos de trasfondo educativo y profesional, con no menos de diez (10) años
+12 de experiencia en su campo. Los criterios de trasfondo educativo y profesional
+13 deberán incluir como mínimo el campo de la ingeniería eléctrica, la
+14 administración de empresas, economía y finanzas. Esta lista incluirá, en la
+15 medida en que estén disponibles, por lo menos cinco (5) residentes de Puerto
+16 Rico. El Gobernador podrá utilizar la lista más reciente previamente presentada
+17 para su consideración de candidatos cuando sea necesario para llenar una
+18 vacante causada por renuncia, muerte, incapacidad o reemplazo ocurrido fuera
+19 del término original del miembro que se sustituye. La designación]
+20 (b) El/La Gobernador(a) deberá identificar [d]el sustituto [deberá realizarse]
+21 dentro de los seis (6) meses de ocurrida [la] cualquier vacante antes de vencido el
+22 término del director saliente y proceder a enviar su nombramiento al Senado para iniciar
+
+10
+1 el proceso de confirmación. No obstante, toda vacante que ocurra en los cargos de los
+2 miembros electos como representantes de los clientes se cubrirá mediante el
+3 proceso de elección reglamentado por el Ombudsman, comenzado dentro de un
+4 período de no menos de ciento veinte (120) días [a partir] antes de la expiración
+5 anticipada del término vigente, o en caso de tratarse de una vacante antes de completarse
+6 el término, el nuevo proceso de elección se comenzará a la mayor brevedad posible a partir
+7 de la fecha de ocurrir dicha vacante [,y]. Una vez seleccionado, comenzará a
+8 transcurrir un nuevo término de [tres (3)] cinco (5) años.
+9 (c) No se podrán nombrar personas para llenar vacantes en la Junta durante el
+10 período de vigencia de la veda electoral, salvo que ello sea esencial para que la
+11 Junta pueda tener quorum. En esos casos, el nombramiento será hasta el 1ro. de
+12 enero del año siguiente. [En vista de los términos y compromisos mutuos y la
+13 urgencia de implantar la reestructuración de la Autoridad, esta prohibición no
+14 aplicará al periodo de veda electoral aplicable al año 2016.]
+15 (d) [Además de los requisitos de independencia bajo las Reglas Finales de
+16 Gobierno Corporativo de la Bolsa de Valores de Nueva York (NYSE), que
+17 aplicarán a todos los miembros de la Junta, no] No podrá ser miembro de la Junta
+18 persona alguna (incluido(s) el(los) miembro(s) que representan el interés de los
+19 clientes) que: (i) sea empleado, empleado jubilado, o tenga interés económico
+20 sustancial, directo o indirecto, en alguna empresa privada con la cual la Autoridad
+21 otorgue contratos o con quien haga transacciones de cualquier índole incluyendo
+22 el tomar dinero a préstamo o proveer materia prima; (ii) en los tres (3) años
+
+11
+1 anteriores a su cargo haya tenido una relación o interés comercial en alguna
+2 empresa privada con la cual la Autoridad otorgue contratos o haga transacciones
+3 de cualquier índole; (iii) [haya sido miembro de un organismo directivo a nivel
+4 central o local de un partido político inscrito en el Gobierno de Puerto Rico
+5 durante el año previo a la fecha de su designación, (iv)] sea empleado o
+6 funcionario de la Autoridad o sea empleado, miembro, asesor o contratista de
+7 cualquiera de los sindicatos de trabajadores de la Autoridad; o [(v)] (iv) no haya
+8 provisto la certificación de radicación de planillas correspondientes a los últimos
+9 cinco (5) años contributivos, la certificación negativa de deuda o plan de pago al día,
+10 emitida por el Departamento de Hacienda, la certificación negativa de deuda o
+11 plan de pago al día con la Autoridad, el Certificado de Antecedentes Penales de la
+12 Policía de Puerto Rico, así como las certificaciones negativas de deuda o de plan de
+13 pago al día de la Administración para el Sustento de Menores (ASUME) y del
+14 Centro de Recaudación de Impuestos Municipales (CRIM) o cumplido con los
+15 demás requisitos aplicables a toda persona que desee ser funcionario público.
+16 Ningún miembro independiente de la Junta podrá ser empleado público, excepto
+17 profesores del sistema de la Universidad de Puerto Rico.
+18 (e) Los miembros [independientes] de la Junta [y el representante de los
+19 clientes] recibirán por sus servicios aquella compensación que determine la Junta
+20 por mayoría absoluta [unanimidad. De no lograr la unanimidad, el Gobernador,
+21 entonces determinará la compensación de estos miembros.] No obstante, en caso
+22 de que un miembro de la Junta de Gobierno sea simultáneamente funcionario público, este
+
+12
+1 no recibirá compensación adicional por sus servicios en la Junta, pero tampoco se le
+2 descontará de licencias acumuladas de su empleo público el tiempo que le ocupe su servicio
+3 como miembro de la Junta. [Esta] La compensación que reciban los miembros será
+4 comparable a aquella recibida por miembros de juntas de instituciones en la
+5 industria de agua y alcantarillado sanitario de tamaño, complejidad y riesgos
+6 similares a la Autoridad, tomando en cuenta la naturaleza de la Autoridad como
+7 corporación pública del Gobierno de Puerto Rico, sujeto a la situación fiscal de la
+8 Autoridad, y en cualquier caso, que sea suficiente para atraer candidatos
+9 cualificados.
+10 (f) El cumplimiento por parte de la Junta con estándares [de gobernanza] de
+11 la industria será evaluado por lo menos cada [tres (3)] seis (6) años por un consultor
+12 reconocido como perito en la materia y con amplia experiencia asesorando juntas
+13 directivas de entidades con ingresos, complejidades y riesgos similares a la
+14 Autoridad. Esta evaluación la podrá realizar el auditor externo independiente que
+15 anualmente se contrata para auditar las finanzas de la Autoridad. Dicho informe será
+16 remitido a la atención del/de la Gobernador(a). El resumen ejecutivo con los
+17 hallazgos y recomendaciones de dicho informe será publicado por la Autoridad,
+18 estableciéndose que dicho resumen ejecutivo no incluirá información que por disposición
+19 de ley o reglamento aplicable sea confidencial o privilegiada.
+20 [La Junta existente al momento de aprobación de la “Ley para la Revitalización
+21 de la Autoridad de Acueductos y Alcantarillados”, continuará en funciones
+22 hasta que venzan sus respectivos nombramientos actuales.]
+
+13
+1 (g) Las reuniones ordinarias y extraordinarias de la Junta donde se deliberen
+2 asuntos para votación deben ser transmitidas simultáneamente por Internet y
+3 expuestas posteriormente en el portal de Internet de la Autoridad, con excepción
+4 de aquellas reuniones o momentos de una reunión en que se vayan a discutir
+5 temas confidenciales, tales como: (i) información que sea privilegiada a tenor con
+6 lo dispuesto en las Reglas de Evidencia de Puerto Rico; (ii) información
+7 relacionada con la negociación de convenios colectivos, con disputas laborales o
+8 con asuntos de personal, tales como nombramientos, evaluaciones, disciplina y
+9 despido; (iii) ideas en relación con la negociación de potenciales contratos de la
+10 Autoridad o con la determinación de resolver o rescindir contratos vigentes; (iv)
+11 información sobre estrategias en asuntos litigiosos de la Autoridad; (v)
+12 información sobre investigaciones internas de la Autoridad mientras éstas estén
+13 en curso; (vi) aspectos sobre la propiedad intelectual de terceras personas; (vii)
+14 secretos de negocios de terceras personas; (viii) asuntos que la Autoridad deba
+15 mantener en confidencia al amparo de algún acuerdo de confidencialidad; [o] (ix)
+16 asuntos de seguridad pública [relacionados con amenazas contra o] que puedan
+17 exponer la vulnerabilidad de los Sistemas o de la infraestructura de la Autoridad, o que de
+18 algún modo pueda poner en peligro la vida, la salud o la seguridad de la ciudadanía o de
+19 los empleados de la Autoridad, o la seguridad o integridad de la Autoridad, o la de sus
+20 bienes [o sus empleados], (x) la discusión sobre evaluación o adjudicación de procesos
+21 de competencia y contratación mediante solicitudes de propuestas (RFP, por sus siglas en
+22 inglés) o subastas, o (xi) la discusión sobre asuntos de cualquier otro modo protegidos de
+
+14
+1 divulgación por leyes a esos efectos. Igualmente, los miembros de la Junta y
+2 participantes en las reuniones no transmitidas por las razones antes expuestas,
+3 mantendrán de forma confidencial lo discutido en dichas reuniones hasta que la
+4 razón para la confidencialidad haya dejado de existir o estén obligados por ley a
+5 divulgar dicha información. En la medida en que sea posible, la transmisión
+6 deberá proyectarse en vivo, en las oficinas comerciales de la Autoridad, y la
+7 grabación deberá estar disponible en el portal de Internet de la Autoridad durante
+8 el próximo día laborable después de la reunión. Toda grabación deberá
+9 mantenerse accesible en el portal de Internet de la Autoridad por un término que
+10 no sea menor de seis (6) meses desde la fecha que fue inicialmente expuesta.
+11 Transcurrido dicho término, las grabaciones serán archivadas en algún lugar al
+12 cual la ciudadanía pueda solicitar tener acceso para estudio posterior.
+13 (h) La Autoridad deberá anunciar en su portal de Internet y, en la medida de lo
+14 razonablemente posible, en sus oficinas comerciales, el itinerario de las reuniones
+15 ordinarias de la Junta de Gobierno junto con la agenda de la última reunión de la
+16 Junta y la agenda de la próxima. Se publicarán además las actas de los trabajos de
+17 las reuniones ordinarias y extraordinarias de la Junta en el portal de Internet de la
+18 Autoridad, una vez sean aprobadas por la Junta en una reunión subsiguiente.
+19 Previo a la publicación de las actas, la Junta también deberá haber aprobado la
+20 versión de cada acta a ser publicada, que suprimirá [:] la información relativa a los
+21 asuntos protegidos en el párrafo anterior sobre los que se limita la divulgación pública,
+22 temporera o permanentemente, por constituir información privilegiada o de otro modo
+
+15
+1 confidencial de la Autoridad o de terceros, o que sea parte de los procesos deliberativos de
+2 la Autoridad, o de cualquier otro modo protegida de divulgación. [(i) información que
+3 sea privilegiada a tenor con lo dispuesto en las Reglas de Evidencia de Puerto
+4 Rico; (ii) información relacionada con la negociación de convenios colectivos,
+5 con disputas laborales o con asuntos de personal, tales como nombramientos,
+6 evaluaciones, disciplina y despido; (iii) ideas en relación con la negociación de
+7 potenciales contratos de la Autoridad o con la determinación de resolver o
+8 rescindir contratos vigentes; (iv) información sobre estrategias en asuntos
+9 litigiosos de la Autoridad; (v) información sobre investigaciones internas de la
+10 Autoridad mientras éstas estén en curso; (vi) aspectos sobre la propiedad
+11 intelectual de terceras personas; (vii) secretos de negocios de terceras personas;
+12 (viii) asuntos que la Autoridad deba mantener en confidencia al amparo de
+13 algún acuerdo de confidencialidad; o (ix) asuntos de seguridad pública de la
+14 Autoridad, sus bienes o sus empleados, o relacionados a amenazas contra éstos.]
+15 El Secretario propondrá a la Junta, para su aprobación, el texto del acta y
+16 propondrá el texto que se suprimirá en la versión que se publicará. Se entenderá
+17 por la palabra “acta” la relación escrita de lo sucedido, tratado o acordado en la
+18 Junta. En caso de conflicto entre las disposiciones de esta Sección y las
+19 disposiciones de la Ley 159-2013, según enmendada, para ordenar a todas las
+20 corporaciones e instrumentalidades públicas de Puerto Rico a transmitir en su
+21 portal de Internet las reuniones de sus Juntas, prevalecerán las disposiciones de
+22 esta Ley sobre las de aquella.
+
+16
+1 (i) Al menos una vez al año la Junta celebrará una reunión pública en donde
+2 atenderán preguntas y preocupaciones de los clientes y la ciudadanía en general.
+3 En dicha reunión los asistentes podrán hacer preguntas a los miembros de la Junta
+4 sobre asuntos relacionados con la Autoridad. La reunión se anunciará con al
+5 menos cinco (5) días laborables de anticipación en un periódico de circulación
+6 general y en la página de Internet de la Autoridad.
+7 (j) [(b)]Procedimiento para la elección de los representantes del interés de los
+8 clientes. —
+9 (1) El Ombudsman aprobará un reglamento para implantar el procedimiento
+10 de elección dispuesto en esta Sección. [Dicho proceso de reglamentación
+11 deberá cumplir con lo dispuesto en el Artículo 8 de la Ley Núm. 134 de 30 de
+12 junio de 1977, según enmendada, conocida como “Ley del Procurador del
+13 Ciudadano (Ombudsman).”]
+14 La Oficina del Ombudsman usará mecanismos electrónicos para la convocatoria,
+15 nominación, validación de electores, emisión y registro del voto, escrutinio,
+16 certificación y auditoría del proceso de elección del representante del interés de los
+17 clientes. Para ello, establecerá plataformas digitales, sistemas de votación electrónica u
+18 otras tecnologías análogas, siempre que se garantice la seguridad, integridad,
+19 confidencialidad, accesibilidad y transparencia del proceso.
+20 Los sistemas utilizados deberán generar registros auditables, preservar el secreto del
+21 voto, proteger los datos personales de los electores y permitir la verificación
+22 independiente de los resultados. Asimismo, la Oficina del OMBUDSMAN establecerá
+
+17
+1 mediante reglamentación los controles de calidad, protocolos de auditoría, mecanismos
+2 de contingencia y procedimientos de certificación necesarios para asegurar la
+3 confiabilidad del proceso electoral.
+4 Igualmente, adoptará protocolos de asistencia, accesibilidad y apoyo técnico para
+5 garantizar la participación efectiva de adultos mayores, personas con diversidad
+6 funcional y ciudadanos con conocimientos limitados en el uso de herramientas
+7 digitales, en condiciones de igualdad y sin discriminación de conformidad con la Ley
+8 20-2024, conocida como “Ley Anti Discrimen Cibernético”.
+9 Asimismo, podrá utilizar los servicios y la asistencia técnica de entidades públicas o
+10 privadas con experiencia en la administración, operación, auditoría o certificación de
+11 sistemas tecnológicos y procesos electorales, sujeto al cumplimiento de los requisitos de
+12 seguridad, independencia, transparencia y protección de datos aplicables.
+13 (2) [En o antes de los ciento veinte (120) días previos a la fecha de
+14 vencimiento del término de cada del representante del interés de los clientes
+15 en la Junta [de Gobierno de la Autoridad de Acueductos y Alcantarillados,
+16 el Ombudsman emitirá una convocatoria a elección, en la que especificará
+17 los requisitos para ser nominado como candidato. La convocatoria deberá
+18 publicarse mediante avisos en los medios de comunicación, en los portales
+19 de Internet de la Autoridad y del Ombudsman, y enviarse junto con la
+20 facturación que hace la Autoridad a sus abonados.]
+21 La Oficina del Ombudsman adoptará o atemperará la reglamentación necesaria para
+22 implementar mecanismos de participación electrónica y establecerá los controles y
+
+18
+1 procedimientos de fiscalización y mecanismos de auditoría necesarios para garantizar
+2 la integridad, transparencia, confiabilidad y accesibilidad del proceso de selección. El
+3 reglamento para implantar el procedimiento de elección dispuesto en esta Sección
+4 deberá cumplir con lo dispuesto en el Artículo 8 de la Ley Núm. 134 de 30 de junio de
+5 1977, según enmendada, conocida como “Ley del Procurador del Ciudadano
+6 (Ombudsman)”.
+7 Además, la Oficina del Ombudsman garantizará mecanismos de orientación, asistencia
+8 presencial y apoyo para aquellas personas que no estén familiarizadas con el uso de
+9 plataformas o herramientas tecnológicas necesarias para participar en el proceso de
+10 elección electrónica. A esos fines, los electores podrán acudir a las oficinas regionales o
+11 centrales de la Oficina del Ombudsman, o a instalaciones que esta designe, incluyendo
+12 aquellas del operador privado de transmisión y distribución, donde se les brindará
+13 orientación y asistencia técnica para ejercer su derecho al voto de manera electrónica,
+14 salvaguardando en todo momento la confidencialidad, integridad y autonomía del
+15 elector durante el proceso de votación.
+16 [(3) El Ombudsman diseñará y distribuirá un formulario de Petición de
+17 Nominación, en el cual todo aspirante a ser nominado como candidato hará
+18 constar bajo juramento su nombre, circunstancias personales, dirección
+19 física, dirección postal, teléfono, lugar de trabajo, ocupación, experiencias de
+20 trabajo previas que sean relevantes, preparación académica y número de
+21 cuenta con la Autoridad. El formulario además dispondrá que, una vez
+22 electos, los candidatos someterán información suficiente que acredite su
+
+19
+1 cumplimiento con las Reglas Finales de Gobierno Corporativo de la Bolsa de
+2 Valores de Nueva York. En la petición para comparecer como, se incluirá la
+3 firma de no menos de cincuenta (50) abonados, con sus nombres, direcciones
+4 y números de cuenta con la Autoridad, que endosan la nominación del
+5 peticionario. Para cada endoso otorgado por clientes que son personas
+6 jurídicas, se incluirá además una carta en papel timbrado y firmada por un
+7 (1) oficial autorizado, de cada abonado comercial o industrial certificando el
+8 endoso de dicho cliente al candidato. Estos formularios deberán estar
+9 disponibles para ser completados en su totalidad, en formato digital por los
+10 aspirantes, en los portales de Internet de la Autoridad y del Ombudsman. El
+11 Ombudsman incluirá en el reglamento un mecanismo de validación de
+12 endosos de conformidad con los propósitos de esta Ley. El reglamento
+13 dispondrá que los resultados del proceso de validación de endosos serán
+14 certificados por un notario. Igualmente, en dicho reglamento se incluirán
+15 los requisitos que, de conformidad con esta Ley y otras leyes aplicables,
+16 deberán tener los candidatos. Todo candidato deberá ser cliente bona fide de
+17 la Autoridad.]
+18 (3) En o antes de los ciento veinte (120) días previos a la fecha de vencimiento del término
+19 del representante del interés de los clientes en la Junta de Gobierno de la Autoridad, el
+20 OMBUDSMAN emitirá una convocatoria a elección en la que especificará los requisitos
+21 de elegibilidad, nominación y radicación de candidaturas para ocupar el cargo de
+22 representante de los intereses de los clientes ante la Junta de Gobierno. La convocatoria
+
+20
+1 deberá publicarse mediante avisos en los medios de comunicación, en los portales de
+2 Internet de la Autoridad y del Ombudsman, así como mediante otros medios de
+3 comunicación y divulgación que razonablemente aseguren su amplia difusión entre los
+4 abonados.
+5 (4) El Ombudsman diseñará y distribuirá un formulario de Petición de Nominación, en el
+6 cual todo aspirante a ser nominado como candidato hará constar bajo juramento su nombre,
+7 circunstancias personales, dirección física, dirección postal, teléfono, lugar de trabajo,
+8 ocupación, experiencias de trabajo previas que sean relevantes, preparación académica y
+9 número de cuenta con la Autoridad. En la petición para comparecer como representante de
+10 los intereses del cliente se incluirán la firma de no menos de treinta (30) abonados
+11 residenciales, con su nombre, dirección y número de cuenta con la Autoridad, diez (10)
+12 abonados comerciales y diez (10) abonados industriales con el número de cuenta y el
+13 nombre, título y firma de un oficial autorizado de dicho abonado, que endosan la
+14 nominación del peticionario. Se incluirá, además, una carta en papel timbrado y firmada
+15 por un (1) oficial de cada abonado comercial o industrial, certificando el endoso de dicho
+16 abonado al candidato. Estos formularios deberán estar disponibles para ser completados en
+17 su totalidad, en formato digital por los aspirantes, en los portales de Internet de la
+18 Autoridad y del Ombudsman. El Ombudsman incluirá en el reglamento un mecanismo de
+19 validación de endosos de conformidad con los propósitos de esta Ley. El reglamento
+20 dispondrá que los resultados del proceso de validación de endosos serán certificados por un
+21 notario. Igualmente, en dicho reglamento se incluirán los requisitos que, de conformidad
+
+21
+1 con esta Ley y otras leyes aplicables, deberán tener los candidatos. Todo candidato deberá
+2 ser cliente bona fide de la Autoridad.
+3 [(4)] (5) En o antes de los noventa (90) días previos a la fecha de vencimiento del
+4 término [de cada] del representante del interés de los clientes, el Ombudsman
+5 certificará como candidatos a los siete (7) peticionarios que, [bajo cada una de las
+6 dos categorías de representantes de los intereses de los clientes] hayan sometido
+7 el mayor número de endosos, y que hayan cumplido con los demás requisitos
+8 establecidos en esta Sección. [Disponiéndose, que cada] Cada uno de los
+9 candidatos seleccionados podrá designar a una persona para que lo represente en
+10 los procedimientos y durante el escrutinio.
+11 [(5)] (6) En o antes de los sesenta (60) días previos a la fecha de vencimiento del
+12 término [de cada] del representante del interés de los clientes, el Ombudsman, en
+13 consulta con el Secretario de la Junta de Gobierno de la Autoridad, procederá con
+14 el diseño e impresión de la papeleta para el [al] escrutinio y la creación de la
+15 plataforma digital o electrónica en coordinación con la Oficina de Servicios de Innovación
+16 y Tecnología de Puerto Rico (PRITS, por sus siglas en inglés) para la elección del
+17 representante del interés de los clientes. El diseño [de la papeleta] electrónico para la
+18 elección del representante del interés de los clientes deberá incluir un espacio para
+19 [la firma del cliente votante y un espacio] para que el cliente [residencial] escriba
+20 su número de cuenta y el número de teléfono. [y la dirección postal en la que recibe
+21 la factura de la Autoridad por el servicio de agua y alcantarillado]. En caso de
+
+22
+1 clientes comerciales o industriales [Las papeletas para representante del interés
+2 de los consumidores comerciales o industriales clientes] se incluirá un espacio
+3 donde el abonado incluirá su número de cuenta y el nombre, título [y firma] de
+4 un oficial autorizado a emitir el voto a nombre de dicho [abonado] cliente comercial
+5 o industrial. [Las papeletas deberán advertir que el voto no será contado si el
+6 cliente omite firmar su papeleta y escribir su número de cuenta.]
+7 [(6) Las papeletas se distribuirán por correo conjuntamente con la factura por
+8 servicio a cada cliente
+9 (7) Cada uno de los candidatos seleccionados como representantes de los
+10 intereses de los clientes designará a una persona para que le represente en estos
+11 procedimientos, y estas personas, junto a un representante del Ombudsman y
+12 un representante del Secretario de la Junta, constituirán un Comité de Elección,
+13 que será presidido y dirigido por el representante del Ombudsman.]
+14 [(8)] (7) El Comité de Elección preparará y publicará, de manera prominente en el
+15 portal de Internet de la Autoridad, información sobre los candidatos que permita
+16 a los clientes hacer un juicio sobre las capacidades de los aspirantes.
+17 [(9)] (8) El Comité de Elección procurará acuerdos de colaboración de servicio
+18 público con los distintos medios de comunicación masiva en Puerto Rico para
+19 promover entre los clientes de la Autoridad el proceso de elección, así como dar a
+20 conocer, en igualdad de condiciones, a todos los aspirantes.
+
+23
+1 [(10)] (9) El Comité de Elección, durante la elección de los medios electrónicos [los diez
+2 (10) días siguientes a la fecha límite para el recibo de las papeletas], procederá a
+3 realizar el escrutinio y notificará el resultado al Ombudsman, quien certificará a
+4 los candidatos electos y notificará la certificación al/a la Gobernador(a) de Puerto
+5 Rico y al Presidente de la Junta.
+6 [(11)] (10) Una vez [electos los] electo, el representante[s] de los clientes, éste [por
+7 conducto de su Junta de Gobierno, la Autoridad] le remitirá al Ombudsman un
+8 informe trimestral que detalle las labores realizadas, logros obtenidos y
+9 recomendaciones sobre los asuntos tratados en las reuniones de la Junta.
+10 Estableciéndose que dicho informe no incluirá información que por disposición de
+11 ley o reglamento aplicable sea confidencial o privilegiada. Recibido el informe
+12 trimestral en la Oficina del Procurador del Ciudadano, éste lo publicará
+13 inmediatamente a través de su portal de Internet.
+14 (l) [(c) Las funciones de los miembros de la Junta serán indelegables.] La
+15 Junta se reunirá con la frecuencia que determine la propia Junta que [nunca] deberá
+16 ser [será] al menos [menor de] una vez al mes, salvo en circunstancias de fuerza mayor
+17 o emergencia que impida las reuniones o dificulte obtener quórum aun con la utilización
+18 de la tecnología para reuniones virtuales.
+19 (m) [(d)] Cuatro (4) miembros de la Junta o, en caso de haber vacantes en la
+20 Junta, una mayoría de los miembros de la Junta, constituirán quorum para
+21 conducir los negocios de ésta, y para cualquier otro fin. [y t]Todo acuerdo de la
+
+24
+1 Junta se tomará por voto afirmativo de no menos de cuatro (4) miembros. No
+2 obstante, las siguientes acciones tendrán que ser aprobadas por no menos de cinco
+3 (5) miembros de la Junta:
+4 (1) La selección y nombramiento del presidente y vicepresidente de la
+5 Junta;
+6 (2) el nombramiento, remoción y determinación de la compensación del
+7 Presidente Ejecutivo de la Autoridad; [disponiéndose, que] el Presidente
+8 Ejecutivo que ocupe el cargo de director, de ser ese el caso, no podrá
+9 intervenir en estos asuntos;
+10 (3) el nombramiento, previa recomendación del Presidente Ejecutivo de
+11 la Autoridad, y la remoción y determinación de compensación de cualquier
+12 Oficial Ejecutivo de la Autoridad de conformidad con lo dispuesto en esta
+13 Ley;
+14 (4) la aprobación o terminación de cualquier contrato de administración
+15 con un operador privado, o de alianza público-privada, o cualquier enmienda
+16 [al] a los mismos;
+17 (5) la aprobación de cualquier convenio colectivo o cualquier enmienda
+18 al mismo, incluyendo estipulaciones con impacto económico;
+19 (6) la autorización de exención del requisito de subasta para contratos
+20 de construcción, compra u otros contratos, según lo dispuesto en el Artículo
+21 11 de esta Ley;
+
+25
+1 (7) la aprobación de estructuras tarifarias o cambios a éstas y la
+2 imposición de derechos, rentas y otros cargos por el uso de las instalaciones
+3 o servicios de la Autoridad; y
+4 (8) la recomendación al/ a la Gobernador(a) de destitución de algún Director
+5 Independiente, o la destitución por parte de la Junta de cualquier otro miembro, por
+6 las causas enumeradas en la Sección 3(i). [; y
+7 (9) la aprobación del Plan de Mejoras Permanentes a largo plazo.]
+8 (n) A menos que el reglamento de la Autoridad lo prohíba o restrinja, cualquier
+9 acción que fuere necesaria tomar en cualquier reunión de la Junta o cualquier
+10 comité de ésta, [salvo para las acciones que requerirán la aprobación de no
+11 menos de cinco (5) miembros de la Junta,] podrá ser autorizada sin que medie
+12 una reunión, siempre y cuando todos los miembros de la Junta o comité de ésta,
+13 según sea el caso, den su consentimiento por escrito a dicha acción, documento
+14 que formará parte de las actas de la Junta o del comité de ésta, según sea el caso.
+15 Salvo que el reglamento de la Autoridad provea otra cosa, los miembros de la Junta
+16 o de cualquier comité de ésta podrán participar, mediante conferencia telefónica,
+17 videoconferencia, u otro medio de comunicación, a través del cual todas las personas
+18 participantes puedan escucharse simultáneamente, en cualquier reunión de la
+19 Junta o de cualquier comité de ésta. La participación de cualquier miembro de la
+20 Junta o de cualquier comité de ésta en la forma antes referida constituirá asistencia
+21 a dicha reunión. Las reuniones ordinarias, extraordinarias y de comités de la Junta
+22 serán privadas, salvo aquellas reuniones ordinarias y extraordinarias de la Junta que
+
+26
+1 cumplan con lo dispuesto en el acápite (h) de esta Sección 3. [No obstante, se publicarán
+2 las agendas y actas de los trabajos de las reuniones ordinarias y extraordinarias
+3 de la Junta en el portal de Internet de la Autoridad, una vez sean aprobadas por
+4 la Junta en una reunión subsiguiente. Previo a la publicación de las actas, la
+5 Junta también deberá haber aprobado la versión de cada acta a ser publicada,
+6 que suprimirá: (i) toda información que sea privilegiada a tenor con lo
+7 dispuesto en las Reglas de Evidencia, (ii) toda información relacionada con la
+8 negociación de convenios colectivos, (iii) las ideas discutidas en relación con la
+9 negociación de potenciales contratos de la Autoridad, (iv) toda información
+10 sobre estrategias en asuntos litigiosos de la Autoridad, (v) toda información
+11 sobre investigaciones internas de la Autoridad mientras éstas estén en curso,
+12 (vi) la propiedad intelectual de terceras personas, y (vii) los secretos de negocios
+13 de terceras personas. Se entenderá por la palabra acta la relación escrita de lo
+14 sucedido, tratado o acordado en la Junta.
+15 (e) Todos los miembros de la Junta deberán cumplir con las Reglas Finales de
+16 Gobierno Corporativo de la Bolsa de Valores de Nueva York (NYSE) en cuanto
+17 a la independencia de directores, proveyéndose, no obstante, que ser cliente de
+18 la Autoridad no constituirá falta de independencia.]
+19 (o) [(f)] Código de Ética. — La Junta adoptará un Código de Ética que regirá la
+20 conducta de sus miembros y de su equipo de trabajo. Entre otros objetivos, el
+21 Código de Ética deberá requerir que la conducta de los miembros de la Junta y de
+22 su equipo de trabajo esté guiada en todo momento por el interés público, el interés
+
+27
+1 de los [consumidores] clientes y las mejores prácticas de las [industria eléctrica]
+2 utilidades de agua y alcantarillado sanitario, y no por la búsqueda de beneficios
+3 personales, ni ganancias para otras personas naturales o jurídicas; requerir y
+4 vigilar por la inexistencia de conflictos de interés y la clarificación inmediata de
+5 apariencia de conflictos de interés que pongan en duda la lealtad y el deber de
+6 fiducia de los miembros de la Junta y de su equipo de trabajo con los intereses de
+7 los [consumidores] clientes y de la Autoridad; requerir que todo miembro de la
+8 Junta deba prepararse adecuadamente para comparecer a las reuniones ordinarias
+9 y extraordinarias, y estar en posición de poder deliberar sobre los asuntos de la
+10 Autoridad; y proveer herramientas para prevenir, orientar, guiar y adjudicar en
+11 cuanto al cumplimiento de los deberes y responsabilidades éticas de los
+12 individuos a quienes regulará el Código de Ética de la Junta. Además, el Código
+13 de Ética se diseñará al amparo de las mejores prácticas [de gobernanza] en las
+14 [industria eléctrica] utilidades de agua y alcantarillado sanitario, y será compatible
+15 con otras normas sobre ética que sean aplicables, [como] por ejemplo, las
+16 disposiciones de la “Ley de Ética Gubernamental de Puerto Rico” y el Código
+17 Anticorrupción para el Nuevo Puerto Rico. Todas las acciones de la Junta, los Oficiales
+18 Ejecutivos y los respectivos equipos de trabajo de éstos y sus miembros se regirán
+19 por los más altos deberes de lealtad, debido cuidado, competencia, y diligencia en
+20 beneficio de la Autoridad y del interés público de proveer un servicio público
+21 esencial de calidad a los [consumidores] clientes mediante tarifas justas y
+22 razonables consistentes con prácticas fiscales y operacionales acertadas que
+
+28
+1 proporcionen un servicio adecuado al menor costo razonable para garantizar la
+2 confiabilidad y seguridad del Sistema. Los miembros no representarán a acreedor
+3 alguno ni intereses ajenos a la Autoridad.
+4 [(g) La Junta adoptará un Código de Ética interno que regirá la conducta de sus
+5 miembros y de su equipo de trabajo, incluyendo a los Oficiales Ejecutivos, y los
+6 respectivos equipos de trabajo de todos ellos. Entre otros objetivos, el Código
+7 de Ética deberá requerir que la conducta de los miembros de la Junta y los
+8 Oficiales Ejecutivos y los respectivos equipos de trabajo de éstos, esté guiada en
+9 todo momento por el interés público, el interés de los consumidores y las
+10 mejores prácticas de la industria de utilidades de agua, y no por la búsqueda de
+11 beneficios personales, ni ganancias para otras personas naturales o jurídicas;
+12 requerir y vigilar por la inexistencia de conflictos de interés y la clarificación
+13 inmediata de apariencia de conflictos de interés que pongan en duda la lealtad
+14 y el deber de fiducia de los miembros de la Junta y los Oficiales Ejecutivos y los
+15 respectivos equipos de trabajo de éstos, con los intereses de los consumidores y
+16 de la Autoridad; requerir que todo miembro de la Junta, Director, oficial o
+17 empleado ejecutivo, deba prepararse adecuadamente para comparecer a las
+18 reuniones ordinarias y extraordinarias, y estar en posición de poder deliberar
+19 sobre los asuntos de la Autoridad; y proveer herramientas para prevenir,
+20 orientar, guiar y adjudicar en cuanto al cumplimiento de los deberes y
+21 responsabilidades éticas de los individuos a quienes regulará dicho Código de
+22 Ética. Además, el Código de Ética será compatible con otras normas sobre ética
+
+29
+1 que sean aplicables, como por ejemplo, las disposiciones de la “Ley de Ética
+2 Gubernamental de Puerto Rico de 2011”.]
+3 (p) Sin limitar las disposiciones generales de conducta impropia y deberes éticos y de fiducia
+4 que dispone esta Ley, incluyendo el deber de confidencialidad, ningún miembro
+5 independiente de la Junta, ni ningún Oficial Ejecutivo de la Autoridad, podrá:
+6 i. aspirar a puestos políticos de clase alguna mientras ocupe su cargo;
+7 ii. hacer expresiones, comentarios o manifestaciones públicas sobre asuntos o actos
+8 de naturaleza político partidista mientras ocupe su cargo;
+9 iii. intimidar, obligar, exigir o solicitar que otros miembros de la Junta, funcionarios
+10 o empleados hagan contribuciones económicas o empleen de su tiempo laboral
+11 para llevar a cabo o participar en actividades político-partidistas; o
+12 iv. solicitar mientras se encuentra en funciones de su trabajo o, intimidar, obligar,
+13 exigir que otros miembros de la Junta, funcionarios o empleados voten o
+14 promuevan los intereses electorales del partido o candidato político de su
+15 preferencia.
+16 (q) A los [directores] miembros de la Junta, Oficiales Ejecutivos y los respectivos
+17 equipos de trabajo de éstos les aplicarán, además, las disposiciones de los Artículos
+18 4.1 a [8.5] 5.10 de la Ley 1-2012, según enmendada, conocida como “Ley de Ética
+19 Gubernamental de Puerto Rico “.
+20 (r) Los [directores] miembros de la Junta,[y] Oficiales Ejecutivos y todos los empleados
+21 y contratistas de la Autoridad cumplirán con las siguientes disposiciones, y la Junta y los
+22 Oficiales Ejecutivos tendrán la obligación de velar y hacer cumplir, y tomarán
+
+30
+1 aquellas acciones que sean necesarias para que se dé estricto cumplimiento a las
+2 siguientes prohibiciones, [por parte de toda la plantilla de empleados, de la
+3 Autoridad, así como por parte de sus contratistas,] además de toda otra
+4 disposición legal que prohíba este tipo de conducta y actividades, incluyendo,
+5 pero sin limitarse a:
+6 (1)...
+7 (2)…
+8 …
+9 …
+10 (s) [(h)] La Junta [nombrará] podrá nombrar de tiempo en tiempo, según entienda
+11 necesario, un Comité de [Asesores] Insumo Sectorial que se compondrá de no más de
+12 siete (7) miembros y podrá incluir, entre otras, personas que representen los
+13 intereses de las comunidades sin servicio adecuado de acueductos y
+14 alcantarillados, de las comunidades especiales de Puerto Rico, intereses
+15 relacionados a la salud pública, los intereses del sector laboral y los intereses del
+16 sector ambiental. El Comité de [Asesores] Insumo Sectorial podrá [será] también
+17 ser integrado por un miembro [designado de entre] de cualquiera de las siguientes
+18 entidades, cuya designación la realizará el mismo cuerpo al que representan a petición de
+19 la Junta: Colegio de Ingenieros y Agrimensores de Puerto Rico; Colegio de
+20 Maestros y Oficiales Plomeros de Puerto Rico; Asociación de Contratistas
+21 Generales de América; la Asociación de Constructores de Puerto Rico; la
+22 Asociación de Industriales de Puerto Rico; Asociación de la Industria
+
+31
+1 Farmacéutica; la Asociación de Hoteleros; y cualquiera otra asociación que a juicio
+2 de la Junta [de Gobierno], pueda brindar la retroalimentación y sugerencias [el
+3 asesoramiento necesario] que la Junta estime adecuado, pertinente o conveniente para
+4 llevar a cabo las funciones que le han sido delegadas en esta Ley. La Junta podrá
+5 establecer mediante resolución el mecanismo adecuado para reembolsar y/o cubrir los
+6 gastos en que razonable incurran los miembros de este Comité de Insumo Sectorial para
+7 permitir su participación.
+8 No podrán ser miembros del Comité de [Asesores] Insumo Sectorial los siguientes:
+9 (1) empleados o funcionarios de la Autoridad;
+10 (2) contratistas de ésta;
+11 (3) personas que ocupen cargos en organismos directivos, centrales o
+12 locales, de un partido político; y
+13 (4) persona que tenga conflicto de interés o que no pueda cumplir con las
+14 disposiciones del acápite (q) de esta Sección 3.
+15 El término de los miembros del Comité de Insumo Sectorial, [nombrados por la Junta,
+16 así como los designados por las entidades aquí dispuestas], será de hasta dos (2)
+17 [cuatro (4)] años, disponiéndose que podrán participar en términos adicionales de
+18 considerarlo la Junta adecuado. El Comité de [Asesores] Insumo Sectorial se reunirá
+19 con la Junta en pleno las veces que la Junta estime necesario [por lo menos tres (3)
+20 veces al año y con los Oficiales Ejecutivos de la Autoridad cuantas veces la Junta
+21 o el Presidente Ejecutivo estime] o conveniente para presentar sus sugerencias,
+22 discutir la calidad de los servicios prestados, las necesidades de las comunidades,
+
+32
+1 el Programa de Mejoras Capitales, y cualquier otro asunto que la Junta, el
+2 Presidente Ejecutivo o el Comité de [Asesores] Insumo Sectorial considere
+3 necesario.
+4 [El Comité de Asesores, además, someterá dos informes anuales a la Junta y a la
+5 Asamblea Legislativa, en los cuales discutan sus observaciones y brinden
+6 comentarios y recomendaciones al Programa de Mejoras Capitales de la
+7 Autoridad, según dispuesto en esta Ley, en los cuales documentarán el
+8 cumplimiento por parte de la Autoridad de los planes de ejecución,
+9 presupuestos e itinerarios relacionados al Programa de Mejoras Capitales.] La
+10 Junta adoptará las normas para el funcionamiento del Comité de [Asesores]
+11 Insumo Sectorial. Las disposiciones éticas del acápite (q) y las protecciones del acápite (s)
+12 de esta Sección 3 se extenderán a los miembros de este Comité de Asesores.
+13 Los miembros del Comité de [Asesores] Insumo Sectorial no intervienen en la
+14 formulación e implantación de la política pública y, por lo tanto, no se
+15 considerarán servidores públicos para propósitos de la Ley 1-2012, conocida como
+16 Ley de Ética Gubernamental de Puerto Rico.
+17 [(i) Sin limitar las disposiciones generales de conducta impropia y deberes
+18 éticos y de fiducia que dispone esta Ley, incluyendo el deber de
+19 confidencialidad, ningún miembro independiente de la Junta, ni ningún Oficial
+20 Ejecutivo de la Autoridad, podrá:
+21 (i) aportar dinero o hacer contribuciones, en forma directa o indirecta, a
+22 organizaciones, candidatos o partidos políticos mientras ocupa su cargo;
+
+33
+1 (ii) aspirar a puestos políticos o hacer campaña para ocupar o para apoyar a
+2 alguien que aspire a ocupar algún cargo público electivo o algún puesto en la
+3 dirección u organización de un partido político o participar en campañas
+4 político partidistas de clase alguna mientras ocupe su cargo;
+5 (iii) hacer expresiones, comentarios o manifestaciones públicas sobre asuntos
+6 o actos de naturaleza político partidista mientras ocupe su cargo;
+7 (iv) intimidar, obligar, exigir o solicitar que otros miembros de la Junta,
+8 funcionarios o empleados hagan contribuciones económicas o empleen de su
+9 tiempo laboral para llevar a cabo o participar en actividades político
+10 partidistas; o
+11 (v) solicitar mientras se encuentra en funciones de su trabajo o, intimidar,
+12 obligar, exigir que otros miembros de la Junta, funcionarios o empleados
+13 voten o promuevan los intereses electorales del partido o candidato político
+14 de su preferencia.]
+15 El/La Gobernador(a) de Puerto Rico podrá destituir cualquier miembro
+16 independiente de la Junta nombrado por él, así como la Junta podrá destituir al
+17 miembro representante de los clientes y solicitar al OMBUSMAN el comienzo de otro
+18 proceso de votación o solicitar a la Asociación de Alcaldes o a la Federación de Alcaldes la
+19 designación de un nuevo representante en la Junta, por cualquiera de las siguientes
+20 causas:
+21 (i) incurrir en conducta prohibida en esta Sección;
+
+34
+1 (ii) incompetencia, inhabilidad profesional manifiesta o negligencia en
+2 el desempeño de sus funciones y deberes;
+3 (iii) conducta inmoral o ilícita;
+4 (iv) la condena por cualquier delito grave o menos grave que implique
+5 depravación moral o delitos contra el erario o la función pública;
+6 (v) abuso manifiesto de la Autoridad o la discreción que le confiere esta
+7 u otras leyes;
+8 (vi) entorpecimiento malicioso y deliberado de las labores de la Junta;
+9 (vii) destrucción de la propiedad de la Autoridad;
+10 (viii) trabajar bajo los efectos del alcohol o sustancias controladas;
+11 (ix) fraude;
+12 (x) violación a la “Ley de Ética Gubernamental”, Ley 1-2012 o el Código
+13 de Ética que apruebe la Junta según dispone esta Sección;
+14 (xi) abandono de sus deberes; o
+15 (xii) incumplir con los requisitos para ser miembro de la Junta, según
+16 dispone este Capítulo.
+17 También podrán ser separados de sus cargos por causa de incapacidad física o
+18 mental para ejercer sus funciones, en cuyo caso no se considerará una destitución.
+19 (t) [j] Sin incidir en los derechos que les confieren las disposiciones de la Ley Núm.
+20 104 de 29 de junio de 1955, según enmendada, conocida como la “Ley de
+21 Reclamaciones y Demandas contra el Estado”, ningún miembro presente o futuro
+22 de la Junta, Comité de Insumo Sectorial, oficial, agente o empleado de la Autoridad
+
+35
+1 incurrirá en responsabilidad civil por cualquier acción de buena fe en el
+2 desempeño de sus funciones y responsabilidades en virtud de las disposiciones de
+3 esta Ley, sujeto a que en la conducta por la que se le indemniza no haya incurrido
+4 en delito, dolo o negligencia crasa, y serán indemnizados por los costos incurridos
+5 relacionados a cualquier defensa o reclamación por la que disfrutan de inmunidad,
+6 según aquí dispuesto. La Junta y sus directores individuales, y los oficiales,
+7 agentes o empleados de la Autoridad, también serán indemnizados por cualquier
+8 responsabilidad civil adjudicada bajo las leyes de los Estados Unidos de América,
+9 sujeto a que en la conducta por la que se le indemniza no hayan incurrido en delito,
+10 dolo o negligencia crasa.
+11 (u) [(k)] Ningún funcionario electo de la Rama Ejecutiva, Legislativa o de los
+12 municipios podrá, directa o indirectamente, intervenir en el desempeño de las
+13 funciones o toma de decisiones de la Junta o de los [o]Oficiales [e]Ejecutivos de la
+14 Autoridad, incluyendo, pero sin limitarse, a intervenir para influir en el resultado
+15 o decisiones de éstos sobre controversias o determinaciones de relaciones
+16 laborales, decisiones de recursos humanos, tales como nombramientos o
+17 compensaciones, negociaciones de convenios colectivos, determinaciones de
+18 revisiones tarifarias, de contratación, de desconexión de servicios,
+19 determinaciones del contenido o la implementación del programa de mejoras
+20 capitales, y demás temas operacionales o funciones inherentes a las funciones de
+21 éstos, excepto cuando se trate de una notificación o comunicación formal del
+22 funcionario como parte de sus gestiones y obligaciones oficiales o cuando su
+
+36
+1 intervención sea necesaria para proteger la vida, propiedad o la seguridad pública
+2 en casos de emergencia. Lo anterior va dirigido a prohibir las intervenciones indebidas,
+3 directas e indirectas antes enumeradas, y no va dirigido a afectar el desempeño en las
+4 funciones y participación que se espera de los Directores Municipales como miembros de
+5 la Junta de Gobierno de la Autoridad.
+6 (v) [(l)] La Autoridad tendrá los cargos de Oficiales Ejecutivos que cree la Junta.
+7 Los Oficiales Ejecutivos de la Autoridad serán aquéllos nombrados por la Junta
+8 para ocupar los cargos de Oficiales Ejecutivos. Los Oficiales Ejecutivos incluirán
+9 (i) a un Presidente Ejecutivo quien será el principal oficial ejecutivo, seleccionado
+10 exclusivamente a base de experiencia, capacidad y otras cualidades que
+11 especialmente le capaciten para realizar los fines de la Autoridad, (ii) a un Director
+12 Ejecutivo de Infraestructura y (iii) a [los] cinco (5) Directores Ejecutivos Regionales,
+13 de las Regiones Metro, Norte, Sur, Este y Oeste cuyas funciones principales se
+14 establecen más adelante, además de las que les delegue la Junta, y serán
+15 nombrados por la Junta y supervisados por el Presidente Ejecutivo. La Junta podrá
+16 crear en el futuro cargos adicionales de Oficiales Ejecutivos de la Autoridad, en
+17 función de la estructura gerencial descentralizada que se adopta en esta Ley y
+18 según las necesidades de la Autoridad así lo requieran. No podrá ser Oficial
+19 Ejecutivo persona alguna que: (i) [sea empleado, empleado jubilado o] tenga
+20 interés económico sustancial, directo o indirecto, en alguna empresa privada con
+21 la cual la Autoridad otorgue contratos o haga transacciones de cualquier índole,
+22 salvo que medie la dispensa correspondiente de la Oficina de Ética Gubernamental o del
+
+37
+1 organismo correspondiente; (ii) en los dos (2) años anteriores a su cargo, haya tenido
+2 una relación o interés comercial en alguna empresa privada con la cual la
+3 Autoridad otorgue contratos o haga transacciones de cualquier índole, salvo que
+4 medie la dispensa correspondiente de la Oficina de Ética Gubernamental o el organismo
+5 correspondiente; (iii) haya sido miembro de un organismo directivo a nivel central
+6 o local de un partido político inscrito en [el Estado Libre Asociado] de Puerto Rico
+7 durante el año previo a la fecha de su designación; (iv) sea [empleado o
+8 funcionario de la Autoridad o sea empleado,] miembro, asesor o contratista de
+9 los sindicatos de trabajadores de la Autoridad; o (v) no haya provisto la
+10 certificación de radicación de planillas correspondientes a los últimos cinco (5)
+11 años contributivos, la certificación negativa de deuda, o evidencia de plan de pago
+12 vigente y al día, emitida por el Departamento de Hacienda, la certificación negativa
+13 de deuda con la Autoridad, el Certificado de Antecedentes Penales de la Policía de
+14 Puerto Rico, así como las certificaciones negativas de deuda de la Administración
+15 para el Sustento de Menores (ASUME) y certificación negativa de deuda, o evidencia
+16 de plan de pago vigente y al día, del Centro de Recaudación de Impuestos Municipales
+17 (CRIM). El Presidente Ejecutivo, [y] el Director Ejecutivo de Infraestructura
+18 [desempeñarán su cargo por el término de cinco (5) años. Los] y los Directores
+19 Ejecutivos Regionales desempeñarán sus cargos por un término de cinco (5) años.
+20 Sobre los nombramientos del Presidente Ejecutivo, de los Directores Ejecutivos
+21 Regionales y del Director Ejecutivo de Infraestructura, la Junta podrá disponer, sin
+22 que esto se entienda como una limitación, lo siguiente:
+
+38
+1 1. Los deberes, funciones, obligaciones y facultades delegadas por la Junta a
+2 cada uno, además de las dispuestas más adelante; disponiéndose, que la
+3 Junta no podrá delegar la función de aprobar todo o parte de cualquier
+4 convenio colectivo con las uniones que representen a los empleados de la
+5 Autoridad ni las restantes funciones enumeradas en los incisos [(d), (q) y
+6 (t)] (m), (z) y (cc) de esta [s]Sección 3; y
+7 2. la compensación económica [a pagar] que se pagará durante el período de
+8 su nombramiento, la cual podrá incluir beneficios marginales y
+9 bonificaciones que faciliten el reclutamiento de profesionales del más alto
+10 calibre.
+11 (w) [(m)] Funciones de cada Director Ejecutivo Regional.
+12 1. Será responsable de administrar y supervisar todos los activos y
+13 empleados del Sistema Estadual de Acueductos y del Sistema Estadual de
+14 Alcantarillados dentro de su región;
+15 2. diseñará y presentará para evaluación y aprobación del Presidente
+16 Ejecutivo y luego de la Junta, el presupuesto anual de su región. Una vez
+17 aprobado, estará a cargo de administrar dicho presupuesto en
+18 coordinación con el Presidente Ejecutivo;
+19 3. someterá al Director Ejecutivo de Infraestructura, a través del Presidente
+20 Ejecutivo, las necesidades de mejoras capitales que identifique en su
+21 región, en orden de prioridad, para que dichas necesidades se incorporen
+22 en el Programa de Mejoras Capitales a corto y largo plazo;
+
+39
+1 4. se reunirá con los funcionarios electos de su región para atender reclamos
+2 y necesidades de los ciudadanos;
+3 5. someterá un informe a cada alcalde de su región y a la Asamblea
+4 Legislativa en o antes del 15 de febrero y el 15 de agosto de cada año; y
+5 6. tendrán además todos los deberes, poderes y facultades que le sean
+6 delegadas por la Junta, en función de la estructura gerencial
+7 descentralizada que se adopta en esta Ley y según las necesidades de la
+8 Autoridad que así lo requieran, salvo que la Junta no podrá delegarle las
+9 funciones referidas en el inciso [(l)] (u)(1) de esta Sección.
+10 (x) [(n)] Funciones del Director Ejecutivo de Infraestructura.
+11 1. Confeccionará, en coordinación con los Directores Ejecutivos Regionales,
+12 un Programa de Mejoras Capitales que atienda las necesidades del
+13 sistema a corto y largo plazo, y a través del Presidente Ejecutivo,
+14 presentará dicho Programa para la aprobación de la Junta [de Directores];
+15 2. administrará y ejecutará dicho Programa de Mejoras Capitales según las
+16 prioridades que establezca la Junta y según el presupuesto e itinerario
+17 dispuesto para cada obra de este Programa;
+18 3. se reunirá con funcionarios electos para atender reclamos y necesidades
+19 de los ciudadanos;
+20 4. someterá un informe a la Asamblea Legislativa en o antes del 15 de
+21 febrero de cada año y el 15 de agosto de cada año; y
+
+40
+1 5. tendrá además todos los deberes, poderes y facultades que le sean
+2 delegadas por la Junta, en función de la estructura gerencial
+3 descentralizada que se adopta en esta Ley y según las necesidades de la
+4 Autoridad que así lo requieran, salvo que la Junta no podrá delegarle las
+5 funciones referidas en el inciso [(l)] (u)(1) de esta Sección.
+6 (y) [(o)] Los restantes Oficiales Ejecutivos de la Autoridad ejercerán los deberes y
+7 obligaciones inherentes a sus cargos y aquellos otros deberes que la Junta
+8 establezca. A menos que la Junta determine otra cosa, los Oficiales Ejecutivos
+9 nombrados por la Junta podrán delegar en otras personas la facultad de
+10 sustituirlos durante cualquier período de ausencia justificada, según determine
+11 este concepto la Junta mediante reglamento.
+12 [(p)] (z) Sin limitar otras disposiciones generales de conducta impropia que se
+13 enumeran en esta Sección, ninguno de los Oficiales Ejecutivos designados,
+14 incluyendo al Presidente Ejecutivo, el Director Ejecutivo de Infraestructura, y los
+15 Directores Ejecutivos Regionales de la Autoridad, podrán mientras estén
+16 ocupando sus cargos:
+17 (i) aportar dinero o hacer contribuciones, en forma directa o indirecta, a
+18 organizaciones, candidatos o partidos políticos mientras ocupa su
+19 cargo;
+20 (ii) aspirar a puestos políticos o hacer campaña para ocupar o para apoyar
+21 a alguien que aspire a ocupar algún cargo público electivo o algún
+22 puesto en la dirección u organización de un partido político o participar
+
+41
+1 en campañas político-partidistas de clase alguna mientras ocupe su
+2 cargo;
+3 (iii) hacer expresiones, comentarios o manifestaciones públicas sobre
+4 asuntos o actos de naturaleza político partidista mientras ocupe su
+5 cargo;
+6 (iv) intimidar, obligar, exigir o solicitar que otros oficiales ejecutivos,
+7 funcionarios o empleados hagan contribuciones económicas o empleen
+8 de su tiempo laboral para llevar a cabo o participar en actividades
+9 político-partidistas; o
+10 (v) solicitar mientras se encuentra en funciones de su trabajo o, intimidar,
+11 obligar, exigir que otros oficiales ejecutivos, funcionarios o empleados
+12 voten o promuevan los intereses electorales del partido o candidato
+13 político de su preferencia.
+14 (aa) El Presidente Ejecutivo, el Director Ejecutivo de Infraestructura[,] y los
+15 Directores Ejecutivos Regionales de la Autoridad [y otros Oficiales Ejecutivos]
+16 podrán ser destituidos de sus cargos por la Junta solamente por las siguientes
+17 causas:
+18 (1) conducta inmoral, ilícita o que viole las prohibiciones dispuestas en
+19 esta Ley;
+20 (2) incompetencia, inhabilidad profesional manifiesta o negligencia en
+21 el desempeño de sus funciones y deberes;
+
+42
+1 (3) la convicción por cualquier delito grave o menos grave que implique
+2 depravación moral;
+3 (4) abuso manifiesto de la autoridad o la discreción que le confieren ésta
+4 u otras leyes;
+5 (5) abandono de sus deberes; o
+6 (6) el incumplimiento con el plan de trabajo establecido o con las
+7 directrices de la Junta.
+8 También podrán ser separados de sus cargos por causa de incapacidad física o
+9 mental para ejercer sus funciones esenciales. Esta separación por no poder
+10 desempeñar las funciones esenciales del puesto no se considerará una destitución.
+11 Estos funcionarios serán evaluados por la Junta mediante la utilización de métricas
+12 de desempeño.
+13 (bb) [(q)] Cuando la Junta evalúe la composición o modificación de las regiones
+14 iniciales, dispuestas en esta Ley, en cuanto a la delimitación de estas o la creación
+15 de nuevas regiones, ésta tomará en cuenta los siguientes elementos en dicho
+16 análisis y se tomarán en conjunto, dentro de las circunstancias, al momento de
+17 hacer la determinación final:
+18 (1) Conectividad de los sistemas de transmisión de agua, localización de
+19 las cuencas hidrográficas y análisis del mejor uso de dichos recursos;
+20 (2) activos y estado de dichos activos en el Sistema Estadual de
+21 Acueductos y en el Sistema Estadual de Alcantarillados;
+
+43
+1 (3) necesidades de mejoras en el Sistema Estadual de Acueductos y en
+2 el Sistema Estadual de Alcantarillados;
+3 (4) longitud de la red y tamaño del área de servicio que compone la
+4 región bajo análisis;
+5 (5) densidad poblacional y número de consumidores actuales y
+6 proyectados a corto, mediano y largo plazo en la región;
+7 (6) proyectos propuestos para la región dentro del Programa de Mejoras
+8 Capitales y demás planes estratégicos que desarrolle la Junta;
+9 (7) determinaciones de incumplimiento y órdenes de las agencias
+10 reguladoras ambientales y de salud; y
+11 (8) análisis de costo-beneficio de operar la región según existe y costo-
+12 beneficio de operar la potencial región en estudio bajo la propuesta
+13 modificación.
+14 La Junta determinará el peso que otorgará a cada uno de los anteriores criterios, u
+15 otros que a su juicio deba sopesar, al momento de tomar decisiones sobre las
+16 delimitaciones de las regiones. Una vez la Junta concluya cualquier evaluación
+17 sobre modificaciones a las regiones, someterá para aprobación de la Asamblea
+18 Legislativa las determinaciones junto con un informe que demuestre el estudio
+19 realizado en que basa la Junta sus conclusiones. La determinación de la Junta
+20 sobre la nueva composición de las regiones se tendrá por aprobada si la Asamblea
+21 Legislativa, mediante Resolución Conjunta, la aprueba según sometida por la
+22 Junta. La Asamblea Legislativa deberá aprobar, o rechazar por Resolución
+
+44
+1 Conjunta en un término no mayor de noventa (90) días de Sesión Ordinaria. De
+2 no tomar acción dentro de dicho término, la determinación de la Junta se
+3 considerará aprobada. La Autoridad deberá someter su primer plan de
+4 reorganización de regiones a la Asamblea Legislativa en o antes del 1 de junio de
+5 2004 para su consideración y aprobación según antes dispuesto. Las cinco (5)
+6 regiones iniciales que por esta Ley se crean son la Región Metro, Región Norte,
+7 Región Sur, Región Este y Región Oeste. El estudio a presentarse a esta Asamblea
+8 Legislativa el 1 de junio de 2004 deberá incluir la propuesta delimitación de dichas
+9 regiones.
+10 (cc) [(r)]Sujeto a lo dispuesto en el inciso [(d)] (m) de esta Sección, todos los
+11 empleados ejecutivos de la Autoridad serán nombrados, removidos y su
+12 compensación determinada por la Junta, previa recomendación del Presidente
+13 Ejecutivo. Todos los empleados ejecutivos se considerarán empleados ejecutivos
+14 para propósitos de la Ley de Relaciones del Trabajo de Puerto Rico. Los empleados
+15 ejecutivos no estarán bajo el control general administrativo [del] de cualquier
+16 operador privado que dispone el inciso [(w)] (ff) de esta Sección o que se contrate
+17 mediante una alianza público-privada.
+18 (dd) [(s)]La Junta nombrará un auditor interno…
+19 (ee)[(t)] La Junta podrá delegar parte de sus facultades, que no sean las enumeradas
+20 en los incisos [(d), (r) y (u)] (m), (cc) y (ff) de esta Sección 3, al Presidente Ejecutivo
+21 quien será el principal Oficial Ejecutivo de la Autoridad y será responsable a la
+22 Junta por la ejecución de su política general y por la supervisión general de las
+
+45
+1 fases operacionales de la Autoridad. La Junta también podrá delegarle cualquiera
+2 de sus facultades, que no sean las enumeradas en los incisos [(d), (r) y (u)] (m), (cc)
+3 y (ff) de esta Sección 3, a uno o más comités de la Junta o a algún otro Oficial
+4 Ejecutivo de la Autoridad.
+5 (ff) [(u)] La Junta no podrá delegar a ningún comité de la Junta, Oficial Ejecutivo,
+6 u operador privado las facultades enumeradas en este inciso y los incisos [(d) y
+7 (r)] (m) y (cc) de esta Sección ni las siguientes facultades:
+8 (1) La aprobación del presupuesto de la Autoridad.
+9 (2) La aprobación de cualquier financiamiento para el Programa de
+10 Mejoras Permanentes.
+11 (3) La contratación de firmas de auditoría.
+12 (4) La contratación de los consultores externos de la Autoridad cuando
+13 la cantidad del contrato exceda aquella cantidad que la Junta decida por
+14 reglamento.
+15 (5) La aprobación de la venta o enajenación de alguna otra forma de
+16 bienes inmuebles o derechos reales; disponiéndose, que la Junta podrá
+17 delegar en el Presidente Ejecutivo, o en algún otro Oficial Ejecutivo de la
+18 Autoridad, el otorgamiento de las escrituras de venta o enajenación de los
+19 bienes inmuebles o derechos reales.
+20 (6) La aprobación de reglamentos de la Autoridad y cualquier cambio o
+21 derogación de éstos, incluyendo la determinación de lo que constituye justa
+22 causa para remover un director independiente.
+
+46
+1 (7) El nombramiento del auditor interno.
+2 (8) La aprobación de un plan estratégico a cinco (5) años que contenga, entre
+3 otras cosas, estrategias específicas de eficiencia operacional y control de
+4 pérdidas de agua [con tres (3) años de duración, enmendado cada tres (3)
+5 años], que incluya [las iniciativas específicas y los costos asociados,
+6 además de] las metas de la Autoridad y métrica de cumplimiento para alcanzar
+7 dichas metas. [, iniciativas que deben incluir un análisis de costo beneficio
+8 para la Autoridad. No obstante, lo anterior, se establece como métrica de
+9 cumplimiento estricto el incrementar la cuantía en la recuperación de
+10 agua perdida o que actualmente no es cobrada, entre el 2016 y el 2019. La
+11 reducción requerida se medirá en término de galones por día producidos
+12 en todas sus instalaciones que suplen el sistema de distribución en
+13 comparación con los galones por día cobrados a todos los clientes. El
+14 resultado neto de esta comparación deberá reflejar un incremento en por
+15 lo menos un cinco por ciento (5%) de la cuantía en la recuperación de agua
+16 perdida o que no es cobrada, para el período que comprende desde la
+17 fecha de aprobación de esta Ley al 30 de septiembre de 2019. No más
+18 tarde del 31 de octubre de 2019, la Autoridad presentará un informe a la
+19 Secretaría de cada Cuerpo de la Asamblea Legislativa, en la cual
+20 identificará todas las medidas que han tomado durante el período inicial
+21 de tres (3) años antes mencionado, incluyendo los proyectos del Programa
+22 de Mejoras Capitales, las iniciativas de reemplazo de contadores o metros
+
+47
+1 y los esfuerzos de rehabilitación de infraestructura de distribución que
+2 se hayan implantado con el propósito de cumplir con la métrica de
+3 eficiencia operacional establecida.] La Autoridad publicará en su página de
+4 Internet, el plan estratégico y cualquier enmienda a este no más tarde de noventa
+5 (90) días siguiente a la aprobación por parte de la Junta.
+6 (gg)[(v)] La Junta, a su opción, podrá otorgar uno o más contratos de
+7 administración con uno o varios operadores privados, que podrán ser personas
+8 naturales o jurídicas que la Junta determine estén calificadas para asumir, total o
+9 parcialmente, la administración y la operación del Sistema Estadual de
+10 Acueductos, el Sistema Estadual de Alcantarillados y todas aquellas propiedades
+11 de la Autoridad, según se dispone en esta Ley. En los contratos con uno o varios
+12 operadores privados, la Junta podrá delegarle al operador privado cualesquiera
+13 de las facultades que la misma pueda delegar al Presidente Ejecutivo, salvo las
+14 enumeradas en los incisos [(d), (r) y (u)] (m), (cc) y (ff) de esta Sección 3.
+15 (ff)[(w)]Respecto a los contratos de administración seleccionados bajo las disposiciones
+16 de esta ley.
+17 (1) Con cada contrato de administración con un operador privado, se
+18 designará un director de operaciones quien deberá ser un empleado o
+19 agente del operador privado. El director de operaciones de cada
+20 operador privado será la persona responsable de supervisar y
+21 administrar todas las encomiendas convenidas con el operador privado
+22 en el contrato de administración. Además, estará a cargo de la
+
+48
+1 supervisión general de las fases operacionales de la Autoridad
+2 convenidas en dicho contrato, y de aquellas funciones adicionales que
+3 por contrato la Junta convenga con dicho operador.
+4 (2) El o los operadores privados, a través de sus respectivos directores de
+5 operaciones, tendrá todos los deberes, funciones, obligaciones y
+6 facultades que, sujeto a las limitaciones descritas en esta Sección, se
+7 establezcan en el contrato de administración con la Autoridad,
+8 incluyendo las siguientes:
+9 A. Control general administrativo de todos los empleados de la
+10 Autoridad.
+11 B. Negociar el convenio colectivo con las uniones que representen a los
+12 empleados de la Autoridad y el deber y la facultad de nombrar,
+13 destituir y determinar la compensación de todos los empleados y
+14 agentes de la Autoridad.
+15 C. Responsabilidad legal por todas sus actuaciones conforme con los
+16 deberes, funciones, obligaciones y facultades establecidas en el
+17 contrato con la Autoridad y en las leyes de Puerto Rico.
+18 D. Podrá aprobar cambios a la estructura organizacional de la
+19 Autoridad siempre y cuando no afecte a los empleados ejecutivos y
+20 la estructura dispuesta en esta Sección.
+
+49
+1 E. Obligación de someter los informes relativos al estado y actividades
+2 operacionales y financieros de la Autoridad que le exija la ley y el
+3 contrato de administración con la Autoridad.
+4 F. Deber de comparecer personalmente a rendir un informe semestral
+5 ante las comisiones que designe cada uno de los Cuerpos
+6 Legislativos.
+7 (3) Los operadores privados y sus respectivos directores de operaciones no
+8 serán considerados como entidad pública, patrono público o empleado
+9 público, según se definen en esta Ley o en cualquier otra ley o
+10 reglamento.
+11 (4) El contrato de administración con el o los operadores privados deberá
+12 requerirle al operador privado la prestación de una fianza a favor de la
+13 Autoridad. La Junta establecerá los criterios para determinar el monto
+14 de la fianza con la recomendación del Comisionado de Seguros.
+15 (5) Los contratos de administración que suscriba la Autoridad con uno o
+16 varios operadores privados deberán indicar expresamente que todos los
+17 documentos, tales como registros, cuentas bancarias y otros
+18 documentos relacionados con la operación de la Autoridad, se
+19 mantendrán en la jurisdicción [del Estado Libre Asociado] de Puerto
+20 Rico y les pertenecerán a la Autoridad.
+21 (6) Todo contrato de administración que otorgue la Junta con uno o varios
+22 operadores privados requerirá que dicho o dichos operadores no tengan
+
+50
+1 deudas con entidades gubernamentales; y que si las tuvieran, deberán
+2 estar acogidos a un plan de pago. Además, se les requerirá tener al día
+3 sus cuentas y obligaciones con las entidades gubernamentales.
+4 También, se les requerirá cumplir con su responsabilidad contributiva
+5 en la jurisdicción [con el Estado Libre Asociado] de Puerto Rico.
+6 (hh)[(x)] La Junta cumplirá con [el CONSENT DECREE] cualquier decreto por
+7 consentimiento suscrito entre la Autoridad y la Agencia Federal de Protección
+8 Ambiental (EPA), [CV-02283 de 15 de septiembre de 2015,] o cualquier otra agencia
+9 federal concernida para cumplir con proyectos requeridos para mantener la calidad
+10 de agua y un servicio adecuado a todos los clientes; [y atenderá las cuencas
+11 hidrográficas, comenzando por el Caño Martín Peña, en San Juan (Apéndice O
+12 y el Plan de Mejoras Capitales) y para expandir el servicio de acueductos a
+13 familias, mayormente rurales, que no lo tienen.]”
+14 Artículo 3.-Separabilidad.
+15 Si cualquier párrafo, artículo o parte de esta Ley fuera declarada inconstitucional
+16 por un Tribunal con competencia y jurisdicción, la sentencia dictada no afectará ni
+17 invalidará el resto de esta Ley, y su efecto se limitará al párrafo, artículo o parte declarada
+18 inconstitucional.
+19 Artículo 4.-Vigencia.
+20 Esta Ley entrará en vigor inmediatamente después de su aprobación.
