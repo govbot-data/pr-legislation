@@ -1,0 +1,180 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1456
+9 de septiembre de 2026
+Presentado por el señor Toledo López
+Referido a
+LEY
+Para enmendar las Reglas 6.1 y 10.2 de las Reglas de Procedimiento Civil de Puerto Rico,
+según enmendadas, a los fines de fijar expresamente el estándar de plausibilidad
+aplicable a las alegaciones contenidas en las alegaciones y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+Las Reglas de Procedimiento Civil de Puerto Rico constituyen el andamiaje
+mediante el cual se canaliza el acceso ordenado a la justicia, en particular, la Regla 6.1,
+relativa al contenido de las alegaciones y la Regla 10.2, que regula las mociones de
+desestimación. Ambas reglas cumplen una función esencial en la etapa inicial de un
+litigio civil, pues permiten identificar qué reclamaciones contienen una controversia
+jurídicamente cognoscible y cuáles, por el contrario, descansan en alegaciones
+insuficientes, conclusiva o especulativas.
+La experiencia reciente demuestra que existe una tensión interpretativa real en
+torno al estándar aplicable al evaluar la suficiencia de una demanda. De un lado, el
+procedimiento civil reconoce una tradición liberal de alegaciones, conforme a la cual no
+se exige precisión técnica extrema, formalismo innecesario ni la identificación perfecta de
+la fuente jurídica del remedio reclamado. De otro lado, esa liberalidad no equivale a
+permitir que cualquier reclamación sobreviva a una moción de desestimación por el solo
+
+2
+hecho de invocar etiquetas jurídicas, recitar elementos de una causa de acción o sugerir
+que los hechos necesarios podrían descubrirse posteriormente.
+En Costas Elena v. Magic Sport Culinary Corporation, 213 DPR 523 (2024), el Tribunal
+Supremo de Puerto Rico reafirmó que, al resolver una moción de desestimación al
+amparo de la Regla 10.2(5), los tribunales deben examinar si las alegaciones fácticas,
+tomadas como ciertas y consideradas de manera conjunta y liberal, establecen una
+reclamación plausible que justifique la concesión de un remedio. Bajo ese análisis, no
+basta una narración compuesta de conclusiones legales o conjeturas. La demanda debe
+contener hechos demostrativos que, de ser probados, permitan inferir razonablemente la
+existencia de una causa de acción reconocida por el ordenamiento jurídico.
+Ese mismo año, en Candela v. Universal Insurance Company, 214 DPR 1007 (2024), el
+Tribunal Supremo reiteró la naturaleza liberal de las alegaciones en el procedimiento civil
+puertorriqueño. Allí destacó que la Regla 6.1 no impone requisitos técnicos ni formalistas
+y que lo esencial es que la parte demandada quede razonablemente advertida de la
+naturaleza de la reclamación. En ese contexto, el Tribunal expresó que basta con una
+información inicial escueta de los hechos, la cual podrá ser ampliada mediante los
+mecanismos ordinarios de descubrimiento de prueba.
+Posteriormente, en Saint Mary Investments, LLC v. Denton Morales, 2026 TSPR 35, el
+Tribunal Supremo volvió a precisar los contornos del análisis bajo la Regla 10.2(5). En esa
+decisión, el Alto Foro aclaró que el examen de plausibilidad no autoriza a exigir prueba
+en la etapa inicial del pleito ni a convertir una moción de desestimación en una
+adjudicación probatoria anticipada. Sin embargo, también reafirmó que el tribunal debe
+evaluar el contenido de la alegación impugnada para determinar si contiene hechos
+suficientes que, tomados como ciertos, permitan inferir una reclamación plausible.
+Estas decisiones no son necesariamente incompatibles, pero su coexistencia ha
+generado incertidumbre sobre el punto exacto en que la liberalidad de las alegaciones
+cede ante la exigencia de plausibilidad. En algunos casos, el estándar de plausibilidad se
+ha interpretado como si exigiera prueba desde la demanda. En otros, se ha reducido a
+una mera notificación general del reclamo, permitiendo que alegaciones conclusivas
+
+3
+sobrevivan bajo la expectativa de que el descubrimiento de prueba suplirá
+posteriormente los hechos omitidos. Ambas aproximaciones son problemáticas. La
+primera restringe indebidamente el acceso a los tribunales y la segunda permite la
+activación del aparato judicial sin una base fáctica mínima.
+A este panorama se añade la adopción de nuevas Reglas de Conducta Profesional
+que imponen a la abogacía un deber reforzado de responsabilidad al presentar escritos
+ante los tribunales. La Regla 3.1 dispone que ninguna persona que ejerza la abogacía
+podrá instar procedimientos, promover controversias u oponerse a ellas salvo que existan
+fundamentos jurídicos y fácticos no frívolos. Sus comentarios reconocen que la
+comparecencia ante el tribunal implica una afirmación de que el asunto amerita una
+determinación judicial. De forma complementaria, la Regla 9.1 establece que la firma de
+todo escrito certifica, luego de una investigación razonable, que el mismo está bien
+fundado en los hechos y respaldado por el derecho vigente. Estas disposiciones
+confirman que el ordenamiento no tolera alegaciones puramente especulativas, sino que
+exige un umbral mínimo de coherencia fáctica y jurídica desde la presentación inicial del
+pleito.
+Por ello, la Asamblea Legislativa entiende necesario enmendar las Reglas 6.1 y 10.2
+de Procedimiento Civil para reafirmar expresamente el estándar de plausibilidad
+aplicable a las alegaciones. A tales fines, la plausibilidad debe entenderse como la
+obligación de alegar hechos demostrativos, específicos y no meramente conclusivos que
+permitan inferir razonablemente la existencia de una causa de acción reconocida por el
+ordenamiento jurídico. Por “hechos demostrativos” se entenderán aquellas alegaciones
+fácticas que describen conductas, actos, omisiones, circunstancias, tiempo, modo, lugar o
+participación atribuible a las partes, y que, de ser probadas, sostienen racionalmente los
+elementos jurídicos de la reclamación.
+Esta enmienda no exige que la parte demandante presente prueba con la demanda,
+ni pretende convertir la etapa de desestimación en una sentencia sumaria prematura.
+Tampoco procura importar mecánicamente doctrinas ajenas ni restringir indebidamente
+el acceso a la justicia. Su propósito es aclarar que la liberalidad en la interpretación de las
+
+4
+alegaciones opera sobre hechos bien alegados, no sobre conclusiones legales, calificativos
+abstractos, fórmulas vacías o expectativas de que el descubrimiento de prueba revelará
+posteriormente una causa de acción no articulada desde el inicio.
+La intención legislativa es disipar la incertidumbre interpretativa existente,
+proveer a los tribunales una guía normativa clara y uniforme, y reafirmar que el
+procedimiento civil puertorriqueño exige algo más que la mera posibilidad abstracta de
+un reclamo. En Puerto Rico, una demanda debe contener una alegación plausible,
+articulada sobre hechos demostrativos suficientes, que justifique la activación del aparato
+judicial del Estado sin imponer a la parte demandante una carga probatoria prematura.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda la Regla 6.1 de las Reglas de Procedimiento Civil de 2009,
+2 según enmendadas, para que lea como sigue:
+3 “Regla 6.1. Solicitud de remedio
+4 Una alegación que exponga una solicitud de remedio contendrá:
+5 (1) una relación [sucinta y sencilla] de los hechos demostrativos, específicos y no
+6 meramente conclusivos, que, considerados de forma conjunta y tomados como ciertos,
+7 permitan inferir de manera plausible [de] que la parte peticionaria tiene derecho a un
+8 remedio, y
+9 (2) una solicitud del remedio a que crea tener derecho. Podrán ser solicitados
+10 remedios alternativos o de diversa naturaleza.”
+11 Sección 2.- Se enmienda la Regla 10.2 de las Reglas de Procedimiento Civil de 2009,
+12 según enmendadas, para que lea como sigue:
+13 “Regla 10.2. Cómo se presentan
+
+5
+1 Toda defensa de hechos o de derecho contra una reclamación se expondrá en la
+2 alegación responsiva excepto que, a opción de la parte que alega, las siguientes
+3 defensas pueden hacerse mediante una moción debidamente fundamentada:
+4 (1) falta de jurisdicción sobre la materia;
+5 (2) falta de jurisdicción sobre la persona;
+6 (3) insuficiencia del emplazamiento;
+7 (4) insuficiencia del diligenciamiento del emplazamiento;
+8 (5) dejar de exponer una reclamación que a base de los hechos alegados de manera
+9 específica y detallada, resulte plausible y justifique la concesión de un remedio;
+10 (6) dejar de acumular una parte indispensable.
+11 A los fines del inciso (5), el tribunal evaluará la suficiencia de la alegación impugnada a
+12 base de su propio contenido, tomando como ciertos únicamente los hechos bien alegados. La
+13 alegación deberá contener hechos demostrativos, concretos y no meramente conclusivos
+14 que, considerados de forma conjunta, permitan inferir razonablemente la existencia de una
+15 causa de acción plausible y el derecho de la parte reclamante a un remedio. Dichos hechos
+16 deberán identificar la conducta, acto u omisión atribuida a cada parte contra quien se
+17 reclama, así como la conexión fáctica mínima entre esa conducta y el remedio solicitado.
+18 No serán suficientes la recitación formal de los elementos de una causa de acción, las
+19 conclusiones legales, los calificativos abstractos sin sustento fáctico, ni las alegaciones que
+20 descansen en la expectativa de que los hechos necesarios para sostener la reclamación serán
+21 descubiertos posteriormente mediante el descubrimiento de prueba.
+
+6
+1 Ninguna defensa u objeción se considerará renunciada por haberse formulado
+2 conjuntamente con otra u otras defensas u objeciones en una alegación responsiva
+3 o moción. Si en una alegación se formula una reclamación contra la cual la parte
+4 no está obligada a presentar una alegación responsiva, dicha parte podrá mantener
+5 en el juicio cualquier defensa de hechos o de derecho contra tal reclamación. Si en
+6 una moción en que se formula la defensa (5) se exponen materias no contenidas en
+7 la alegación impugnada, y éstas no son excluidas por el tribunal, la moción deberá
+8 ser considerada como una solicitud de sentencia sumaria y estará sujeta a todos
+9 los trámites ulteriores provistos en la Regla 36 hasta su resolución final, y todas las
+10 partes deberán tener una oportunidad razonable de presentar toda materia
+11 pertinente a tal moción bajo dicha regla.”
+12 Sección 3.- Separabilidad.
+13 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+14 disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta Ley
+15 fuera anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal efecto
+16 dictada no afectará, perjudicará, ni invalidará el remanente de esta Ley. El efecto de dicha
+17 sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración, palabra, letra,
+18 artículo, disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de
+19 esta que así hubiere sido anulada o declarada inconstitucional. Si la aplicación a una
+20 persona o a una circunstancia de cualquier cláusula, párrafo, subpárrafo, oración,
+21 palabra, letra, artículo, disposición, sección, subsección, título, capítulo, subcapítulo,
+22 acápite o parte de esta Ley fuera invalidada o declarada inconstitucional, la resolución,
+
+7
+1 dictamen o sentencia a tal efecto dictada no afectará ni invalidará la aplicación del
+2 remanente de esta Ley a aquellas personas o circunstancias en que se pueda aplicar
+3 válidamente. Es la voluntad expresa e inequívoca de esta Asamblea Legislativa que los
+4 tribunales hagan cumplir las disposiciones y la aplicación de esta Ley en la mayor medida
+5 posible, aunque se deje sin efecto, anule, invalide, perjudique o declare inconstitucional
+6 alguna de sus partes o, aunque se deje sin efecto, invalide o declare inconstitucional su
+7 aplicación a alguna persona o circunstancia. Esta Asamblea Legislativa hubiera aprobado
+8 esta Ley sin importar la determinación de separabilidad que el Tribunal pueda hacer.
+9 Sección 4.- Vigencia
+10 Esta Ley comenzará a regir inmediatamente después de su aprobación.

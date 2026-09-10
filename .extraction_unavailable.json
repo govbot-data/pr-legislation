@@ -5,19 +5,34 @@
     "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC0344/metadata.json"
   },
   {
-    "bill_id": "PC1405",
+    "bill_id": "RC0513",
     "reason": "no_versions_found",
-    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC1405/metadata.json"
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/RC0513/metadata.json"
   },
   {
-    "bill_id": "PC1402",
+    "bill_id": "RC0706",
     "reason": "no_versions_found",
-    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC1402/metadata.json"
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/RC0706/metadata.json"
   },
   {
-    "bill_id": "PC1403",
+    "bill_id": "RC0783",
     "reason": "no_versions_found",
-    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC1403/metadata.json"
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/RC0783/metadata.json"
+  },
+  {
+    "bill_id": "PC0579",
+    "reason": "no_versions_found",
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC0579/metadata.json"
+  },
+  {
+    "bill_id": "PC1021",
+    "reason": "no_versions_found",
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC1021/metadata.json"
+  },
+  {
+    "bill_id": "PC0883",
+    "reason": "no_versions_found",
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC0883/metadata.json"
   },
   {
     "bill_id": "PC0871",
@@ -25,38 +40,68 @@
     "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC0871/metadata.json"
   },
   {
-    "bill_id": "RC0715",
+    "bill_id": "PC0723",
     "reason": "no_versions_found",
-    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/RC0715/metadata.json"
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC0723/metadata.json"
   },
   {
-    "bill_id": "PC0877",
+    "bill_id": "RC0773",
     "reason": "no_versions_found",
-    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC0877/metadata.json"
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/RC0773/metadata.json"
   },
   {
-    "bill_id": "PC1404",
+    "bill_id": "RC0774",
     "reason": "no_versions_found",
-    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC1404/metadata.json"
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/RC0774/metadata.json"
   },
   {
-    "bill_id": "PC1105",
+    "bill_id": "RC0136",
     "reason": "no_versions_found",
-    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC1105/metadata.json"
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/RC0136/metadata.json"
   },
   {
-    "bill_id": "PC1031",
+    "bill_id": "PC1087",
     "reason": "no_versions_found",
-    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC1031/metadata.json"
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC1087/metadata.json"
   },
   {
-    "bill_id": "RCC0392",
+    "bill_id": "RC0524",
     "reason": "no_versions_found",
-    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/RCC0392/metadata.json"
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/RC0524/metadata.json"
   },
   {
-    "bill_id": "RC0782",
+    "bill_id": "PC1231",
     "reason": "no_versions_found",
-    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/RC0782/metadata.json"
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC1231/metadata.json"
+  },
+  {
+    "bill_id": "PC0501",
+    "reason": "no_versions_found",
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC0501/metadata.json"
+  },
+  {
+    "bill_id": "PC0497",
+    "reason": "no_versions_found",
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC0497/metadata.json"
+  },
+  {
+    "bill_id": "PC1082",
+    "reason": "no_versions_found",
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC1082/metadata.json"
+  },
+  {
+    "bill_id": "RCC0254",
+    "reason": "no_versions_found",
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/RCC0254/metadata.json"
+  },
+  {
+    "bill_id": "PC1047",
+    "reason": "no_versions_found",
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC1047/metadata.json"
+  },
+  {
+    "bill_id": "PC1313",
+    "reason": "no_versions_found",
+    "metadata_file": "/home/runner/work/pr-legislation/pr-legislation/country:us/state:pr/sessions/2025-2028/bills/PC1313/metadata.json"
   }
 ]
