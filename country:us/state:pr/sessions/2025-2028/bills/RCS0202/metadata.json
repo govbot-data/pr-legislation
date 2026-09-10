@@ -240,23 +240,25 @@
       "_processing": {
         "log_file_created": "2026-09-05T09:01:53Z"
       }
+    },
+    {
+      "description": "Res. Conj.  61-2026",
+      "date": "2026-09-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T09:49:39Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -268,19 +270,27 @@
       "organization_id": null
     },
     {
-      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -340,6 +350,17 @@
       ],
       "date": "2026-08-27",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  61-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161914/Res. Conj. 61-2026.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-04",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -358,7 +379,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-05T09:01:53Z",
+    "logs_latest_update": "2026-09-10T09:49:39Z",
     "text_extraction_latest_update": "2026-09-05T09:04:50.889030Z"
   }
 }

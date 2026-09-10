@@ -200,23 +200,33 @@
       "_processing": {
         "log_file_created": "2026-09-04T09:31:17Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T09:49:39Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "\u00c1ngel  Morey Noble - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"\\u00c1ngel  Morey Noble - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Lisie J. Burgos Mu\u00f1iz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Lisie J. Burgos Mu\\u00f1iz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "\u00c1ngel  Morey Noble - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel  Morey Noble - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -294,7 +304,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T09:31:17Z",
+    "logs_latest_update": "2026-09-10T09:49:39Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-09-04T09:35:00.802434Z"

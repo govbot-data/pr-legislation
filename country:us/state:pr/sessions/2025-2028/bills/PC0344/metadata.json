@@ -168,6 +168,16 @@
       "_processing": {
         "log_file_created": "2026-09-09T09:43:06Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T09:49:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -262,7 +272,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-09T09:43:06Z",
+    "logs_latest_update": "2026-09-10T09:49:39Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-09-09T09:46:06.844533Z"
