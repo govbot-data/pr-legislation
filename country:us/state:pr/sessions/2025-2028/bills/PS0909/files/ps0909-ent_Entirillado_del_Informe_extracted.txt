@@ -1,0 +1,706 @@
+Title: 
+Official Title: 
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+(ENTIRILLADO ELECTRÓNICO)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 909
+9 de enero de 2026
+Presentado por el señor Matías Rosario
+Referido a la Comisión de Gobierno
+LEY
+Para enmendar el Artículo 1; añadir el Artículo 1-A; enmendar los Artículos 2, 3, 4 y 5;
+añadir el Artículo 5-A; enmendar los Artículos 6 y 9; añadir el Artículo 9-A; y
+enmendar los Artículos 10 y 15 añadir nuevos Artículos 2, 7 y 12; reenumerar los actuales
+Artículos 2, 3, 4 y 5 como Artículos 3, 4, 5 y 6, respectivamente; reenumerar los actuales
+Artículos 6, 7, 8 y 9 como Artículos 8, 9, 10 y 11, respectivamente, reenumerar y los actuales
+Artículos 10, 11, 12, 13, 14, 15, 16, 17 y 18 como Artículos 13, 14, 15, 16, 17, 18, 19, 20 y 21
+respectivamente; enmendar los renumerados Artículos 3, 4, 5, 6, 8, 11, 13, 14, 16, 18 y 19 de
+la Ley Núm. 125 de 27 de junio de 1966, según enmendada, conocida como “Ley de
+Depósitos de Chatarra”, a fin de ampliar el marco regulatorio para incluir la compra,
+venta, almacenamiento y manejo de chatarra por parte de personas particulares que
+operen como colectores, con el propósito de combatir la competencia desleal entre
+ciudadanos y empresas, de modo que todos los actores del mercado operen bajo los
+mismos estándares de legalidad y responsabilidad social a los fines de cambiar su título;
+establecer la política pública aplicable; ampliar el marco regulatorio de la industria para incluir
+a las personas naturales y jurídicas que operen como colectores de chatarra; establecer licencias
+diferenciadas para operar depósitos de chatarra y ejercer como colector; armonizar dichas
+licencias con el Permiso Único; establecer requisitos de solicitud, inspección, idoneidad,
+registro, trazabilidad, exhibición y notificación; crear un registro electrónico de licencias;
+disponer para la revocación de licencias; actualizar el procedimiento de revisión judicial;
+ampliar los remedios para la supresión de estorbos públicos; establecer delitos, penalidades y
+consecuencias para las violaciones continuas; facultar a las agencias concernidas para aprobar
+o atemperar la reglamentación necesaria; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+
+2
+La Ley Núm. 125 de 27 de junio de 1966, según enmendada, conocida como “Ley
+de Depósitos de Chatarra”, se aprobó como respuesta a los serios problemas que
+generaban los depósitos de chatarra en Puerto Rico durante aquella época. En aquel
+entonces, la acumulación descontrolada de vehículos abandonados y materiales
+metálicos deterioraban el paisaje natural, afectaban negativamente el ornato público y
+reducían los valores de las propiedades aledañas. Además, muchos depósitos
+representaban riesgos significativos para la salud y la seguridad pública, ya que servían
+como criaderos de plagas y, en ocasiones, facilitaban la disposición de artículos robados,
+lo cual creaba un entorno propicio para actividades ilegales. Ante la esta realidad
+imperante, la Ley Núm. 125, supra, estableció los controles básicos sobre los depósitos de
+chatarra, en aras de salvaguardar la salud y seguridad pública, garantizar el mejor uso
+de nuestras vías urbanas y carreteras, y proteger el ornato público tanto en las áreas
+rurales como en las urbanas.
+Sin embargo, desde entonces nuestra Isla ha experimentado transformaciones
+profundas en el mercado de la chatarra. Lo que antes constituía principalmente depósitos
+fijos, dedicados mayormente al acopio de vehículos desechados, se ha convertido en un
+sector amplio y dinámico que involucra distintos tipos de materiales y actores diversos.
+Hoy en día, además de los negocios formalmente establecidos, existe una gran cantidad
+de personas naturales que participan de forma habitual en la compra, recolección,
+transporte y venta de la chatarra. Estas actividades comerciales, que se han expandido
+sin un marco regulatorio actualizado, dan lugar a una serie de retos que la legislación
+vigente no contempla.
+Uno de los principales problemas es la competencia desleal que enfrentan los
+negocios formales ante individuos que operan sin licencias. Estos no cumplen con los
+requisitos contributivos, no existen controles ni registros, y no están sujetos a las
+inspecciones exigidas por el Estado. Esta disparidad crea condiciones económicas
+injustas, desalienta la inversión formal y dificulta el ordenamiento del mercado.
+Asimismo, la participación informal obstaculiza la supervisión gubernamental y el
+
+3
+monitoreo del origen de la chatarra, un aspecto crítico para prevenir delitos relacionados
+a esta actividad comercial.
+El modelo del negocio de la chatarra exige controles más rigurosos, ya que el
+manejo inadecuado de estos materiales no solo es un problema de seguridad pública, sino
+que abarca hasta desde la contaminación de los suelos, la acumulación de residuos
+peligrosos, el riesgo de incendios y proliferación de vectores, hasta asuntos que requieren
+una regulación reglamentación coherente que aplique tanto a empresas como a individuos.
+Un sistema basado exclusivamente en la fiscalización de “depósitos” resulta insuficiente
+frente a una red de actores móviles, compradores individuales y pequeños colectores que
+operan sin mecanismos de registro o verificación.
+En ese contexto, resulta necesario actualizar el marco normativo original para
+incorporar expresamente a las personas naturales que se dedican a la compraventa y al
+manejo de la chatarra, de manera que cumplan con requisitos similares a los que se les
+exigen a las empresas formalmente establecidas que operan depósitos de este tipo de
+materiales. De este modo, se formaliza el sector, se promueve la competencia leal, se
+fortalece la protección del ornato público, la salud y el medio ambiente, asegurándose así
+que todos operen bajo los mismos estándares.
+Por todo lo anterior, se enmienda la “Ley de Depósitos de Chatarra”, a los efectos
+de adecuarla a las realidades actuales y hacerla verdaderamente inclusiva, eficiente y
+justa.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1 de la Ley Núm. 125 de 27 de junio de 1966,
+2 según enmendada, conocida como la “Ley de Depósitos de Chatarra”, para que se lea como
+3 sigue:
+4 “Artículo 1.─ [TÍTULO BREVE] Título.─
+
+4
+1 [El título breve de esta ley es “Ley de Depósitos de Chatarra”] Esta Ley se conocerá
+2 como “Ley para Regular Reglamentar la Industria y el Comercio de Chatarra en Puerto Rico”.”
+3 Sección 2.- Se añade el un nuevo Artículo 1-A 2 a la Ley Núm. 125 de 27 de junio de
+4 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”, para que se lea como
+5 sigue:
+6 “Artículo 1-A 2.- Política Pública.
+7 Será política pública del Gobierno de Puerto Rico reglamentar, supervisar y fiscalizar los
+8 depósitos de chatarra, principalmente de vehículos desechados, así como la compra, venta,
+9 almacenamiento y manejo de chatarra por parte de personas particulares que operen como
+10 colectores, con el fin de prevenir el hurto de metales, proteger la propiedad pública y privada,
+11 garantizar el mejor uso de nuestras vías urbanas y carreteras, proteger el ornato público y el
+12 medioambiente, así como para promover un desarrollo económico ordenado dentro del sector.
+13 Asimismo, se procurará prevenir el mercado de disposición de artículos robados con el propósito
+14 de proteger la salud, la seguridad y el bienestar de la ciudadanía.
+15 Reconociendo que el mercado de la chatarra en Puerto Rico ha crecido de forma
+16 significativa, y que las prácticas informales de compraventa han creado competencia desleal entre
+17 las empresas legalmente establecidas y ciudadanos que participan sin cumplir con las obligaciones
+18 fiscales y regulatorias, esta Ley persigue integrar a todos los participantes del sector -personas
+19 naturales y jurídicas- dentro de un mismo marco normativo. De esta manera, el Estado se
+20 asegurará de que toda actividad relacionada con la compraventa o el manejo de chatarra se realice
+21 de manera trasparente transparente, responsable y conforme a las leyes contributivas, ambientales
+22 y de seguridad pública. Para lograr este objetivo, se precisan mecanismos de licenciamiento,
+
+5
+1 registro y fiscalización que garanticen la trazabilidad de los materiales y el cumplimiento uniforme
+2 de las normas aplicables.
+3 Por último, mediante esta política pública se fomentará la competencia justa y se requerirá
+4 la renovación de licencias, tanto de operadores de depósitos de chatarra como de colectores
+5 individuales cada año dos (2) años, de modo que todos los actores del mercado operen bajo los
+6 mismos estándares de legalidad y responsabilidad social.”
+7 Sección 3.- Se reenumeran los actuales Artículos 2, 3, 4 y 5 de la Ley Núm. 125 de 27 de
+8 junio de 1966, según enmendada conocida como “Ley de Depósitos de Chatarra”, como Artículos
+9 3, 4, 5, y 6, respectivamente; los actuales Artículos 6, 7, 8, y 9 como Artículos 8, 9, 10 y 11,
+10 respectivamente; y los actuales Artículos 10, 11, 12, 13, 14, 15, 16, 17 y 18 como Artículos 13, 14,
+11 15, 16, 17, 18, 19, 20 y 21, respectivamente.
+12 Sección 3 4.- Se enmienda el Artículo 2 renumerado Artículo 3 de la Ley Núm. 125
+13 de 27 de junio de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”,
+14 para que se lea como sigue:
+15 “Artículo 2 3.─ [DEFINICIONES] Definiciones.─
+16 Para los fines de esta ley, a menos que del texto surja claramente otra
+17 interpretación, la siguientes palabras o frases tendrán el significado que a continuación se
+18 expresa:
+19 a) “Chatarra” – [significa] Significará cualquier material viejo o en estado de
+20 desecho, tales como cobre, bronce, aluminio, baterías, vehículos desmantelados,
+21 chocados o sus respectivas piezas sean éstas de material ferroso o no ferroso, hierros,
+22 acero y cualquier otro material ferroso o de metal que sea viejo o desechado todo vehículo
+
+6
+1 de motor, remolque, transporte aéreo o marítimo, entero o en partes, que no funcione y haya sido
+2 abandonado, descartado o destinado al desmantelamiento; así como sus fragmentos, piezas y
+3 componentes deteriorados. Incluirá, además, cualquier material metálico viejo, usado o en estado
+4 de desecho, incluyendo cobre, bronce, aluminio, hierro, acero, baterías y otros materiales ferrosos o
+5 no ferrosos, cuyo manejo estará sujeto a las leyes y los reglamentos ambientales aplicables.
+6 b) “Depósito de chatarra” - [significará] Significará y describirá cualquier
+7 establecimiento, lugar de negocio o depósito, solar donde se mantenga, use, opere, o se
+8 tenga para almacenar, comprar o vender chatarra o que sea una facilidad, negocio
+9 cualquier establecimiento, instalación, lugar de negocio, depósito o solar fijo en el cual se reciba,
+10 mantenga, acumule, almacene, clasifique, procese, compre o venda chatarra, con fines comerciales.
+11 c) “Secretario” - [significará] Significará el Secretario del Departamento de
+12 Transportación y Obras Públicas de Puerto Rico o la persona o personas en quienes él
+13 delegue o legalmente le representen sus representantes autorizados.
+14 d) “Áreas circundantes” - [significará] Significará aquellas propiedades que
+15 colinden con un depósito de chatarra, o que estén situadas frente a éste y separadas por
+16 una vía pública, o que de alguna manera puedan ser afectadas por el mismo su operación.
+17 e) “Cercar” - [significará] Significará ocultar los depósitos de chatarra de la vista
+18 del público que transita por las vías públicas mediante cualquier clase de arboledas,
+19 arbustos, setos vivos, verjas sólidas, tapias, muros u otro medio apropiado.
+20 f) “Persona dedicada a la compraventa de chatarra” – Significará toda persona natural o
+21 jurídica que, con fines de lucro, compre, reciba, venda, acumule, procese o intermedie con
+22 materiales de chatarra, con fines de lucro, sin importar si opera bajo un nombre comercial, negocio
+
+7
+1 o registro empresarial clasifique, procese, transporte o intermedie en transacciones relacionadas
+2 con materiales de chatarra. Esta definición incluirá a los operadores de depósitos de chatarra y a
+3 los colectores de chatarra.
+4 g) “Licencia para operar depósitos de chatarra” – Significará el permiso la autorización
+5 expedida por el Secretario que autoriza al titular a ejercer su actividad comercial en cualquier lugar
+6 dentro del área que se identifique en la licencia operar uno o más depósitos de chatarra
+7 exclusivamente en los sitios expresamente identificados en la licencia. Esta licencia será
+8 independiente del Permiso Único y de los permisos ambientales requeridos por el ordenamiento
+9 jurídico vigente.
+10 h) “Licencia de colector” – Significará el permiso la autorización expedida por el Secretario
+11 que autoriza al titular a ejercer la actividad de colector móvil en toda la jurisdicción de Puerto
+12 Rico, sujeto a la obtención y vigencia de los permisos de recolección y transportación de
+13 desperdicios sólidos y de cualquier otra autorización exigida por ley o reglamento. Esta licencia no
+14 autorizará al titular a operar un depósito de chatarra ni a almacenar chatarra fuera de instalaciones
+15 debidamente autorizadas.
+16 i) “Colector de chatarra”.─ Significará toda persona natural o jurídica autorizada para
+17 recoger, comprar, transportar, vender o intermediar con materiales de chatarra de manera móvil.
+18 La licencia de colector no autorizará el establecimiento u operación de un depósito de chatarra, ni
+19 la acumulación o almacenamiento habitual de chatarra en residencias, solares, vehículos, vías
+20 públicas o lugares que no cuenten con las autorizaciones y los permisos correspondientes.
+21 j) “Permiso ambiental”.─ Significará cualquier permiso, autorización, endoso o registro
+22 expedido por el Departamento de Recursos Naturales y Ambientales que resulte aplicable al recibo,
+
+8
+1 almacenamiento, manejo, clasificación, procesamiento, recolección, transportación o disposición de
+2 chatarra. Este término incluirá, sin limitarse a: el Permiso para el Manejo de Desperdicios Sólidos
+3 No Peligrosos (DS-2), requerido para los depósitos de chatarra y demás instalaciones fijas; y el
+4 Permiso de Servicios de Recolección y Transportación de Desperdicios Sólidos No Peligrosos (DS-
+5 1), requerido para los colectores de chatarra y demás actividades móviles de recolección y
+6 transportación. La referencia a estos permisos incluirá cualquier permiso equivalente, sucesor o
+7 sustituto que adopte el Departamento de Recursos Naturales y Ambientales mediante ley o
+8 reglamento.
+9 k) “Permiso Único”.─ Significará el permiso requerido para iniciar o continuar la
+10 operación de un negocio, expedido conforme a la Ley 161-2009, según enmendada, conocida como
+11 la “Ley para la Reforma del Proceso de Permisos de Puerto Rico”, o cualquier legislación que la
+12 sustituya.”
+13 Sección 4 5.- Se enmienda el Artículo 3 renumerado Artículo 4 de la Ley Núm. 125
+14 de 27 de junio de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”,
+15 para que se lea como sigue:
+16 “Artículo 3 4.─ [LICENCIA PARA OPERAR] Licencia para operar.─
+17 Después del primero de enero de 1968 ninguna persona, firma o corporación
+18 podrá establecer, operar o mantener un depósito de chatarra, ni comprar, vender, almacenar
+19 o manejar chatarra, si no se le ha expedido una licencia al efecto por el Secretario, de
+20 acuerdo con las disposiciones de [este estatuto] esta ley.”
+
+9
+1 Sección 5 6.- Se enmienda el Artículo 4 renumerado Artículo 5 de la Ley Núm. 125
+2 de 27 de junio de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”,
+3 para que se lea como sigue:
+4 “Artículo 45.─[SOLICITUD DE LICENCIA: PROCEDIMIENTO] Solicitud de
+5 licencia; procedimiento.─
+6 La parte interesada deberá radicar por escrito, en el formulario preparado [al
+7 efecto a ser suplido] a esos efectos por el Secretario, una solicitud de licencia para operar
+8 un depósito de chatarra, o para comprar, vender, almacenar o manejar chatarra como colector,
+9 la [que] cual deberá acompañarse del permiso de uso expedido por la [Administración
+10 de Reglamentos y Permisos] Oficina de Gerencia de Permisos, o su sucesora, para esos fines.”
+11 Sección 67.- Se enmienda el Artículo 5 renumerado Artículo 6 de la Ley Núm. 125 de
+12 27 de junio de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”, para
+13 que se lea como sigue:
+14 “Artículo 5 6.[-]─ Licencia; condiciones.─
+15 (a) La licencia a ser expedida por el Secretario [deberá] será de dos (2) tipos, a saber,
+16 (1) para operar depósitos de chatarra o (2) de colector, y ambas (1) licencia para operar depósitos
+17 de chatarra; y (2) licencia de colector de chatarra. Ambas licencias deberán contener aquellas
+18 condiciones que éste el Secretario estime razonablemente necesarias a los fines de para
+19 mantener y conservar el valor de las áreas circundantes, conservar el ornato público y el
+20 paisaje natural, y proteger la salud, seguridad y bienestar del público, así como para evitar
+21 la competencia desleal entre las empresas legalmente establecidas y los ciudadanos que participan
+22 en la compra, venta, almacenamiento y manejo de chatarra como colectores.
+
+10
+1 La licencia expedida por el Secretario será independiente del Permiso Único, de los permisos
+2 ambientales y de cualquier otra autorización requerida por ley o reglamento. La expedición de una
+3 licencia al amparo de esta Ley no eximirá a su titular de obtener y mantener vigentes dichos
+4 permisos y autorizaciones.
+5 La licencia para operar depósitos de chatarra deberá contener:
+6 i. el nombre y la dirección del titular;
+7 ii. la autoridad que se le confiere;
+8 iii. una lista identificando que identifique todos los sitios dentro del área de la
+9 autoridad en los que el titular estará autorizado para ejercer su actividad comercial;
+10 iv. el nombre y la información de contacto del administrador de cada depósito de
+11 chatarra; y
+12 v. la fecha de vencimiento de la licencia. y
+13 vi. la dirección del local o terreno usado como depósito
+14 La licencia de colector deberá contener:
+15 i. el nombre y la dirección del titular;
+16 ii. la autoridad que se le confiere; y
+17 iii. una descripción de los vehículos autorizados para utilizarse en la actividad
+18 comercial, incluyendo su marca, modelo, año, número de tablilla y número de
+19 identificación vehicular;
+20 iv. cuando corresponda, del registro ante el Negociado de Transporte y Otros Servicios
+21 Públicos; y
+22 iii v. la fecha de vencimiento de la licencia.
+
+11
+1 (b) Será condición para la expedición de dicha licencia una licencia para operar un
+2 depósito de chatarra que el depósito de chatarra esté oculto de la vista del público que
+3 transite por una carretera y que el área destinada al recibo, almacenamiento, clasificación,
+4 procesamiento o manejo de chatarra cumpla con los requisitos establecidos por el Departamento de
+5 Recursos Naturales y Ambientales.
+6 (c) El Secretario queda facultado para establecer en el mediante reglamento los
+7 controles necesarios para asegurar el cumplimiento del inciso (b) de este Artículo y para
+8 fijar la distancia de separación que debe existir entre el depósito de chatarra y el borde
+9 más cercano de la carretera, atendiendo a la importancia de la región en donde esté
+10 situado el depósito de chatarra, al tránsito promedio diario en dicha carretera y las
+11 condiciones que puedan afectar al el ornato público. Sin embargo, aquellos depósitos de
+12 chatarra que al momento de aprobarse esta legislación estuvieren operando con una
+13 licencia expedida conforme a esta ley y hayan operado durante los últimos cinco (5) años
+14 con la correspondiente autorización, estarán exentos de las limitaciones o restricciones de
+15 distancia establecidas por el Secretario mediante reglamento. No obstante lo anterior,
+16 estos depósitos de chatarra tienen que deben cumplir cabalmente con todas las demás
+17 disposiciones de esta ley.
+18 (d) Toda chatarra perteneciente al a un depósito de chatarra deberá mantenerse, y
+19 toda operación relacionada con la misma esta deberá llevarse a efecto, dentro del local o
+20 terreno cercado de acuerdo con las disposiciones de esta ley. No se expedirá o renovará
+21 licencia alguna hasta tanto se haya cumplido con dichos requisitos, entendiéndose que la
+
+12
+1 expedición o renovación de la licencia estará sujeta al cumplimiento por parte del
+2 solicitante con la ley y toda reglamentación aplicable.
+3 La licencia de colector no autorizará a su titular a almacenar o acumular habitualmente
+4 chatarra en residencias, solares, vehículos, vías públicas o lugares que no estén autorizados como
+5 depósitos de chatarra. La chatarra recolectada deberá transportarse a una instalación debidamente
+6 autorizada dentro del término que establezca el Secretario mediante reglamento.
+7 (e) Será obligación del Secretario, antes de expedir o renovar una licencia, efectuar
+8 una inspección física del lugar donde esté ubicado o donde se ubicará el depósito de
+9 chatarra, o de las actividades de compra, venta, almacenamiento y manejo de chatarra por parte
+10 de las personas naturales que se dediquen a dicha actividad comercial como colectores y verificar,
+11 en el caso de un colector, los vehículos, equipos, registros y procedimientos que utilizará para la
+12 recolección, compra, transportación, venta o manejo de chatarra.
+13 El Secretario podrá coordinar estas inspecciones con el Departamento de Recursos
+14 Naturales y Ambientales, la Oficina de Gerencia de Permisos, la Junta de Planificación, el
+15 Departamento de Hacienda, la Policía de Puerto Rico y cualquier otra agencia con jurisdicción.
+16 Cada entidad ejercerá sus facultades de inspección y fiscalización dentro del ámbito de la autoridad
+17 que le confieren sus leyes y reglamentos.
+18 (f) El Secretario no expedirá licencia para operar un depósito de chatarra excepto
+19 para aquellos casos en que se haya previamente otorgado un permiso de uso por la
+20 [Administración de Reglamentos y Permisos] Oficina de Gerencia de Permisos sin que el
+21 solicitante presente evidencia de la vigencia del Permiso Único, expedido por la Oficina de Gerencia
+22 de Permisos o por un municipio autónomo, y del Permiso para el Manejo de Desperdicios Sólidos
+
+13
+1 No Peligrosos (DS-2), o su equivalente vigente, expedido por el Departamento de Recursos
+2 Naturales y Ambientales para instalaciones fijas, siempre y cuando la ubicación de dicho
+3 depósito de chatarra no afecte el ornato público, la seguridad de las vías públicas o
+4 desarrollo público alguno, o ni incumpla con los otros requisitos exigidos por esta ley.
+5 El Secretario tampoco expedirá una licencia de colector de chatarra sin que el solicitante
+6 presente evidencia de la vigencia del Permiso de Servicios de Recolección y Transportación de
+7 Desperdicios Sólidos No Peligrosos (DS-1), o su equivalente vigente, expedido por el
+8 Departamento de Recursos Naturales y Ambientales y, cuando corresponda, de su registro ante el
+9 Negociado de Transporte y Otros Servicios Públicos.
+10 (g) Todo operador de un depósito de chatarra estará obligado a mantener un libro
+11 registro en el que anotará, inmediatamente después que reciba un vehículo, el nombre,
+12 firma, y la dirección de la persona que lo trajo, la fecha en que lo recibe, la descripción
+13 más completa que sea posible sobre las condiciones en que se encuentra la unidad, los
+14 números de registro, tablilla, motor o caja del vehículo o las razones por las cuales no
+15 puede hacer anotación de estos datos en su libro registro, y cualquier transacción que
+16 efectúe con dicho vehículo. Todo operador de un depósito de chatarra que compre metal
+17 considerado chatarra deberá llevar un registro de la descripción de la chatarra, la
+18 cantidad comprada, así como el nombre, firma, y la dirección de la persona a quien se lo
+19 compró y la fecha en que la recibió.
+20 Todo colector deberá mantener un registro, físico o electrónico, de cada transacción o
+21 recogido de chatarra. El registro incluirá la fecha y el lugar de la transacción; la descripción y
+22 cantidad de los materiales; el nombre, la firma, la dirección y un medio de identificación de la
+
+14
+1 persona de quien obtuvo la chatarra; el vehículo utilizado para transportarla; el depósito o
+2 instalación autorizada a la cual fue entregada; y la fecha de entrega.
+3 El operador o colector conservará la información anotada respecto a cada vehículo
+4 y la chatarra por lo menos cinco (5) años después de hacer la última entrada en el libro.
+5 (h) La Policía de Puerto Rico tendrá libre acceso a las oficinas, archivos y al área
+6 del negocio del depósito de chatarra, así como a los registros, vehículos, equipos y materiales
+7 utilizados por los colectores de chatarra, con el fin de inspeccionar el libro registro requerido
+8 por este Artículo. Durante la inspección que practique podrá, además, la Policía ocupar
+9 las tablillas, registración y números de serie de los vehículos que estén depositados en el
+10 local. Cuando existan motivos fundados para entender que dichos bienes están relacionados con la
+11 comisión de un delito, podrá ocuparlos conforme a derecho.
+12 (i) Para determinar si el solicitante es una persona idónea, la autoridad el Secretario podrá
+13 tener en cuenta cualquier información que considere pertinente, incluyendo, en particular:
+14 i. si el solicitante o algún administrador del depósito de chatarra ha sido condenado por
+15 algún delito grave;
+16 ii. cualquier denegación anterior de una solicitud para la expedición o renovación de
+17 una licencia para operar depósitos de chatarra o de colector y los motivos para tal
+18 denegación;
+19 iii. cualquier denegación previa de una solicitud de un permiso o registro ambiental
+20 pertinente y los motivos para tal denegación;
+21 iv. cualquier revocación previa de una licencia para operar depósitos de chatarra y los
+22 motivos para tal revocación;
+
+15
+1 v. si el solicitante ha demostrado que se establecerán procedimientos adecuados para
+2 garantizar que se cumplan con todas las disposiciones de esta ley.”
+3 Sección 7 8.- Se añade el Artículo 5-A un nuevo Artículo 7 a la Ley Núm. 125 de 27
+4 de junio de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”, para que
+5 se lea como sigue:
+6 “Artículo 5-A 7.─ Registro de licencias.─
+7 a) El Secretario notificará al Departamento de Recursos Naturales y Ambientales sobre
+8 cada licencia expedida al amparo de esta ley para que este último lleve un registro de las mismas
+9 El Secretario establecerá y mantendrá un registro electrónico de todas las licencias expedidas,
+10 renovadas, suspendidas, revocadas, canceladas o entregadas al amparo de esta Ley. El registro
+11 constituirá la fuente oficial de información sobre la vigencia y el estado de las licencias para operar
+12 depósitos de chatarra y de las licencias de colector.
+13 El Secretario notificará al Departamento de Recursos Naturales y Ambientales, al
+14 Departamento de Hacienda, a la Policía de Puerto Rico, a la Oficina de Gerencia de Permisos, y a
+15 cualquier otra entidad con jurisdicción sobre estas actividades, toda expedición, renovación,
+16 suspensión, revocación, cancelación o entrega de una licencia, para fines de fiscalización y
+17 cumplimiento con las leyes y los reglamentos aplicables.
+18 b) Cada asiento en los registros deberá contener lo siguiente Cada anotación en el registro
+19 deberá contener, como mínimo, la siguiente información:
+20 i. el nombre del titular de la licencia;
+21 ii. cualquier nombre comercial del titular de la licencia;
+
+16
+1 iii. la dirección de cualquier sitio identificado en la licencia cada depósito de chatarra
+2 autorizado, cuando se trate de una licencia para operar depósitos de chatarra;
+3 iv. el tipo de licencia; y
+4 v. el nombre del administrador autorizado de cada depósito de chatarra;
+5 vi. la fecha de expedición de la licencia;
+6 vii. el estado de la licencia, incluyendo si se encuentra vigente, suspendida, revocada,
+7 cancelada, vencida o entregada;
+8 viii. la fecha de cualquier renovación, suspensión, revocación, cancelación o entrega de
+9 la licencia; y
+10 v. ix. la fecha de vencimiento de la licencia.
+11 c) En cumplimiento con las normas de transparencia gubernamental, los registros estarán
+12 abiertos al público para su consulta y/o revisión En el caso de las licencias de colector, el registro
+13 público no divulgará la dirección residencial, los números de identificación personal, la
+14 información financiera ni cualquier otro dato confidencial del titular. El registro podrá identificar
+15 los vehículos autorizados mediante su número de tablilla.
+16 d) La información pública contenida en el registro estará disponible para consulta
+17 electrónica, libre de costo, en el portal oficial del Departamento de Transportación y Obras
+18 Públicas. La información deberá mantenerse actualizada y reflejar cualquier cambio en el estado
+19 de una licencia dentro de un término no mayor de diez (10) días laborables desde que ocurra o sea
+20 notificado.
+
+17
+1 e) La inclusión de una licencia en el registro no relevará a su titular de la obligación de
+2 obtener y mantener vigentes el Permiso Único, los permisos ambientales y cualquier otra
+3 autorización exigida por ley o reglamento.”
+4 Sección 89.- Se enmienda el Artículo 6 renumerado Artículo 8 de la Ley Núm. 125 de
+5 27 de junio de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”, para
+6 que se lea como sigue:
+7 “Artículo 68.─ [TÉRMINO DE LA LICENCIA] Término de la licencia.─
+8 Todas las licencias así expedidas por el Secretario [vencerán al año de su
+9 expedición y] vencerán al año de su expedición y deberán ser renovadas [anualmente]
+10 cada dos (2) años anualmente.”
+11 Sección 9 10.- Se enmienda el Artículo 9 renumerado Artículo 11 de la Ley Núm. 125
+12 de 27 de junio de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”,
+13 para que se lea como sigue:
+14 “Artículo 9 11.─ [LICENCIA A COLOCARSE EN SITIO VISIBLE] Licencia a
+15 colocarse en sitio visible.─
+16 La licencia así concedida deberá ser enmarcada y colocada en un lugar del
+17 establecimiento que sea visible a las personas que visitan el mismo. Esta deberá ser
+18 mostrada para su examen a cualquier agente del orden público o representante del
+19 Departamento de Hacienda, del Departamento de Transportación y Obras Públicas [o],
+20 de la Junta de Planificación, del Departamento de Recursos Naturales y Ambientales, la
+21 [Administración de Reglamentos y Permisos] Oficina de Gerencia de Permisos o agente
+22 autorizado de cualquier otro departamento o entidad gubernamental.
+
+18
+1 En el caso de aquellas personas que compren, vendan, acumulen, procesen o intermedien
+2 con materiales de chatarra al amparo de una licencia de colector, deberán exhibir una copia de esta
+3 en cualquier vehículo que se utilice en el curso de su actividad comercial. Tal copia deberá exhibirse
+4 de manera que pueda ser leída fácilmente por cualquier persona fuera del vehículo.”
+5 Sección 10 11.- Se añade el Artículo 9-A un nuevo Artículo 12 de la Ley Núm. 125
+6 de 27 de junio de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”,
+7 para que se lea como sigue:
+8 “Artículo 9-A 12.─ Requisitos de notificación.─
+9 a) El solicitante de una licencia, ya sea nueva o de renovación, para la operación de un
+10 depósito de chatarra o de colector de chatarra, deberá notificar al Secretario sobre cualquier cambio
+11 que afecte sustancialmente la exactitud de la información originalmente provista en la solicitud.
+12 Todo solicitante o titular de una licencia expedida al amparo de esta Ley deberá notificar por escrito
+13 al Secretario cualquier cambio material que afecte la exactitud, integridad o vigencia de la
+14 información presentada en la solicitud inicial, en una solicitud de renovación o en cualquier
+15 documento sometido posteriormente. La notificación deberá presentarse dentro de los diez (10) días
+16 laborables siguientes a la fecha en que ocurra el cambio o el titular advenga en conocimiento de
+17 este, lo que suceda primero. Para efectos de este Artículo, constituirá un cambio material, entre
+18 otros:
+19 i. cualquier cambio en el nombre, la dirección postal, el nombre comercial, la estructura
+20 corporativa, la titularidad o el control de la persona o entidad licenciada;
+21 ii. cualquier cambio en la ubicación, el administrador, la naturaleza de las operaciones o las
+22 actividades autorizadas de un depósito de chatarra;
+
+19
+1 iii. la inclusión, sustitución o eliminación de un vehículo utilizado por un colector de
+2 chatarra;
+3 iv. la modificación, suspensión, revocación, cancelación, expiración o denegación de un
+4 Permiso Único, permiso ambiental, registro o autorización requerida para ejercer la
+5 actividad licenciada;
+6 v. cualquier orden administrativa o judicial que limite, suspenda o prohíba las operaciones
+7 autorizadas;
+8 vi. la presentación de una petición de quiebra, la disolución de la entidad o cualquier
+9 procedimiento que pueda afectar la capacidad del titular para continuar sus operaciones; y
+10 vii. cualquier convicción penal del titular, de un administrador o de una persona con
+11 control sobre la operación, cuando guarde relación sustancial con las actividades reguladas
+12 por esta Ley.
+13 b) El titular de una licencia que no ejerza la actividad para la cual le fue conferida, deberá
+14 notificar ese hecho al Secretario. La notificación deberá darse dentro de los treinta (30)
+15 días siguientes al inicio del período en el que el titular de la licencia no realiza
+16 actividades comerciales mientras está autorizado para ello El titular que cese, suspenda
+17 o interrumpa las actividades para las cuales se le expidió la licencia deberá notificarlo
+18 al Secretario dentro de los diez (10) días laborables siguientes al cese, suspensión o
+19 interrupción. La notificación deberá indicar la fecha en que cesaron las operaciones, las
+20 razones para ello, la duración estimada de la interrupción y la forma en que se manejará
+21 o dispondrá de cualquier chatarra que permanezca bajo su custodia. Cuando el cese de
+22 operaciones sea permanente, el titular deberá entregar la licencia al Secretario y
+
+20
+1 acreditar la disposición segura de los materiales acumulados, conforme a los requisitos
+2 del Departamento de Recursos Naturales y Ambientales y de las demás agencias con
+3 jurisdicción.
+4 c) Si un titular de licencia realiza actividades de negocio bajo un nombre comercial, deberá
+5 notificar al Secretario cualquier cambio en dicho nombre en un término no mayor de treinta (30)
+6 días luego de tal cambio Ningún cambio notificado conforme a este Artículo autorizará al titular
+7 a realizar actividades distintas de las expresamente contempladas en la licencia ni sustituirá la
+8 obligación de obtener previamente las enmiendas, permisos, endosos o autorizaciones requeridas
+9 por las agencias con jurisdicción. El titular no podrá iniciar operaciones bajo una nueva ubicación,
+10 nombre comercial, estructura jurídica, administrador o vehículo hasta que haya obtenido las
+11 autorizaciones correspondientes, cuando estas sean exigidas por ley o reglamento.
+12 d) Cualquier violación a lo dispuesto en este Artículo conllevará una multa administrativa
+13 no menor de quinientos (500) dólares por infracción, ni mayor de mil (1,000) dólares.”
+14 Sección 11 12.- Se enmienda el Artículo 10 renumerado Artículo 13 de la Ley Núm.
+15 125 de 27 de junio de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”,
+16 para que se lea como sigue:
+17 “Artículo 1013.─ [REVOCACIÓN DE LICENCIA] Revocación de licencia.─
+18 Cualquier licencia expedida a tenor de las disposiciones de esta ley, previa
+19 notificación y después de dar al interesado [una] la oportunidad [a] de ser oído, podrá ser
+20 revocada por el Secretario o deberá ser entregada a éste, en los siguientes casos:
+21 a) venta, cesión o traspaso del depósito de chatarra;
+
+21
+1 b) [Violación] violación de cualesquiera de las condiciones impuestas por el
+2 Secretario en la licencia;
+3 c) [Violación] violación de cualesquiera de las disposiciones de esta ley;
+4 d) [Cualquier] cualquier violación de las leyes penales en la operación del negocio
+5 de depósito de chatarra o en la compra, venta, almacenamiento y manejo de chatarra por parte de
+6 aquellas personas autorizadas a operar como colectores de chatarra.
+7 En adición a las razones antes expuestas Además, el Secretario podrá revocar las licencias,
+8 tanto de operador de depósito de chatarra como de colector de chatarra, cuando se demuestre que:
+9 a) el titular de la licencia no realiza ninguna actividad comercial conforme a la autoridad
+10 conferida en la licencia;
+11 b) el administrador del depósito de chatarra mencionado en la licencia no actúa como tal
+12 en ninguno de los sitios identificados en esta;
+13 c) el titular de la licencia no es una persona idónea para ejercer la actividad de operador de
+14 depósitos de chatarra o como colector de chatarra; o
+15 d) si el titular de la licencia es convicto por cualquier delito grave.”
+16 Sección 13.- Se enmienda el renumerado Artículo 14, de la Ley Núm. 125 de 27 de junio
+17 de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”, para que se lea como
+18 sigue:
+19 “Artículo 11 14. — Revisión.
+20 Cualquier persona, firma o corporación adversamente afectada por la decisión del
+21 Secretario, a tenor con las disposiciones de esta ley podrá, dentro de treinta (30) días a
+22 partir de la fecha de habérsele notificado dicha decisión, radicar una solicitud de revisión
+
+22
+1 en el Tribunal de Primera Instancia, para que éste determine la legalidad de la decisión,
+2 todo ello de conformidad con las reglas aplicables a los recursos para la revisión de
+3 decisiones administrativas por dicho tribunal
+4 Cualquier parte adversamente afectada por una orden o resolución final del Secretario, y
+5 que haya agotado todos los remedios administrativos disponibles, podrá presentar una solicitud de
+6 revisión judicial ante el Tribunal de Apelaciones dentro de un término de treinta (30) días, contado
+7 a partir de la fecha del archivo en autos de copia de la notificación de la orden o resolución final, o
+8 a partir de la fecha aplicable cuando dicho término haya sido interrumpido mediante la
+9 presentación oportuna de una moción de reconsideración.
+10 La revisión judicial se llevará a cabo en conformidad con la Ley 38-2017, según enmendada,
+11 conocida como la “Ley de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”.
+12 La presentación de una solicitud de revisión judicial no paralizará los efectos de la orden o
+13 resolución recurrida, salvo que el Tribunal de Apelaciones disponga lo contrario conforme a
+14 derecho.”
+15 Sección 14.- Se enmienda el renumerado Artículo 16, de la Ley Núm. 125 de 27 de junio
+16 de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”, para que se lea como
+17 sigue:
+18 “Artículo 13 16. — Supresión de Estorbo Público.
+19 El Tribunal de Primera Instancia, a instancias del Secretario de Justicia quien podrá
+20 actuar por iniciativa propia o a solicitud del Secretario, del Departamento de Recursos Naturales
+21 y Ambientales, de un municipio o de cualquier otra entidad gubernamental con jurisdicción,
+22 tendrá facultad para ordenar la remoción, clausura o supresión, por razón de estorbo
+
+23
+1 público, de cualquier depósito de chatarra que se le pruebe que no está cumpliendo con
+2 los requisitos que por esta ley se le exigen o lugar utilizado para recibir, acumular, almacenar,
+3 procesar o manejar chatarra que opere sin las licencias, permisos o autorizaciones requeridas, que
+4 incumpla con las disposiciones de esta Ley o que represente un riesgo para la salud, la seguridad,
+5 el ambiente, el ornato público o el libre tránsito.
+6 No será necesario a tales fines que, previamente, se haya condenado a persona
+7 alguna por infracción a los Artículos 16 y 17 18 y 19 de esta ley. En el procedimiento que
+8 se inste al efecto el tribunal tendrá facultad, entre otras, para tomar las medidas que
+9 fueren necesarias, según las circunstancias de cada caso, para la protección del bienestar
+10 y del orden público; para decretar la remoción inmediata del depósito de chatarra y así
+11 también para dejar sin efecto la remoción ya decretada, si se le demostrare que, sin
+12 propósito de evasivas, el depósito será operado en cumplimiento de ley para ordenar el
+13 cese de operaciones, la clausura temporal o permanente, la remoción de la chatarra, la limpieza y
+14 rehabilitación del lugar, la corrección de cualquier condición peligrosa y cualquier otra medida
+15 cautelar o remedio que resulte necesario.
+16 Cuando exista un riesgo inminente para la salud, la seguridad o el ambiente, el tribunal
+17 podrá ordenar la remoción inmediata de la chatarra o la clausura provisional del lugar, sin
+18 perjuicio de que posteriormente se celebre la vista correspondiente conforme al debido proceso de
+19 ley.
+20 El tribunal podrá dejar sin efecto, modificar o suspender una orden de clausura o remoción
+21 cuando la parte afectada demuestre que ha corregido las condiciones que dieron lugar al
+22 procedimiento, que ha obtenido las licencias y permisos correspondientes y que cuenta con
+
+24
+1 mecanismos adecuados para operar en cumplimiento con esta Ley y con las demás leyes y
+2 reglamentos aplicables.
+3 En el caso de que no se cumpla con la remoción del depósito de chatarra, ordenado
+4 por el Tribunal, el Secretario, o su agente, podrán confiscar aquellos depósitos y disponer
+5 mediante pública subasta del material de chatarra almacenado en los mismos. De
+6 venderse en pública subasta los materiales de chatarra, el importe de la venta ingresará a
+7 los fondos generales del Gobierno. De no poderse vender en pública subasta, el Secretario
+8 podrá disponer de dicho depósito como mejor convenga al interés público.
+9 La persona natural o jurídica responsable del estorbo público responderá por los costos
+10 razonables incurridos por el Gobierno en la inspección, remoción, transportación, almacenamiento,
+11 limpieza, rehabilitación y disposición de los materiales, sin perjuicio de las sanciones
+12 administrativas, civiles o penales que correspondan. El Gobierno podrá reclamar dichos costos
+13 mediante el procedimiento judicial correspondiente.”
+14 Sección 15.- Se enmienda el renumerado Artículo 17, de la Ley Núm. 125 de 27 de junio
+15 de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”, para que se lea como
+16 sigue:
+17 “Artículo 14 17. — Reglas de Procedimiento.
+18 La acción aquí autorizada por el Artículo 14 de esta ley, será de naturaleza civil y
+19 se regirá por las reglas de procedimiento aplicables a las acciones civiles.
+20 La acción autorizada por el Artículo 16 de esta Ley será de naturaleza civil y se regirá por
+21 las Reglas de Procedimiento Civil de Puerto Rico.
+
+25
+1 Los remedios concedidos al amparo de dicho Artículo serán acumulativos y no impedirán
+2 la imposición de multas administrativas, sanciones penales o cualquier otro remedio autorizado
+3 por ley.”
+4 Sección 12 16.- Se enmienda el Artículo 15 renumerado Artículo 18 de la Ley Núm.
+5 125 de 27 de junio de 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”,
+6 para que se lea como sigue:
+7 “Artículo 15 18.[-] ─ Operar sin licencia; penalidades.─
+8 Toda persona dedicada a la compra, venta, almacenamiento y manejo de chatarra como
+9 colector, así como toda firma o corporación que establezca, opere o mantenga un depósito
+10 de chatarra, según éste se define en el inciso (b) del Artículo 2 de esta Ley, sin haber
+11 obtenido la licencia para operar que se le requiere por el Artículo 3 de esta Ley, o que no
+12 cumpla con las condiciones requeridas en el inciso (g) del Artículo 5 de esta Ley incurrirá
+13 en delito menos grave y convicta que fuere será condenada a multa no menor de dos mil
+14 (2,000) dólares, ni mayor de cinco mil (5,000) dólares o a pena de reclusión por un término
+15 que no exceda de seis meses, o ambas penas a discreción del tribunal
+16 Toda persona natural o jurídica que establezca, opere o mantenga un depósito de chatarra,
+17 según definido en el inciso (b) del Artículo 3 de esta Ley, o que ejerza actividades como colector de
+18 chatarra, sin haber obtenido la licencia correspondiente exigida por el Artículo 4 de esta Ley,
+19 incurrirá en delito menos grave.
+20 Incurrirá en delito menos grave quien continúe realizando dichas actividades después del
+21 vencimiento, suspensión, revocación, cancelación o entrega de su licencia.
+22 También incurrirá en delito menos grave toda persona que, a sabiendas:
+
+26
+1 (a) opere un depósito de chatarra en una ubicación distinta de la autorizada en su licencia;
+2 (b) utilice, transfiera, ceda, altere o permita el uso de una licencia expedida a otra persona;
+3 (c) almacene o acumule habitualmente chatarra, bajo una licencia de colector, en una
+4 residencia, solar, vehículo, vía pública o lugar que no esté autorizado como depósito de
+5 chatarra;
+6 (d) omita llevar o conservar los registros requeridos por el inciso (g) del Artículo 6 de esta
+7 Ley, o incluya en estos información falsa con conocimiento de su falsedad;
+8 (e) destruya, altere, oculte o falsifique los registros, documentos, números de identificación
+9 o información relacionada con la procedencia, adquisición, transportación o disposición de
+10 la chatarra; o
+11 (f) impida, obstruya o se niegue injustificadamente a permitir una inspección autorizada
+12 conforme a esta Ley.
+13 Toda persona natural convicta por una infracción a este Artículo será sancionada con una
+14 multa no menor de dos mil dólares ($2,000) ni mayor de cinco mil dólares ($5,000), pena de
+15 reclusión por un término fijo de seis (6) meses, o ambas penas, a discreción del tribunal.
+16 Cuando la infracción sea cometida por una persona jurídica, esta será sancionada con una
+17 multa no menor de cinco mil dólares ($5,000) ni mayor de diez mil dólares ($10,000). Además,
+18 responderá penalmente toda persona natural que, como director, oficial, administrador, socio,
+19 agente o representante de la entidad, haya autorizado, ordenado, participado o consentido la
+20 conducta constitutiva de delito.
+
+27
+1 Las penalidades establecidas en este Artículo serán independientes de la suspensión o
+2 revocación de la licencia, de las multas administrativas y de cualquier remedio civil que proceda
+3 conforme a derecho.”
+4 Sección 17.- Se enmienda el renumerado Artículo 19 de la Ley Núm. 125 de 27 de junio de
+5 1966, según enmendada, conocida como “Ley de Depósitos de Chatarra”, para que se lea como
+6 sigue:
+7 “Artículo 16 19. — Cada Día Una Violación.
+8 A los efectos de los Artículos 16 y 17 de esta ley, cada día en que se incurra en
+9 dichas violaciones constituirá un delito separado.
+10 A los efectos del Artículo 18 de esta Ley, cada día durante el cual una persona continúe
+11 operando un depósito de chatarra o ejerciendo actividades como colector de chatarra sin la licencia
+12 correspondiente, o luego de que esta haya vencido, sido suspendida, revocada, cancelada o
+13 entregada, constituirá un delito separado.
+14 También constituirá un delito separado cada día durante el cual una persona continúe
+15 operando un depósito en una ubicación no autorizada, mantenga una acumulación habitual de
+16 chatarra en un lugar no autorizado o incumpla una orden administrativa o judicial final que
+17 requiera el cese de operaciones, la remoción de materiales o la corrección de una condición contraria
+18 a esta Ley.
+19 La consideración de cada día como un delito separado no aplicará a omisiones o
+20 incumplimientos documentales aislados, salvo que la persona haya sido notificada del
+21 incumplimiento y no lo corrija dentro del término concedido por el Secretario mediante orden. En
+
+28
+1 tales casos, cada día posterior al vencimiento de dicho término podrá considerarse una infracción
+2 separada.”
+3 Sección 13 18.- Reglamentación.
+4 Se faculta al Departamento de Transportación y Obras Públicas, al Departamento
+5 de Hacienda, al Departamento de Recursos Naturales y Ambientales, y a la Policía de
+6 Puerto Rico a establecer la reglamentación necesaria o a atemperar cualquier reglamento
+7 vigente a lo establecido en esta Ley.
+8 Sección 14 19.- Separabilidad.
+9 Si cualquier artículo, inciso, parte, párrafo o cláusula de esta ley o su aplicación a
+10 cualquier persona o circunstancia, fuera declarada inconstitucional por un Tribunal
+11 competente, la sentencia dictada no afectará ni invalidará sus demás disposiciones. El
+12 efecto de dicha sentencia quedará limitado a la cláusula, párrafo, artículo, sección o parte
+13 de esta que así hubiere sido declarada inconstitucional o inválida.
+14 Sección 15 20.- Vigencia.
+15 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+16 Esta Ley entrará en vigor inmediatamente después de su aprobación para que el
+17 Departamento de Transportación y Obras Públicas y las demás agencias concernidas adopten o
+18 enmienden los reglamentos, formularios, registros electrónicos y procedimientos necesarios para
+19 implantarla.
+20 El Departamento de Transportación y Obras Públicas comenzará a recibir y tramitar
+21 solicitudes de licencia de colector de chatarra dentro de los ciento ochenta (180) días siguientes a
+22 la aprobación de esta Ley.
+
+29
+1 Las personas naturales o jurídicas que, al momento de aprobarse esta Ley, operen como
+2 colectores de chatarra tendrán ciento ochenta (180) días, contados desde la fecha en que el
+3 Departamento anuncie que el procedimiento de solicitud está disponible, para presentar su
+4 solicitud y acreditar que cuentan con los permisos, registros y autorizaciones aplicables.
+5 Los colectores existentes podrán continuar operando durante ese término. Quienes
+6 presenten oportunamente una solicitud completa podrán continuar sus operaciones hasta que el
+7 Secretario adjudique la solicitud, salvo que una agencia con jurisdicción determine que sus
+8 actividades representan un riesgo para la salud, la seguridad o el ambiente, o que incumplen con
+9 alguna ley o reglamento aplicable.
+10 Las licencias vigentes para operar depósitos de chatarra continuarán en vigor hasta su fecha
+11 de vencimiento. Al solicitar su renovación, sus titulares deberán cumplir con las nuevas
+12 disposiciones de esta Ley y mantener vigentes el Permiso Único, los permisos ambientales y las
+13 demás autorizaciones requeridas.
+14 Las multas administrativas y las disposiciones penales relacionadas con la falta de una
+15 licencia de colector comenzarán a aplicar una vez concluya el periodo transitorio establecido en
+16 esta Sección. Las demás disposiciones de esta Ley serán exigibles desde su aprobación, según
+17 corresponda.

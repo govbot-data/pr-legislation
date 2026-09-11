@@ -1,0 +1,324 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 4ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1458
+10 de septiembre de 2026
+Presentado por el señor González López
+Referido a la Comisión de
+LEY
+Para añadir un nuevo Artículo 3.1, enmendar los Artículos 3, 5 y 7, y añadir los nuevos
+Artículos 5.1 y 5.2 a la Ley 76-2020, según enmendada, conocida como la “Ley
+Especial para Prevenir la Explotación Financiera contra los Adultos Mayores y
+Adultos con Impedimentos”, a los fines de incorporar definiciones e indicadores
+relacionados con fraude tecnológico, inteligencia artificial, clonación de voz o
+imagen, suplantación de identidad, activos virtuales, tarjetas de regalo y
+transferencias electrónicas; fortalecer los protocolos de prevención de las
+instituciones reguladas; establecer la designación voluntaria de un contacto de
+confianza; disponer advertencias y confirmaciones antifraude para determinados
+cajeros o quioscos de activos virtuales sujetos a la jurisdicción de Puerto Rico;
+encomendar materiales uniformes de orientación sobre fraude mediante tarjetas
+de regalo; ampliar la Alianza para la Educación y Capacitación sobre Explotación
+Financiera; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Las modalidades de fraude dirigidas contra las personas adultas mayores
+evolucionan con rapidez. Las herramientas tecnológicas permiten reproducir voces,
+generar imágenes, videos y comunicaciones de apariencia auténtica, y suplantar con
+alto grado de credibilidad a familiares, funcionarios públicos, instituciones financieras y
+otras personas o entidades de confianza.
+
+2
+En estos esquemas, el elemento tecnológico suele combinarse con presión
+emocional, urgencia, aislamiento y secretividad. La víctima puede recibir instrucciones
+para transferir fondos inmediatamente, adquirir tarjetas de regalo, depositar efectivo en
+un cajero de activos virtuales o utilizar otros instrumentos cuya recuperación resulta
+difícil una vez culminada la transacción.
+Puerto Rico no parte de un vacío jurídico. La Ley 76-2020, según enmendada,
+conocida como la “Ley Especial para Prevenir la Explotación Financiera contra los
+Adultos Mayores y Adultos con Impedimentos”, establece indicadores de explotación
+financiera y ordena a la Oficina del Comisionado de Instituciones Financieras, a la
+Corporación Pública para la Supervisión y Seguro de Cooperativas de Puerto Rico y a la
+Oficina del Comisionado de Seguros adoptar reglamentos, protocolos y procesos de
+prevención y detección. Asimismo, la Ley 121-2019, según enmendada, contiene
+deberes de referido y autoriza, bajo circunstancias y términos específicos, la retención
+provisional de determinados desembolsos.
+Ese marco vigente ofrece la estructura adecuada para incorporar las nuevas
+señales de alerta sin crear otra ley especial ni otro procedimiento incompatible. Sin
+embargo, los indicadores enumerados en la Ley 76-2020 anteceden la expansión reciente
+de la clonación de voz o imagen, los contenidos sintéticos, la suplantación asistida por
+inteligencia artificial y ciertos mecanismos de pago utilizados para acelerar o dificultar
+el rastreo de los fondos.
+La intervención legislativa debe conservar un balance cuidadoso. La edad, por sí
+sola, no puede justificar que se restrinja a una persona el acceso a sus bienes. Toda
+actuación preventiva deberá descansar en hechos objetivos, documentarse, utilizar el
+medio menos restrictivo y respetar la legislación estatal y federal aplicable. El contacto
+de confianza, por su parte, debe ser voluntario, revocable y carente de autoridad para
+disponer de fondos salvo que cuente con facultad jurídica independiente.
+La medida también reconoce que los puntos físicos donde se adquieren activos
+virtuales y los lugares donde se venden tarjetas de regalo pueden servir como una
+última oportunidad para interrumpir el engaño. Por ello, dispone advertencias claras,
+
+3
+preguntas de confirmación y materiales educativos, sin atribuir a comerciantes
+ordinarios funciones investigativas ni imponerles acceso a información financiera
+confidencial.
+Las disposiciones aquí aprobadas complementan, y no sustituyen, los deberes
+federales relacionados con identificación de clientes, prevención de lavado de dinero,
+informes de actividad sospechosa, privacidad y demás obligaciones aplicables.
+Tampoco crean un delito nuevo, pues la conducta fraudulenta y la explotación
+financiera continúan sujetas al Código Penal y a las leyes protectoras vigentes.
+Por todo lo anterior, esta Asamblea Legislativa entiende necesario atemperar la
+Ley 76-2020 a los instrumentos contemporáneos de fraude, fortalecer la prevención
+antes de que se complete una transacción irreversible y coordinar la educación pública y
+los referidos, salvaguardando simultáneamente la autonomía, privacidad y propiedad
+de las personas protegidas
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se añade un nuevo Artículo 3.1 a la Ley 76-2020, según enmendada,
+2 conocida como la “Ley Especial para Prevenir la Explotación Financiera contra los
+3 Adultos Mayores y Adultos con Impedimentos”, para que lea como sigue:
+4 “Artículo 3.1.- Definiciones.
+5 Para propósitos de esta Ley, los siguientes términos tendrán el significado que se
+6 expresa a continuación:
+7 (a) ‘Activo virtual’.- Representación digital de valor que puede intercambiarse o
+8 transferirse digitalmente y utilizarse para fines de pago o inversión, conforme
+9 sea definida o regulada por la legislación estatal o federal aplicable. No incluye
+10 moneda de curso legal ni puntos o recompensas que solamente puedan utilizarse
+11 con su emisor.
+
+4
+1 (b) ‘Contacto de confianza’.- Persona natural designada voluntariamente por una
+2 persona protegida para que una institución cubierta pueda comunicarse con ella
+3 bajo las circunstancias limitadas establecidas en esta Ley y su reglamentación.
+4 (c) ‘Fraude tecnológico’.- Esquema fraudulento que utilice comunicaciones electrónicas,
+5 inteligencia artificial, contenido sintético, clonación o manipulación de voz o
+6 imagen, suplantación de identidad, activos virtuales u otra tecnología para
+7 obtener dinero, propiedad, información personal o acceso financiero.
+8 (d) ‘Institución cubierta’.- Toda institución financiera, cooperativa de ahorro y crédito o
+9 asegurador sujeto a los protocolos ordenados por el Artículo 5 de esta Ley,
+10 dentro de la jurisdicción de la entidad reguladora correspondiente.
+11 (e) ‘Persona protegida’.- Un adulto mayor o adulto con impedimentos cobijado por esta
+12 Ley.
+13 (f) ‘Transacción sospechosa’.- Transacción que, evaluada junto con las circunstancias
+14 conocidas y los indicadores establecidos en esta Ley, presenta fundamentos
+15 objetivos y documentables compatibles con fraude, engaño, coerción o
+16 explotación financiera.”
+17 Sección 2.- Se enmienda el Artículo 3 de la Ley 76-2020, según enmendada, para
+18 que lea como sigue:
+19 “Artículo 3.- Detección de casos de explotación financiera; indicadores aplicables.
+20 Para la identificación de casos de explotación financiera según tipificados en las
+21 leyes, reglamentos y demás estatutos aplicables, se utilizarán los siguientes indicadores,
+22 considerados individualmente o en conjunto según el contexto:
+
+5
+1 I. Indicadores generales
+2 (a) a la (z) …
+3 II. Indicadores de fraude tecnológico y modalidades contemporáneas
+4 (a) La persona recibe una comunicación que aparenta provenir de un familiar,
+5 funcionario público, institución financiera, empresa u otra persona de confianza
+6 y se le exige actuar con urgencia o mantener la solicitud en secreto.
+7 (b) La comunicación utiliza o aparenta utilizar voz, imagen, video, firma, mensaje o
+8 documento generado, clonado o manipulado mediante inteligencia artificial u
+9 otra tecnología.
+10 (c) Se instruye a la persona a convertir o transferir fondos mediante activos virtuales,
+11 cajeros o quioscos de activos virtuales, tarjetas de regalo, transferencias
+12 electrónicas, aplicaciones de pago u otro mecanismo atípico o difícilmente
+13 reversible.
+14 (d) Se alega una emergencia, arresto, secuestro, accidente, premio, inversión, relación
+15 afectiva, deuda contributiva o gubernamental, o amenaza de suspensión de
+16 servicios para inducir un pago inmediato.
+17 (e) Se instruye a la persona a omitir o falsear el propósito de la transacción, ignorar
+18 advertencias, evadir controles de la institución o impedir que consulte con una
+19 persona de confianza.
+20 (f) La transacción es inconsistente con el historial, medios, propósito declarado o patrón
+21 usual de la persona, particularmente cuando interviene un beneficiario nuevo,
+22 una dirección de cartera digital desconocida o una cuenta recientemente creada.
+
+6
+1 (g) Existe control remoto no solicitado sobre el teléfono, computadora, cuenta
+2 financiera o credenciales de la persona, o esta manifiesta que un tercero le está
+3 indicando en tiempo real cómo completar la transacción.
+4 (h) Cualquier otro indicador tecnológico reconocido mediante reglamento, carta
+5 circular, orden administrativa o guía emitida por una entidad reguladora estatal
+6 o federal competente.”
+7 Sección 3.- Se enmienda el Artículo 5 de la Ley 76-2020, según enmendada, para
+8 que lea como sigue:
+9 “Artículo 5.- Protocolos de prevención, detección y actuación.
+10 Se ordena al Comisionado de Instituciones Financieras, a la Corporación Pública
+11 para la Supervisión y Seguro de Cooperativas de Puerto Rico y al Comisionado de
+12 Seguros establecer, dentro de sus respectivas jurisdicciones y al amparo de sus leyes
+13 orgánicas, los reglamentos, protocolos y procesos de prevención y detección de posibles
+14 casos de explotación financiera contra adultos mayores o adultos con impedimentos.
+15 Estos incorporarán los indicadores establecidos en el Artículo 3 y atenderán los riesgos
+16 particulares del fraude tecnológico.
+17 Los protocolos dispondrán, como mínimo:
+18 (a) adiestramiento periódico del personal que atienda clientes, procese transacciones,
+19 investigue fraude o supervise cumplimiento;
+20 (b) procedimientos para formular preguntas neutrales, advertir sobre indicadores de
+21 fraude, verificar razonablemente el propósito de una transacción y escalar
+22 internamente una situación sospechosa;
+
+7
+1 (c) documentación objetiva, proporcional y confidencial de las actuaciones preventivas;
+2 (d) cumplimiento con los términos, notificaciones y salvaguardas aplicables a cualquier
+3 retención provisional autorizada por el Artículo 18.1 de la Ley 121-2019, según
+4 enmendada, o por otra ley estatal o federal;
+5 (e) procedimientos para referir posibles casos a las agencias competentes sin divulgar
+6 información en contravención con la legislación de privacidad, secreto bancario o
+7 informes de actividad sospechosa; y
+8 (f) mecanismos para distinguir una transacción inusual pero legítima de una que
+9 presente fundamentos razonables de explotación, evitando que la edad o el
+10 impedimento, por sí solos, constituyan causa para restringir servicios.
+11 Toda institución cubierta ofrecerá a la persona protegida una oportunidad
+12 razonable de designar, modificar o revocar un contacto de confianza. La designación
+13 será voluntaria y su ausencia no podrá utilizarse para negar, limitar o condicionar
+14 servicios.
+15 Cuando existan fundamentos razonables y documentados para sospechar
+16 explotación financiera o fraude tecnológico, la institución podrá comunicarse con el
+17 contacto de confianza para verificar la información de contacto, la identidad de
+18 representantes legales, el bienestar de la persona o la existencia de posible fraude. No
+19 divulgará balances, números de cuenta, credenciales ni detalles de transacciones, salvo
+20 consentimiento expreso, orden judicial o autorización legal. La institución no contactará
+21 a la persona designada cuando razonablemente sospeche que participa en la
+22 explotación.
+
+8
+1 La designación no confiere al contacto autoridad para ordenar, aprobar, cancelar
+2 o conocer transacciones, acceder a cuentas o actuar por la persona protegida, salvo que
+3 posea autoridad jurídica independiente y vigente.
+4 Como parte de los referidos, las instituciones cubiertas deberán:
+5 (a) identificar en la hoja de referido todas las agencias a las que remitan el asunto;
+6 (b) incluir un informe de los hechos que dieron lugar al referido y los detalles
+7 lícitamente divulgables que puedan asistir en la investigación; y
+8 (c) mantener una política de cooperación con las agencias concernidas, conforme a
+9 derecho.
+10 Excepto cuando se demuestre mala fe, dolo, negligencia crasa o persecución
+11 maliciosa, no se impondrá responsabilidad civil extracontractual a una institución
+12 cubierta, ni a sus funcionarios o empleados, por efectuar de buena fe una advertencia,
+13 comunicación con un contacto de confianza, referido o actuación preventiva
+14 expresamente autorizada por esta Ley. Esta inmunidad no aplicará a la disposición
+15 indebida de fondos, al incumplimiento de los términos legales de una retención ni a una
+16 violación de la legislación de privacidad.”
+17 Sección 4.- Se añade un nuevo Artículo 5.1 a la Ley 76-2020, según enmendada,
+18 para que lea como sigue:
+19 “Artículo 5.1.- Cajeros o quioscos de activos virtuales.
+20 Todo operador de un cajero, quiosco u otro mecanismo físico para la adquisición
+21 o transferencia de activos virtuales que esté sujeto a licencia, registro o jurisdicción
+
+9
+1 regulatoria del Gobierno de Puerto Rico deberá presentar, antes de completar una
+2 transacción, una advertencia visible, accesible y comprensible en español e inglés.
+3 La advertencia expresará, como mínimo, que:
+4 (a) ninguna agencia gubernamental legítima exige pagos mediante un cajero o quiosco
+5 de activos virtuales;
+6 (b) una solicitud de pago por una supuesta emergencia familiar, amenaza, premio,
+7 inversión garantizada o instrucción de un tercero puede constituir fraude;
+8 (c) la persona no debe completar la operación mientras esté siendo dirigida por
+9 teléfono o por acceso remoto por una persona desconocida; y
+10 (d) las transacciones de activos virtuales pueden ser irreversibles.
+11 El operador requerirá una confirmación afirmativa de que el usuario leyó la
+12 advertencia antes de continuar. La Oficina del Comisionado de Instituciones
+13 Financieras establecerá mediante reglamento, y solamente respecto de operadores bajo
+14 su jurisdicción, pasos adicionales razonables de confirmación antifraude para una
+15 primera transacción o para transacciones que excedan los umbrales que determine
+16 mediante análisis de riesgo. Tales pasos no sustituirán los deberes federales aplicables
+17 ni autorizarán la retención de propiedad fuera de lo permitido por ley.
+18 Este Artículo no se interpretará como una ampliación de la jurisdicción de una
+19 agencia sobre personas o actividades no sujetas a ella por otra disposición legal.”
+20 Sección 5.- Se añade un nuevo Artículo 5.2 a la Ley 76-2020, según enmendada,
+21 para que lea como sigue:
+22 “Artículo 5.2.- Orientación sobre fraude mediante tarjetas de regalo.
+
+10
+1 El Departamento de Asuntos del Consumidor, en coordinación con la Oficina del
+2 Procurador de las Personas de Edad Avanzada, desarrollará y pondrá gratuitamente a
+3 disposición de comerciantes y consumidores materiales uniformes, accesibles y
+4 actualizados sobre esquemas fraudulentos que exigen pagos mediante tarjetas de
+5 regalo. Los materiales incluirán advertencias para exhibición voluntaria en puntos de
+6 venta y orientación para el personal y los consumidores sobre cómo detener y reportar
+7 una transacción sospechosa.
+8 El Departamento podrá formalizar acuerdos voluntarios con comerciantes,
+9 emisores de tarjetas, asociaciones empresariales, organizaciones de protección al
+10 consumidor y entidades federales. Nada de lo dispuesto en este Artículo obligará a un
+11 comerciante ordinario a investigar al comprador, divulgar información confidencial o
+12 impedir una venta lícita, salvo que otra ley así lo requiera.”
+13 Sección 6.- Se enmienda el Artículo 7 de la Ley 76-2020, según enmendada, para
+14 que lea como sigue:
+15 “Artículo 7.- Alianza para la Educación y Capacitación sobre Explotación
+16 Financiera.
+17 Se establece una Alianza con la encomienda de elaborar, actualizar y promover
+18 un plan continuo de educación, capacitación y colaboración sobre explotación financiera
+19 y fraude tecnológico para los componentes del sistema de justicia, instituciones
+20 cubiertas, comerciantes participantes, organizaciones comunitarias y público en general.
+21 La Alianza estará integrada por un representante de cada una de las siguientes
+22 entidades:
+
+11
+1 (1) Oficina del Procurador de las Personas de Edad Avanzada;
+2 (2) Administración de Familias y Niños del Departamento de la Familia;
+3 (3) Departamento de Justicia;
+4 (4) Negociado de la Policía de Puerto Rico;
+5 (5) Oficina de Administración de los Tribunales;
+6 (6) Oficina del Comisionado de Instituciones Financieras;
+7 (7) Corporación Pública para la Supervisión y Seguro de Cooperativas de Puerto Rico;
+8 (8) Oficina del Comisionado de Seguros;
+9 (9) Departamento de Asuntos del Consumidor;
+10 (10) un abogado o abogada con conocimiento pertinente; y
+11 (11) una organización sin fines de lucro con experiencia en protección de personas
+12 adultas mayores.
+13 El Departamento de Justicia convocará la Alianza por lo menos dos (2) veces al
+14 año. Cada entidad designará su representante y sufragará su participación con recursos
+15 existentes. La Alianza podrá invitar, sin derecho al voto, a agencias federales,
+16 instituciones financieras, cooperativas, operadores de activos virtuales, comerciantes,
+17 universidades y especialistas en ciberseguridad o inteligencia artificial.
+18 El plan incluirá orientación sobre clonación de voz o imagen, contenido sintético,
+19 suplantación gubernamental o familiar, activos virtuales, tarjetas de regalo,
+20 transferencias electrónicas, aplicaciones de pago, recuperación y reporte oportuno de
+21 fondos, preservación de evidencia y uso seguro de un contacto de confianza. Las
+22 agencias publicarán materiales accesibles en español e inglés y procurarán su
+
+12
+1 distribución mediante municipios, centros de servicios, instituciones financieras y
+2 organizaciones comunitarias.”
+3 Sección 7.- Reglamentación.
+4 La Oficina del Comisionado de Instituciones Financieras, la Corporación Pública
+5 para la Supervisión y Seguro de Cooperativas de Puerto Rico, la Oficina del
+6 Comisionado de Seguros y el Departamento de Asuntos del Consumidor adoptarán o
+7 enmendarán, dentro de sus respectivas jurisdicciones, la reglamentación necesaria para
+8 implantar esta Ley dentro de los ciento ochenta (180) días siguientes a su aprobación. La
+9 reglamentación se adoptará conforme a la Ley 38-2017, según enmendada, conocida
+10 como la “Ley de Procedimiento Administrativo Uniforme del Gobierno de Puerto
+11 Rico”, y será consistente con la legislación federal aplicable.
+12 Sección 8.- Cláusula de interpretación y relación con otras leyes.
+13 Esta Ley complementará y no limitará los remedios, deberes y procedimientos
+14 dispuestos en la Ley 121-2019, según enmendada, conocida como la “Carta de Derechos
+15 y la Política Pública del Gobierno a Favor de los Adultos Mayores”; la Ley 146-2012,
+16 según enmendada, conocida como el “Código Penal de Puerto Rico”; las leyes orgánicas
+17 y reglamentos de las entidades concernidas; y cualquier legislación estatal o federal
+18 aplicable a fraude, explotación financiera, privacidad, informes de actividad
+19 sospechosa, servicios monetarios o activos virtuales.
+20 En caso de conflicto, prevalecerá toda disposición federal aplicable y toda norma
+21 estatal que conceda mayor protección sustantiva a la persona protegida, en la medida
+22 permitida por derecho.
+
+13
+1 Sección 9.- Cláusula de Separabilidad.
+2 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+3 disposición, sección, subsección, capítulo, subcapítulo, acápite o parte de esta Ley fuera
+4 anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal efecto
+5 dictada no afectará, perjudicará ni invalidará el remanente de esta Ley.
+6 El efecto de dicha sentencia quedará limitado a la disposición específica así
+7 anulada o declarada inconstitucional.
+8 Si la aplicación de cualquier disposición de esta Ley a una persona o
+9 circunstancia fuera invalidada o declarada inconstitucional, ello no afectará la
+10 aplicación de las restantes disposiciones a otras personas o circunstancias.
+11 Sección 10.- Vigencia.
+12 Esta Ley entrará en vigor ciento ochenta (180) días después de su aprobación,
+13 excepto las disposiciones sobre reglamentación y coordinación interagencial, que
+14 entrarán en vigor inmediatamente después de su aprobación.
