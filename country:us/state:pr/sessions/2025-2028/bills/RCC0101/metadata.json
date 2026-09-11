@@ -196,6 +196,38 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:19Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:54:11Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:54:11Z"
+      }
+    },
+    {
+      "description": "Pendiente de Votaci\u00f3n Final en Senado",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:54:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -304,7 +336,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:22Z",
+    "logs_latest_update": "2026-09-11T09:54:11Z",
     "text_extraction_latest_update": "2026-07-22T03:27:12.529897Z"
   }
 }

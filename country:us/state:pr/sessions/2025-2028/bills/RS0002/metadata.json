@@ -158,6 +158,16 @@
       }
     },
     {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2025-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:54:11Z"
+      }
+    },
+    {
       "description": "Vista P\u00fablica: Sal\u00f3n Luis A. Negr\u00f3n L\u00f3pez",
       "date": "2025-07-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -208,6 +218,16 @@
       }
     },
     {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-03-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:58:25Z"
+      }
+    },
+    {
       "description": "Vista P\u00fablica: Sal\u00f3n Miguel A. Garc\u00eda M\u00e9ndez",
       "date": "2026-03-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -236,23 +256,25 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:25Z"
       }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-08-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:54:11Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Marissa   Jim\u00e9nez Santoni - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Eliezer  Molina P\u00e9rez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Marissa   Jim\\u00e9nez Santoni - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Eliezer  Molina P\\u00e9rez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -264,11 +286,19 @@
       "organization_id": null
     },
     {
-      "name": "Eliezer  Molina P\u00e9rez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Eliezer  Molina P\\u00e9rez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marissa   Jim\u00e9nez Santoni - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Marissa   Jim\\u00e9nez Santoni - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -322,6 +352,17 @@
       "note": "Texto de Aprobaci\u00f3n Final en Senado",
       "links": [
         {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152474/rs0002a-25 enmendada por la RS 167 y 242.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-06-25",
+      "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
           "url": "https://sutra.oslpr.org/SutraFiles/anejos/152474/rs0002a-25 enmendada por la RS 167, 242 y 299.doc",
           "media_type": "application/msword"
         }
@@ -346,9 +387,24 @@
         {
           "url": "https://sutra.oslpr.org/SutraFilesGen/152474/rs0002a-25 enmendada por la RS 167, 242, 299, 385 y 444.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152474/rs0002a-25 enmendada por la RS 167, 242, 299, 385 y 444.doc",
+          "media_type": "application/msword"
         }
       ],
       "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152474/rs0002a-25 enmendada por la RS 167, 242, 299, 385 y 562 (1).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
       "classification": ""
     }
   ],
@@ -368,7 +424,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:25Z",
+    "logs_latest_update": "2026-09-11T09:54:11Z",
     "text_extraction_latest_update": "2026-07-22T02:09:28.929081Z"
   }
 }

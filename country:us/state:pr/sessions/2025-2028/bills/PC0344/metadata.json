@@ -178,23 +178,69 @@
       "_processing": {
         "log_file_created": "2026-09-10T09:49:39Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:54:11Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:54:11Z"
+      }
+    },
+    {
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:54:11Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:54:11Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Odalys  Gonz\u00e1lez Gonz\u00e1lez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Odalys  Gonz\\u00e1lez Gonz\\u00e1lez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Jos\u00e9 J. P\u00e9rez Cordero - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jos\\u00e9 J. P\\u00e9rez Cordero - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Odalys  Gonz\u00e1lez Gonz\u00e1lez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Odalys  Gonz\\u00e1lez Gonz\\u00e1lez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -254,6 +300,28 @@
       ],
       "date": "2026-09-08",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153883/PC0344votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-10",
+      "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153883/PC0344-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -272,7 +340,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-10T09:49:39Z",
+    "logs_latest_update": "2026-09-11T09:54:11Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-09-10T09:52:33.048666Z"
