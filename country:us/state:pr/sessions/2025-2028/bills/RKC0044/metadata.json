@@ -52,6 +52,16 @@
       }
     },
     {
+      "description": "Relevado de Comisi\u00f3n(es): \u00b0",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-13T10:16:44Z"
+      }
+    },
+    {
       "description": "Descargado en C\u00e1mara",
       "date": "2026-09-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -108,11 +118,11 @@
   ],
   "sponsorships": [
     {
-      "name": "Miembros  PPD - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Nelie  Lebr\u00f3n Robles - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Miembros  PPD - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Nelie  Lebr\\u00f3n Robles - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -124,6 +134,14 @@
       "organization_id": null
     },
     {
+      "name": "Miembros  PPD - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros  PPD - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
       "name": "Lisie J. Burgos Mu\u00f1iz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
@@ -132,19 +150,11 @@
       "organization_id": null
     },
     {
-      "name": "Denis   M\u00e1rquez Lebr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Denis   M\\u00e1rquez Lebr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Nelie  Lebr\u00f3n Robles - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Nelie  Lebr\\u00f3n Robles - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -156,11 +166,11 @@
       "organization_id": null
     },
     {
-      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Denis   M\u00e1rquez Lebr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Denis   M\\u00e1rquez Lebr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -187,6 +197,17 @@
       ],
       "date": "2026-09-10",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/162116/RKC0044 ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -205,7 +226,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-11T09:54:11Z",
+    "logs_latest_update": "2026-09-13T10:16:44Z",
     "text_extraction_latest_update": "2026-09-11T09:59:23.380153Z"
   }
 }

@@ -226,6 +226,16 @@
       "_processing": {
         "log_file_created": "2026-09-10T09:49:39Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2026-09-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-13T10:16:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -345,7 +355,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-10T09:49:39Z",
+    "logs_latest_update": "2026-09-13T10:16:44Z",
     "text_extraction_latest_update": "2026-09-10T09:52:46.597976Z"
   }
 }
