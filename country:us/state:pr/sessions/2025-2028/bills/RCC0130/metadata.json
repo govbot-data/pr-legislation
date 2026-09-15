@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RCC0130",
   "title": "Para ordenar a la Departamento de Agricultura y a la Junta de Planificaci\u00f3n de Puerto Rico de acuerdo con lo establecido a liberar de las restricciones y condiciones sobre preservaci\u00f3n e indivisi\u00f3n previamente impuestas y anotadas seg\u00fan dispuesto en la Ley N\u00fam. 107 de 3 de julio de 1974, seg\u00fan enmendada, del predio de terreno marcado con el n\u00famero veinticuatro (24) en el Plano de Subdivisi\u00f3n de la finca \u201cVega Redonda\u201d, seg\u00fan consta en la Escritura de Compraventa con Restricciones N\u00famero Catorce (14), otorgada en el Municipio de San Juan el 2 de febrero de 1979, sobre la Finca N\u00famero Siete Mil Sesenta y Nueve (7069), inscrita al Folio N\u00famero Ciento Cuarenta y Cuatro (144) del Tomo Ciento Uno (101) de Comer\u00edo, Registro de la Propiedad de Barranquitas, Inscripci\u00f3n Primera e inscrita a favor de don Enrique Matos Ortiz y do\u00f1a Hip\u00f3lita Reyes Gonz\u00e1lez, ambos fenecidos.",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
   ],
@@ -218,6 +218,26 @@
       "_processing": {
         "log_file_created": "2026-09-09T09:43:06Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:24:36Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:24:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -308,6 +328,28 @@
       ],
       "date": "2026-09-08",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155743/RCC0130 Conc..pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155743/RCC0130 enrolado.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -326,7 +368,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-09T09:43:06Z",
+    "logs_latest_update": "2026-09-15T10:24:36Z",
     "text_extraction_latest_update": "2026-09-09T09:46:28.419521Z"
   }
 }

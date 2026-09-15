@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RCS0213",
   "title": "Para designar con el nombre de \u201cCapit\u00e1n Jorge L. \u2018Borgie\u2019 Ramos Pe\u00f1a\u201d la Estaci\u00f3n de\nBomberos del Negociado del Cuerpo de Bomberos de Puerto Rico ubicada en el\nMunicipio de Arroyo; autorizar la instalaci\u00f3n de la rotulaci\u00f3n correspondiente y la\ncelebraci\u00f3n de las actividades protocolares relacionadas con dicha designaci\u00f3n; y\npara otros fines relacionados.",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
   ],
@@ -25,6 +25,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-13T10:16:44Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:24:36Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:24:36Z"
       }
     }
   ],
@@ -68,7 +92,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-13T10:16:44Z",
+    "logs_latest_update": "2026-09-15T10:24:36Z",
     "text_extraction_latest_update": "2026-09-13T10:19:46.327461Z"
   }
 }

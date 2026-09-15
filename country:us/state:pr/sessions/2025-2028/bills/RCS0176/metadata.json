@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RCS0176",
   "title": "Para reasignar al Municipio de Aguas Buenas, la cantidad de cien mil (100,000) d\u00f3lares,\nprovenientes del Inciso e, Apartado 3 de la Resoluci\u00f3n Conjunta N\u00fam. 59-2014;\npara ser utilizados seg\u00fan se desglosa en la Secci\u00f3n 1 de esta Resoluci\u00f3n Conjunta;\npara autorizar el pareo de los fondos reasignados; y para otros fines.",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
   ],
@@ -252,6 +252,16 @@
       "_processing": {
         "log_file_created": "2026-09-13T10:16:44Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:24:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -360,7 +370,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-13T10:16:44Z",
+    "logs_latest_update": "2026-09-15T10:24:36Z",
     "text_extraction_latest_update": "2026-09-13T10:19:57.971205Z"
   }
 }

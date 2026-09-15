@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RCC0090",
   "title": "Para ordenar al Departamento de Agricultura y a la Autoridad de Tierras proceder con la liberaci\u00f3n de las restricciones y las condiciones sobre preservaci\u00f3n e indivisi\u00f3n previamente impuestas y anotadas seg\u00fan dispuesto por la Ley N\u00fam. 107 de 3 de julio de 1974, seg\u00fan enmendada, del predio de terreno marcado con el n\u00famero siete (7) en el plano de subdivisi\u00f3n de la finca Algarrobo, sita en el Barrio Cuy\u00f3n de la jurisdicci\u00f3n municipal de Coamo, Puerto Rico y adquirida por don V\u00edctor Soto D\u00edaz y do\u00f1a Guillermina Torres, hoy fallecidos, a los fines de permitir la segregaci\u00f3n de esta finca a favor de sus hijos herederos.",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
   ],
@@ -162,6 +162,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:27Z"
       }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:24:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -230,6 +240,17 @@
       ],
       "date": "2026-06-22",
       "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154475/rcc0090-Inf (negativo).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -248,7 +269,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:30Z",
+    "logs_latest_update": "2026-09-15T10:24:36Z",
     "text_extraction_latest_update": "2026-07-22T06:13:11.413666Z"
   }
 }
