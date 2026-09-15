@@ -224,7 +224,7 @@
   },
   "_processing": {
     "logs_latest_update": "2026-09-15T10:24:36Z",
-    "text_extraction_latest_update": "2026-09-15T13:12:34.335736Z",
+    "text_extraction_latest_update": "2026-09-15T15:48:59.846331Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-09-10T09:52:44.387413Z"
