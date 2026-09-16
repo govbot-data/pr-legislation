@@ -1,0 +1,307 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1464
+15 de septiembre de 2026
+Presentado por la senadora Moran Trinidad
+Referido a la Comisión de
+LEY
+Para establecer la “Ley para la Cancelación de Suscripciones y Renovaciones
+Automáticas”; establecer requisitos de divulgación, consentimiento, notificación y
+cancelación aplicables a las ofertas de renovación automática y servicios continuos;
+disponer que el mecanismo de cancelación sea sencillo y, como regla general, esté
+disponible por el mismo medio utilizado por el consumidor para suscribirse o
+prestar su consentimiento; prohibir prácticas que obstaculicen o retrasen
+irrazonablemente la cancelación; establecer remedios, restitución y penalidades
+administrativas; facultar al Departamento de Asuntos del Consumidor para
+implantar y fiscalizar esta Ley; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Constitución de Puerto Rico establece en su Artículo II, Sección 7, que ninguna
+persona será privada de su propiedad sin el debido proceso de ley. En ese contexto, es
+imperativo desarrollar una política pública dirigida a proteger los intereses económicos
+y propietarios de los consumidores y a promover relaciones comerciales justas,
+transparentes y razonables. Las suscripciones y renovaciones automáticas, provocan
+cargos recurrentes que inciden directamente sobre el patrimonio del consumidor,
+particularmente cuando continúan efectuándose a pesar de que este ha manifestado su
+intención de terminar la relación contractual. Por ello, el Estado tiene un interés legítimo
+en establecer parámetros razonables que aseguren que el consentimiento para asumir
+
+2
+cargos recurrentes sea informado y afirmativo. Igualmente, es deseable que el
+consumidor pueda retirar dicho consentimiento mediante un mecanismo sencillo,
+accesible y efectivo.
+Esta legislación procura adelantar esos principios mediante salvaguardas que
+protejan el patrimonio de los consumidores frente a prácticas engañosas u obstructivas,
+sin impedir la utilización legítima de modelos comerciales basados en suscripciones o
+renovaciones automáticas. Los modelos de suscripción y de renovación automática
+forman parte de la vida cotidiana de los consumidores. Servicios digitales, plataformas
+de entretenimiento, aplicaciones, membresías, programas de entrega periódica y otros
+bienes y servicios se ofrecen mediante cargos recurrentes que continúan hasta que el
+consumidor toma una acción afirmativa para terminarlos. Este modelo puede ofrecer
+conveniencia y continuidad; sin embargo, cancelar una suscripción no debe ser
+sustancialmente más difícil que contratarla y exige trámites innecesarios, tales como:
+llamadas, comparecencias presenciales, múltiples pantallas, ofertas de retención
+obligatorias o procesos que dificultan materialmente la decisión del consumidor.
+Asimismo, el Artículo II, Sección 18 de la Constitución de Puerto Rico, dispone que
+“[n]o se aprobarán leyes que menoscaben las obligaciones contractuales”. Esta garantía
+constitucional, dirigida a preservar la estabilidad y certeza de las relaciones contractuales,
+no constituye, una prohibición absoluta al ejercicio del poder de reglamentación del
+Estado. El ordenamiento constitucional reconoce que la libertad y estabilidad contractual
+deben armonizarse con la facultad del Estado de adoptar medidas razonables dirigidas a
+promover el bienestar general y proteger intereses públicos legítimos. Cuando un
+comerciante permite que una persona se suscriba por internet, mediante una aplicación,
+por teléfono u otro medio, debe ofrecer una vía de cancelación clara, accesible y
+comparable. La decisión de terminar un cargo recurrente pertenece al consumidor y no
+debe depender de superar obstáculos diseñados para prolongar una relación comercial
+que ya no desea.
+
+3
+Puerto Rico cuenta con un marco general de protección al consumidor administrado
+por el Departamento de Asuntos del Consumidor (DACO). El Reglamento de Prácticas
+Comerciales, Reglamento Núm. 9158 de 6 de febrero de 2020, prohíbe las prácticas y
+anuncios engañosos y exige que la información esencial de una oferta sea divulgada
+adecuadamente. No obstante, resulta conveniente establecer mediante ley un estándar
+uniforme y específico para las suscripciones y servicios continuos que atienda no solo el
+momento de la contratación, sino también el proceso de cancelación, las notificaciones de
+renovación y los cambios materiales en los términos.
+Esta necesidad no es exclusiva de Puerto Rico. Diversas jurisdicciones de los Estados
+Unidos han adoptado medidas conocidas como “Click to Cancel” para impedir que los
+consumidores queden atrapados en cargos recurrentes no deseados. En 2026, la Ciudad
+de Nueva York, adoptó una regla que requiere, entre otras salvaguardas, la divulgación
+clara de los términos materiales, un mecanismo de cancelación tan sencillo como el
+utilizado para prestar consentimiento, la disponibilidad de cancelación por los medios en
+que el comerciante acepta suscripciones y la prohibición de obstruir o retrasar
+irrazonablemente una solicitud de cancelación.
+La experiencia regulatoria de otras jurisdicciones también refleja que el problema
+trasciende la mera incomodidad. Los obstáculos para cancelar pueden provocar que una
+persona continúe pagando por bienes o servicios que ya no desea, que pierda tiempo
+intentando terminar una relación contractual y que tenga que recurrir a medidas
+extraordinarias para detener cargos recurrentes. Por ello, una política pública moderna
+de protección al consumidor debe asegurar transparencia antes de la contratación y, con
+igual importancia, libertad efectiva para terminarla.
+El Tribunal Supremo de Puerto Rico, anteriormente se ha expresado en relación a este
+asunto. En Warner Lambert Co. v. Tribunal Superior, 101 D.P.R. 378 (1973), el Tribunal
+Supremo estableció precisamente que el criterio es de razonabilidad, mediante un balance
+entre el interés social de promover el bien común y el interés de proteger las transacciones
+
+4
+contractuales contra interferencias arbitrarias. Posteriormente, en Trinidad Hernández v.
+ELA, 188 D.P.R. 828 (2013), reiteró que no todo menoscabo contractual es inconstitucional
+y que, frente a contratación privada, debe examinarse si existe un menoscabo sustancial
+y, de existir, si la intervención responde a un interés legítimo y está racionalmente
+relacionada con ese objetivo.
+Es importante recalcar que esta Ley adopta un enfoque neutral respecto de la
+tecnología y del tipo de comercio. Su propósito no es prohibir las suscripciones ni impedir
+que los comerciantes presenten ofertas legítimas de retención. Lo que se exige es que
+dichas ofertas no interfieran con la voluntad del consumidor, que los términos esenciales
+sean claros, que los cambios materiales sean notificados y que una solicitud de
+cancelación sea reconocida y procesada sin condiciones irrazonables. En ese contexto, la
+presente Ley no pretende invalidar obligaciones contractuales legítimamente contraídas
+ni alterar arbitrariamente los términos económicos de acuerdos existentes, sino
+establecer, de manera prospectiva y uniforme, requisitos mínimos aplicables a las
+prácticas comerciales relacionadas con suscripciones, renovaciones automáticas y
+servicios continuos. Tales requisitos responden al interés público legítimo y sustancial de
+proteger a los consumidores frente a cargos recurrentes no deseados y prácticas que
+dificulten, obstaculicen o retrasen irrazonablemente el ejercicio de su voluntad de
+terminar una relación contractual. Las obligaciones aquí impuestas guardan una relación
+razonable con ese propósito, pues no prohíben los modelos comerciales de suscripción,
+no impiden las renovaciones automáticas ni privan a los comerciantes de la facultad de
+ofrecer sus bienes y servicios bajo acuerdos de carácter continuo; únicamente exigen
+transparencia en sus términos, consentimiento informado y mecanismos razonables y
+accesibles para su cancelación. De esta manera, esta Asamblea Legislativa ejerce su poder
+de reglamentación en protección del interés público procurando un balance razonable
+entre la estabilidad de las relaciones contractuales y la protección del patrimonio, la
+autonomía contractual y la libertad de elección de los consumidores.
+
+5
+En consecuencia, esta Asamblea Legislativa, declara como política pública del
+Gobierno de Puerto Rico que todo consumidor que acepte una renovación automática o
+un servicio continuo debe conocer claramente los términos del cargo recurrente y contar
+con un mecanismo sencillo, directo y accesible para cancelarlo. La facilidad de contratar
+no puede coexistir con una dificultad artificial para cancelar.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título.
+2 Esta Ley se conocerá como “Ley para la Cancelación de Suscripciones y Renovaciones
+3 Automáticas”.
+4 Artículo 2.- Propósito y Política Pública
+5 Es la política pública del Gobierno de Puerto Rico proteger a los consumidores frente
+6 a prácticas engañosas, obstructivas o irrazonables relacionadas con renovaciones
+7 automáticas y servicios continuos. A esos fines, toda persona cubierta por esta Ley deberá
+8 divulgar de forma clara los términos materiales de la oferta, obtener el consentimiento
+9 afirmativo del consumidor cuando corresponda y proveer mecanismos de cancelación
+10 sencillos y accesibles, de manera que cancelar no resulte sustancialmente más difícil que
+11 suscribirse.
+12 Artículo 3.- Definiciones
+13 Para fines de esta Ley, los siguientes términos tendrán el significado que se expresa a
+14 continuación:
+15 (a) Comerciante: Significa toda persona natural o jurídica que ofrezca o provea a un
+16 consumidor bienes o servicios mediante una renovación automática o un servicio
+17 continuo.
+
+6
+1 (b) Consumidor: Significa una persona natural que adquiere o acepta bienes o
+2 servicios principalmente para fines personales, familiares o domésticos.
+3 (c) Renovación Automática: Significa un plan o acuerdo mediante el cual una
+4 suscripción pagada o acuerdo de compra se renueva automáticamente al finalizar un
+5 término definido por uno o más términos subsiguientes, salvo que el consumidor cancele.
+6 (d) Servicio Continuo: Significa un plan o acuerdo mediante el cual una suscripción,
+7 membresía o relación de compra continúa hasta que el consumidor la cancela.
+8 (e) Términos Materiales: Incluye, como mínimo, la descripción del bien o servicio; el
+9 precio o cuantía a cobrarse; la frecuencia de los cargos; la duración del término, si alguna;
+10 la fecha o condición para evitar un cargo posterior; cualquier periodo de prueba o precio
+11 promocional; la manera y fecha en que cambiará el precio; y los mecanismos disponibles
+12 para cancelar.
+13 (f) Consentimiento Afirmativo: Significa una manifestación clara e inequívoca del
+14 consumidor mediante la cual acepta la renovación automática o el servicio continuo y sus
+15 términos materiales.
+16 Artículo 4.- Divulgación de los términos y consentimiento.
+17 Antes de solicitar el consentimiento del consumidor o su información de facturación,
+18 el comerciante deberá presentar los términos materiales de la renovación automática o
+19 del servicio continuo de manera clara y conspicua y en proximidad razonable a la
+20 solicitud de consentimiento.
+
+7
+1 Cuando la oferta incluya un periodo gratuito, un regalo, un descuento inicial o un
+2 precio temporal, deberá explicarse claramente cuándo terminará dicho beneficio, cuándo
+3 comenzará el cargo y cuál será el precio o los precios posteriores.
+4 El comerciante deberá obtener el consentimiento afirmativo del consumidor a la
+5 renovación automática o al servicio continuo. El consentimiento no podrá inferirse
+6 exclusivamente del silencio o de la inacción del consumidor.
+7 Artículo 5.- Derecho a cancelación sencilla.
+8 Todo comerciante deberá permitir que el consumidor cancele una renovación
+9 automática o servicio continuo en cualquier momento mediante un mecanismo sencillo
+10 que sea, como mínimo, tan fácil de utilizar como el mecanismo mediante el cual el
+11 consumidor prestó su consentimiento.
+12 La cancelación deberá estar disponible a través del mismo medio utilizado por el
+13 consumidor para suscribirse o prestar su consentimiento. Además:
+14 (a) si el comerciante permite suscripciones o consentimientos por internet o mediante
+15 una aplicación, deberá ofrecer un mecanismo de cancelación por internet o mediante
+16 dicha aplicación;
+17 (b) si permite suscripciones o consentimientos por teléfono, deberá aceptar
+18 cancelaciones por teléfono;
+19 (c) si permite suscripciones o consentimientos en persona, deberá permitir, cuando
+20 sea razonablemente practicable, la cancelación en persona y deberá ofrecer
+21 adicionalmente un mecanismo remoto de cancelación, que podrá incluir un portal
+22 electrónico o correo electrónico; y
+
+8
+1 (d) si el comerciante acepta el consentimiento por varios medios, deberá permitir la
+2 cancelación por esos mismos medios, salvo que demuestre que un medio particular es
+3 técnicamente imposible o está prohibido por ley.
+4 El comerciante deberá proveer al consumidor una confirmación de la cancelación en
+5 un formato que pueda conservar, incluyendo correo electrónico, mensaje de texto,
+6 notificación dentro de una aplicación, recibo o documento equivalente.
+7 Artículo 6.- Prácticas prohibidas durante la cancelación.
+8 Ningún comerciante podrá imponer condiciones irrazonables o ilegales, negarse a
+9 reconocer, obstruir o retrasar irrazonablemente una solicitud o intento de cancelación. Se
+10 considerarán prácticas prohibidas, entre otras:
+11 (a) terminar o interrumpir intencionalmente una llamada iniciada para cancelar;
+12 (b) ocultar, dificultar o proveer información falsa o engañosa sobre cómo cancelar;
+13 (c) representar falsamente las consecuencias, costos o penalidades de una cancelación;
+14 (d) exigir al consumidor que utilice un medio de cancelación más oneroso que el
+15 utilizado para suscribirse, salvo que una ley especial requiera lo contrario;
+16 (e) requerir pasos innecesarios o repetitivos cuyo efecto razonable sea desalentar o
+17 retrasar la cancelación;
+18 (f) continuar cobrando después de la fecha efectiva de cancelación, salvo por
+19 cantidades válidamente adeudadas con anterioridad; o
+20 (g) condicionar la cancelación a escuchar o aceptar una oferta de retención, descuento
+21 o beneficio.
+
+9
+1 Nada de lo dispuesto en este Artículo impedirá que el comerciante presente una oferta
+2 voluntaria de retención, siempre que el consumidor pueda rechazarla de inmediato y
+3 continuar con la cancelación sin obstáculos ni demoras irrazonables.
+4 Artículo 7.- Bienes no solicitados.
+5 Cuando, bajo una renovación automática o servicio continuo, un comerciante envíe
+6 bienes, mercancías o productos sin haber obtenido previamente el consentimiento
+7 afirmativo requerido por esta Ley, tales bienes se considerarán enviados sin obligación
+8 de pago o devolución por parte del consumidor. El consumidor no vendrá obligado a
+9 sufragar costos de envío o devolución por dichos bienes, sin perjuicio de cualquier
+10 disposición federal aplicable.
+11 Artículo 8.- Avisos de renovación.
+12 Cuando una renovación automática o servicio continuo tenga un término inicial
+13 pagado de un (1) año o más y se renueve por un término pagado de seis (6) meses o más,
+14 el comerciante deberá notificar al consumidor la próxima renovación no menos de quince
+15 (15) días ni más de cuarenta y cinco (45) días antes de la fecha límite para cancelar y evitar
+16 el cargo.
+17 El aviso deberá identificar el cargo próximo, la fecha de renovación y las instrucciones
+18 claras para cancelar. El aviso se enviará por un canal seleccionado o utilizado
+19 regularmente por el consumidor, incluyendo correo electrónico, mensaje de texto,
+20 notificación de aplicación u otro canal ofrecido por el comerciante.
+21 Artículo 9.- Cambios materiales.
+
+10
+1 Todo comerciante deberá notificar al consumidor cualquier cambio material en los
+2 términos de la renovación automática o servicio continuo, incluyendo aumentos de
+3 precio, no menos de cinco (5) días laborables ni más de treinta (30) días antes de la fecha
+4 de efectividad del cambio. La notificación deberá indicar claramente el cambio, su fecha
+5 de vigencia y la forma de cancelar.
+6 Artículo 10.- Periodos de prueba.
+7 Cuando una oferta incluya un periodo de prueba gratuito o promocional de más de
+8 treinta (30) días seguido de un cargo automático, el comerciante deberá notificar al
+9 consumidor el próximo cargo no menos de tres (3) días ni más de veintiún (21) días antes
+10 de la fecha límite para cancelar y evitar el primer cargo. El aviso deberá incluir
+11 instrucciones claras para cancelar.
+12 Artículo 11.- Restitución.
+13 Cuando se determine que un comerciante violó esta Ley al no reconocer, obstruir o
+14 retrasar irrazonablemente una cancelación, se podrá ordenar la restitución de toda
+15 cantidad cobrada por la renovación automática o servicio continuo después del primer
+16 intento documentado del consumidor de cancelar, además de cualquier otro remedio
+17 disponible en ley.
+18 Artículo 12.- Administración y fiscalización.
+19 Toda violación a esta Ley constituirá una práctica prohibida para fines de la
+20 legislación y se podrá investigar querellas, celebrar procedimientos adjudicativos,
+21 ordenar el cese y desista, imponer restitución y utilizar los demás remedios que le
+22 confiera su ley orgánica y otras leyes aplicables.
+
+11
+1 Artículo 13.- Penalidades administrativas.
+2 Sin perjuicio de otras penalidades autorizadas por ley, se podrá imponer por cada
+3 violación de esta Ley una multa administrativa de:
+4 (a) quinientos dólares ($500) por una primera violación;
+5 (b) mil quinientos dólares ($1,500) por una segunda violación; y
+6 (c) cinco mil dólares ($5,000) por una tercera o subsiguiente violación.
+7 Al fijar la penalidad, se podrá considerar la gravedad de la conducta, el número de
+8 consumidores afectados, la duración de la práctica, la buena fe del comerciante, las
+9 medidas correctivas adoptadas y cualquier reincidencia.
+10 Artículo 14.- Exenciones y armonización.
+11 Esta Ley no aplicará en la medida en que una entidad, producto, contrato o servicio
+12 esté sujeto a un régimen federal o local especializado que establezca requisitos de
+13 cancelación incompatibles con esta Ley o cuya aplicación esté expresamente prevenida
+14 por ley federal.
+15 Se podrá, mediante reglamento y previa justificación, reconocer exenciones limitadas
+16 para entidades financieras, cooperativas de ahorro y crédito, aseguradores, contratos de
+17 servicio u otras actividades reguladas por una agencia especializada, cuando determine
+18 que existe un régimen de protección al consumidor sustancialmente equivalente o que la
+19 aplicación simultánea produciría un conflicto regulatorio.
+20 Nada de este Artículo se interpretará para eximir a un comerciante únicamente por el
+21 hecho de pertenecer a una industria regulada, si no existe una disposición incompatible
+22 o una protección sustancialmente equivalente.
+
+12
+1 Artículo 15.- Relación con otras leyes.
+2 Los derechos y remedios establecidos por esta Ley serán adicionales a cualesquiera
+3 otros derechos o remedios reconocidos por el Código Civil de Puerto Rico, la Ley
+4 Orgánica del Departamento de Asuntos del Consumidor, el Reglamento de Prácticas
+5 Comerciales y cualquier otra ley o reglamento aplicable. En caso de conflicto, prevalecerá
+6 la disposición que conceda mayor protección al consumidor, salvo que una ley especial
+7 disponga expresamente lo contrario.
+8 Artículo 16.- Reglamentación.
+9 Se adoptará o enmendará la reglamentación necesaria para la cabal implantación de
+10 esta Ley dentro de los ciento veinte (120) días siguientes a su aprobación.
+11 Artículo 17.- Separabilidad.
+12 Si cualquier artículo, inciso, parte, párrafo o cláusula de esta Ley o su aplicación a
+13 cualquier persona o circunstancia, fuera declarada inconstitucional por un Tribunal
+14 competente, la sentencia dictada no afectará ni invalidará sus demás disposiciones. El
+15 efecto de dicha sentencia quedará limitado a la cláusula, párrafo, artículo, sección o parte
+16 de esta que así hubiere sido declarada inconstitucional o inválida.
+17 Artículo 18.- Vigencia.
+18 Esta Ley entrará en vigor inmediatamente después de su aprobación.
