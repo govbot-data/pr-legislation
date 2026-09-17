@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0544",
-  "title": "Para ordenar a la Comisi\u00f3n de Transportaci\u00f3n, Telecomunicaciones, Servicios P\u00fablicos y Asuntos del Consumidor del Senado de Puerto Rico, realizar un estudio dirigido a constatar el estado procesal en el que se encuentra el proyecto anunciado para construir unos elevados en los tres sem\u00e1foros de la Carretera Estatal PR-3 en el \u00e1rea de R\u00edo Grande, que se supone lleguen hasta la entrada de El Yunque y el hotel Wyndham Grand R\u00edo Mar para disminuir la congesti\u00f3n vehicular que se forma en el lugar; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Transportaci\u00f3n, Telecomunicaciones, Servicios P\u00fablicos y Asuntos del Consumidor del Senado de Puerto Rico, a realizar un estudio dirigido a constatar el estado procesal en el que se encuentra el proyecto anunciado para construir unos accesos elevados en los tres sem\u00e1foros de la Carretera Estatal PR-3 en el \u00e1rea de R\u00edo Grande, hasta la entrada de El Yunque y el hotel Wyndham Grand R\u00edo Mar, con el fin de disminuir la congesti\u00f3n vehicular que se forma en el lugar; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -138,6 +138,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:23Z"
       }
+    },
+    {
+      "description": "Inspecci\u00f3n Ocular: Carr. PR-3 Rio Grande desde entrada al Yunque hasta Hotel Wyndham Grand Rio Mar",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T11:11:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -195,6 +205,17 @@
       ],
       "date": "2026-06-30",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161484/rs0544a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -213,7 +234,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:23Z",
+    "logs_latest_update": "2026-09-17T11:11:55Z",
     "text_extraction_latest_update": "2026-07-22T06:26:40.424782Z"
   }
 }

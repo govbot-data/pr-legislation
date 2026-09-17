@@ -82,6 +82,16 @@
       "_processing": {
         "log_file_created": "2026-09-13T10:16:44Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T11:11:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,8 +132,8 @@
       "note": "Entirillado del Informe",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/161800/rs0574-ent.docx",
-          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161800/rs0574-ent.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "2026-09-11",
@@ -146,7 +156,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-13T10:16:44Z",
+    "logs_latest_update": "2026-09-17T11:11:55Z",
     "text_extraction_latest_update": "2026-09-13T10:20:00.863361Z"
   }
 }
