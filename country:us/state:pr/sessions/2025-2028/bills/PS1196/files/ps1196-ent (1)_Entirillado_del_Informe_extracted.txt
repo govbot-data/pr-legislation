@@ -1,0 +1,240 @@
+Title: 
+Official Title: 
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENTIRILLADO ELECTRÓNICO
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1196
+13 de abril de 2026
+Presentado por el señor Ríos Santiago
+Referido a la Comisión de Transportación, Telecomunicaciones, Servicios Públicos y Asuntos del
+Consumidor
+LEY
+Para añadir un nuevo Artículo 1.35-A, y renumerar los actuales Artículos artículos 1.35-A
+y 1.35-B, como los nuevos Artículos artículos 1.35-B y 1.35-C, añadir un Artículo 1.86-
+A, y reenumerar el actual Artículo 1.86-A, como Artículo 1.86-B, añadir un Artículo 5.02-
+A, y enmendar los Artículos artículos 5.06 y 5.07 de la Ley 22-2000, según enmendada,
+conocida como la "Ley de Vehículos y Tránsito de Puerto Rico", a los fines de
+establecer una definición de "Dispositivo de Asistencia Inteligente de Velocidad
+(ISA)" y del "Programa de Asistencia Inteligente de Velocidad", implementar el uso
+del sistema ISA, administrado por el Departamento de Transportación y Obras
+Públicas (DTOP), en coordinación con PRITS y la Comisión para la Seguridad en el
+Tránsito y el Negociado de la Policía de Puerto Rico; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El exceso de velocidad es una de las principales causas de fatalidades y lesiones en
+las carreteras de la Isla. De acuerdo con informes del Negociado de la Policía de Puerto
+Rico y del Departamento de Transportación y Obras Públicas (DTOP), más de una tercera
+parte de las muertes por accidentes de tránsito están vinculadas a conductores que
+sobrepasan los límites de velocidad. Este problema no solo pone en peligro a quienes
+manejan, sino que también representa una seria amenaza para peatones, ciclistas y todos
+
+2
+los demás usuarios de las vías públicas. Los datos específicos de entre 2018 y 2022
+muestran que aproximadamente el 33% de los choques fatales en vehículos comerciales
+estuvieron relacionados con esta conducta, evidenciando que continúa siendo un riesgo
+importante en distintos sectores del tránsito.
+A este panorama se suman las carreras clandestinas y maniobras temerarias en vías
+públicas, que representan un peligro adicional tanto para los participantes como para
+terceros inocentes. Estas prácticas, frecuentemente combinadas con consumo de alcohol
+y conducción imprudente han provocado accidentes graves y fatales. Un ejemplo de esto
+ocurrió en febrero de 2025, cuando un supuesto evento de este tipo en la carretera PR-2
+en Dorado provocó varias víctimas fatales y múltiples heridos, incluyendo peatones que
+se encontraban cerca del lugar del accidente. Esta clase de incidentes demuestra cómo la
+combinación de velocidad y comportamiento temerario puede tener consecuencias
+devastadoras para la seguridad en las carreteras.
+Históricamente, la respuesta a esta situación ha sido la imposición de multas, la
+suspensión de licencias y, en algunos casos, la incautación de vehículos; sin embargo,
+estas sanciones han demostrado ser insuficientes para frenar nuevas infracciones. Ante
+este panorama, se hace necesario recurrir a soluciones más eficaces, como los Dispositivos
+de Asistencia Inteligente de Velocidad (ISA, por sus siglas en inglés), que permiten
+limitar electrónicamente la velocidad de los vehículos y fomentar hábitos de manejo más
+seguros.
+En otras jurisdicciones ya se han dado pasos importantes. En Estados Unidos,
+lugares como Washington, D.C., Virginia y el estado de Washington han aprobado
+legislación que exige la tecnología ISA a conductores con infracciones graves de
+velocidad, marcando un precedente para su futura implementación a nivel local.
+Asimismo, países europeos como España, Suecia y los Países Bajos han adoptado esta
+medida como parte de sus políticas de seguridad en el tránsito.
+La implementación de un programa de ISA en Puerto Rico, especialmente dirigido
+a conductores con historial de violaciones por velocidad, constituye una medida
+
+3
+balanceada que permite mantener la capacidad de transporte de los ciudadanos bajo
+condiciones seguras y supervisadas, ofreciendo una alternativa a la mera imposición de
+sanciones económicas y fomentando un cambio de conducta a largo plazo. Igualmente,
+su aplicación contribuiría a reforzar la conciencia pública sobre los riesgos de la
+conducción imprudente, especialmente entre los conductores jóvenes, promoviendo
+hábitos responsables al volante.
+Por estas razones, esta Asamblea Legislativa entiende necesario enmendar la Ley
+22-2000, según enmendada, conocida como “Ley de Vehículos y Tránsito de Puerto Rico”,
+para establecer la instalación obligatoria de dispositivos de Asistencia Inteligente de
+Velocidad para conductores que acumulen múltiples infracciones en un mismo año. Con
+esta medida, se reafirma nuestro compromiso con la reducción de fatalidades en las
+carreteras, la prevención de accidentes relacionados con conductas de alto riesgo y la
+protección de todos los usuarios viales.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se añade un nuevo Artículo 1.35-A y se renumera reenumeran los
+2 actuales Artículos artículos 1.35-A y 1.35-B, como los nuevos Artículos artículos 1.35-B y
+3 1.35-C de la Ley 22-2000, según enmendada, conocida como la “Ley de Vehículos y Tránsito
+4 de Puerto Rico”, para que se lea como sigue:
+5 “Artículo 1.35-A.—Dispositivo de Asistencia Inteligente de Velocidad (ISA, por sus siglas
+6 en inglés)
+7 “Dispositivo de Asistencia Inteligente de Velocidad (ISA, por sus siglas en inglés)”
+8 significará aquel sistema instalado en un vehículo de motor que limite la velocidad a la que dicho
+9 vehículo puede desplazarse, conforme al límite de velocidad aplicable en la vía pública donde sea
+10 operado, utilizando para ello tecnologías tales como sistemas de posicionamiento global (GPS),
+
+4
+1 cámaras de reconocimiento de señales de tránsito, mapas digitales u otros mecanismos
+2 equivalentes.
+3 Artículo 1.35-A 1.35-B. — Dispositivo de interbloqueo de la ignición.
+4 …
+5 Artículo 1.35-B 1.35-C. — Distancia radial.
+6 …”
+7 Sección 2.- Se añade un nuevo Artículo 1.86.-A, y se reenumera el actual Artículo 1.86-
+8 A, como Artículo 1.86-B, a la Ley 22-2000, según enmendada, conocida como la “Ley de
+9 Vehículos y Tránsito de Puerto Rico”, para que se lea como sigue:
+10 “Artículo 1.86.-A—Programa de Asistencia Inteligente de Velocidad
+11 “Programa de Asistencia Inteligente de Velocidad” significará el conjunto de directrices,
+12 políticas, mecanismos administrativos, obligaciones, incentivos, supervisión y cumplimiento
+13 regulatorio establecido por la autoridad competente para supervisar o fomentar el uso de los
+14 Dispositivos de Asistencia Inteligente de Velocidad (ISA), incluyendo su instalación,
+15 mantenimiento, operación, certificación, estándares técnicos, verificación, penalidades por
+16 incumplimiento, educación pública, y cualquier otro componente necesario para asegurar que
+17 dichos dispositivos operen conforme al límite de velocidad aplicable en las vías públicas.
+18 Artículo 1.86-A 1.86-B. — Punto de Recarga de Vehículos Impulsados
+19 Mayormente por Electricidad.
+20 …”
+
+5
+1 Sección 3.- Se añade un nuevo Artículo 5.02-A de la Ley 22-2000, según enmendada,
+2 conocida como la “Ley de Vehículos y Tránsito de Puerto Rico” para que lea leerá como
+3 sigue:
+4 “Artículo 5.02-A.—Programa de Asistencia Inteligente de Velocidad
+5 A. Se crea el Programa de Asistencia Inteligente de Velocidad de Puerto Rico (ISA, por sus siglas
+6 en inglés), administrado por el Departamento de Transportación y Obras Públicas (DTOP),
+7 en coordinación con la Comisión para la Seguridad en el Tránsito, el Negociado de la Policía
+8 de Puerto Rico y el Puerto Rico Innovation & Technology Service (PRITS), encargado de los
+9 componentes tecnológicos, las certificaciones digitales y la conectividad asociados al programa.
+10 B. El tribunal podrá ordenar la inscripción en el Programa ISA como medida correctiva y de
+11 seguridad pública, como alternativa a las sanciones establecidas en esta Ley u otras
+12 disposiciones aplicables, en los siguientes casos:
+13 (a) Violaciones al Artículo 5.06 — Carreras de competencia o regateo, concursos de
+14 velocidad y concursos de aceleración.
+15 (b) Cuando la persona sea reincidente en violaciones al Artículo 5.07 — Imprudencia o
+16 negligencia.
+17 C. El término de participación en el Programa no será menor de tres (3) meses ni mayor de seis
+18 (6) meses, conforme a la gravedad de la infracción y a la discreción del tribunal.
+19 D. Todo conductor inscrito en el Programa deberá:
+20 (a) Instalar un sistema ISA certificado en todos los vehículos de motor de su propiedad o
+21 inscritos a su nombre.
+
+6
+1 (b) Abstenerse de operar vehículos que no cuenten con un sistema ISA instalado y en
+2 funcionamiento.
+3 (c) Obtener del DTOP una licencia restringida, válida únicamente para operar vehículos
+4 con sistema ISA.
+5 E. Los costos de instalación, mantenimiento y monitoreo del sistema ISA serán responsabilidad
+6 del conductor. No obstante, el DTOP podrá autorizar, mediante reglamento, planes de pago
+7 que faciliten el cumplimiento con esta obligación, únicamente en aquellos casos en que el
+8 conductor demuestre indigencia debidamente certificada. Dichos planes no implican que el
+9 Estado asuma los costos del sistema, sino que permiten a los conductores cumplir con la ley
+10 mediante plazos razonables de pago.
+11 F. Ninguna persona podrá manipular, desactivar, alterar o intentar evadir el sistema ISA. El
+12 incumplimiento constituirá delito menos grave, sancionable con multa de hasta cinco mil
+13 dólares ($5,000) o hasta seis (6) meses de reclusión, o ambas penas, a discreción del tribunal.
+14 G. En caso de incumplimiento o retraso en el pago de los costos de instalación, mantenimiento o
+15 monitoreo del sistema ISA, se impondrá una multa equivalente al 1.5% mensual sobre el saldo
+16 adeudado, sin perjuicio de las acciones judiciales para el cobro forzoso. Esta penalidad se
+17 calculará desde la fecha de vencimiento hasta la cancelación total, y no exime al conductor de
+18 las obligaciones principales. El DTOP notificará por escrito el incumplimiento, otorgando un
+19 plazo de gracia de 15 días antes de aplicar la sanción.”
+20 Sección 4.- Se enmienda el Artículo 5.06 de la Ley 22-2000, según enmendada,
+21 conocida como la “Ley de Vehículos y Tránsito de Puerto Rico”, para que lea como sigue:
+
+7
+1 “Artículo 5.06. — Carreras de competencia o regateo, concursos de velocidad y
+2 concursos de aceleración.
+3 (A) Se prohíben terminantemente las carreras de competencia, los concursos de
+4 velocidad y los concursos de aceleración y acrobacias o maniobras, tales como
+5 “wheelies”, “stoppies”, “burnouts” o cualquiera actividad similar en las carreteras
+6 estatales y municipales de Puerto Rico cuando las mismas no sean autorizadas por el
+7 Secretario. Toda persona que viole la disposición de este Artículo incurrirá en delito
+8 menos grave y convicta que fuere será sancionada con pena de multa fija de cinco mil
+9 (5,000) dólares y se le suspenderá por un término de seis (6) meses la licencia de conducir,
+10 o alternativamente, a discreción del tribunal, podrá ordenarse la inscripción obligatoria de la
+11 persona convicta en el Programa de Asistencia Inteligente de Velocidad, conforme a los parámetros
+12 y requisitos que se establezcan por reglamento, y se le expedirá una licencia de conducir restringida
+13 por un término de seis (6) meses, condicionada al cumplimiento de dicho programa y a las
+14 limitaciones que disponga el Secretario. Cualquier vehículo utilizado en contravención a las
+15 disposiciones de este Artículo, será incautado por los agentes del orden público, para
+16 fines de investigación e iniciar el proceso de confiscación a tenor con las disposiciones
+17 contenidas en la Ley 119-2011, según enmendada, conocida como “Ley Uniforme de
+18 Confiscaciones”. Toda persona que ayude o incite a otra a violentar las disposiciones de
+19 este Artículo cometerá una falta administrativa y será sancionada con una multa de tres
+20 mil (3,000) dólares.
+
+8
+1 Toda persona que ayude, incite a otra a violentar las disposiciones de este Artículo
+2 cometerá una falta administrativa y será sancionada con una multa de tres mil (3,000)
+3 dólares.
+4 (B) Reincidencia. Toda persona que, habiendo sido convicta previamente de violar
+5 este Artículo, resulte convicta nuevamente por infracción a este Artículo será sancionada
+6 con pena de multa de cinco mil (5,000) dólares, o pena de reclusión no mayor de seis (6)
+7 meses de cárcel, o ambas penas a discreción del tribunal. Además, se le revocará la
+8 licencia de conducir por el término de un (1) año. No obstante, a discreción del tribunal, podrá
+9 ordenarse la inscripción obligatoria de la persona convicta en el Programa de Asistencia Inteligente
+10 de Velocidad, como alternativa, conforme a los parámetros y requisitos que se establezcan por
+11 reglamento, en sustitución total o parcial de dicha revocación, y en tal caso se expedirá una licencia
+12 restringida limitada exclusivamente al cumplimiento del referido Programa durante el término
+13 correspondiente.
+14 (C)…”
+15 Sección 5.- Se enmienda el Artículo 5.07 de la Ley 22-2000, según enmendada,
+16 conocida como la “Ley de Vehículos y Tránsito de Puerto Rico”, para que lea como sigue:
+17 “Artículo 5.07. — Imprudencia o negligencia.
+18 (A) Toda persona que condujere un vehículo de forma imprudente o
+19 negligentemente, con menosprecio de la seguridad de personas o propiedades, incurrirá
+20 en delito menos grave y convicta que fuere será sancionada con pena de multa no menor
+21 de quinientos (500) dólares ni mayor de mil (1,000) dólares. No obstante lo anterior, será
+22 sancionada con pena de multa no menor de mil (1,000) dólares ni mayor de dos mil (2,000)
+
+9
+1 dólares toda persona que conduzca un vehículo o vehículo de motor de forma
+2 imprudente o negligente y cause daño a:
+3 (a) …
+4 (b) Cualquier miembro o empleado de una agencia de servicios de seguridad
+5 pública que esté atendiendo un accidente de tránsito o prestando cualquier servicio de
+6 emergencia en las mismas.
+7 En caso de una segunda convicción y subsiguientes, la pena será de multa no
+8 menor de mil (1,000) dólares ni mayor de cinco mil (5,000) dólares o de reclusión por un
+9 término no mayor de seis (6) meses, o ambas penas a discreción del tribunal. En estos
+10 casos, además de las penas establecidas en esta Ley, el Secretario suspenderá a la persona
+11 así convicta toda licencia que posea autorizándole a conducir vehículos de motor por un
+12 término de tres (3) meses; no obstante, el tribunal podrá ordenar la inscripción obligatoria de la
+13 persona convicta en el Programa de Asistencia Inteligente de Velocidad, alternativamente,
+14 conforme a los parámetros y requisitos que se establezcan por reglamento, y en tal caso se expedirá
+15 una licencia restringida limitada exclusivamente al cumplimiento de dicho Programa durante el
+16 término de la suspensión. En caso de que una persona sea convicta en tres (3) o más
+17 ocasiones, se revocará su licencia de conducir permanentemente. Luego de transcurridos
+18 tres (3) años a partir de una convicción bajo las disposiciones de esta sección, la misma
+19 no se tomará en consideración para convicciones subsiguientes.
+20 (B)…
+21 …”
+22 Sección 6.- Reglamentación
+
+10
+1 El Departamento de Transportación y Obras Públicas enmendará o adoptará, dentro
+2 de un término no mayor de ciento ochenta (180) días a partir de la aprobación de esta
+3 Ley, la reglamentación necesaria para implantarla implementar este Artículo. Dicho
+4 reglamento dispondrá sobre la certificación de los sistemas ISA, los requisitos técnicos
+5 para su instalación y funcionamiento, los procedimientos de fiscalización, las tarifas
+6 aplicables y los mecanismos de asistencia económica autorizados.
+7 Sección 7.- Vigencia
+8 Esta Ley comenzará a regir a los ciento ochenta (180) días de su aprobación.

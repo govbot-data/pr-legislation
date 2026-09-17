@@ -1,0 +1,308 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1468
+16 de septiembre de 2026
+Presentado por la señora Soto Aguilú
+Referido a
+LEY
+Para añadir un nuevo Artículo 1345-A a la Ley 55-2020, según enmendada, conocida
+como “Código Civil de Puerto Rico”, a los fines de establecer deberes de transparencia
+aplicables al arrendador que repercuta al arrendatario de un inmueble destinado a una
+actividad comercial, profesional, industrial o de otra naturaleza no residencial cargos por
+los servicios de energía eléctrica, agua o alcantarillado que no sean facturados
+directamente al arrendatario por la entidad proveedora; requerir la divulgación escrita
+del método utilizado para determinar dichos cargos; disponer el contenido mínimo de
+los estados de cuenta; reconocer el derecho del arrendatario a examinar la factura matriz
+y la documentación utilizada para calcular el cargo; disponer sobre lecturas de
+submedición, créditos, ajustes y cargos administrativos; establecer un procedimiento
+para objetar cargos; preservar la jurisdicción y reglamentación de las entidades
+reguladoras competentes y las disposiciones aplicables a la propiedad horizontal; y para
+otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Código Civil de Puerto Rico reconoce que el arrendamiento constituye una relación
+contractual mediante la cual el arrendador cede temporalmente al arrendatario el uso y
+disfrute de un bien a cambio de un precio cierto. Como parte de las obligaciones
+inherentes a esa relación, el Artículo 1346 de la Ley 55-2020, según enmendada, dispone
+que corresponde al arrendatario pagar puntualmente los suministros, las cargas y las
+contribuciones propias de la actividad para la cual utiliza el bien arrendado.
+
+2
+En numerosos arrendamientos de locales destinados a actividades comerciales,
+profesionales, industriales o de otra naturaleza no residencial, los servicios de energía
+eléctrica, agua o alcantarillado no son facturados directamente al arrendatario por la
+entidad que los provee. En estos casos, una factura puede corresponder a un edificio,
+centro comercial, propiedad o conjunto de locales y, posteriormente, el arrendador,
+administrador o agente repercute todo o parte de ese costo a uno o más arrendatarios.
+La existencia de este tipo de arreglo no es, por sí misma, incompatible con la libertad
+contractual. No obstante, cuando el arrendatario no es el cliente directo de la entidad
+proveedora, puede carecer de acceso ordinario a la factura que origina el cobro, las
+lecturas utilizadas, los créditos o ajustes aplicados y la información necesaria para
+determinar cómo se calculó la cantidad que se le exige pagar. Esta situación adquiere
+particular importancia cuando el cargo varía mensualmente o depende de una lectura de
+submedidor, un porcentaje, el área ocupada, una proporción contractual, un factor de
+distribución u otro mecanismo.
+El propósito de esta Ley no es establecer tarifas de energía eléctrica, agua o
+alcantarillado; autorizar la reventa de dichos servicios; determinar cuándo puede
+utilizarse un contador maestro o un submedidor; ni sustituir las facultades del Negociado
+de Energía de Puerto Rico, la Autoridad de Energía Eléctrica, el operador del sistema de
+transmisión y distribución, la Autoridad de Acueductos y Alcantarillados o cualquier
+otra entidad con jurisdicción sobre la prestación, medición o facturación de estos
+servicios. Tales materias continuarán rigiéndose por las leyes, reglamentos, órdenes,
+tarifas y términos de servicio aplicables.
+Esta Ley tampoco pretende imponer una metodología para distribuir costos entre
+arrendatarios. Su objetivo es establecer un principio más limitado: cuando un arrendador
+repercuta separadamente al arrendatario un cargo basado total o parcialmente en el costo
+de un servicio que no es facturado directamente a este último, el arrendatario debe tener
+información suficiente para conocer qué se le está cobrando, de dónde surge la cantidad
+y cómo fue calculada. La obligación aplicará independientemente de que el cargo sea
+denominado reembolso, renta adicional, gasto operacional, cargo común u otra expresión
+
+3
+contractual, siempre que la cantidad dependa total o parcialmente del costo del servicio
+y sea objeto de facturación, cálculo o reconciliación separada.
+La obligación de transparencia que aquí se establece cobra especial importancia ante
+la diversidad de estructuras contractuales que existen en Puerto Rico. Algunos contratos
+utilizan submedición; otros establecen porcentajes de distribución; otros consideran el
+área ocupada; y determinados inmuebles pueden incorporar costos atribuibles a áreas
+comunes. La presente Ley no valida ninguno de estos métodos por el mero hecho de
+divulgarlo. Todo mecanismo de medición, distribución, recobro o repercusión deberá ser
+permitido por el ordenamiento jurídico y la reglamentación aplicable.
+Asimismo, en inmuebles sometidos al régimen de propiedad horizontal, las
+obligaciones del titular respecto a gastos comunes continúan sujetas a la Ley 129-2020,
+según enmendada, conocida como “Ley de Condominios de Puerto Rico”, a la escritura
+matriz y al reglamento correspondiente. Esta Ley solamente regulará la transparencia de
+aquellos cargos que posteriormente un titular arrendador repercuta a su arrendatario
+como parte de la relación contractual entre ambos.
+La Asamblea Legislativa reconoce, además, la política pública reafirmada mediante la
+Ley 122-2026 respecto a la libertad de forma de los contratos de arrendamiento que no
+excedan de seis (6) años. Por ello, esta Ley no exige que todo contrato de arrendamiento
+no residencial conste por escrito. Requiere únicamente que, cuando exista un mecanismo
+para repercutir separadamente cargos por los servicios cubiertos por esta Ley, la
+metodología del cargo sea informada por escrito al arrendatario. Tal divulgación podrá
+formar parte del contrato, de un anejo, de un acuerdo separado o de otra comunicación
+escrita o electrónica que pueda conservarse y reproducirse.
+La transparencia en este tipo de cargos protege la certeza contractual de ambas partes.
+Permite al arrendatario verificar la obligación que se le reclama y permite al arrendador
+documentar que el cargo fue calculado conforme al acuerdo existente y al derecho
+aplicable. De esta manera se reducen controversias, se facilita la reconciliación de
+cantidades y se promueven relaciones comerciales más claras sin alterar las competencias
+de las entidades encargadas de regular los servicios públicos.
+
+1 DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+2 Sección 1.- Se añade un nuevo Artículo 1345-A a la Ley 55-2020, según enmendada,
+3 conocida como “Código Civil de Puerto Rico”, para que lea como sigue:
+4 “Artículo 1345-A.- Transparencia en cargos por servicios de energía eléctrica, agua o
+5 alcantarillado repercutidos en arrendamientos no residenciales.
+6 (a) Ámbito de aplicación.- Las disposiciones de este Artículo aplicarán a todo
+7 arrendamiento de un bien inmueble destinado predominantemente a una actividad comercial,
+8 profesional, industrial o de otra naturaleza no residencial cuando el arrendador, directamente o
+9 por conducto de un administrador, agente o persona autorizada, cobre o repercuta al arrendatario
+10 todo o parte del costo correspondiente a los servicios de energía eléctrica, agua o alcantarillado que
+11 no sean facturados directamente al arrendatario por la entidad proveedora.
+12 La obligación aplicará independientemente de la denominación contractual utilizada para
+13 el cargo, incluyendo reembolso, renta adicional, gasto operacional, cargo común u otra expresión,
+14 siempre que la cantidad dependa total o parcialmente del costo del servicio y sea objeto de
+15 facturación, cálculo o reconciliación separada. No aplicará cuando las partes hayan pactado un
+16 canon fijo que incluya uno o más de estos servicios sin facturación, cálculo o reconciliación
+17 posterior basada en el costo o consumo del servicio.
+18 Para propósitos de este Artículo:
+19 (1) “cargo por servicio público repercutido” significa toda cantidad que el arrendador
+20 atribuya o cobre al arrendatario con el propósito de recuperar total o parcialmente el costo de los
+21 servicios de energía eléctrica, agua o alcantarillado facturados al arrendador, propietario,
+22 administrador, Consejo de Titulares u otra persona distinta del arrendatario;
+
+5
+1 (2) “factura matriz” significa la factura, estado de cuenta o documento equivalente emitido
+2 por la entidad proveedora que constituya la base total o parcial del cargo repercutido al
+3 arrendatario; y
+4 (3) “submedidor” significa todo equipo de medición distinto al contador oficial de la entidad
+5 proveedora que sea utilizado para determinar o estimar la porción de consumo atribuible a un
+6 arrendatario. La inclusión de este término no se interpretará como autorización para instalar o
+7 utilizar un equipo de medición que no esté permitido por el ordenamiento aplicable.
+8 (b) Divulgación escrita del método de cálculo.- Antes de imponer por primera vez un cargo
+9 por servicio público repercutido, el arrendador deberá informar por escrito al arrendatario:
+10 (1) el servicio al cual corresponde el cargo;
+11 (2) la entidad que provee el servicio;
+12 (3) el método utilizado para determinar la cantidad atribuible al arrendatario;
+13 (4) si el cálculo se basa en una lectura de submedidor, porcentaje, área ocupada, proporción
+14 contractual, distribución de áreas comunes u otro criterio;
+15 (5) la manera en que se consideran, si alguna, las áreas comunes o los consumos no
+16 atribuibles exclusivamente al local arrendado;
+17 (6) la periodicidad del cobro y de cualquier reconciliación;
+18 (7) la existencia y cuantía o método de cálculo de cualquier cargo administrativo, de manejo
+19 o de procesamiento relacionado; y
+20 (8) la manera en que se acreditarán al arrendatario los ajustes, devoluciones o créditos
+21 posteriormente reconocidos por la entidad proveedora.
+
+6
+1 La divulgación requerida por este inciso podrá constar en el contrato de arrendamiento, en
+2 un anejo, en un acuerdo separado o en cualquier otro documento escrito o electrónico susceptible
+3 de ser conservado y reproducido. Nada de lo dispuesto en este Artículo requerirá que el contrato
+4 de arrendamiento principal conste por escrito cuando el Código Civil no exija tal formalidad.
+5 (c) Estado de cuenta.- Cada vez que se cobre al arrendatario un cargo por servicio público
+6 repercutido, el arrendador deberá proveer, junto con el cobro o mediante un documento electrónico
+7 accesible al arrendatario, información suficiente para identificar:
+8 (1) el período de facturación;
+9 (2) el servicio correspondiente;
+10 (3) el monto de la factura matriz utilizado como base para el cálculo, cuando resulte
+11 aplicable;
+12 (4) las unidades de consumo atribuidas al arrendatario, cuando el método utilizado dependa
+13 de medición o submedición;
+14 (5) el porcentaje, factor, proporción u otra variable utilizada para calcular el cargo;
+15 (6) la cantidad final atribuida al arrendatario;
+16 (7) cualquier crédito, ajuste, devolución o reconciliación correspondiente a períodos
+17 anteriores; y
+18 (8) cualquier cargo administrativo, de manejo o de procesamiento, el cual deberá aparecer
+19 separadamente identificado y no podrá representarse como parte de la tarifa o cargo impuesto por
+20 la entidad proveedora.
+
+7
+1 (d) Derecho a documentación de respaldo.- El arrendatario podrá solicitar por escrito o por
+2 medios electrónicos acceso a la documentación que sustente un cargo por servicio público
+3 repercutido.
+4 Dentro de los diez (10) días laborables siguientes a la solicitud, el arrendador deberá
+5 proveer copia física o electrónica de:
+6 (1) la factura matriz correspondiente;
+7 (2) la lectura inicial y final del submedidor, cuando aplique y se encuentre disponible
+8 conforme al método de medición autorizado;
+9 (3) el cálculo utilizado para determinar la cantidad atribuida al arrendatario; y
+10 (4) cualquier crédito o ajuste de la entidad proveedora que afecte el período objeto del cobro.
+11 El arrendador podrá ocultar de los documentos aquella información personal, financiera,
+12 contractual o relacionada con otros arrendatarios que no resulte necesaria para verificar el cargo
+13 objeto de la solicitud. No podrá ocultar información indispensable para corroborar el monto total
+14 pertinente, el período facturado, el consumo aplicable, el crédito recibido o el método utilizado para
+15 determinar la cantidad correspondiente al arrendatario.
+16 (e) Cambios en la metodología.- El arrendador no podrá modificar retroactivamente el
+17 método de distribución o cálculo utilizado para repercutir los cargos.
+18 Todo cambio permitido por el contrato y por el ordenamiento jurídico deberá ser notificado
+19 al arrendatario por escrito con no menos de treinta (30) días de anticipación a su aplicación. Lo
+20 anterior no impedirá la aplicación de un cambio en una tarifa, factor, ajuste u otro componente
+21 impuesto directamente por la entidad proveedora o por una autoridad reguladora competente,
+22 siempre que el arrendador identifique dicho cambio en el próximo estado de cuenta.
+
+8
+1 (f) Créditos, devoluciones y ajustes.- Cuando la entidad proveedora conceda al cliente de la
+2 factura matriz un crédito, devolución, ajuste o corrección relacionado con un período cuyo costo
+3 ya haya sido repercutido total o parcialmente al arrendatario, el arrendador deberá aplicar al
+4 arrendatario la porción que corresponda conforme al mismo método utilizado para distribuir el
+5 cargo original.
+6 El crédito deberá reflejarse no más tarde del segundo estado de cuenta emitido después de
+7 que el arrendador reciba o pueda razonablemente conocer el ajuste.
+8 Si el arrendamiento hubiese terminado antes de aplicarse el crédito, el arrendador deberá
+9 incluirlo en cualquier reconciliación final o devolver al arrendatario la cantidad correspondiente
+10 dentro de treinta (30) días, salvo que exista una deuda líquida, vencida y exigible que permita una
+11 compensación conforme a derecho.
+12 (g) Objeción de cargos.- El arrendatario podrá objetar de buena fe un cargo por servicio
+13 público repercutido mediante comunicación escrita que identifique razonablemente la cantidad o
+14 el aspecto cuestionado y el fundamento de la objeción.
+15 Cuando la objeción dependa de documentación solicitada conforme al inciso (d), cualquier
+16 término contractual para objetar el cargo comenzará a transcurrir desde que la documentación
+17 necesaria para verificarlo sea provista.
+18 El arrendador deberá contestar por escrito la objeción dentro de quince (15) días laborables
+19 de haberla recibido y deberá explicar el cálculo, corregir cualquier error o indicar las razones por
+20 las cuales sostiene el cargo.
+21 Mientras una objeción de buena fe se encuentre pendiente, y siempre que el arrendatario
+22 pague oportunamente la parte no controvertida del cargo y las demás cantidades vencidas bajo el
+
+9
+1 contrato, la cantidad específicamente controvertida no constituirá por sí sola fundamento para
+2 imponer penalidades por mora, declarar el incumplimiento del arrendamiento o resolver el contrato
+3 hasta transcurridos diez (10) días desde que el arrendador emita su determinación escrita.
+4 Nada de lo dispuesto en este inciso eximirá al cliente registrado ante la entidad proveedora
+5 de las obligaciones que tenga frente a dicha entidad ni limitará las facultades de la entidad
+6 proveedora respecto a su cliente conforme al ordenamiento aplicable.
+7 (h) Conservación de documentos.- El arrendador conservará durante un término no menor
+8 de cuatro (4) años, contado desde la fecha de cada cargo, la factura matriz, los cálculos, lecturas
+9 disponibles, ajustes y demás documentos utilizados para determinar un cargo por servicio público
+10 repercutido. Esta obligación podrá cumplirse mediante conservación electrónica siempre que los
+11 documentos permanezcan accesibles y reproducibles.
+12 (i) Limitaciones y armonización.- Nada de lo dispuesto en este Artículo:
+13 (1) autoriza la reventa de energía eléctrica, agua, alcantarillado o cualquier otro servicio
+14 cuando dicha práctica esté prohibida o limitada por ley, reglamento, orden, tarifa o términos de
+15 servicio;
+16 (2) autoriza el uso de un contador maestro, submedidor, equipo de medición, fórmula de
+17 distribución, tarifa o cargo que no esté permitido por la autoridad competente;
+18 (3) obliga a instalar un submedidor o cualquier otro equipo de medición cuando tal
+19 instalación no sea requerida por el ordenamiento aplicable;
+20 (4) modifica las tarifas, cargos, términos de servicio, derechos u obligaciones establecidos
+21 por el Negociado de Energía de Puerto Rico, la Autoridad de Energía Eléctrica, el operador del
+
+10
+1 sistema de transmisión y distribución, la Autoridad de Acueductos y Alcantarillados o cualquier
+2 otra entidad con jurisdicción;
+3 (5) modifica los porcentajes de participación, gastos comunes, cuotas, derramas u
+4 obligaciones de titulares establecidos conforme a la Ley 129-2020, según enmendada, conocida
+5 como “Ley de Condominios de Puerto Rico”, una escritura matriz o el reglamento de un
+6 condominio;
+7 (6) impide que un arrendador y un arrendatario acuerden que uno o más servicios estén
+8 incluidos dentro de un canon fijo de arrendamiento sin facturación, cálculo o reconciliación
+9 separada; ni
+10 (7) se interpretará como validación de una metodología de distribución que de otro modo
+11 resulte contraria a derecho.
+12 Cuando exista conflicto entre este Artículo y una disposición especial de naturaleza
+13 regulatoria que establezca requisitos más estrictos respecto a la medición, distribución, facturación,
+14 recobro o reventa de un servicio, prevalecerá la disposición especial.
+15 (j) Cargos administrativos.- Ningún cargo administrativo, de manejo, procesamiento o
+16 gestión impuesto por el arrendador podrá identificarse o presentarse al arrendatario como si
+17 hubiese sido impuesto por la entidad proveedora. Todo cargo de esta naturaleza deberá estar
+18 expresamente pactado, identificarse separadamente y cumplir con las demás disposiciones legales
+19 aplicables.
+20 (k) Incumplimiento.- Toda cantidad cobrada en exceso como consecuencia de un error en
+21 el cálculo, la omisión de un crédito o la aplicación de una metodología distinta a la divulgada deberá
+22 ser acreditada o devuelta al arrendatario.
+
+11
+1 El incumplimiento con las obligaciones establecidas en este Artículo constituirá
+2 incumplimiento de una obligación legal del arrendador. La parte afectada podrá solicitar el
+3 cumplimiento específico, la devolución de cantidades cobradas en exceso y los demás remedios que
+4 procedan conforme a este Código o a otra ley aplicable. Ninguna disposición de este Artículo se
+5 interpretará como autorización para una doble recuperación por el mismo concepto.”
+6 Sección 2.- Aplicación a contratos existentes.
+7 Las disposiciones del Artículo 1345-A aplicarán en su totalidad a los contratos de
+8 arrendamiento otorgados, renovados, prorrogados o materialmente modificados
+9 después de la vigencia de esta Ley.
+10 En los contratos existentes a la fecha de vigencia, el arrendador deberá, dentro de
+11 noventa (90) días, proveer al arrendatario una divulgación escrita del método que se
+12 encuentre utilizando para repercutir los cargos cubiertos por esta Ley. Los incisos (c), (d),
+13 (h), (i), (j) y (k) del Artículo 1345-A aplicarán a los cargos facturados después de
+14 transcurrido dicho término. El inciso (f) aplicará únicamente a créditos, devoluciones,
+15 ajustes o correcciones relacionados con cargos facturados después de transcurrido dicho
+16 término.
+17 Los incisos (e) y (g) del Artículo 1345-A aplicarán a un contrato existente cuando
+18 este sea renovado, prorrogado o materialmente modificado después de la vigencia de
+19 esta Ley. Nada de lo dispuesto en esta Sección se interpretará como autorización para
+20 modificar retroactivamente la metodología de distribución, el canon, los cargos u otros
+21 términos económicos válidamente pactados, salvo mediante acuerdo de las partes o
+22 cuando otra disposición legal o regulatoria así lo requiera.
+
+12
+1 Sección 3.- Separabilidad.
+2 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, disposición, sección o
+3 parte de esta Ley fuese declarada inconstitucional o nula por un tribunal con jurisdicción,
+4 la sentencia dictada no afectará, menoscabará ni invalidará las restantes disposiciones de
+5 esta Ley. El efecto de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo,
+6 oración, palabra, disposición, sección o parte que hubiese sido declarada inconstitucional
+7 o nula.
+8 Sección 4.- Interpretación.
+9 Esta Ley se interpretará de manera compatible con la Ley 55-2020, según
+10 enmendada; la Ley 57-2014, según enmendada, conocida como “Ley de Transformación
+11 y ALIVIO Energético de Puerto Rico”; la Ley 17-2019, según enmendada, conocida como
+12 “Ley de Política Pública Energética de Puerto Rico”; la Ley Núm. 40 de 1 de mayo de
+13 1945, según enmendada; la Ley 129-2020, según enmendada; la reglamentación vigente
+14 sobre los servicios de energía eléctrica, agua y alcantarillado; y cualquier otra ley,
+15 reglamento, orden, tarifa o término de servicio aplicable.
+16 Ninguna disposición de esta Ley conferirá al arrendador facultades regulatorias
+17 ni derechos sobre un servicio que no posea conforme al ordenamiento vigente.
+18 Sección 5.- Vigencia.
+19 Esta Ley comenzará a regir inmediatamente después de su aprobación, sujeto al
+20 término de noventa (90) días dispuesto en la Sección 2 para la aplicación de determinados
+21 deberes a los contratos existentes.

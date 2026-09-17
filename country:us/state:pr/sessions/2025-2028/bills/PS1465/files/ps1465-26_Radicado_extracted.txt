@@ -1,0 +1,647 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1465
+15 de septiembre de 2026
+Presentada por el señor Santiago Rivera
+Referida a la Comisión de _________________________________
+LEY
+Para crear la “Ley de Compromiso Intergubernamental con los Servicios de Amas de
+Llaves y Apoyo en el Hogar a las Personas Adultas Mayores de Puerto Rico”;
+establecer como política pública del Gobierno de Puerto Rico que los fondos públicos
+destinados a servicios de amas de llaves y apoyo en el hogar a personas adultas
+mayores sean canalizados a los setenta y ocho (78) municipios de Puerto Rico
+mediante convenios colaborativos, transferencias directas de fondos u otra modalidad
+jurídica intergubernamental afín, en sustitución de la contratación del Gobierno
+Estatal con entidades privadas; establecer los criterios de elegibilidad, distribución,
+fiscalización y rendición de cuentas aplicables; disponer sobre la gestión de fondos y
+programas federales disponibles para estos fines; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Puerto Rico atraviesa uno de los procesos de envejecimiento poblacional más
+acelerados y pronunciados del mundo. De acuerdo con la Encuesta sobre la Comunidad
+de Puerto Rico del Negociado del Censo de los Estados Unidos de América, recopilada
+por la Oficina del Procurador de las Personas de Edad Avanzada (OPPEA) en su informe
+oficial “Perfil Sociodemográfico de la Población de Adultos Mayores” (mayo de 2024), la
+población de personas de sesenta (60) años o más en Puerto Rico ha aumentado de forma
+sostenida e ininterrumpida a través de las últimas siete décadas. Por ejemplo, de 134,684
+personas en el año 1950, apenas un 6% de la población total, a 944,507 personas en el año
+
+2
+2022, el equivalente entonces a un 28.9% de la población total del país. Los datos
+administrativos más recientes de la propia OPPEA, divulgados en julio de 2026, sitúan la
+población de personas adultas mayores en 962,805, sobre una población total aproximada
+de 3.3 millones de habitantes, lo que representa un 30.1% de la población de Puerto Rico
+(El Vocero de Puerto Rico, “Población de adultos mayores superaría 1.2 millones para
+2030”, 14 de julio de 2026).
+Esta realidad coloca a Puerto Rico entre las jurisdicciones de mayor envejecimiento
+poblacional del mundo. Conforme a la Base de Datos Internacionales del Negociado del
+Censo de los Estados Unidos de América para el año 2023, Puerto Rico ocupa la cuarta
+posición entre todos los países y jurisdicciones del mundo, únicamente superado por
+Mónaco, Japón y San Pedro y Miquelón, y la primera posición entre todo el Caribe, en
+cuanto a la proporción de su población de 60 años o más sobre su población total (31.05%),
+muy por encima del promedio correspondiente a los Estados Unidos de América (24.40%)
+para ese mismo año.
+Las proyecciones oficiales disponibles confirman que esta tendencia no solo
+continuará, sino que se intensificará durante los próximos diez (10) a quince (15) años. El
+propio Negociado del Censo federal, en sus proyecciones de población a diciembre de
+2022 (Base de Datos Internacionales, según recogidas en el informe de la OPPEA antes
+citado), estima que para el año 2030 la población de 60 años o más en Puerto Rico
+ascenderá a 985,310 personas, equivalente a un 35.0% de la población total, y que dicha
+proporción continuará en aumento hasta alcanzar un 38.1% para el año 2040 y un 39.8%
+para el año 2050. Por su parte, la OPPEA, en sus estimados administrativos más recientes
+divulgados en el año 2026, proyecta que la población de personas adultas mayores
+superará 1.2 millones de personas para el año 2030. A esto se suma que, según informó
+el Instituto de Estadísticas de Puerto Rico en un comunicado de prensa del 27 de junio de
+2024, el índice de vejez del país, el cual compara la población de 65 años o más con la de
+menores de 15 años, aumentó de 158.4 en el año 2020 a 198.6 en el año 2023, un incremento
+de 25% en apenas tres años, lo cual refleja que la población adulta mayor se acerca
+aceleradamente a duplicar a la población de menores de edad en Puerto Rico.
+
+3
+Estas cifras no son meramente estadísticas; también reflejan necesidades de servicios
+apremiantes y crecientes que la Asamblea Legislativa no puede atender mediante
+mecanismos administrativos discrecionales y temporeros. Según la referida Encuesta
+sobre la Comunidad (estimados 2022), un 39.0% de las personas de 60 años o más en
+Puerto Rico vive bajo el nivel oficial de pobreza y un 44.3% de la población adulta mayor
+no institucionalizada reporta algún tipo de impedimento físico o cognitivo que puede
+afectar su capacidad de valerse por sí misma en el hogar. Es igualmente relevante para
+los propósitos de esta Ley que un 51.64% de las personas adultas mayores de Puerto Rico
+reside fuera de la zona urbana, es decir, en las áreas rurales y semirrurales del país, donde
+los municipios, por su cercanía, conocimiento de su demarcación geográfica y capacidad
+de identificación directa de beneficiarios, se encuentran en mejor posición que cualquier
+entidad contratada centralmente para localizar, evaluar y atender a esta población. Estos
+datos confirman la urgencia y pertinencia de fortalecer, mediante un marco estatutario
+permanente y no discrecional, los servicios de amas de llaves y apoyo en el hogar, y de
+canalizarlos de forma prioritaria a través de los 78 municipios de Puerto Rico, según se
+dispone en esta Ley.
+Ante este panorama demográfico, la Asamblea Legislativa ya ha actuado
+normativamente. Mediante la Ley 121-2019, según enmendada, conocida como la “Carta
+de Derechos y la Política Pública del Gobierno a Favor de los Adultos Mayores”, se
+declaró política pública del Gobierno de Puerto Rico la protección, atención, bienestar,
+integración social y desarrollo de las personas adultas mayores, definidas en dicha Ley
+como aquellas de sesenta (60) años o más, mediante servicios ágiles, eficientes y
+accesibles. Además, se reconoce la importancia de los servicios de apoyo en el hogar,
+comúnmente conocidos como servicios de “amas de llaves”, para permitir que las
+personas adultas mayores permanezcan de forma segura, digna e independiente en sus
+hogares y comunidades, evitando o retrasando su institucionalización. Estos servicios
+incluyen, entre otros, asistencia con las tareas del hogar, preparación de alimentos,
+acompañamiento y apoyo en actividades básicas de la vida diaria.
+
+4
+No obstante, la importancia de estos servicios y el crecimiento sostenido de la
+demanda que revelan las cifras antes citadas, su administración ha carecido
+históricamente de un marco estatutario estable. La experiencia reciente demuestra que
+los fondos destinados a los programas de amas de llaves han sido asignados año a año
+mediante procesos discrecionales, incluyendo convocatorias competitivas en las que
+municipios y entidades privadas compiten por los mismos fondos limitados, lo cual ha
+generado incertidumbre presupuestaria, discontinuidad en la prestación de los servicios,
+disparidad entre los municipios que logran acceder a los fondos y aquellos que no, y
+dificultad para que los 78 municipios puedan planificar con antelación la contratación del
+personal necesario.
+La fragilidad de este esquema centralizado no es un temor hipotético, sino una
+realidad documentada al presente. A inicios de septiembre de 2026, el Departamento de
+la Familia se vio obligado a tramitar ante la Junta de Supervisión y Administración
+Financiera para Puerto Rico la extensión del contrato con la Corporación de Servicios de
+Ama de Llaves (COSALL), una única entidad privada contratada centralmente para
+prestar el servicio a nivel de todo el país, con una plantilla de 1,420 amas de llaves que
+atienden a 1,596 personas adultas mayores, luego de que dicha corporación anunciara la
+pausa parcial de sus servicios por “situaciones ajenas a su control” relacionadas con la
+vigencia del contrato (Telemundo Puerto Rico; WIPR; Metro Puerto Rico, septiembre de
+2026). Aunque el Departamento de la Familia informó que otros proveedores, incluidos
+municipios, organizaciones sin fines de lucro y empresas privadas, continuaron
+atendiendo a la población durante la contingencia, el episodio expone con claridad el
+riesgo estructural de un modelo que concentra en un solo contrato, con una sola entidad,
+la continuidad de un servicio esencial para más de mil quinientas personas adultas
+mayores. Basta con que ese contrato quede detenido en un trámite administrativo o
+presupuestario para que la prestación del servicio quede en riesgo simultáneamente para
+la totalidad de sus beneficiarios en todo Puerto Rico.
+Esta concentración del riesgo en pocos proveedores centrales contrasta con la realidad
+operativa que ya enfrentan los municipios, quienes desde hace años asumen, con fondos
+
+5
+propios, una porción sustancial del costo de estos servicios sin que ello esté
+institucionalizado en ley. Un reportaje del periódico Primera Hora, titulado “Escasez de
+amas de llaves en Puerto Rico” (19 de junio de 2023), señala que representantes del sector
+de cuidado en el hogar indicaron que la asignación estatal para el programa resulta
+insuficiente para cubrir la demanda real de cada municipio, forzándolos a complementar
+con fondos municipales y federales adicionales para atender a su población de adultos
+mayores. En otras palabras, los municipios de Puerto Rico ya operan, de facto, como los
+verdaderos garantes de continuidad de este servicio a nivel local; esta Ley persigue
+reconocer formalmente, mediante un mecanismo de financiamiento estable, un rol que
+los municipios ya ejercen en la práctica sin el respaldo jurídico ni presupuestario
+correspondiente.
+El carácter fragmentado y discrecional del esquema actual ha sido reconocido incluso
+por la propia Asamblea Legislativa. Según reportó NotiCel en su artículo “Evaluarán
+transferir fondos a municipios para el servicio de amas de llave”, la Cámara de
+Representantes aprobó una medida para investigar la viabilidad de transferir a los
+municipios los fondos que administra el Departamento de la Familia para este programa,
+luego de que, mediante avisos públicos competitivos con un tope de cien mil dólares
+($100,000) por proponente, el Departamento recibiera propuestas de cincuenta y dos (52)
+de los setenta y ocho (78) municipios de Puerto Rico, frente a apenas tres (3) entidades
+privadas, para acceder a $5.42 millones combinados de fondos ARPA y fondos del
+Secretariado del Departamento, desembolsados en tramos condicionados al ritmo de
+gastos de cada proponente. Esta proporción, 52 de 78 municipios compitiendo
+activamente por una bolsa de fondos no recurrente y de origen pandémico ya extinguida,
+evidencia, por un lado, la magnitud de la demanda municipal genuina por este
+mecanismo, y por otro, la inestabilidad de un sistema que depende de convocatorias
+competitivas, topes arbitrarios y fuentes de financiamiento no recurrentes para sostener
+un servicio cuya demanda solo continuará en aumento durante las próximas décadas.
+La Ley 107-2020, según enmendada, conocida como “Código Municipal de Puerto
+Rico”, reconoce la autonomía municipal y faculta a los municipios a participar de
+
+6
+alianzas, contratos y acuerdos con el gobierno estatal para el ejercicio de funciones y la
+prestación de servicios de interés social dentro de sus respectivas jurisdicciones. Los
+municipios, por su cercanía con sus residentes, se encuentran en la mejor posición para
+identificar directamente a las personas adultas mayores que requieren estos servicios,
+fiscalizar su prestación a nivel comunitario y garantizar la continuidad y calidad del
+servicio, particularmente en las áreas rurales donde reside más de la mitad de esta
+población, según se ha mencionado en párrafos anteriores.
+Asimismo, mediante la Ley 76-2013, según enmendada, se creó la Oficina del
+Procurador de las Personas de Edad Avanzada (OPPEA), designada como la agencia
+estatal encargada de administrar y poner en vigor localmente los fondos y programas
+federales dirigidos a las personas adultas mayores bajo la Ley Pública Núm. 89-73 de 14
+de julio de 1965, según enmendada, mejor conocida como “Older Americans Act”. Resulta
+imperativo que, en la medida en que existan fondos federales disponibles bajo dicho
+estatuto u otros programas federales afines para sufragar servicios de apoyo en el hogar,
+el Gobierno de Puerto Rico procure activamente ser designado como el recipiente directo
+de dichos fondos ante la agencia federal correspondiente, de manera que, a su vez, los
+municipios puedan operar como subrecipientes de estos, sujeto en todo momento a la
+reglamentación federal de otorgación de subvenciones, incluyendo los requisitos
+uniformes de administración de fondos federales aplicables a los gobiernos estatales y
+locales, y a la ley o programa federal habilitador específico.
+Esta Asamblea Legislativa no está sola en reconocer las limitaciones de un modelo
+centralizado para la prestación de servicios a personas adultas mayores. El propio
+Congreso de los Estados Unidos de América enfrentó, y corrigió, un problema
+estructuralmente idéntico en el diseño original del “Older Americans Act” de 1965, bajo
+cuya versión original los fondos federales fluían directamente de las agencias estatales a
+los proveedores de servicios, sin una instancia de planificación local. Las evaluaciones
+congresionales de los años siguientes documentaron que ese esquema centralizado
+generaba fragmentación de fondos entre demasiadas actividades a nivel comunitario,
+duplicidad de esfuerzos a nivel local, y ausencia de planificación adaptada a las
+
+7
+necesidades particulares de cada comunidad. En respuesta, mediante las enmiendas de
+1973 al “Older Americans Act”, el Congreso federal creó la red nacional de Agencias de
+Área sobre el Envejecimiento o “Area Agencies on Aging”, descentralizando la
+planificación, coordinación y prestación de servicios hacia instancias de gobierno más
+cercanas a las comunidades servidas; red que, medio siglo después, continúa operando
+exitosamente a través de más de seiscientas (600) agencias de área en todos los Estados
+Unidos de América (Congressional Research Service, “Older Americans Act: Overview
+and Funding”, actualizado 2024). Esta Ley aplica, en el contexto municipal de Puerto
+Rico, la misma lógica de política pública que llevó al Congreso federal a descentralizar
+los servicios a personas adultas mayores hace más de cinco décadas para acercar la
+planificación, identificación de beneficiarios y prestación del servicio al nivel de gobierno
+más próximo a la comunidad, en lugar de concentrarlo en una única instancia central.
+La experiencia reciente demuestra, además, que la ejecución centralizada de este
+servicio tropieza incluso en su fase más básica: decidir quién, dentro del propio gobierno
+estatal, tiene la autoridad para aprobar un contrato. En septiembre de 2026, mientras el
+contrato multianual entre la Administración de Familias y Niños (ADFAN) y la
+Corporación de Servicios de Ama de Llaves (COSALL) permanecía pendiente ante la
+Junta de Supervisión y Administración Financiera para Puerto Rico, surgió una
+controversia pública entre La Fortaleza y la Administración de Servicios Generales sobre
+a cuál de las dos entidades correspondía dar el visto bueno final (NotiCel, “Discrepancia
+entre Fortaleza y ASG sobre a quién la toca aprobar el contrato de amas de llaves”,
+septiembre de 2026). El resultado fue un contrato firmado por apenas un mes, como
+remedio provisional, mientras se aclaraba de qué agencia era la responsabilidad. Un
+municipio no enfrenta este tipo de situación. Un gobierno municipal reúne, en una sola
+estructura, la autoridad presupuestaria, legal y operativa necesaria para contratar o
+emplear directamente a una ama de llaves, sin que la decisión dependa de coordinar entre
+tres o cuatro entidades centrales distintas.
+A esa ventaja administrativa se suma una ventaja operacional que ya existe hoy,
+aunque sin reconocimiento legal formal. Los municipios de Puerto Rico administran, con
+
+8
+sus propios recursos, comedores para personas de edad avanzada, rutas de
+transportación municipal y censos locales de envejecientes que ya requieren conocer,
+calle por calle, quién vive solo, quién necesita atención y quién ha dejado de asistir a los
+programas comunitarios. Incorporar el servicio de amas de llaves a esa infraestructura
+no exige levantar un aparato nuevo, sino aprovechar personal, vehículos y relaciones
+comunitarias que el municipio ya sostiene. El gobierno estatal, en cambio, gestiona el
+servicio a distancia, a través de un contrato central cuya interrupción, como ocurrió con
+COSALL, afecta simultáneamente a personas adultas mayores en municipios tan
+distintos entre sí, como, por ejemplo, Guánica, Loíza o Adjuntas, sin que ninguno de ellos
+tenga margen de acción propio para responder mientras se resuelve el trámite en San
+Juan.
+El contacto más frecuente entre el personal municipal y sus residentes también incide
+directamente en la calidad de la atención. Un funcionario municipal que visita con
+regularidad el mismo sector detecta con mayor rapidez cuándo una persona adulta
+mayor deja de recibir el servicio, cambia de condición de salud o requiere una referencia
+adicional, algo más difícil de advertir cuando la relación de servicio pasa por un contrato
+administrado centralmente y fiscalizado a distancia. Por estas razones administrativas,
+operacionales y de calidad en la atención, la ejecución municipal de esta política pública
+resulta, medida frente a lo ocurrido hasta el presente, la alternativa con menor exposición
+a que un fallo puntual paralice el servicio para todo el país.
+En síntesis, evaluado bajo estándares objetivos de continuidad, cobertura, cercanía y
+resiliencia administrativa, el modelo que esta Ley establece resulta superior al esquema
+centralizado que ha prevalecido hasta el presente: (i) en términos de continuidad,
+sustituye la dependencia de uno o pocos contratos centrales, cuya interrupción
+administrativa, como ocurrió en septiembre de 2026, puede paralizar el servicio a nivel
+de todo el país, por setenta y ocho (78) relaciones de financiamiento independientes entre
+sí, de manera que una incidencia administrativa en un municipio no comprometa la
+prestación del servicio en los restantes; (ii) en términos de cobertura, sustituye un proceso
+competitivo en el que menos de la mitad de los municipios logra acceder a fondos
+
+9
+topados y no recurrentes, por un mecanismo estatutario permanente dirigido a la
+totalidad de los 78 municipios; (iii) en términos de cercanía y capacidad de identificación
+de beneficiarios, reconoce y formaliza el rol que los municipios ya ejercen de facto, según
+documentado en esta Exposición de Motivos; y (iv) en términos de alineación con la
+política pública federal en la materia, adopta la misma lógica de descentralización que ya
+ha probado su efectividad durante más de cinco décadas bajo el “Older Americans Act”.
+Por estas razones, esta Asamblea Legislativa concluye que la canalización municipal de
+fondos y servicios que dispone esta Ley constituye una alternativa más eficaz, eficiente,
+proactiva y funcional que el esquema discrecional, fragmentado y centralizado que ha
+regido hasta el presente.
+Por tanto, esta Asamblea Legislativa entiende necesario y de sana política pública
+sustituir el actual esquema discrecional y fragmentado por un marco legal permanente
+que instituya, como norma general y no como excepción administrativa, la canalización
+de la totalidad de los fondos estatales destinados a los servicios de amas de llaves y apoyo
+en el hogar hacia los 78 municipios de Puerto Rico, mediante convenios o acuerdos
+colaborativos, memorandos de entendimiento, transferencias directas de fondos u otra
+modalidad jurídica intergubernamental afín, en lugar de la contratación del Gobierno
+Estatal con entidades privadas para estos fines. A su vez, se reconoce que la prioridad
+debe ser que el servicio sea prestado directamente por personal empleado por el propio
+municipio, reservando la subcontratación con el sector privado como mecanismo
+excepcional y complementario, disponible únicamente cuando el municipio demuestre
+que no cuenta con el capital humano suficiente para atender la demanda de servicios, y
+siempre con el objetivo de garantizar el mayor alcance e impacto posible del programa a
+favor de la población de personas adultas mayores.
+Esta medida armoniza con la política pública ya declarada en la Ley 121-2019, supra, y
+con los principios de autonomía municipal reconocidos en el Código Municipal de Puerto
+Rico, Ley 107-2020, supra, a la vez que provee la estabilidad, transparencia y rendición de
+cuentas que ameritan los fondos públicos destinados a atender a una de las poblaciones
+más vulnerables de nuestra sociedad, cuyo crecimiento sostenido, documentado y
+
+10
+proyectado por el Negociado del Censo de los Estados Unidos de América, la Oficina del
+Procurador de las Personas de Edad Avanzada y el Instituto de Estadísticas de Puerto
+Rico, exige una respuesta programática estable y a largo plazo, y no soluciones
+administrativas temporeras.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1. — Título.
+2 Esta Ley se conocerá como la “Ley de Compromiso Intergubernamental con los
+3 Servicios de Amas de Llaves y Apoyo en el Hogar a las Personas Adultas Mayores de
+4 Puerto Rico”.
+5 Artículo 2. — Declaración de Política Pública.
+6 Será política pública del Gobierno de Puerto Rico que la totalidad de los fondos
+7 públicos consignados, asignados o disponibles, ya sean de origen estatal o federal,
+8 recurrentes o no recurrentes, para sufragar servicios de amas de llaves y apoyo en el
+9 hogar a personas adultas mayores, sean canalizados a los setenta y ocho (78) municipios
+10 de Puerto Rico mediante instrumentos jurídicos intergubernamentales, en lugar de
+11 mediante la contratación directa del Gobierno Estatal con entidades privadas, a los fines
+12 de garantizar la prestación estable, continua, eficiente y fiscalizada de dichos servicios,
+13 en armonía con la política pública declarada en la Ley 121-2019, según enmendada,
+14 conocida como la “Carta de Derechos y la Política Pública del Gobierno a Favor de los
+15 Adultos Mayores”, y con los principios de autonomía municipal reconocidos en la Ley
+16 107-2020, según enmendada, conocida como “Código Municipal de Puerto Rico”.
+
+11
+1 Esta política pública se fundamenta en el reconocimiento de que los municipios,
+2 por su cercanía y conocimiento directo de las necesidades de sus residentes, constituyen
+3 el nivel de gobierno idóneo para identificar a los beneficiarios, coordinar la prestación del
+4 servicio y fiscalizar su calidad a nivel comunitario, sin menoscabo de la fiscalización que
+5 corresponde a las agencias estatales y a los organismos fiscalizadores del Gobierno de
+6 Puerto Rico.
+7 Artículo 3. — Definiciones.
+8 Para efectos de esta Ley, los siguientes términos tendrán el significado que a
+9 continuación se expresa:
+10 a) “Agencia Estatal Autorizada” - significa el Departamento de la Familia y, en lo
+11 relativo a fondos y programas federales bajo la “Older Americans Act”, la Oficina
+12 del Procurador de las Personas de Edad Avanzada (OPPEA), así como cualquier
+13 otra agencia o entidad del gobierno estatal a la que, por ley o por asignación
+14 presupuestaria, se le encomiende la administración de fondos cubiertos por esta
+15 Ley.
+16 b) “Convenio Colaborativo” o “Acuerdo Colaborativo” - significa aquel
+17 instrumento jurídico intergubernamental, sea cual fuere su denominación
+18 formal (convenio, acuerdo, memorando de entendimiento, carta de intención
+19 vinculante o figura análoga), mediante el cual una agencia o entidad del
+20 gobierno estatal transfiere fondos públicos a uno o más municipios para la
+21 prestación de los servicios cubiertos por esta Ley, sujeto a los términos,
+
+12
+1 condiciones, obligaciones de rendición de cuentas y demás requisitos que se
+2 dispongan en dicho instrumento y en el reglamento de esta Ley.
+3 c) “Fondos Federales” - significa aquellos fondos, donativos, asignaciones o
+4 aportaciones provenientes del gobierno federal de los Estados Unidos de
+5 América, disponibles para sufragar, total o parcialmente, servicios de amas de
+6 llaves o apoyo en el hogar a personas adultas mayores, incluyendo, sin limitarse
+7 a, los fondos bajo la Ley Pública Núm. 89-73 de 14 de julio de 1965, según
+8 enmendada, conocida como “Older Americans Act”.
+9 d) “Modalidad Jurídica Intergubernamental Afín” - significa cualquier otro
+10 instrumento o mecanismo jurídico, presente o futuro, reconocido en el
+11 ordenamiento jurídico de Puerto Rico para canalizar fondos públicos entre
+12 agencias del gobierno estatal y los municipios, distinto a la contratación con
+13 entidades privadas.
+14 e) “Municipio” - significa cualquiera de los setenta y ocho (78) municipios que
+15 integran el Gobierno de Puerto Rico, según constituidos conforme a la Ley 107-
+16 2020, según enmendada, conocido como “Código Municipal de Puerto Rico”.
+17 f) “Persona Adulta Mayor” o “Adulto Mayor” - significa toda persona de sesenta
+18 (60) años o más, según definido en la Ley 121-2019, según enmendada, conocida
+19 como la “Carta de Derechos y la Política Pública del Gobierno a Favor de los
+20 Adultos Mayores”.
+21 g) “Recipiente Directo” o “Direct Recipient” - significa la designación mediante la
+22 cual una agencia o entidad del Gobierno de Puerto Rico recibe fondos federales
+
+13
+1 directamente de la agencia federal otorgante, asumiendo la responsabilidad
+2 primaria de su administración y cumplimiento ante dicha agencia federal.
+3 h) “Servicios de Amas de Llaves” o “Servicios de Apoyo en el Hogar” - significa
+4 aquellos servicios de asistencia en el hogar dirigidos a facilitar que la persona
+5 adulta mayor permanezca de forma segura e independiente en su residencia y
+6 comunidad, incluyendo, sin limitarse a, tareas domésticas livianas, preparación
+7 de alimentos, acompañamiento, apoyo en actividades básicas de la vida diaria
+8 y cualesquiera otros servicios afines que establezca el reglamento de esta Ley.
+9 i) “Subrecipiente” o “Subrecipient” - significa la designación mediante la cual un
+10 municipio recibe una porción de fondos federales a través de la Agencia Estatal
+11 Autorizada que funge como Recipiente Directo, sujeto a las obligaciones de
+12 cumplimiento, fiscalización y transferencia de riesgo (pass-through) que
+13 disponga la reglamentación federal aplicable, incluyendo la reglamentación
+14 uniforme sobre administración de subvenciones federales a gobiernos estatales
+15 y locales (2 C.F.R. Parte 200, o aquella que la sustituya) y la ley o programa
+16 federal habilitador correspondiente.
+17 j) “Transferencia Directa de Fondos” - significa el desembolso de fondos públicos
+18 de una agencia o entidad del gobierno estatal a un municipio, formalizado
+19 mediante resolución, orden administrativa, convenio o cualquier otro
+20 mecanismo que reconozca el ordenamiento jurídico aplicable a las finanzas
+21 públicas de Puerto Rico, sin que medie un contrato de servicios profesionales o
+22 de otra índole con una entidad privada como intermediaria.
+
+14
+1 Artículo 4. — Alcance y Aplicabilidad.
+2 Esta Ley aplica a la totalidad de los fondos públicos, estatales o federales,
+3 recurrentes o no recurrentes, incluyendo aquellos consignados mediante la Ley de
+4 Presupuesto General de Gastos del Gobierno de Puerto Rico, resoluciones conjuntas,
+5 donativos legislativos o cualquier otra asignación presupuestaria, que cualquier agencia
+6 o entidad del gobierno estatal destine, en todo o en parte, a sufragar servicios de amas de
+7 llaves o apoyo en el hogar a personas adultas mayores.
+8 Nada de lo dispuesto en esta Ley se interpretará como una limitación a la facultad
+9 de los municipios de complementar, con fondos propios, los servicios cubiertos por esta
+10 Ley, ni de establecer requisitos adicionales de elegibilidad que amplíen, pero nunca
+11 restrinjan, el alcance de los servicios a la población de personas adultas mayores.
+12 Artículo 5. — Mecanismo Exclusivo de Canalización de Fondos a los Municipios.
+13 A partir de la vigencia de esta Ley, toda Agencia Estatal Autorizada que
+14 administre fondos cubiertos por el Artículo 4 de esta Ley canalizará la totalidad de dichos
+15 fondos hacia los 78 municipios de Puerto Rico mediante convenios colaborativos,
+16 transferencias directas de fondos o cualquier otra modalidad jurídica intergubernamental
+17 afín, y no mediante la contratación directa del Gobierno Estatal con entidades privadas,
+18 con nombre de fines de lucro o sin fines de lucro, para la prestación de los servicios
+19 cubiertos por esta Ley.
+20 Todo municipio que desee participar del mecanismo establecido en esta Ley
+21 deberá notificar su interés a la Agencia Estatal Autorizada y cumplir con los requisitos
+22 de elegibilidad dispuestos en el Artículo 7 de esta Ley. Ningún municipio estará obligado
+
+15
+1 a participar del mecanismo aquí establecido; disponiéndose que, en caso de que un
+2 municipio decline participar o incumpla los requisitos de elegibilidad de forma reiterada
+3 tras habérsele concedido oportunidad razonable de subsanar, la Agencia Estatal
+4 Autorizada podrá gestionar la prestación del servicio a los residentes de dicho municipio
+5 a través de mecanismos alternos que garanticen la continuidad del servicio a la población
+6 de personas adultas mayores, incluyendo acuerdos con municipios limítrofes o
+7 consorcios municipales, según reglamentado.
+8 Los convenios colaborativos, las transferencias directas de fondos y cualquier otra
+9 modalidad jurídica intergubernamental afín que se formalicen al amparo de esta Ley
+10 estarán exentos de los procesos de subasta pública, licitación competitiva y demás
+11 requisitos de contratación aplicables a la adquisición de bienes y servicios con el sector
+12 privado bajo la Ley 73-2019, según enmendada, conocida como “Ley para la
+13 Transformación de la Adquisición y Compras del Gobierno de Puerto Rico”, o cualquier
+14 ley general de compras y contrataciones gubernamentales que la sustituya o
+15 complemente, por tratarse de instrumentos jurídicos de naturaleza intergubernamental y
+16 no de contratos de servicios con el sector privado. Esta exención no releva a los
+17 municipios de cumplir con su propia reglamentación municipal de compras y
+18 contrataciones al subcontratar servicios con entidades privadas conforme al Artículo 6 de
+19 esta Ley, ni exime a la Agencia Estatal Autorizada de los requisitos de transparencia,
+20 registro y fiscalización dispuestos en esta Ley, del cumplimiento cabal de las
+21 disposiciones aplicables en materia de contratación gubernamental o cualquier ley
+22 general sobre transferencias de fondos públicos a municipios que resulte aplicable.
+
+16
+1 Artículo 6. — Prestación Directa del Servicio; Subcontratación Excepcional con
+2 Entidades Privadas.
+3 Como norma general, los fondos transferidos a un municipio conforme a esta Ley
+4 se utilizarán para la contratación o el empleo directo, por el propio municipio, del
+5 personal necesario para la prestación de los Servicios de Amas de Llaves o Apoyo en el
+6 Hogar, garantizando de esta forma el control municipal sobre la calidad, continuidad y
+7 fiscalización inmediata del servicio.
+8 No obstante, lo anterior, un municipio podrá subcontratar la prestación del
+9 servicio, en todo o en parte, con una entidad privada, utilizando los fondos transferidos
+10 bajo esta Ley, únicamente cuando demuestre ante la Agencia Estatal Autorizada,
+11 mediante certificación y justificación escrita, que no ha logrado reclutar o retener el
+12 capital humano suficiente para atender la demanda existente en su jurisdicción. La
+13 subcontratación autorizada bajo este Artículo tendrá como único propósito garantizar el
+14 mayor alcance e impacto posible del servicio a la población de personas adultas mayores
+15 del municipio, y en ningún caso podrá utilizarse como mecanismo para eludir las
+16 obligaciones de fiscalización, transparencia y rendición de cuentas dispuestas en esta Ley.
+17 Toda subcontratación autorizada bajo este Artículo deberá, además, cumplir con
+18 la Ley 107-2020, según enmendada, conocido como “Código Municipal de Puerto Rico”,
+19 con la reglamentación municipal de compras y contrataciones aplicable, incluyendo los
+20 requisitos de licenciamiento que correspondan a los proveedores de servicios de cuidado
+21 a personas adultas mayores conforme a la ley aplicable.
+
+17
+1 Artículo 7. — Elegibilidad y Requisitos de los Municipios.
+2 Para ser elegible a recibir fondos bajo esta Ley, todo municipio deberá:
+3 (1) Someter un plan de trabajo o propuesta que identifique la población estimada a
+4 servir, el mecanismo de identificación y referido de beneficiarios, y el presupuesto
+5 proyectado, conforme al formulario que adopte la Agencia Estatal Autorizada.
+6 (2) Certificar el cumplimiento con la Ley 1-2012, según enmendada, conocida como
+7 “Ley Orgánica de la Oficina de Ética Gubernamental de Puerto Rico”, según
+8 aplicable, y con las leyes de contabilidad, fiscalización y administración de fondos
+9 públicos vigentes en Puerto Rico.
+10 (3) No tener deudas significativas o incumplimientos sustanciales pendientes con el
+11 Centro de Recaudación de Ingresos Municipales (CRIM) u otras agencias estatales
+12 relacionadas con el uso de fondos públicos, salvo que medie un plan de pago o
+13 corrección vigente y aprobado.
+14 (4) Someter, respecto a fondos previamente recibidos bajo programas similares, los
+15 informes de utilización de fondos y de servicios prestados que le hayan sido
+16 requeridos, según aplicable.
+17 (5) Designar un enlace o coordinador municipal responsable de la administración,
+18 ejecución y fiscalización del programa a nivel local.
+19 (6) Cumplir con cualesquiera otros requisitos razonables que disponga el reglamento
+20 de esta Ley, incluyendo aquellos requisitos adicionales que resulten aplicables
+21 cuando los fondos transferidos provengan, en todo o en parte, de Fondos
+22 Federales.
+
+18
+1 Artículo 8. — Fórmula y Plan Anual de Distribución de Fondos.
+2 La Agencia Estatal Autorizada adoptará, mediante reglamento, una fórmula
+3 objetiva y razonable para la distribución anual de los fondos cubiertos por esta Ley entre
+4 los municipios elegibles, la cual deberá considerar, entre otros factores: (i) la proporción
+5 de población de personas adultas mayores en cada municipio; (ii) los indicadores
+6 socioeconómicos y de necesidad de cada municipio, incluyendo índices de pobreza y
+7 ruralidad; (iii) el historial de utilización efectiva de fondos previamente asignados a cada
+8 municipio bajo programas similares; y (iv) la capacidad operativa certificada por cada
+9 municipio.
+10 La Agencia Estatal Autorizada publicará un plan de distribución anual, con al
+11 menos sesenta (60) días de antelación al comienzo del año fiscal correspondiente, a los
+12 fines de que los municipios puedan planificar con suficiente antelación la contratación
+13 del personal necesario para la prestación continua del servicio.
+14 Artículo 9. — Fondos y Programas Federales; Designación como Recipiente Directo;
+15 Municipios como Subrecipientes.
+16 En todo caso en que exista un fondo o programa federal disponible para sufragar,
+17 en todo o en parte, los servicios cubiertos por esta Ley, incluyendo, sin limitarse a, los
+18 fondos bajo la “Older Americans Act”, la Agencia Estatal Autorizada deberá auscultar,
+19 gestionar y, de resultar viable conforme a la ley o programa federal habilitador y a la
+20 reglamentación federal aplicable, procurar que el Gobierno de Puerto Rico sea designado
+21 como el Recipiente Directo de dichos fondos ante la agencia federal correspondiente.
+
+19
+1 De lograrse la designación como Recipiente Directo, la Agencia Estatal Autorizada
+2 deberá, en la mayor medida posible bajo la ley o programa federal habilitador, canalizar
+3 dichos Fondos Federales hacia los municipios mediante su designación como
+4 Subrecipientes, sujeto en todo momento a: (i) la reglamentación federal uniforme sobre
+5 administración de subvenciones a gobiernos estatales y locales (2 C.F.R. Parte 200, o
+6 aquella que la sustituya); (ii) los requisitos específicos de la ley o programa federal
+7 habilitador; y (iii) los acuerdos de subrecipiente (subrecipient agreements) que la Agencia
+8 Estatal Autorizada suscriba con cada municipio, los cuales deberán incorporar todas las
+9 condiciones, certificaciones y obligaciones de transferencia de riesgo (risk assessment) y
+10 fiscalización que exija la agencia federal otorgante.
+11 En particular, respecto a los fondos bajo el “Older Americans Act”, se reconoce
+12 expresamente que la designación de áreas de planificación y servicio o “Planning and
+13 Service Areas” y de agencias de área sobre el envejecimiento o “Area Agencies on Aging”
+14 conforme a la Sección 305 de dicho estatuto federal (42 U.S.C. § 3025), incluyendo
+15 cualquier determinación sobre si dichas áreas habrán de coincidir con la totalidad del
+16 territorio de Puerto Rico, con agrupaciones de municipios, o con cada uno de los 78
+17 municipios individualmente, corresponde exclusivamente a la “Administration for
+18 Community Living” (ACL) del gobierno federal, o a la agencia federal sucesora, conforme
+19 a la reglamentación federal aplicable. Nada en esta Ley se interpretará como una
+20 determinación, mandato o expectativa vinculante sobre la forma en que dicha agencia
+21 federal habrá de estructurar sus áreas de planificación y servicio, como una obligación de
+22 dicha agencia federal de aprobar la designación de cada municipio como subrecipiente
+
+20
+1 individual, ni como una garantía de que la totalidad de los fondos bajo dicho programa
+2 federal serán canalizados directamente a los municipios. La Agencia Estatal Autorizada
+3 procurará, dentro del marco de discreción que la reglamentación federal le permita,
+4 maximizar la participación municipal directa conforme a los propósitos de esta Ley.
+5 Nada de lo dispuesto en este Artículo se interpretará en contravención de ninguna
+6 ley o reglamento federal aplicable. En caso de conflicto entre las disposiciones de esta Ley
+7 y los requisitos de una ley o programa federal específico, prevalecerán estos últimos en
+8 la medida del conflicto, sin que ello invalide el resto de las disposiciones de esta Ley.
+9 La Agencia Estatal Autorizada rendirá un informe a la Asamblea Legislativa,
+10 conforme al Artículo 12 de esta Ley, sobre las gestiones realizadas para lograr la
+11 designación de Recipiente Directo respecto a cualquier fondo federal aplicable,
+12 incluyendo, de no haberse logrado, las razones para ello.
+13 Artículo 10. — Agencias Responsables; Coordinación Interinstitucional.
+14 El Departamento de la Familia será la agencia estatal principal responsable de la
+15 implementación de esta Ley respecto a fondos estatales, y coordinará con la Oficina del
+16 Procurador de las Personas de Edad Avanzada (OPPEA) todo lo relativo a fondos y
+17 programas federales bajo la “Older Americans Act” u otra legislación federal afín, dada la
+18 designación de la OPPEA como agencia estatal administradora de dichos fondos
+19 conforme a la Ley 76-2013, según enmendada.
+20 El Departamento de la Familia y la OPPEA suscribirán un memorando de
+21 entendimiento interinstitucional, dentro de los ciento veinte (120) días siguientes a la
+22 vigencia de esta Ley, a los fines de establecer sus respectivas responsabilidades,
+
+21
+1 mecanismos de coordinación y protocolos de intercambio de información necesarios para
+2 la implementación efectiva de esta Ley. La Oficina de Gerencia y Presupuesto (OGP) y el
+3 Departamento de Hacienda prestarán su colaboración y asesoramiento técnico-fiscal
+4 según sea necesario.
+5 Artículo 11. — Reglamentación.
+6 El Departamento de la Familia, en coordinación con la OPPEA, adoptará el
+7 reglamento necesario para implementar las disposiciones de esta Ley dentro de los ciento
+8 ochenta (180) días siguientes a su vigencia, conforme a los requisitos de la Ley 38-2017,
+9 según enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+10 Gobierno de Puerto Rico”. Dicho reglamento dispondrá, entre otros asuntos, el modelo o
+11 modelos de convenio colaborativo o instrumento de transferencia directa de fondos a
+12 utilizarse; la fórmula de distribución dispuesta en el Artículo 8; los requisitos y
+13 procedimientos de certificación de elegibilidad; los criterios y procedimiento para
+14 autorizar la subcontratación excepcional dispuesta en el Artículo 6; y los mecanismos de
+15 fiscalización, informes y sanciones administrativas por incumplimiento.
+16 Artículo 12. — Fiscalización, Rendición de Cuentas e Informes.
+17 Todo municipio que reciba fondos bajo esta Ley deberá mantener registros
+18 contables separados e independientes que permitan identificar claramente el uso de
+19 dichos fondos, y someterá a la Agencia Estatal Autorizada los informes periódicos de
+20 ejecución programática y fiscal que se dispongan en el reglamento de esta Ley o en el
+21 convenio colaborativo correspondiente.
+
+22
+1 Los fondos transferidos bajo esta Ley estarán sujetos a la fiscalización de la Oficina
+2 del Contralor de Puerto Rico, la Oficina del Inspector General y cualesquiera otros
+3 organismos fiscalizadores con jurisdicción sobre el uso de fondos públicos en Puerto Rico,
+4 conforme a sus respectivas leyes orgánicas.
+5 El uso indebido, malversación o desvío de los fondos transferidos bajo esta Ley
+6 para fines distintos a los aquí dispuestos podrá conllevar, además de las
+7 responsabilidades civiles y penales que correspondan bajo la ley aplicable, la suspensión
+8 o cancelación del Convenio Colaborativo correspondiente y la exclusión temporal del
+9 municipio del mecanismo de distribución de fondos, sin perjuicio de la continuidad del
+10 servicio a los beneficiarios ya identificados, la cual la Agencia Estatal Autorizada deberá
+11 garantizar mediante mecanismos alternos.
+12 La Agencia Estatal Autorizada rendirá un informe anual a la Asamblea
+13 Legislativa, no más tarde del 31 de octubre de cada año, que incluya, entre otros datos la
+14 cantidad de municipios participantes; la cantidad de fondos transferidos a cada
+15 municipio y su origen (estatal o federal); la cantidad de personas adultas mayores
+16 servidas; la cantidad de instancias en las que se autorizó subcontratación excepcional bajo
+17 el Artículo 6 y las razones para ello; y las gestiones realizadas conforme al Artículo 9
+18 respecto a la designación de Recipiente Directo de fondos federales.
+19 Artículo 13. — Salvedad Respecto a Contratos y Compromisos Vigentes.
+20 Los contratos con entidades privadas que se encuentren vigentes a la fecha de
+21 aprobación de esta Ley continuarán en vigor hasta su fecha de expiración o terminación,
+22 conforme a sus propios términos, sin que esta Ley se interprete como causa para su
+
+23
+1 terminación anticipada. No obstante, ninguna Agencia Estatal Autorizada podrá
+2 suscribir nuevos contratos con entidades privadas, ni renovar los existentes, para la
+3 prestación directa, por encargo del gobierno estatal, de los servicios cubiertos por esta
+4 Ley, una vez transcurrido un (1) año desde la vigencia de esta Ley, salvo lo dispuesto en
+5 el Artículo 5 de esta Ley para casos de municipios que no participen del mecanismo aquí
+6 establecido.
+7 Artículo 14. — Relación con Otras Leyes.
+8 Esta Ley se interpretará en armonía con la Ley 121-2019, según enmendada,
+9 conocida como “Carta de Derechos y la Política Pública del Gobierno a Favor de los
+10 Adultos Mayores”; la Ley 76-2013, según enmendada, conocida como “Ley del
+11 Procurador de las Personas de Edad Avanzada del Estado Libre Asociado de Puerto
+12 Rico”; Ley 107-2020, según enmendado, conocido como “Código Municipal de Puerto
+13 Rico”; y cualquier otra ley aplicable a la administración de fondos públicos y a la
+14 prestación de servicios a personas adultas mayores en Puerto Rico. En caso de conflicto
+15 entre esta Ley y disposiciones generales de contratación gubernamental o de compras,
+16 prevalecerán las disposiciones específicas de esta Ley en cuanto a los fondos cubiertos
+17 por el Artículo 4.
+18 Artículo 15. — Asignación de Fondos.
+19 Se autoriza al Departamento de Hacienda y a la Oficina de Gerencia y Presupuesto
+20 a consignar, en el Presupuesto General de Gastos del Gobierno de Puerto Rico
+21 correspondiente a cada año fiscal, los fondos necesarios para la implementación de esta
+22 Ley, según recomendado por el Departamento de la Familia y la OPPEA.
+
+24
+1 Artículo 16. — Cumplimiento con la Ley PROMESA y el Plan Fiscal Certificado.
+2 La implementación de esta Ley estará en todo momento sujeta a la disponibilidad
+3 presupuestaria y en armonía con el Plan Fiscal certificado aplicable al Gobierno de Puerto
+4 Rico, conforme a la Ley federal “Puerto Rico Oversight, Management, and Economic Stability
+5 Act” (PROMESA), 48 U.S.C. § 2101 et seq.
+6 La persona que ocupe el cargo de gobernador del Estado Libre Asociado de Puerto
+7 Rico remitirá esta Ley a la Junta de Supervisión y Administración Financiera para Puerto
+8 Rico dentro del término dispuesto en la Sección 204(a) de PROMESA, acompañada de la
+9 estimación de impacto fiscal y la certificación correspondiente sobre su consistencia con
+10 el Plan Fiscal vigente. La Oficina de Gerencia y Presupuesto, en coordinación con el
+11 Departamento de Hacienda y la Autoridad de Asesoría Financiera y Agencia Fiscal de
+12 Puerto Rico (AAFAF), realizará las gestiones necesarias para tramitar dicha certificación
+13 antes de la implementación operativa del mecanismo dispuesto en esta Ley.
+14 De determinar la Junta de Supervisión y Administración Financiera que alguna
+15 disposición específica de esta Ley es significativamente inconsistente con el Plan Fiscal
+16 certificado, dicha disposición quedará en suspenso únicamente en la medida de la
+17 inconsistencia así determinada, hasta tanto esta se subsane mediante enmienda a esta
+18 Ley, al Plan Fiscal, o a la asignación presupuestaria correspondiente, sin que ello afecte
+19 la vigencia ni validez del resto de las disposiciones de esta Ley, conforme a la cláusula de
+20 separabilidad dispuesta en el Artículo 17.
+
+25
+1 Artículo 17. — Cláusula de Separabilidad.
+2 Si cualquier cláusula, párrafo, artículo, subartículo, inciso o parte de esta Ley fuere
+3 declarada inconstitucional o nula, o significativamente inconsistente con el Plan Fiscal
+4 certificado conforme al Artículo 16, por un tribunal o entidad con jurisdicción o autoridad
+5 competente, dicha determinación no afectará, perjudicará ni invalidará el resto de esta
+6 Ley. El efecto de dicha determinación quedará limitado a la cláusula, párrafo, artículo,
+7 subartículo, inciso o parte de esta que así hubiere sido declarada inconstitucional, nula o
+8 inconsistente.
+9 Artículo 18. — Vigencia.
+10 Esta Ley comenzará a regir inmediatamente después de su aprobación.
