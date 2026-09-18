@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RCC0293",
   "title": "Para denominar la cancha de la Escuela Francisco Roque Mu\u00f1oz en Naranjito, Puerto Rico, con el nombre de Jos\u00e9 Corretjer, en reconocimiento a su invaluable legado y contribuciones a la comunidad y el desarrollo deportivo; y para otros fines.",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
   ],
@@ -298,6 +298,58 @@
       "_processing": {
         "log_file_created": "2026-09-15T10:24:36Z"
       }
+    },
+    {
+      "description": "Devuelto por Fortaleza",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:04:13Z"
+      }
+    },
+    {
+      "description": "Se solicita reconsideraci\u00f3n de la medida",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:04:13Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:04:13Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:04:13Z"
+      }
+    },
+    {
+      "description": "Se reconsider\u00f3",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:04:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -399,6 +451,17 @@
       ],
       "date": "2026-08-17",
       "classification": ""
+    },
+    {
+      "note": "Se reconsider\u00f3",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160481/RCC0293 Rec. Camara.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-17",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -417,7 +480,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:24:36Z",
+    "logs_latest_update": "2026-09-18T10:04:13Z",
     "text_extraction_latest_update": "2026-09-15T10:29:33.919983Z"
   }
 }
