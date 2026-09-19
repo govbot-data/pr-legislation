@@ -282,6 +282,16 @@
       "_processing": {
         "log_file_created": "2026-09-15T10:24:36Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2026-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T09:52:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -391,6 +401,17 @@
       ],
       "date": "2026-09-14",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152843/ps0205e-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -409,7 +430,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:24:36Z",
+    "logs_latest_update": "2026-09-19T09:52:06Z",
     "text_extraction_latest_update": "2026-09-15T10:28:03.678845Z"
   }
 }

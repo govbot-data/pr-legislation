@@ -82,23 +82,33 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:20Z"
       }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2026-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T09:52:06Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "F\u00e9lix E. Pacheco  Burgos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"F\\u00e9lix E. Pacheco  Burgos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Ensol  Rodr\u00edguez Torres - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Ensol  Rodr\\u00edguez Torres - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "F\u00e9lix E. Pacheco  Burgos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"F\\u00e9lix E. Pacheco  Burgos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -113,6 +123,17 @@
         }
       ],
       "date": "2026-02-18",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160489/PC1140-n.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-18",
       "classification": ""
     }
   ],
@@ -132,7 +153,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:27Z",
+    "logs_latest_update": "2026-09-19T09:52:06Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-09-07T10:14:10.749296Z"
