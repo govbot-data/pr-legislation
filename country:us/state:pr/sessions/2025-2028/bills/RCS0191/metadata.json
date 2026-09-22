@@ -50,6 +50,38 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:18Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:04:37Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:04:37Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2026-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:04:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -74,6 +106,28 @@
       ],
       "date": "2026-06-02",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161382/rcs0191-Inf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-18",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161382/rcs0191-ent (1).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -92,7 +146,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:18Z",
+    "logs_latest_update": "2026-09-22T10:04:37Z",
     "text_extraction_latest_update": "2026-07-22T03:33:08.296097Z"
   }
 }

@@ -246,47 +246,79 @@
       }
     },
     {
-      "description": "2do Informe Comisi\u00f3n rendido con enmiendas",
-      "date": "2026-06-15T04:00:00+00:00",
+      "description": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "date": "2026-09-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "amendment-amendment"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:19Z"
-      }
-    },
-    {
-      "description": "Entirillado del Informe",
-      "date": "2026-06-15T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:58:19Z"
+        "log_file_created": "2026-09-22T10:04:37Z"
       }
     },
     {
       "description": "Remitido a Comisi\u00f3n de Calendarios de la C\u00e1mara",
-      "date": "2026-06-15T04:00:00+00:00",
+      "date": "2026-09-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:58:19Z"
+        "log_file_created": "2026-09-22T10:04:37Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2026-09-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:04:37Z"
+      }
+    },
+    {
+      "description": "Aprobado sin enmiendas",
+      "date": "2026-09-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:04:37Z"
+      }
+    },
+    {
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "date": "2026-09-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:04:37Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2026-09-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:04:37Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -306,11 +338,11 @@
       "organization_id": null
     },
     {
-      "name": "Brenda   P\u00e9rez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Brenda   P\\u00e9rez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -402,25 +434,25 @@
       "classification": ""
     },
     {
-      "note": "2do Informe Comisi\u00f3n rendido con enmiendas",
+      "note": "1er Informe Comisi\u00f3n rendido sin enmiendas",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/158893/PS0759-i 2do.docx",
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158893/PS0759-i (2do).docx",
           "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
-      "date": "2026-06-15",
+      "date": "2026-09-15",
       "classification": ""
     },
     {
-      "note": "Entirillado del Informe",
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/158893/PS0759-ee 2do.pdf",
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158893/PS0759 votacion.pdf",
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-06-15",
+      "date": "2026-09-21",
       "classification": ""
     }
   ],
@@ -440,7 +472,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:29Z",
+    "logs_latest_update": "2026-09-22T10:04:37Z",
     "text_extraction_latest_update": "2026-07-22T05:15:58.845423Z"
   }
 }
