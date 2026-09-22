@@ -1,0 +1,311 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+A-127
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1402
+20 de agosto de 2026
+Presentado por los señores Rivera Schatz, Ríos Santiago, la señora Jiménez Santoni, los
+señores Matías Rosario, Morales Rodríguez, la señora Barlucea Rodríguez, los señores Colón
+La Santa, González López, las señoras Padilla Alvelo, Moran Trinidad, Pérez Soto, el señor
+Reyes Berríos, la señora Román Rodríguez, los señores Rosa Ramos, Sánchez Álvarez, Santos
+Ortiz, las señoras Soto Aguilú, Soto Tolentino, y el señor Toledo López
+Referido a la Comisión de Vivienda y Bienestar Social
+LEY
+Para enmendar los incisos (a) y (c) de la Sección 4 de la Ley 83 del 2 de mayo de 1941,
+según enmendada, conocida como la “Ley de la Autoridad de Energía Eléctrica de
+Puerto Rico”, a los fines de autorizar a la Oficina del Procurador del Ciudadano
+(Ombudsman) a utilizar mecanismos electrónicos en el proceso de elección del
+representante del interés de los clientes ante la Junta de Gobierno de la Autoridad
+de Energía Eléctrica de Puerto Rico; permitir que exempleados de la Autoridad
+puedan pertenecer a la Junta de Gobierno luego de transcurridos dos (2) años desde
+su jubilación o separación del empleo; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La participación de los consumidores en los organismos vinculados a la prestación
+de servicios esenciales constituye un elemento fundamental de la representación
+ciudadana, la transparencia y la rendición de cuentas. En Puerto Rico, esta participación
+se reconoce mediante la elección de un representante de los consumidores ante la Junta
+de Gobierno de la Autoridad de Energía Eléctrica de Puerto Rico (AEE).
+
+2
+Desde el año 2024 no se ha celebrado la elección de dicho representante, debido,
+principalmente, al elevado costo que conlleva el proceso bajo el modelo vigente, estimado
+en aproximadamente $1.5 millones, según ha señalado la Oficina del Procurador del
+Ciudadano (Ombudsman) de Puerto Rico. Esta situación ha impedido que los
+consumidores puedan elegir a su representante. Es precisamente esta realidad la que nos
+lleva a presentar este Proyecto de Ley, con el propósito de viabilizar de forma inmediata
+la celebración de esta elección mediante un mecanismo electrónico que resulte ágil,
+accesible, seguro y costo-efectivo.
+Los avances tecnológicos permiten incorporar mecanismos electrónicos que
+faciliten la participación de los consumidores y reduzcan los costos asociados a este tipo
+de proceso. La votación electrónica representa una alternativa viable para facilitar el
+ejercicio del voto y hacer más eficiente la elección del representante de los consumidores.
+Por ello, esta Asamblea Legislativa entiende necesario establecer un mecanismo
+de votación electrónica que permita celebrar de forma inmediata la elección del
+representante de los consumidores ante la Junta de Gobierno de la AEE y que, a su vez,
+pueda utilizarse en los procesos electorales subsiguientes. Este mecanismo deberá contar
+con las salvaguardas necesarias para verificar la elegibilidad de los electores, garantizar
+la seguridad, confidencialidad y secreto del voto, evitar votos duplicados o no
+autorizados y asegurar la confiabilidad y verificabilidad de los resultados.
+Con esta medida se procura atender de manera inmediata la ausencia de un
+representante electo por los consumidores, reducir los costos asociados al modelo vigente
+y garantizar la celebración oportuna de futuras elecciones. De esta manera, se fortalece la
+representación de los consumidores, se moderniza este mecanismo de participación
+ciudadana y se promueve el uso eficiente y responsable de los recursos públicos.
+
+3
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Articulo 1.- Se enmienda la Sección 4 de la Ley 83 del 2 de mayo de 1941, según
+2 enmendada, conocida como “Ley de la Autoridad de Energía Eléctrica de Puerto Rico”
+3 para que se lea como sigue:
+4 “Sección 4 – Junta de Gobierno
+5 …
+6 (a) Nombramiento y composición de la Junta. — …
+7 …
+8 …
+9 …
+10 …
+11 …
+12 El miembro independiente y el miembro electo estarán sujetos a los requisitos de
+13 independencia bajo las Reglas Finales de Gobierno Corporativo de la Bolsa de
+14 Valores de Nueva York (NYSE). No podrá ser miembro de la Junta persona alguna,
+15 incluido el miembro que representa el interés de los clientes, que: (i) sea empleado,
+16 exempleado o jubilado si no han transcurrido dos (2) años de la separación de empleo o
+17 jubilación, persona que haya sido jubilado de la Autoridad [empleado jubilado] o que
+18 tenga interés económico sustancial, directo o indirecto, en alguna empresa privada
+19 con la cual la Autoridad otorgue contratos o con quien haga transacciones de
+20 cualquier índole, incluyendo el tomar dinero a préstamo o proveer materia prima;
+
+4
+1 (ii) en los tres (3) años anteriores a su cargo haya tenido una relación o interés
+2 comercial en alguna empresa privada con la cual la Autoridad otorgue contratos
+3 o haga transacciones de cualquier índole; (iii) sea empleado, miembro, asesor o
+4 contratista de cualquiera de los sindicatos de trabajadores de la Autoridad; (iv)
+5 haya sido miembro de un organismo directivo a nivel central o local de un partido
+6 político inscrito en Puerto Rico durante el año previo a la fecha de su designación;
+7 (v) no haya provisto la certificación de radicación de planillas correspondientes a
+8 los últimos cinco (5) años contributivos, la certificación negativa de deuda emitida
+9 por el Departamento de Hacienda, la certificación negativa de deuda con la
+10 Autoridad, el Certificado de Antecedentes Penales de la Policía de Puerto Rico, así
+11 como las certificaciones negativas de deuda de la Administración para el Sustento
+12 de Menores (ASUME) y del Centro de Recaudación de Impuestos Municipales
+13 (CRIM) o cumplido con los demás requisitos aplicables a toda persona que desee
+14 ser funcionario público; o (vi) ningún miembro nombrado por el Gobernador
+15 podrá ser un oficial de la AEE ni oficial o director de la “Corporación para la
+16 Revitalización de la Autoridad de Energía Eléctrica de Puerto Rico”.
+17 …
+18 Los miembros de la Junta recibirán por sus servicios aquella compensación que
+19 determine la Junta por unanimidad. De no lograr la unanimidad, el Gobernador
+20 entonces determinará la compensación de los miembros. Esta compensación será
+21 comparable a aquella recibida por miembros de juntas de instituciones en la
+
+5
+1 industria de la energía de tamaño, complejidad y riesgos similares a la Autoridad,
+2 tomando en cuenta la naturaleza de la Autoridad como corporación pública del
+3 Gobierno de Puerto Rico, y, en cualquier caso, que sea suficiente para atraer
+4 candidatos cualificados. Cuando el miembro de la Junta sea un jubilado, la compensación
+5 anual de sus servicios no podrá ser mayor que el cincuenta por ciento (50%) de la anualidad
+6 de su pensión.
+7 No obstante a lo anterior, los miembros de la Junta que sean empleados del
+8 Gobierno de Puerto Rico no recibirán compensación alguna por sus servicios,
+9 salvo el reembolso de gastos. Para poder recibir reembolso de gastos, cada
+10 miembro de la Junta tendrá que presentar un documento que evidencie la reunión
+11 o gestión o gasto por la cual se solicita reembolso, y el objetivo de dicha reunión,
+12 gestión o gasto. Estos documentos se publicarán en el portal de Internet de la
+13 Autoridad.
+14 …
+15 (b) Organización de la Junta; quorum; designación del Director Ejecutivo.
+16 …
+17 …
+18 …
+19 …
+20 (c) Procedimiento para la elección del [los] representante[s] del interés de los
+21 clientes.
+
+6
+1 [(1) El Ombudsman aprobará un] reglamento para implantar el
+2 procedimiento de elección dispuesto en esta Sección. Dicho proceso de
+3 reglamentación deberá cumplir con lo dispuesto en el Artículo 8 de la Ley
+4 Núm. 134 de 30 de junio de 1977, según enmendada, conocida como “Ley del
+5 Procurador del Ciudadano (Ombudsman)”.]
+6 (1) La Oficina del Ombudsman utilizará mecanismos electrónicos para la convocatoria,
+7 nominación, validación de electores, emisión y registro del voto, escrutinio,
+8 certificación y auditoría del proceso de elección del representante del interés de los
+9 clientes. Para ello, establecerá plataformas digitales, sistemas de votación electrónica u
+10 otras tecnologías análogas, siempre que se garantice la seguridad, integridad,
+11 confidencialidad, accesibilidad y transparencia del proceso.
+12 Los sistemas utilizados deberán generar registros auditables, preservar el secreto
+13 del voto, proteger los datos personales de los electores y permitir la verificación
+14 independiente de los resultados. Asimismo, la Oficina del Ombudsman establecerá
+15 mediante reglamentación los controles de calidad, protocolos de auditoría, mecanismos
+16 de contingencia y procedimientos de certificación necesarios para asegurar la
+17 confiabilidad del proceso electoral.
+18 Igualmente, adoptará protocolos de asistencia, accesibilidad y apoyo técnico para
+19 garantizar la participación efectiva de adultos mayores, personas con diversidad
+20 funcional y ciudadanos con conocimientos limitados en el uso de herramientas
+21 digitales, en condiciones de igualdad y sin discriminación de conformidad.
+
+7
+1 Asimismo, podrá utilizar los servicios y la asistencia técnica de entidades públicas
+2 o privadas con experiencia en la administración, operación, auditoría o certificación de
+3 sistemas tecnológicos y procesos electorales, sujeto al cumplimiento de los requisitos de
+4 seguridad, independencia, transparencia y protección de datos aplicables.
+5 [(2) En o antes de los ciento veinte (120) días previos a la fecha de
+6 vencimiento del término del representante del interés de los clientes en
+7 la Junta de Gobierno de la Autoridad, el Ombudsman emitirá una
+8 convocatoria a elección, en la que especificará los requisitos para ser
+9 nominado como candidato a miembro de la Junta como el representante
+10 de los intereses de los clientes. La convocatoria deberá publicarse
+11 mediante avisos en los medios de comunicación, en los portales de
+12 Internet de la Autoridad y del Ombudsman, y enviarse junto con la
+13 facturación que hace la Autoridad a sus abonados.]
+14 (2) La Oficina del Ombudsman adoptará o atemperará la reglamentación necesaria
+15 para implementar mecanismos de participación electrónica y establecerá los
+16 controles y procedimientos de fiscalización y mecanismos de auditoría necesarios
+17 para garantizar la integridad, transparencia, confiabilidad y accesibilidad del
+18 proceso de selección. El reglamento para implantar el procedimiento de elección
+19 dispuesto en esta Sección deberá cumplir con lo dispuesto en el Artículo 8 de la Ley
+20 Núm. 134 de 30 de junio de 1977, según enmendada, conocida como “Ley del
+21 Procurador del Ciudadano (Ombudsman)”.
+
+8
+1 Además, la Oficina del Ombudsman garantizará mecanismos de
+2 orientación, asistencia presencial y apoyo para aquellas personas que no estén
+3 familiarizadas con el uso de plataformas o herramientas tecnológicas necesarias
+4 para participar en el proceso de elección electrónica. A esos fines, los electores
+5 podrán acudir a las oficinas regionales o centrales de la Oficina del Ombudsman, o
+6 a instalaciones que esta designe, incluyendo aquellas del operador privado de
+7 transmisión y distribución, donde se les brindará orientación y asistencia técnica
+8 para ejercer su derecho al voto de manera electrónica, salvaguardando en todo
+9 momento la confidencialidad, integridad y autonomía del elector durante el proceso
+10 de votación.
+11 (3) En o antes de los ciento veinte (120) días previos a la fecha de vencimiento del
+12 término del representante del interés de los clientes en la Junta de Gobierno de la
+13 Autoridad, el Ombudsman emitirá una convocatoria a elección en la que
+14 especificará los requisitos de elegibilidad, nominación y radicación de candidaturas
+15 para ocupar el cargo de representante de los intereses de los clientes ante la Junta
+16 de Gobierno. La convocatoria deberá publicarse mediante avisos en los medios de
+17 comunicación, en los portales de Internet de la Autoridad y del Ombudsman, así
+18 como mediante otros medios de comunicación y divulgación que razonablemente
+19 aseguren su amplia difusión entre los abonados.
+20 [(3)] (4) El Ombudsman diseñará y distribuirá un formulario de Petición de
+21 Nominación, en el cual todo aspirante a ser nominado como candidato hará
+22 constar bajo juramento su nombre, circunstancias personales, dirección
+
+9
+1 física, dirección postal, teléfono, lugar de trabajo, ocupación, experiencias
+2 de trabajo previas que sean relevantes, preparación académica y número de
+3 cuenta con la Autoridad. En la petición para comparecer como
+4 representante de los intereses del cliente se incluirán la firma de no menos
+5 de treinta (30) abonados residenciales, con su nombre, dirección y número
+6 de cuenta con la Autoridad, diez (10) abonados comerciales y diez (10)
+7 abonados industriales con el número de cuenta y el nombre, título y firma
+8 de un oficial autorizado de dicho abonado, que endosan la nominación del
+9 peticionario. Se incluirá, además, una carta en papel timbrado y firmada
+10 por un (1) oficial de cada abonado comercial o industrial, certificando el
+11 endoso de dicho abonado al candidato. Estos formularios deberán estar
+12 disponibles para ser completados en su totalidad, en formato digital por los
+13 aspirantes, en los portales de Internet de la Autoridad y del Ombudsman.
+14 El Ombudsman incluirá en el reglamento un mecanismo de validación de
+15 endosos de conformidad con los propósitos de esta Ley. El reglamento
+16 dispondrá que los resultados del proceso de validación de endosos serán
+17 certificados por un notario. Igualmente, en dicho reglamento se incluirán
+18 los requisitos que, de conformidad con esta Ley y otras leyes aplicables,
+19 deberán tener los candidatos. Todo candidato deberá ser cliente bona fide
+20 de la Autoridad.
+
+10
+1 [(4)] (5) En o antes de los noventa (90) días previos a la fecha de vencimiento
+2 del término del representante del interés de los clientes, el Ombudsman
+3 certificará como candidatos a los siete (7) peticionarios que hayan sometido
+4 el mayor número de endosos, y que hayan cumplido con los demás
+5 requisitos establecidos en este inciso. Disponiéndose que, cada uno de los
+6 candidatos seleccionado podrá designar a una persona para que lo
+7 represente en los procedimientos y durante el escrutinio.
+8 [(5)] (6) En o antes de los sesenta (60) días previos a la fecha de vencimiento
+9 del término del representante del interés de los clientes el Ombudsman, en
+10 consulta con el Secretario de la Junta de Gobierno de la Autoridad,
+11 procederá con el diseño [e impresión de la papeleta al escrutinio.] y la
+12 creación de la plataforma digital o electrónica en coordinación con la Oficina de
+13 Servicios de Innovación y Tecnología de Puerto Rico (PRITS, por sus siglas en
+14 inglés) para la elección del representante del interés de los clientes. El diseño [de
+15 la papeleta] electrónico para la elección del representante del interés de los
+16 clientes deberá incluir un espacio para [la firma del cliente votante, y un
+17 espacio] que el cliente escriba su número de cuenta y el número de teléfono.
+18 [la dirección postal en la que recibe la factura de la Autoridad por el
+19 servicio eléctrico, la papeleta para los] En caso de clientes comerciales o
+20 industriales se incluirá un espacio donde el abonado incluirá su número de
+21 cuenta y el nombre, título [y firma] de un oficial autorizado a emitir el voto
+22 a nombre de dicho [abonado] cliente comercial o industrial. [La papeleta
+
+11
+1 deberá advertir que el voto no será contado si el cliente omite firmar su
+2 papeleta y escribir su número de cuenta.]
+3 [(6) Las papeletas solo se distribuirán por correo conjuntamente con la
+4 factura de servicio a cada abonado. En el caso de aquellos clientes que
+5 estén suscritos al servicio de recibo de facturas mediante Internet, se les
+6 enviará una papeleta a la dirección postal que aparece en el registro de su
+7 cuenta. La factura o el sobre con que se incluya una papeleta deberá
+8 además incluir un sobre prefranqueado y predirigido a la dirección
+9 establecida por el Ombudsman para el recibo de las papeletas. No
+10 obstante, antes de comenzar la distribución de papeletas por correo, el
+11 funcionario o funcionaria designada por el Ombudsman certificará bajo
+12 juramento ante notario la cantidad de papeletas impresas. El número de
+13 papeletas impresas deberá corresponder al número de la cantidad de
+14 abonados con derecho a votar en la elección, más un cinco por ciento (5%).
+15 Asimismo, un funcionario o funcionaria designada por la Autoridad
+16 llevará el conteo de las papeletas enviadas y, al concluir el proceso de
+17 distribución por correo, certificará bajo juramento ante notario el número
+18 total de papeletas enviadas.
+19 (7) Cada uno de los candidatos seleccionados como representante de los
+20 intereses de los clientes designará a una persona para que le represente
+21 en esos procedimientos, y estas personas, junto a un representante del
+22 Ombudsman y un representante del Secretario de la Junta, constituirán
+
+12
+1 un Comité de Elección, que será presidido y dirigido por el representante
+2 del Ombudsman.]
+3 [(8)] (7) El Comité de Elección preparará y publicará, de manera prominente
+4 en el portal de Internet de la Autoridad, información sobre los candidatos
+5 que permita a los clientes hacer un juicio sobre las capacidades de los
+6 aspirantes.
+7 [(9)] (8) El Comité de Elección procurará acuerdos de colaboración de
+8 servicio público con los distintos medios de comunicación masiva en
+9 Puerto Rico para promover entre los abonados de la Autoridad el proceso
+10 de elección, así como dar a conocer, en igualdad de condiciones, a todos los
+11 aspirantes.
+12 [(10)] (9) El Comité de Elección, durante la elección por medios electrónicos [los
+13 diez (10) días siguientes a la fecha límite para el recibo de las papeletas],
+14 procederá a realizar el escrutinio y notificará el resultado al Ombudsman,
+15 quien certificará el candidato electo y notificará la certificación al
+16 Gobernador de Puerto Rico y al Presidente de l+a Junta.
+17 [(11)] (10) Una vez electo[s los] el representante[s] de los clientes, éste [éstos]
+18 le remitirá[n] al Ombudsman un informe trimestral que detalle las labores
+19 realizadas, logros obtenidos y recomendaciones sobre los asuntos tratados
+20 en las reuniones de la Junta. Estableciéndose que dicho informe no incluirá
+21 información que por disposición de ley o reglamento aplicable sea
+
+13
+1 confidencial o privilegiada. Recibido el informe trimestral en la Oficina del
+2 Ombudsman [Procurador del Ciudadano], éste lo publicará
+3 inmediatamente a través de su portal de Internet.
+4 (d) …
+5 (1)…
+6 …
+7 …
+8 …”
+9 Artículo 2.- Separabilidad.
+10 Si cualquier disposición de esta Ley fuera declarada inconstitucional o nula, por
+11 Tribunal competente, la sentencia a tal efecto dictada no afectará, perjudicará ni invalidará
+12 el resto de esta Ley. El efecto de dicha sentencia quedará limitado al párrafo, inciso o artículo
+13 de esta que así hubiese sido declarado inconstitucional.
+14 Artículo 3.- Vigencia.
+15 Esta Ley comenzará a regir inmediatamente después de su aprobación.

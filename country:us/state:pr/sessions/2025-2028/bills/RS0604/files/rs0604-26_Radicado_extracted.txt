@@ -1,0 +1,142 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20 ma Asamblea 4 ta Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. del S. 604
+18 de septiembre de 2026
+Presentada por la señora Santiago Negrón, y el señor González Costa
+Referida a
+RESOLUCIÓN
+Para ordenar a la Comisión de lo Jurídico del Senado de Puerto Rico realizar una
+investigación exhaustiva sobre la adquisición, instalación, administración y
+utilización por parte de las agencias, instrumentalidades, corporaciones públicas
+y municipios del Gobierno de Puerto Rico de cámaras y sistemas de vigilancia que
+utilicen tecnologías de reconocimiento facial, reconocimiento biométrico, lectura o
+reconocimiento automatizado de tablillas de vehículos de motor, inteligencia
+artificial o cualquier otra tecnología capaz de identificar, clasificar, localizar,
+rastrear o crear perfiles de personas o vehículos; investigar la recopilación,
+almacenamiento, análisis, búsqueda, acceso, transferencia e intercambio de los
+datos obtenidos mediante dichos sistemas; determinar las entidades públicas y
+privadas, estatales, municipales o federales que tienen acceso a estos datos;
+examinar la utilización de estas tecnologías; y evaluar las salvaguardas existentes
+para proteger los derechos a la intimidad, dignidad y libertades de la ciudadanía.
+EXPOSICIÓN DE MOTIVOS
+El derecho constitucional a la intimidad goza de la más alta jerarquía en el
+ordenamiento jurídico puertorriqueño. La Sección 1 del Artículo II de la Constitución de
+Puerto Rico declara la inviolabilidad de la dignidad del ser humano como un principio
+fundamental. Asimismo, en la Sección 8 del referido artículo, se dispone que toda persona
+tendrá derecho a la protección contra ataques abusivos a su honra, reputación y vida
+privada o familiar. Además, la Sección 10 garantiza protecciones contra registros,
+
+2
+incautaciones y allanamientos irrazonables, según reconocido en la constitución federal
+en su Cuarta Enmienda, pero con mayores garantías. Por ejemplo, la intercepción de las
+comunicaciones telefónicas está expresamente prohibida en la Constitución
+puertorriqueña, sin excepción alguna.
+El desarrollo de nuevas tecnologías de vigilancia ha transformado la capacidad
+que tiene el gobierno para vigilar a las personas. El uso de cámaras de seguridad con un
+sistema de vigilancia tecnológica continua e indiscriminada a base de inteligencia
+artificial es capaz de registrar, almacenar y analizar los patrones de movimientos y
+comportamientos de las personas. Estas tecnologías incluyen sistemas de reconocimiento
+facial y de lectura automática de tablilla, entre otros, que permiten identificar personas,
+localizar vehículos y establecer patrones de movimiento y comportamiento de una
+persona específica, haya cometido o no delito. Ello plantea interrogantes particularmente
+importantes cuando esas bases de datos integran fotografías provenientes de licencias de
+conducir, sistemas gubernamentales, redes de vigilancia, imágenes captadas durante
+protestas o actividades públicas, o información suministrada por entidades privadas o
+autoridades federales. La recopilación e interconexión de estos datos puede revelar
+información intima sobre la rutina, relaciones personales, creencias religiosas,
+actividades políticas, condiciones de salud y otros aspectos íntimos de la vida privada
+sobre los que toda persona tiene una expectativa razonable de privacidad.
+Puerto Rico no está ajeno a la tendencia de usar nuevas tecnologías con capacidad
+de llevar a cabo un sistema de vigilancia masiva. Recientemente, se hizo público el
+alcance de la instalación y uso de distintos tipos de tecnología por parte del
+Departamento de Seguridad Pública de Puerto Rico (DSP) y de decenas de municipios
+mediante acuerdos colaborativos y contratos con compañías privadas que integran
+herramientas para permitirles lo siguiente: capturar imágenes de personas o de vehículos
+en movimiento, almacenar esas imágenes por extensos periodos de tiempo en una base
+de datos centralizada para su eventual procesamiento y análisis automáticos mediante
+sistemas computarizados que integran la inteligencia artificial con la que una empresa
+privada recrea el historial de movimientos de toda persona -haya cometido o no delito-
+
+3
+sin su conocimiento ni consentimiento, y darle al Estado, y demás personas que paguen,
+acceso a esa información. Al menos 15 municipios tienen instaladas cámaras de seguridad
+con sistemas de vigilancia continua con tecnología de lectura automática de tablillas de
+vehículos de motor; entre estos, San Juan, Bayamón, Humacao, San Lorenzo, Santa Isabel,
+y Añasco.
+Según trascendió públicamente, estas imágenes agregadas son almacenadas en los
+servidores externos de la compañía Genetec. Esos servidores son, a su vez, arrendados
+en un sistema de servidores de nube de otra compañía privada. Esto significa que el
+Gobierno de Puerto Rico permite que los datos personales sensibles de la ciudadanía
+estén bajo la custodia y control de una empresa privada que la comercializa con otra
+compañía, y el DSP les tiene que pagar para acceder a esos datos personales. Se cuestiona
+si el DSP tiene la capacidad de asegurar la confiabilidad de la información almacenada o
+de impedir que esta sea accedida por otras personas cuando está bajo el control de una
+empresa privada. Peor aún, todo esto se hace sin el consentimiento ni conocimiento de
+las personas dueñas de su información y datos personales sensibles como el historial de
+sus ubicaciones.
+El desarrollo acelerado de herramientas basadas en inteligencia artificial y análisis
+automatizado hace indispensable conocer cuál es actualmente el alcance real de las
+capacidades tecnológicas de vigilancia que poseen el Gobierno de Puerto Rico y sus
+municipios, así como las normas que gobiernan su utilización. Esta investigación es
+especialmente relevante y urgente en el contexto de las protecciones reconocidas por
+nuestro ordenamiento constitucional a la luz de nuestra histórica política constitucional
+sobre el derecho a la intimidad que es de factura mucho más ancha que la de Estados
+Unidos, y del más reciente desarrollo jurisprudencial en ese país.
+En Arroyo v. Rattan Specialties, Inc., 117 DPR 35, 61 (1986), el Tribunal Supremo de
+Puerto Rico recordó que el “derecho a la intimidad es inviolable”. La invasión a la
+intimidad de la persona “sólo puede tolerarse cuando no existan medios menos drásticos
+para la protección de intereses apremiantes del Estado, y aun así, sólo cuando estén
+presentes garantías adecuadas, de forma tal que esta invasión se limite a lo que sea
+
+4
+estrictamente necesario”. Las nuevas tecnologías con capacidad de vigilancia masiva no
+cambian esta histórica política constitucional puertorriqueña.
+Por su parte, El Tribunal Supremo de los Estados Unidos concluyó que las
+personas tienen una expectativa razonable de privacidad respecto de la totalidad de sus
+movimientos físicos, aunque estos tuvieran lugar en espacios públicos. Por lo tanto,
+permitir que el Gobierno tenga acceso a información de localización registrados mediante
+un dispositivo GPS o de una antena de telefonía móvil se considera un registro porque
+vulnera esa expectativa de privacidad. United States v. Jones, 565 U.S. 400 (2012) y
+Carpenter v. United States, 585 U.S. 296 (2018). En su última opinión publicada hace apenas
+unos meses, ese Tribunal sostuvo que los agentes de policía vulneran la expectativa
+razonable de privacidad de un usuario de teléfono celular cuando acceden a su historial
+de ubicaciones, independientemente del período de tiempo examinado ni de que la
+información haya sido obtenida de una empresa privada. Chatrie v. United States, 609 U.S.
+____ (2026). Esto significa que, para acceder a ese tipo de información, el Estado requiere
+de una orden judicial.
+En Puerto Rico, el análisis de las garantías constitucionales no puede separarse de
+nuestra experiencia histórica con la persecución del Estado a minorías políticas. Resulta
+indispensable examinar cómo se están utilizando actualmente estas nuevas tecnologías
+con el potencial de que se conviertan en mecanismos de vigilancia masiva incompatible
+con los más básicos valores de una sociedad libre y democrática.
+Por todo lo anterior, este Senado de Puerto Rico entiende necesario ordenar a la
+Comisión de lo Jurídico investigar el uso de sistemas de vigilancia y los datos que estos
+recopilan, así como las medidas existentes para proteger los derechos constitucionales de
+la ciudadanía.
+RESUÉLVESE POR EL SENADO DE PUERTO RICO:
+1 Sección 1. - Se ordena a la Comisión de lo Jurídico del Senado de Puerto Rico realizar
+2 una investigación exhaustiva sobre la adquisición, instalación, administración y
+3 utilización por parte de las agencias, instrumentalidades, corporaciones públicas y
+
+5
+1 municipios del Gobierno de Puerto Rico de cámaras y sistemas de vigilancia que utilicen
+2 tecnologías de reconocimiento facial, reconocimiento biométrico, lectura o
+3 reconocimiento automatizado de tablillas de vehículos de motor, inteligencia artificial o
+4 cualquier otra tecnología capaz de identificar, clasificar, localizar, rastrear o crear perfiles
+5 de personas o vehículos; investigar la recopilación, almacenamiento, análisis, búsqueda,
+6 acceso, transferencia e intercambio de los datos obtenidos mediante dichos sistemas;
+7 determinar las entidades públicas y privadas, estatales, municipales o federales que
+8 tienen acceso a estos datos; y examinar la utilización de estas tecnologías.
+9 Sección 2. – La Comisión deberá rendir un informe con sus hallazgos y conclusiones
+10 ciento ochenta (180) días después de aprobada esta resolución.
+11 Sección 3. - Esta Resolución entrará en vigor inmediatamente después de su
+12 aprobación.

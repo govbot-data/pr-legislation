@@ -1,0 +1,396 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20 ma Asamblea 4 ta Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1470
+18 de septiembre de 2026
+Presentado por la señora Santiago Negrón y el señor González Costa
+Referido a
+LEY
+Para crear la Ley “Ley para la Protección Contra Sistemas de Vigilancia Masiva”, con el
+propósito de prohibir el uso y contratación de sistemas de vigilancia masiva; añadir
+el artículo 1.119 y reenumerar los artículos 1.119 al 1.127 y añadir el artículo 27.03 y
+reenumerar los artículos 27.03 al 27.07 de la Ley Núm. 22 de 7 de enero de 2000,
+según enmendada, conocida como la “Ley de Vehículos y Tránsito de Puerto Rico” para
+prohibir actividades de vigilancia en todo tipo de carril y vía pública de Puerto Rico
+y enmendar los artículos 1.15 y 1.16 de la Ley Núm. 20 de 10 de abril de 2017, según
+enmendada, conocida como la “Ley del Departamento de Seguridad Pública de Puerto
+Rico”, con el propósito de prohibir el uso y contrataciones de tecnologías de
+vigilancia que violenten las libertades y derechos fundamentales garantizados en la
+Constitución de Puerto Rico; y para decretar otras disposiciones complementarias.
+EXPOSICION DE MOTIVOS
+Los avances tecnológicos usados correctamente pueden resultar de gran beneficio
+para la sociedad. No obstante, también pudieran representar una grave amenaza para los
+valores democráticos de toda sociedad libre y moderna. Los desarrollos tecnológicos en
+las herramientas de vigilancia y procesamiento de información personal ampliaron la
+capacidad del Estado y actores privados para invadir ámbitos de la vida privada que se
+supone que estén libres de intromisión externa.
+El problema no es el uso de sistemas de vigilancia limitado a lo estrictamente
+
+2
+necesario. La gran amenaza para toda sociedad libre y democrática son aquellos que
+integran tecnologías capaces de monitorear y registrar continuamente el historial de
+movimiento de toda persona –haya cometido delito o no– para luego, compartir esa
+información con el Estado y demás personas que paguen para accederla. Las personas no
+renuncian a la inviolabilidad de su dignidad humana y a su derecho a la intimidad
+cuando van a hacer compras, acuden a su cita médica, a la iglesia o a dejar a sus hijos o
+hijas a la escuela. No obstante, lo que para toda persona es el ejercicio de sus derechos y
+libertades fundamentales bajo la creencia de que goza de protecciones constitucionales,
+se convirtió en un bien de mercado a manos de un puñado de empresas que ofrecen
+herramientas para lucrarse de la venta de tecnología capaz de exponer los aspectos más
+íntimos de la vida privada de la gente. El motivo detrás de esta deshumanización del ser
+humano no es la seguridad pública; el objetivo principal es el lucro a costa de nuestros
+derechos y libertades fundamentales. La rapidez con que esto ha ocurrido permitió una
+forma de vigilancia masiva por parte del Estado y de actores privados que era
+inimaginable antes de la era digital.
+Puerto Rico no está ajeno a la tendencia de usar nuevas tecnologías con capacidad
+de implementar un sistema de vigilancia continua y masiva. Recientemente, se hizo
+público el alcance de la instalación y uso de distintos tipos de tecnologías con esos
+propósitos por parte del Departamento de Seguridad Pública de Puerto Rico (DSP) y de
+decenas de municipios. Estas dependencias gubernamentales han suscrito acuerdos
+colaborativos y contratos con distintas compañías privadas que les proveen una serie de
+herramientas tecnológicas capaces de recrear el historial de movimiento de toda persona
+a través de la interconexión de sus imágenes y datos personales. Esos datos e imágenes
+son capturados y accedidos por y a través de distintas tecnologías, tales como cámaras
+fijadas en carriles y vías públicas (incluyendo las que tienen control de acceso), cámaras
+corporales de los agentes de la Policía de Puerto Rico y cámaras con sistemas de lectura
+automática de vehículos de motor (LPR) y con sistemas de reconocimiento facial que se
+interconectan con las bases de datos de las distintas agencias del Gobierno de Puerto Rico.
+Luego, el cúmulo de datos interconectados es transferido a una base de datos
+
+3
+centralizada para su almacenamiento en servidores externos provistos por la compañía
+privada Genetec. La compañía contratada por el DSP integra, a su vez, tecnología de otra
+compañía privada que le permite procesar y analizar, mediante herramientas de
+inteligencia artificial, el historial de movimiento de toda persona cuya imagen, datos y
+movimientos fueron capturados y transferidos con la anuencia del Gobierno de Puerto
+Rico a esa base de datos centralizada. El registro del historial de movimiento de la
+persona es luego accedido por el DSP, sin una sospecha individualizada ni orden judicial.
+Esto ocurre a pesar de la expectativa razonable de privacidad que tiene toda persona
+sobre el historial de sus movimientos físicos.
+El Tribunal Supremo de los Estados Unidos concluyó que las personas tienen una
+expectativa razonable de privacidad respecto de la totalidad de sus movimientos físicos,
+aunque tengan lugar en espacios públicos. El Estado lleva a cabo un registro bajo los
+parámetros de la Cuarta Enmienda de la constitución estadounidense cuando accede a
+información o historial de localización registrados mediante un dispositivo GPS o de una
+antena de telefonía móvil porque vulnera esa expectativa de privacidad. Por lo tanto, el
+Estado necesita una orden judicial para acceder al historial de movimiento de una
+persona creado digitalmente. United States v. Jones, 565 U.S. 400 (2012) y Carpenter v.
+United States, 585 U.S. 296 (2018). No importa el período de tiempo examinado ni que la
+información se haya obtenido mediante una empresa privada, el acceso al historial de
+movimiento de una persona viola su expectativa de privacidad, sentenció el máximo foro
+judicial en su caso más reciente, Chatrie v. United States, 609 U.S. ____ (2026).
+Sin duda alguna, el uso de las nuevas tecnologías de vigilancia antes descritas es
+inconstitucional. Éste le permite al Estado acceder e identificar patrones de movimientos
+que muestran los aspectos más íntimos de la vida de las personas, tales como: la iglesia o
+clínica de salud a la que acude, sus actividades políticas y con quién se relaciona, entre
+otros. Estos son aspectos sobre los que todo ser humano tiene una expectativa razonable
+de intimidad. Por lo tanto, la captura indiscriminada y acceso al historial de movimiento
+de una persona sin la sospecha individualizada y sin una orden judicial particularizada,
+constituye un allanamiento y registro irrazonable y abusivo. También implica una clara
+
+4
+violación del derecho constitucional a la intimidad; no sólo por el Estado, sino igualmente
+por las empresas privadas que proveen las tecnologías con esa capacidad de vigilancia
+masiva.
+El derecho a la intimidad consagrado en la Sección 8 del Artículo II de la
+Constitución de Puerto Rico es uno de factura mucho más ancha que el de la constitución
+federal. Este derecho junto, con el de la integridad personal y el principio fundamental
+de la inviolabilidad de la dignidad humana, gozan de la más alta jerarquía en el
+ordenamiento jurídico puertorriqueño. Tan es así, que la Sección 10 del mismo artículo
+de la Constitución puertorriqueña garantiza protecciones contra registros, incautaciones
+y allanamientos irrazonables, según reconocido en la constitución federal en su Cuarta
+Enmienda, pero con mayores garantías. Por ejemplo, la intercepción de las
+comunicaciones telefónicas está expresamente prohibida en la Constitución
+puertorriqueña, sin excepción alguna. “Nuestra Constitución garantiza que podamos
+acotar una parte de nosotros mismos libre de la intromisión tanto del Estado como de los
+ciudadanos privados.” Arroyo v. Rattan Specialties, Inc., 117 DPR 35 (1986). No obstante,
+las tecnologías de vigilancia usadas por el DSP en coordinación con los municipios hacen
+letra muerta de estas garantías constitucionales.
+No podemos obviar que la intención del derecho general a la intimidad de la
+Constitución Puertorriqueña fue proteger “la inviolabilidad personal en su forma más
+completa y amplia”. “El honor y la intimidad son valores del individuo que merecen
+protección cabal, no sólo frente a atentados provenientes de otros particulares, sino
+también contra injerencias abusivas de las autoridades”. 4 Diario de Sesiones de la
+Convención Constituyente 2566 (1952). Por lo tanto, es un derecho que opera ex proprio
+vigore y puede hacerse valer entre personas privadas, eximiéndose del requisito de
+“acción estatal” (state action). Colón v. Romero Barceló, 112 D.P.R. 573, 576 (1982).
+Los derechos constitucionales no son meros enunciados abstractos. Son valores
+indispensables para la convivencia humana en una sociedad democrática. También, le
+imponen al Estado la obligación constitucional de salvaguardarlos y protegerlos. Aunque
+el derecho a la intimidad no es absoluto, su restricción “sólo puede tolerarse cuando no
+
+5
+existan medios menos drásticos para la protección de intereses apremiantes del Estado,
+y, aun así, sólo cuando estén presentes garantías adecuadas, de forma tal que esta
+invasión se limite a lo que sea estrictamente necesario”. Arroyo, supra, 61. Incluso, ante
+reclamos al amparo del derecho de propiedad, nuestro estado de derecho requiere que
+inclinemos la balanza en favor del derecho a la protección contra riesgos a la intimidad,
+integridad personal y dignidad. De aquí que no sea válida ninguna legislación, contrato
+o acuerdo que anteponga como requisito la renuncia de un derecho fundamental con el
+propósito y la intención de frustrar o subvertir, o que tenga el efecto de frustrar o
+subvertir una política pública de rango constitucional. Id. a 62-64.
+El uso de los sistemas de vigilancia continua y masiva ha generado una oleada de
+cuestionamientos y medidas en otras jurisdicciones por la amenaza que representa para
+los derechos constitucionales y libertades de las personas. La tecnología de
+reconocimiento facial, por ejemplo, implica la recolección de un dato biométrico único de
+la persona. Una investigación publicada por el National Institute of Standards and
+Technology (NIST) de los Estados Unidos encontró que los algoritmos usados en esa
+tecnología generan una cantidad significativamente mayor de «coincidencias» falsas
+positivas en imágenes con rostros de personas negras, de edad avanzada, mujeres y
+niños. Esto, además del aumento en el riesgo de robo de identidad que supone el que sea
+accedido y comercializado por empresas privadas sin fiscalización ni garantía alguna.
+Los sistemas de lectura automática de tabillas de vehículos de motor también han
+demostrado que su uso no supera los riesgos a la privacidad y libertades fundamentales
+de la ciudadanía. Hoy día, no existe evidencia que valide las ventajas y beneficios que
+alegan los creadores de estas tecnologías. Por el contrario, varias investigaciones
+encontraron que esos sistemas de vigilancia tienen un alto margen de error. La policía de
+la ciudad de Los Ángeles en el estado de California hizo una auditoría sobre la
+confiabilidad de los resultados del sistema de LPR y se encontró un margen de error de
+poco más del 30%. Como consecuencia, muchos ciudadanos y ciudadanas de esa y otras
+jurisdicciones han sido víctimas de arrestos ilegales luego de lecturas erradas de sus
+tablillas que generaron falsos positivos de coincidencia con la base de datos sobre autos
+
+6
+hurtados. Otras investigaciones expusieron el uso alarmante de esa tecnología por parte
+de agentes del orden público con el propósito de rastrear los movimientos de parejas,
+exparejas o personas de ciertos movimientos políticos sin orden judicial. A la luz de este
+potencial de sesgo, en especial cuando se usa para investigaciones criminales, dichas
+tecnologías pueden dar lugar o contribuir a la discriminación y control social sobre
+grupos minoritarios religiosos, racializados o políticos. Ante esta alarmante realidad, más
+de 20 ciudades de los Estados Unidos han decidido cancelar o no renovar los contratos
+de cámaras de seguridad que usan esos sistemas de vigilancia masiva.
+Una sociedad en la que la ciudadanía no tenga más opción que renunciar a los
+derechos fundamentales a la dignidad humana, intimidad e integridad con el fin de
+ejercer su libertad de movimiento para llevar a cabo sus actividades diarias, no es libre ni
+democrática; es un estado de vigilancia y control social. La legislación puertorriqueña no
+puede quedar rezagada ante el desarrollo vertiginoso de estas tecnologías de vigilancia
+masiva. Hemos llegado a un punto en el que la intimidad, dignidad e integridad personal
+del ser humano se encuentran cada día en mayor riesgo de perderse o quedar
+intolerablemente violentadas.
+La Asamblea Legislativa tiene la obligación constitucional de velar por la
+protección de los derechos constitucionales del Pueblo de Puerto Rico. Con el fin de
+salvaguardar los valores democráticos más básicos de nuestra sociedad, esta medida
+prohíbe a toda persona pública y privada el uso y contratación de sistemas de vigilancia
+continua y masiva. También, enmienda varias disposiciones de la Ley Núm. 22 de 7 de
+enero de 2000, según enmendada, conocida como la “Ley de Vehículos y Tránsito de Puerto
+Rico” para prohibir actividades de vigilancia masiva y continua en todo tipo de carril y
+vía pública de Puerto Rico en menoscabo de las garantías constitucionales contra los
+registros, allanamientos o arrestos irrazonables. También, se enmiendan varias
+disposiciones de la Ley Núm. 20 de 10 de abril de 2017, según enmendada, conocida como
+la “Ley del Departamento de Seguridad Pública de Puerto Rico”, con el propósito de prohibir
+el uso y contrataciones de tecnologías de vigilancia que violenten las libertades y
+derechos fundamentales garantizados en la Constitución de Puerto Rico.
+
+7
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.– Título
+2 Esta Ley se conocerá como, la “Ley para la Protección Contra Sistemas de
+3 Vigilancia Masiva”.
+4 Sección 2.– Prohibición
+5 El Gobierno de Puerto Rico, incluyendo todas sus agencias, corporaciones
+6 públicas, instrumentalidades y municipios y cualesquiera de sus divisiones, juntas,
+7 oficinas, comisiones u otra entidad dentro de o creada por dicho departamento, así como
+8 cualquier autoridad estatal independiente, comisión, entidad o agencia, incluyendo
+9 cualquier institución pública de educación elemental, secundaria y superior, sus
+10 contratistas, o cualquier persona natural o jurídica privada, no podrán comprar,
+11 implementar, operar, acceder a, ni contratar sistemas de vigilancia automatizada
+12 continua y masiva que capturen imágenes o datos personales con el propósito de
+13 identificación, monitoreo o registro de personas mediante cualquiera de las siguientes
+14 tecnologías:
+15 (a) Sistema de reconocimiento automatizado de tablillas de vehículos de motor.
+16 (b) Tecnología de reconocimiento facial.
+17 (c) Tecnología que utilice identificación biométrica, incluyendo, pero sin limitarse a,
+18 datos de huellas dactilares, iris, retina, voz, u otro patrón o característica, física,
+19 biológica o conductual única, que se utilice o se pretenda utilizar, de forma
+20 individual o en conjunto con otros datos, para identificar inequívocamente a una
+
+8
+1 persona, independientemente del tratamiento técnico específico con la que sea
+2 capturada, convertida, almacenada o compartida.
+3 (d) Cualquier tecnología, dispositivo, herramienta o sistema que capture, analice o
+4 conserve la imagen, apariencia, historial de localizaciones u otra información
+5 personal de una persona con el propósito de llevar a cabo una vigilancia continua
+6 o masiva.
+7 Sección 3.– Supresión
+8 El Gobierno de Puerto Rico, incluyendo todas sus agencias, corporaciones
+9 públicas, instrumentalidades y municipios y cualesquiera de sus divisiones, juntas,
+10 oficinas, comisiones u otra entidad dentro de o creada por dicho departamento, así como
+11 cualquier autoridad estatal independiente, comisión, entidad o agencia, incluyendo
+12 cualquier institución pública de educación elemental, secundaria y superior, sus
+13 contratistas, así como toda persona natural o jurídica privada que haya obtenido
+14 información o datos privados de las personas en violación de la Sección 2 de esta Ley,
+15 deberá suprimirla en un término no mayor de tres (3) minutos luego de obtenerse.
+16 Sección 4.– Inadmisibilidad
+17 Cualquier dato, imagen o información obtenida en violación a la Sección 2 de esta
+18 Ley será inadmisible en cualquier procedimiento judicial o administrativo.
+19 Sección 5.– Se enmienda el Artículo 1.15 de la Ley Núm. 20-2017, según
+20 enmendada, conocida como la “Ley del Departamento de Seguridad Pública de Puerto
+21 Rico”, para que lea como sigue:
+22 “Artículo 1.15. — Oficina de Manejo de Información de Seguridad.
+
+9
+1 Se crea, en el Departamento de Seguridad Pública, una oficina que se denominará
+2 Oficina de Manejo de Información de Seguridad. Dicha Oficina estará a cargo de
+3 la política de comunicaciones entre los Negociados; se asegurará de la
+4 interoperabilidad de los sistemas y el data sharing. Además, tendrá el deber y
+5 obligación de facilitar y proveer a los demás Negociados y a la Policía de Puerto
+6 Rico el acceso y la interconexión de sistemas de información a los fines de servir
+7 de herramienta en la lucha por erradicar el crimen y garantizar la seguridad
+8 pública proveyendo la información simultánea a los Negociados y a la Policía de
+9 Puerto Rico cuando estos así lo requieran.
+10 La Oficina de Manejo de Información de Seguridad tendrá, sin que se entienda
+11 como limitación, las siguientes funciones:
+12 (a) Asegurar el acceso y la continua e inmediata transferencia de información entre
+13 los diferentes Negociados a los fines de que cada uno de ellos pueda cumplir
+14 con las funciones, obligaciones y deberes que se le imponen en esta Ley.
+15 (b) Establecer aquellos sistemas de comunicaciones que faciliten la operación
+16 eficiente del DSP, sus negociados y la Policía de Puerto Rico y que, además,
+17 permitan y faciliten la comunicación interagencial durante situaciones de
+18 emergencia o desastre, incluyendo uniformar los equipos de comunicaciones
+19 en términos de funciones y calidad incorporando la estandarización de bandas
+20 de frecuencia de transmisión con el fin de garantizar una comunicación efectiva
+21 entre todos los negociados y la Policía de Puerto Rico al momento de atender
+22 una emergencia.
+
+10
+1 (c) Servir de enlace con las agencias federales para coordinar y compartir la
+2 información entre las distintas bases de datos estatales y federales.
+3 (d) Cualquier otra función que el Secretario, por reglamentación a tales efectos, le
+4 delegue.
+5 De ninguna manera, esta disposición debe interpretarse como una autorización a
+6 la captura, acceso, transferencia, procesamiento o análisis de imágenes o datos personales,
+7 como información biométrica, el historial de movimientos de cualquier persona y todo
+8 aquello sobre lo que tenga una expectativa razonable de intimidad, sin importar el período
+9 de tiempo examinado, ni si es un lugar público o privado, ni que, la información obtenida
+10 haya sido entregada o no por una empresa privada.”
+11 Sección 6.– Se enmienda el Artículo 1.16 de la Ley-2017, según enmendada,
+12 conocida como la “Ley del Departamento de Seguridad Pública de Puerto Rico”, para
+13 que lea como sigue:
+14 “Artículo 1.16. — Oficina de Manejo de Información de Seguridad; acceso
+15 a información de otras agencias.
+16 La Oficina procurará el [más amplio] acceso a todas las bases de datos de
+17 las agencias locales que sean [pertinentes] estrictamente necesarias a las funciones
+18 del DSP, a las bases de datos de las agencias federales de seguridad, a las bases de
+19 datos de organismos internacionales de seguridad, y a cualquiera otra que sea
+20 consistente con los propósitos de esta Ley. La Oficina procurará salvaguardar la
+21 confidencialidad de la información contenida en estas bases de datos y solo
+22 permitirá el acceso y el compartir de información, entre aquel personal autorizado.
+
+11
+1 El Departamento de Transportación y Obras Públicas y el Departamento de
+2 Corrección y Rehabilitación (DCR) deberán proveerle a la Oficina de Manejo de
+3 Información de Seguridad del DSP, sin costo, el [más amplio] acceso que sea
+4 estrictamente necesario a sus recursos de inteligencia, informática y bases de datos.
+5 Además, se faculta al DSP a llevar a cabo aquellos acuerdos interagenciales que
+6 sean necesarios a los fines de lograr el [más amplio] acceso estrictamente necesario
+7 a otras distintas bases de datos y sistemas de información que sirvan para
+8 adelantar los propósitos de esta Ley y en fiel cumplimiento con las garantías
+9 constitucionales contra los registros, allanamientos o arrestos irrazonables.
+10 La Oficina de Manejo de Información de Seguridad tendrá acceso y/o
+11 manejará[, sin que se entienda como una limitación,] los siguientes sistemas de
+12 información y bases de datos:
+13 1. Sistema DAVID+;
+14 2. Registro Criminal Integrado (RCI);
+15 3. Registro de Armas de Fuego;
+16 4. Sistema 9-1-1;
+17 5. Centro de Fusión (Fussion Center);
+18 6. Sistema Autoexpreso;
+19 7. Sistemas de Inteligencia, Informática y Bases de Datos de DCR;
+20 8. Sistemas de Credenciales;
+21 9. Sistema de Información Geográfica (GIS).
+
+12
+1 No obstante, los sistemas de información y bases de datos del Instituto de
+2 Ciencias Forenses y el Negociado de Investigaciones Especiales se mantendrán
+3 separados e independiente del resto de los negociados que comprenden el
+4 Departamento, a los fines de garantizar la confidencialidad y pureza de las
+5 investigaciones.
+6 De ninguna manera, esta disposición debe interpretarse como una autorización al
+7 acceso, captura, transferencia, procesamiento o análisis de imágenes o datos personales
+8 como información biométrica, el historial de movimientos de cualquier persona y todo
+9 aquello sobre lo que tenga una expectativa razonable de intimidad, sin importar el período
+10 de tiempo examinado, si es un lugar público o privado, ni que la información obtenida haya
+11 sido entregada o no por una empresa privada. Toda disposición reglamentaria, contrato o
+12 acuerdo con cualquier persona natural o jurídica pública o privada que lo permita o autorice
+13 es nulo ab initio.”
+14 Sección 7.- Se añade un nuevo Artículo 1.119 y se reenumeran los Artículos 1.119
+15 al 1.127, como Artículos 1.120 al 1.128 de la Ley Núm. 22-2000, según enmendada,
+16 conocida como la “Ley de Vehículos y Tránsito de Puerto Rico”, para que lea como sigue:
+17 “Artículo 1.119 — Vigilancia automatizada y continua.
+18 “Vigilancia automatizada continua” significa el acto de determinar la titularidad de un
+19 vehículo de motor o la identidad de las personas ocupantes de un vehículo de motor que
+20 circula por cualquier tipo de carril o de vía pública, mediante el uso de una cámara u otro
+21 dispositivo de captación de imágenes, o cualquier otro dispositivo, incluidos, entre otros,
+22 un transpondedor, un teléfono celular, un sistema satelital de posicionamiento global (GPS
+
+13
+1 por sus siglas en inglés) o un dispositivo de identificación por radiofrecuencia (RFID por
+2 sus siglas en inglés), que, por sí solo o en conjunto con otros dispositivos o información, se
+3 usa para capturar, acceder, almacenar, registrar y analizar el historial de movimiento de
+4 esos ocupantes o titulares del vehículo de motor de manera continua e indiscriminada, sin
+5 importar el período de tiempo examinado, si es un lugar público o privado, ni que la
+6 información obtenida haya sido entregada o no por una empresa privada.”
+7 Artículo [1.119] 1.120 …
+8 Artículo [1.120] 1.121 …
+9 Artículo [1.121] 1.122 …
+10 Artículo [1.122] 1.123 …
+11 Artículo [1.123] 1.124 …
+12 Artículo [1.124] 1.125 …
+13 Artículo [1.125] 1.126 …
+14 Artículo [1.126] 1.127 …
+15 Artículo [1.127] 1.128 …”
+16 Sección 8.– Se añade un nuevo un Artículo 27.03 y se reenumeran los Artículos
+17 27.03 al 27.07, como Artículos 27.04 al 27.08 de la Ley Núm. 22-2000, según enmendada,
+18 conocida como la “Ley de Vehículos y Tránsito de Puerto Rico”, para que lea como sigue:
+19 “Artículo 27.03 – Vigilancia automatizada continua en carriles y vías públicas
+20 prohibida.
+21 El Gobierno de Puerto Rico, incluyendo todas sus agencias, corporaciones públicas,
+22 instrumentalidades y municipios y cualquiera de sus divisiones, juntas, oficinas,
+
+14
+1 comisiones u otra entidad dentro de o creada por dicho departamento, así como cualquier
+2 autoridad estatal independiente, comisión, entidad o agencia, incluyendo cualquier
+3 institución pública de educación elemental, secundaria y superior, sus contratistas o,
+4 cualquier persona natural o jurídica privada, no podrán realizar actividades de vigilancia
+5 automatizada continua en ningún tipo de carril o vía pública de Puerto Rico.
+6 Esta prohibición no aplicará solamente cuando se lleve a cabo para producir datos
+7 que se visualicen únicamente en el centro de gestión del transporte del Departamento de
+8 Transportación y Obras Públicas y que sean estrictamente necesarios y de uso exclusivo
+9 para fines operativos y de cobro del sistema de peaje, de conformidad con lo establecido en
+10 el Artículo 28.03 de esta Ley.
+11 Nada de lo dispuesto en este Artículo impedirá la creación, transmisión o grabación
+12 de imágenes o datos que no puedan utilizarse para fines de vigilancia automatizada
+13 continua, ya sea mediante mejoras, manipulación o, de cualquier otra manera.
+14 Nada de lo dispuesto en esta disposición debe interpretarse como una autorización
+15 al acceso y transferencia de imágenes o datos personales, como información biométrica, el
+16 historial de movimiento de cualquier persona y todo aquello sobre lo que tenga una
+17 expectativa razonable de intimidad, sin importar el período de tiempo examinado, si es un
+18 lugar público o privado, ni que la información obtenida haya sido entregada o no por una
+19 empresa privada.
+20 Artículo [27.03] 27.04 …
+21 Artículo [27.04] 27.05 …
+22 Artículo [27.05] 27.06 …
+
+15
+1 Artículo [27.06] 27.07 …
+2 Artículo [27.07] 27.08 …”
+3 Sección 9.– Cláusula de separabilidad
+4 Si cualquier cláusula, párrafo, subpárrafo, artículo, disposición, sección, inciso, o
+5 parte de esta Ley, fuere declarada inconstitucional por un tribunal competente, la
+6 sentencia a tal efecto dictada no afectará, perjudicará, ni invalidará, el resto de esta Ley.
+7 El efecto de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo, artículo,
+8 disposición, sección, inciso, o parte que así hubiere sido declarada inconstitucional.
+9 Sección 10.– Cláusula de vigencia
+10 Esta Ley comenzará a regir inmediatamente después de su aprobación. No
+11 obstante, toda disposición reglamentaria, contrato o acuerdo con cualquier persona
+12 natural o jurídica, pública o privada, hecho en violación de la prohibición contenida en
+13 la Sección 2 de esta Ley se considera nulo ab initio aun si hubiere entrado en vigor previo
+14 a la aprobación de esta Ley por ser inconstitucional.

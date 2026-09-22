@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. C. del S. 218
+18 de septiembre de 2026
+Presentada por el señor Santos Ortiz
+Referida a la
+RESOLUCIÓN CONJUNTA
+Para designar el mes de octubre de cada año como el “Mes de la Concientización sobre el
+Síndrome de PI3K-delta Activado (APDS)”; en reconocimiento a la necesidad de
+educar sobre esta inmunodeficiencia primaria, promover su diagnóstico temprano
+y apoyar a los pacientes y sus familias; ordenar al Departamento de Salud a
+conmemorar dicho mes y llevar a cabo una campaña educativa; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Síndrome de PI3K-delta Activado, conocido por sus siglas en inglés como APDS
+(anteriormente conocido como enfermedad de PASLI), es una inmunodeficiencia
+primaria (IP) poco frecuente que fue descubierta por primera vez en el 2013. Es causada
+por variantes en uno de los dos genes identificados como PIK3CD o PIK3R1, los cuales
+son vitales para el desarrollo y la función normal de las células inmunes en el cuerpo.
+APDS tiene complicaciones potencialmente mortales si no se trata adecuadamente,
+se diagnostica erróneamente o no es diagnosticado. Los signos y síntomas varían
+ampliamente, pero a menudo comienzan en la infancia con infecciones sinopulmonares
+recurrentes y graves (vías respiratorias, senos paranasales y oídos). Los signos y síntomas
+de desregulación inmune también son frecuentes y aparecen en la infancia tardía, entre
+
+2
+ellos se incluyen la linfadenopatía (inflamación de los ganglios linfáticos),
+esplenomegalia (agrandamiento del bazo), citopenias autoinmunes (conteo bajo de
+células sanguíneas debido a su destrucción por parte del sistema inmune) y enteropatía
+(problemas del tracto digestivo como diarrea). Con el tiempo, se pueden desarrollar
+bronquiectasias (daño pulmonar permanente) y linfoma (cáncer del sistema inmune). Es
+importante tener en cuenta que no todas las personas tienen todos estos signos y síntomas.
+Incluso las personas afectadas de la misma familia pueden experimentar APDS de
+manera diferente.
+Según el Dr. Nicholas Hartog: “Por lo general, una persona con APDS se presentará
+en un hospital dentro de los primeros 5 años de vida con una infección predominante y
+recurrente del tracto respiratorio. También pueden presentarse con ganglios linfáticos
+inflamados. Desafortunadamente, estos síntomas generales del paciente a menudo dan
+como resultado que los profesionales médicos prediagnostiquen distintos trastornos
+autoinmunes antes de considerar un diagnóstico de IP. Incluso si se da una clasificación
+de inmunodeficiencia primaria, un paciente puede ser diagnosticado erróneamente con
+inmunodeficiencia variable común (IDVC) e hiper IgM. Esto lleva a que los pacientes con
+APDS sean atendidos por una variedad de médicos y manejados con tratamientos que no
+abordan la causa subyacente de los síntomas”.
+APDS se hereda de manera autosómica dominante, lo que significa que una persona
+necesita la variante genética causante de la enfermedad de un solo padre para
+potencialmente tenerla. Otros miembros de la familia pueden verse afectados, pero aun
+así presentan síntomas variables. Un análisis de sangre puede identificar los cambios en
+las células B y T que son un sello distintivo de APDS. Esto, en conjunto con otros
+resultados de pruebas de laboratorio y signos y síntomas clínicos, debe generar sospechas
+y ser seguido con una prueba genética para diagnosticar el Síndrome de PI3K-delta
+Activado. Las pruebas de laboratorio y citometría de flujo revelan la disfunción de las
+células B y T y el fenotipo de APDS.
+
+3
+Actualmente, existe un tratamiento para el APDS aprobado por la FDA. Este
+tratamiento trabaja en la causa misma de la enfermedad, no solo los síntomas. Otras
+opciones para el manejo de los síntomas de APDS incluyen antibióticos y antivirales para
+tratar o prevenir las infecciones recurrentes. La mayoría de los pacientes tienen
+deficiencias de anticuerpos y pueden recibir terapia de reemplazo de inmunoglobulinas
+(TIR). Se han utilizado inhibidores de mTOR para controlar la linfoproliferación. Se han
+usado tratamientos inmunosupresores como inhibidores de linfocitos B para las
+complicaciones autoinmunes. En los pacientes con las complicaciones más graves o
+potencialmente mortales, se ha utilizado el trasplante de células madre hematopoyéticas
+(TCMH) para corregir la disfunción subyacente, aunque con una consideración de alto
+riesgo/beneficio.
+El diagnóstico diferencial es complejo, ya que algunos pacientes pueden ser
+diagnosticados erróneamente con inmunodeficiencia variable común (IDVC), síndrome
+de hiper IgM (HIGM) o síndrome linfoproliferativo autoinmune (ALPS). Los pacientes
+con APDS a menudo desarrollan síntomas conflictivos, como complicaciones
+autoinmunes e inflamatorias con infecciones graves frecuentes. Algunos pacientes han
+sido diagnosticados primero con linfoma, sin darse cuenta de que APDS era la causa. La
+prueba de variantes familiares se recomienda para los familiares de los pacientes que han
+sido identificados como positivo para APDS.
+El diagnóstico temprano de APDS es fundamental para evitar complicaciones
+potencialmente mortales, reducir el riesgo de daño pulmonar permanente
+(bronquiectasias) y mejorar la calidad de vida de los pacientes. Por tal razón, esta
+Asamblea Legislativa entiende necesario designar el mes de octubre de cada año como el
+“Mes de la Concientización sobre el Síndrome de PI3K-delta Activado (APDS)”.
+
+4
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1. -Se designa el mes de octubre de cada año como el “Mes de la
+2 Concientización sobre el Síndrome de PI3K-delta Activado (APDS)”, en reconocimiento
+3 a la necesidad de educar sobre esta inmunodeficiencia primaria.
+4 Sección 2.- Se ordena al Departamento de Salud y cualquier otra entidad pública o
+5 privada que estos estimen pertinente, a tomar las medidas necesarias para dar
+6 cumplimiento a las disposiciones de esta Resolución Conjunta.
+7 Sección 3.- El Departamento de Salud deberá llevar a cabo una campaña educativa
+8 para la conmemoración del “Mes de la Concientización sobre el Síndrome de PI3K-delta
+9 Activado (APDS)”, promoviendo actividades educativas, charlas, y talleres que
+10 destaquen la naturaleza de esta inmunodeficiencia primaria, sus signos y síntomas, la
+11 importancia del diagnóstico temprano mediante pruebas genéticas y de laboratorio, así
+12 como los recursos de apoyo disponibles para los pacientes y sus familias.
+13 Sección 4.- Esta Resolución Conjunta comenzará a regir inmediatamente después de
+14 su aprobación.
