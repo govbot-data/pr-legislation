@@ -150,6 +150,26 @@
       "_processing": {
         "log_file_created": "2026-09-09T09:43:06Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Mar\u00eda Mart\u00ednez de P\u00e9rez Almiroty",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:22:15Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Mar\u00eda Mart\u00ednez de P\u00e9rez Almiroty",
+      "date": "2026-10-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:22:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -207,6 +227,17 @@
       ],
       "date": "2026-09-08",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/162011/rs0586a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-08",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -225,7 +256,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-09T09:43:06Z",
+    "logs_latest_update": "2026-09-24T11:22:15Z",
     "text_extraction_latest_update": "2026-09-09T09:47:18.887585Z"
   }
 }

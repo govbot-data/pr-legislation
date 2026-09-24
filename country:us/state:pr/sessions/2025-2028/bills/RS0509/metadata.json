@@ -160,6 +160,16 @@
       "_processing": {
         "log_file_created": "2026-09-19T09:52:06Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Luis A. Negr\u00f3n L\u00f3pez",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:22:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -265,7 +275,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-19T09:52:06Z",
+    "logs_latest_update": "2026-09-24T11:22:15Z",
     "text_extraction_latest_update": "2026-09-19T09:55:06.280042Z"
   }
 }

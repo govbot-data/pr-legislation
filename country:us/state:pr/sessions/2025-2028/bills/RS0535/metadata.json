@@ -150,6 +150,16 @@
       "_processing": {
         "log_file_created": "2026-08-28T17:12:29Z"
       }
+    },
+    {
+      "description": "Inspecci\u00f3n Ocular: Barriada Pasarell, Sector Los Lazos, Municipio de Comer\u00edo",
+      "date": "2026-10-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:22:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -207,6 +217,17 @@
       ],
       "date": "2026-08-27",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161354/rs0535a-26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -225,7 +246,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T17:12:29Z",
+    "logs_latest_update": "2026-09-24T11:22:15Z",
     "text_extraction_latest_update": "2026-08-28T17:15:59.674688Z"
   }
 }
