@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+(Entirillado Electrónico)
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 3ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1094
+18 de febrero de 2026
+Presentado por el señor Rivera Schatz
+Referido a la Comisión de Asuntos Municipales
+LEY
+Para enmendar los Artículos 7.200 y 7.202 de la Ley 107-2020, según enmendada,
+conocida como “Código Municipal de Puerto Rico”, a los fines de introducir la
+definición de “negocio de bajo margen de ganancia” y establecer una tasa máxima
+de 0.25% sobre el volumen de negocios aplicable a dichos negocios; disponer la
+implementación escalonada de dicha tasa máxima; requerir al Centro de Recaudación de
+Ingresos Municipales rendir una evaluación periódica de impacto fiscal desglosada por
+municipio; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El Código Municipal de Puerto Rico, Ley 107-2020, según enmendada, organiza la
+estructura contributiva local aplicable a los municipios, incluyendo la imposición de
+patentes municipales sobre el volumen de negocios de las personas naturales o
+jurídicasdedicadas a prestar servicios, vender bienes o realizar actividades industriales o
+financieras.
+Actualmente, el Artículo 7.200 del Código dispone que el volumen de negocios
+consistirá en los ingresos brutos recibidos o devengados, sin tener en cuenta si el negocio
+obtuvo o no ganancias o beneficios. Esta regla general ha sido eficaz para mantener
+uniformidad en la administración de las patentes municipales. Sin embargo, en la práctica
+ha tenido efectos desproporcionados en negocios con márgenes de ganancia reducidos,
+
+2
+particularmente en aquellos que actúan como intermediarios o cuya operación implica
+costos directos elevados.
+Ejemplos de estas industrias incluyen establecimientos dedicados a servicios de
+paquetería, transporte, distribución o reventa de servicios de terceros, donde la mayor
+parte del ingreso se destina al pago de los costos directos de operación. En tales casos, el
+ingreso bruto no refleja la verdadera capacidad contributiva del negocio, ya que una
+proporción significativa de sus ingresos se utiliza para cubrir costos no discrecionales.
+De igual manera, esta Asamblea Legislativa reconoce que los altos costos de hacer
+negocios en Puerto Rico, incluyendo los altos costos de energía eléctrica, agua,
+telecomunicaciones y otros servicios básicos, así como los aumentos sostenidos en gastos
+de nómina, transportación y arrendamiento comercial, afectan de manera particular a los
+pequeños y medianos comerciantes (PYMES). Estas realidades económicas limitan su
+competitividad y reducen sus márgenes operacionales, dificultando su sostenibilidad y
+crecimiento.
+Por tanto, esta ley persigue aliviar los costos de operación e incentivar la
+permanencia y expansión de los pequeños y medianos comerciantes, promoviendo la
+formalización de negocios y la actividad económica local. Al introducir una definición
+normativa de “negocio de bajo margen de ganancia” y establecer una tasa máxima
+reducida de 0.25% aplicable a su volumen de negocios, se reconoce que ciertos sectores
+requieren un tratamiento fiscal diferenciado que atienda sus condiciones reales de
+rentabilidad.
+La integridad del sistema de patente municipal se mantiene inalterada,
+preservando la base de ingresos brutos, pero se reconoce, mediante un tratamiento
+contributivo racional y verificable, la situación de aquellos sectores de baja rentabilidad
+y alta exposición a los costos de operación. Además, se introducen mecanismos de
+certificación contable y verificación administrativa para asegurar la transparencia,
+uniformidad y responsabilidad fiscal en la aplicación de la tasa especial.
+
+3
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el inciso (a) del Artículo 7.200 de la Ley 107-2020, según
+2 enmendada, conocida como “Código Municipal de Puerto Rico”, para añadir un
+3 subinciso (4), para que lea como sigue:
+4 “Artículo 7.200 —Volumen de Negocios
+5 (a) Regla General –
+6 …
+7 (4) Negocio de bajo margen de ganancia – Se considerará negocio de bajo margen de
+8 ganancia aquel cuya utilidad bruta sea igual o menor al quince por ciento (15%) de
+9 sus ingresos brutos durante el año contributivo inmediatamente anterior, siempre
+10 y cuando dicho negocio cualifique como microempresa, pequeño o mediano
+11 comerciante conforme a los criterios de volumen de ventas y número de empleados
+12 dispuestos en la Ley 62-2014, según enmendada, conocida como “Ley de Apoyo a
+13 la Microempresa, al Pequeño y Mediano Comerciante”, según conste en los estados
+14 financieros o planilla de contribución sobre ingresos al Departamento de Hacienda.
+15 Para propósitos de este inciso, se entenderá por utilidad bruta la diferencia entre los
+16 ingresos brutos y los costos directos de bienes o servicios vendidos. El Director de
+17 Finanzas Municipal podrá requerir documentación y certificaciones adicionales
+18 para validar el margen de ganancia declarado y asegurar el cumplimiento de esta
+19 disposición.” El Centro de Recaudación de Ingresos Municipales establecerá,
+20 mediante reglamento y dentro de un término que no excederá de ciento veinte (120)
+21 días contados a partir de la vigencia de esta Ley, los criterios uniformes para
+
+4
+1 determinar qué constituye costos directos de bienes o servicios vendidos según la
+2 naturaleza de cada industria, así como el procedimiento y la documentación mínima
+3 requerida para certificar el margen de ganancia declarado, a los fines de asegurar la
+4 aplicación uniforme de esta disposición en todos los municipios.”
+5 Sección 2.- Se enmienda el Artículo 7.202 de la Ley 107-2020, según enmendada,
+6 conocida como “Código Municipal de Puerto Rico”, para añadir un nuevo inciso (d) y
+7 renumerar el actual inciso (d) como inciso (e), para que lea como sigue:
+8 “Artículo 7.202 — Tipos de Patente.
+9 …
+10 (d) En el caso de los negocios de bajo margen de ganancia, se les impondrá y cobrará una
+11 patente que, en ningún caso podrá exceder de veinticinco centésimas (.25) del uno por ciento (1%)
+12 del por ciento que corresponda, según el año contributivo de que se trate, conforme a la siguiente
+13 escala: (i) cuarenta centésimas (.40) del uno por ciento (1%), durante el primer año contributivo
+14 posterior a la vigencia de esta Ley; (ii) treinta y dos punto cinco centésimas (.325) del uno por
+15 ciento (1%), durante el segundo año contributivo posterior a la vigencia de esta Ley; y (iii)
+16 veinticinco centésimas (.25) del uno por ciento (1%), a partir del tercer año contributivo posterior
+17 a la vigencia de esta Ley en adelante, sujeto a lo dispuesto en la Sección 3 de esta Ley, de su volumen
+18 de negocio atribuible a operaciones en el municipio que impone la patente autorizada, excepto
+19 cuando de otro modo se disponga en este Código.
+20 [(d)] (e) En todos los casos cubiertos por este Artículo, el monto de la patente a
+21 cobrar será la cantidad que resulte del cómputo dispuesto en los incisos anteriores de este
+22 Artículo o veinticinco (25) dólares, lo que resulte mayor.”
+
+5
+1 Sección 3.- Evaluación de Impacto Fiscal.
+2 El Centro de Recaudación de Ingresos Municipales rendirá a la Comisión de Asuntos
+3 Municipales del Senado de Puerto Rico y a la comisión correspondiente de la Cámara de
+4 Representantes un informe que evalúe el impacto fiscal de esta Ley sobre los recaudos de patente
+5 municipal, desglosado por municipio, que incluya una comparación entre los ingresos proyectados
+6 y los efectivamente recaudados bajo la clasificación de negocio de bajo margen de ganancia. El
+7 primer informe se rendirá no más tarde del 30 de septiembre siguiente a la fecha límite dispuesta
+8 en el Artículo 7.207 de este Código para la radicación de la Declaración de Volumen de Negocios
+9 correspondiente al primer año contributivo completo en que esta Ley haya estado en vigor, y en
+10 igual fecha durante cada uno de los dos (2) años contributivos subsiguientes, para un total de tres
+11 (3) informes. El Centro de Recaudación de Ingresos Municipales publicará copia de cada informe
+12 en su portal de internet dentro de los diez (10) días siguientes a su radicación.
+13 Si el informe correspondiente al primer o al segundo año contributivo refleja que la
+14 reducción escalonada dispuesta en el Artículo 7.202(d) de este Código tiene un impacto fiscal
+15 desproporcionado sobre los municipios de menor base contributiva, según los criterios que para
+16 ello establezca el Centro de Recaudación de Ingresos Municipales mediante el reglamento dispuesto
+17 en el Artículo 7.200(a)(4) de este Código, el próximo escalón de reducción dispuesto en el Artículo
+18 7.202(d) no entrará en vigor hasta tanto la Asamblea Legislativa identifique y asigne los recursos
+19 correspondientes a los municipios afectados, conforme a lo dispuesto en el Artículo 1.007 de este
+20 Código.
+21 Sección 3 (4).- Separabilidad.
+
+6
+1 Si alguna disposición de esta Ley fuere declarada inconstitucional o inválida por
+2 un tribunal de jurisdicción competente, tal determinación no afectará la validez de las
+3 restantes disposiciones, las cuales permanecerán en pleno vigor y efecto.
+4 Sección 4 (5).- Vigencia.
+5 Esta Ley entrará en vigor inmediatamente después de su aprobación.

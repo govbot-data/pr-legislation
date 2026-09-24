@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 4 ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. del S. 605
+22 de septiembre de 2026
+Presentada por la señora Santiago Negrón y el señor González Costa
+Referida a la Comisión de
+RESOLUCIÓN
+Para ordenar a la Comisión de lo Jurídico del Senado de Puerto Rico realizar una
+investigación exhaustiva sobre alternativas para modernizar y atemperar a las nuevas
+tendencias de publicaciones en lo relativo a las publicaciones por edicto que se exigen
+actualmente en nuestro ordenamiento jurídico, tanto en procesos judiciales como
+administrativos y municipales.
+EXPOSICIÓN DE MOTIVOS
+La revisión integral más reciente sobre las Reglas de Procedimiento Civil por el
+Tribunal Supremo de Puerto Rico data del año 2009, luego de tres décadas. La revisión
+de las Reglas respondió, en aquel momento a agilizar procesos en los tribunales, abrir las
+puertas de la justicia, aliviar la carga en las Secretarías de los tribunales, y atemperar las
+reglas a los desarrollos tecnológicos. El Comité Asesor Permanente de las Reglas de
+Procedimiento Civil destacó en una carta al Juez presidente Hernández Denton que la
+visión con las que las nuevas reglas se enmarcaron fue en “fomentar el más amplio acceso
+de la ciudadanía a su sistema de justicia, con la eliminación de requisitos de forma
+innecesarios e injustificados y con el reconocimiento de la representación por derecho
+propio; revisar de forma integral los procesos de descubrimiento de prueba, en especial,
+la intervención del tribunal cuando éstos se convierten en opresivos y abusivos;
+establecer un proceso más efectivo para el manejo de los casos; adaptar las reglas
+
+2
+conforme las nuevas tendencias en los medios tecnológicos de comunicación y el
+desarrollo de la evidencia electrónica y; revisar la redacción de las reglas para aclarar
+ideas, uniformar los tiempos verbales y utilizar un lenguaje de manera directiva y
+preceptiva”.
+La motivación para atemperar las Reglas de Procedimiento Civil a la innovación
+tecnológica fue un intento de introducir y tolerar la tecnología en los procesos judiciales.
+Poco a poco, esa introducción se convirtió en la práctica cuando se implantó el sistema
+de SUMAC para que los abogados y abogadas pudieran presentar recursos ante el
+Tribunal de Primera Instancia y eventualmente recursos apelativos (aun esta herramienta
+no está disponible) de forma electrónica.
+La Regla 1.19 de las Reglas de Conducta Profesional establece que: “las personas
+que ejercen la profesión legal deberán adquirir las destrezas necesarias y mantener un
+conocimiento razonable sobre los desarrollos tecnológicos”. Con esta última regla, el
+Tribunal vincula la competencia de un abogado o abogada con el uso de tecnología;
+obligando a los abogados y abogadas estar a la vanguardia con los nuevos avances
+tecnológicos dentro de la profesión jurídica. Parte de los esfuerzos del Tribunal Supremo
+para “adaptar las reglas conforme a las nuevas tendencias tecnológicas” incluye las
+deposiciones por teléfono, almacenamiento de información electrónica, la utilización de
+la palabra “registro” en sustitución de “libros”, emisión de notificaciones, entre otros.
+Aunque hubo avances en el uso de la tecnología, el Comité guardó silencio en
+cuanto a la Regla 4.5 de Procedimiento Civil al no atemperarla a los cambios tecnológicos.
+Dicha regla establece el proceso para que un Tribunal pueda adquirir jurisdicción sobre
+la persona cuando no se puede, o no se ha podido, emplazar personalmente, o si se
+encuentra fuera de Puerto Rico. Por lo cual, se recurre a formalizar un emplazamiento
+por edicto, el cual debe ser publicado en un periódico de circulación general. La
+publicación de un edicto en un periódico de circulación general conlleva un alto costo a
+la parte demandante ya que también incluye una serie de formalidades adicionales como
+el envío certificado con acuse de recibo y declaraciones juradas. El propósito de un
+emplazamiento por edicto es notificar a una parte de que está siendo demandada. A la
+
+3
+luz de lo anterior, la omisión de una persona en no ver un edicto en un periódico puede
+conllevar serias consecuencias sobre su persona o su patrimonio, pues está siendo
+demandada y una vez cumplidos los requisitos que imponen las Reglas, el Tribunal
+adquiere jurisdicción sobre su persona pudiendo dictar en su día una sentencia en su
+contra con las consecuencias que ello pudiera conllevar.
+Según el Pew Research Center, la circulación de periódicos (impresos y digitales)
+ha reducido 10% de 2022 a 2023 y el uso del periódico para consumir noticias está en su
+punto más bajo (superado por dispositivos digitales y la televisión). El Centro de
+Investigación de Reuters identificó que hay un cambio acelerado a consumir noticias por
+redes sociales y plataformas de video que por periódicos institucionales. En un estudio
+de Nielsen Scarborough se cuantificó que el periódico El Nuevo Día, en su versión
+impresa, llega al 28.6% de la población en Puerto Rico. En días recientes, dicho medio ha
+comunicado que no circulará ediciones impresas a partir del mes de septiembre. Estos
+datos reflejan que la población está desprovista cada vez de enterarse de información,
+noticiosa o de carácter legal, a través del algún periódico.
+Por el contrario, los dispositivos electrónicos disponen de múltiples herramientas
+que permiten segmentar publicaciones conforme a la demografía de los usuarios. La
+posibilidad de dirigir una publicación a un grupo demográfico específico incrementa la
+probabilidad que llegue al receptor, en comparación con un periódico, que su uso es cada
+vez menor entre la población.
+Cuando se enmendaron las Reglas de Procedimiento Civil en el 2009 no se
+vislumbró cuán lejos iba a llegar la tecnología. Algo tan sensible como la jurisdicción
+sobre la persona, debe ser atendido con un gran nivel de meticulosidad ya que esto marca
+la diferencia entre una anotación de rebeldía y una sentencia a favor del demandado. Se
+suman a los asuntos jurisdiccionales, elementos importantes contenidos en otras leyes,
+tales como las publicaciones sobre reglamentos de agencias y los procesos de aprobación
+a través de edictos, la publicación de pliegos de subasta agencias o municipios, entre otros
+requisitos legales que imponen obligaciones al propio Estado y ciudadanos particulares
+a cumplir con la publicación de edictos en determinadas circunstancias y las
+
+4
+consecuencias que conlleva el incumplimiento de dicho requisito. En algunos casos la
+omisión de tal publicación implica hasta posibles violaciones al debido proceso de ley.
+Ante el rápido avance de la tecnología y el declive en el uso de los periódicos como
+se le conocieron hasta la primera parte de este siglo, es menester de este Senado investigar
+cómo atemperar esos estatutos que requieren un grado de publicidad de circulación
+general para asegurar los derechos de las partes e incluso garantizar sus derechos frente
+al propio Estado, a dichos avances.
+RESUÉLVESE POR EL SENADO DE PUERTO RICO:
+1 Sección 1.- Ordenar a la Comisión de lo Jurídico del Senado de Puerto Rico realizar
+2 una investigación exhaustiva sobre alternativas para modernizar y atemperar a las
+3 nuevas tendencias de publicaciones en lo relativo a las publicaciones por edicto que se
+4 exigen actualmente en nuestro ordenamiento jurídico, tanto en procesos judiciales como
+5 administrativos y municipales.
+6 Sección 2.- La Comisión deberá citar profesionales o instituciones que forman
+7 parte de la profesión jurídica, para que expresen sus recomendaciones. Estos
+8 profesionales o instituciones incluyen, pero no se limita a abogados, exjueces,
+9 representantes de diferentes bufetes, Asistencia Legal de Puerto Rico, Servicios Legales
+10 de Puerto Rico, entre otros. Adicionalmente, incluirá representantes de las tres (3)
+11 escuelas de derecho, Colegio de Abogados y Abogadas, Asociación de Abogados y
+12 Academia Puertorriqueña de Jurisprudencia y Legislación. La participación de las
+13 entidades que publican los edictos actualmente es medular para elaborar la investigación.
+14 La Comisión también citará a cualquier otra persona o entidad que estime pertinente para
+15 elaborar un informe sobre esta Resolución.
+
+5
+1 Sección 3.- La Comisión rendirá un informe con sus hallazgos, conclusiones y
+2 recomendaciones dentro de un término no mayor de noventa (90) días, a partir de la
+3 aprobación de esta Resolución.
+4 Sección 4.- Esta Resolución entrará en vigor inmediatamente después de su
+5 aprobación.

@@ -1,0 +1,770 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1477
+22 de septiembre de 2026
+Presentado por la señora Soto Tolentino
+Referido a
+LEY
+Para crear la “Ley del Sistema Uniforme de Casos de Explotación Financiera”; establecer
+un número único de caso y un registro interagencial de coordinación para los referidos
+de posible explotación financiera contra adultos mayores y adultos con impedimentos;
+encomendar a la Puerto Rico Innovation and Technology Service el desarrollo,
+administración tecnológica, interoperabilidad y seguridad del Sistema; disponer la
+coordinación de la vertiente investigativa criminal por el Departamento de Seguridad
+Pública, por conducto del Negociado de Investigaciones Especiales, únicamente dentro
+de la jurisdicción que le confiere la Ley 20-2017, según enmendada, y demás leyes
+aplicables; preservar las facultades del Departamento de la Familia, la Oficina del
+Procurador de las Personas de Edad Avanzada, la Defensoría de las Personas con
+Impedimentos, la Policía de Puerto Rico, el Departamento de Justicia y las entidades
+reguladoras; establecer normas sobre referido, preservación de evidencia,
+confidencialidad, seguridad, fiscalización, estadísticas e implantación; y para otros fines
+relacionados.
+EXPOSICIÓN DE MOTIVOS
+La explotación financiera contra adultos mayores y adultos con impedimentos puede
+privar a una persona de los recursos necesarios para su vivienda, alimentación,
+medicamentos, tratamiento, transportación y cuidado. La complejidad de estos casos
+aumenta cuando la conducta involucra familiares, cuidadores, apoderados,
+representantes o personas allegadas que han obtenido acceso legítimo o aparente a
+cuentas, beneficios, bienes o documentos y luego utilizan esa posición de confianza en
+perjuicio de la persona protegida.
+
+2
+Puerto Rico cuenta con un marco jurídico dirigido a prevenir, detectar, referir,
+investigar y remediar esta conducta. La Ley 76-2020, según enmendada, requiere
+protocolos de prevención y detección y exige coordinación entre las instituciones
+cubiertas y las agencias a las cuales se remitan los referidos. La Ley 121-2019, según
+enmendada, establece deberes de información, mecanismos protectores y disposiciones
+específicas aplicables a instituciones financieras, cooperativas y compañías de seguros.
+El marco vigente fue fortalecido durante este cuatrienio. La Ley 118-2025 incorporó
+expresamente al Negociado de Investigaciones Especiales del Departamento de
+Seguridad Pública entre las entidades a las cuales pueden y, según corresponda, deben
+canalizarse referidos relacionados con adultos mayores. Por su parte, la Ley 85-2025
+reconoció al Negociado jurisdicción concurrente para investigar determinados casos de
+explotación financiera de adultos mayores en los que esté involucrado personal de
+establecimientos residenciales, hogares sustitutos o instituciones de cuido. Estas
+enmiendas confirman la participación del Negociado en la respuesta gubernamental,
+pero no lo convierten en una agencia con jurisdicción exclusiva o universal sobre toda
+modalidad de explotación financiera.
+La dificultad operacional que persiste no consiste únicamente en identificar qué
+agencia puede intervenir. Un mismo incidente puede llegar por distintos canales y
+generar números de querella, expedientes, solicitudes de documentos y actuaciones
+separadas. Aunque la legislación vigente exige que las instituciones identifiquen las
+agencias a las cuales remiten el referido y mantengan una política de cooperación, no
+existe un identificador interagencial único que permita determinar, de manera rápida y
+segura, si el mismo asunto ya está siendo atendido y cuál es el estado general de las
+intervenciones concurrentes.
+La solución tampoco debe consistir en crear un repositorio indiscriminado de
+expedientes investigativos. Los documentos originales, evidencia, notas investigativas,
+información médica, datos financieros protegidos, comunicaciones privilegiadas e
+Informes de Actividad Sospechosa están sujetos a distintos regímenes de
+confidencialidad y conservación. Por ello, esta Ley establece un registro interagencial de
+
+3
+coordinación que compartirá solamente la información mínima necesaria para identificar
+el caso, relacionar expedientes internos, conocer las entidades intervinientes, documentar
+actuaciones esenciales y dar seguimiento a su estado general.
+La Ley 75-2019, según enmendada, creó la Puerto Rico Innovation and Technology
+Service y le confirió la responsabilidad de coordinar la política tecnológica de la Rama
+Ejecutiva, promover la interoperabilidad y revisar, evaluar y aprobar los proyectos de
+bases de datos, información y tecnología de las agencias. En consecuencia, corresponde a
+PRITS desarrollar y administrar tecnológicamente el Sistema Uniforme, establecer sus
+estándares de seguridad e interoperabilidad y limitar el acceso según la función y
+necesidad operacional de cada entidad.
+La coordinación tecnológica no altera las competencias sustantivas. El Departamento
+de Seguridad Pública, por conducto del Negociado de Investigaciones Especiales,
+coordinará la vertiente investigativa criminal cuando el Negociado posea jurisdicción
+conforme a la Ley 20-2017, según enmendada, o a otra disposición legal aplicable. La
+Policía de Puerto Rico conservará su autoridad investigativa; el Departamento de la
+Familia, la Oficina del Procurador de las Personas de Edad Avanzada y la Defensoría de
+las Personas con Impedimentos mantendrán sus funciones protectoras; el Departamento
+de Justicia conservará sus facultades de procesamiento penal; y OCIF, COSSEC, la Oficina
+del Comisionado de Seguros y demás organismos reguladores mantendrán sus
+respectivas jurisdicciones.
+El Sistema tampoco sustituirá la Línea Dorada, los canales del Departamento de la
+Familia, OPPEA, la Policía, el NIE, las instituciones financieras o cualquier otro
+mecanismo de denuncia o referido creado por ley. Su función será recibir directamente o
+incorporar los referidos recibidos por esos canales, asignar un número único, efectuar los
+encaminamientos requeridos por ley y permitir que la persona afectada no tenga que
+repetir innecesariamente la misma información ante múltiples entidades.
+Con esta medida se establece una infraestructura de coordinación y trazabilidad, no
+una nueva policía especializada ni una transferencia general de jurisdicción. La finalidad
+es reducir duplicidades, acelerar la intervención de la entidad competente, preservar
+
+4
+evidencia, fortalecer la rendición de cuentas y producir estadísticas uniformes, al mismo
+tiempo que se respetan la autonomía de la persona afectada, el debido proceso, los
+privilegios reconocidos por ley y las restricciones federales y estatales sobre información
+confidencial.
+1 DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+2 Artículo 1.—Título.
+3 Esta Ley se conocerá como la “Ley del Sistema Uniforme de Casos de Explotación
+4 Financiera”.
+5 Artículo 2.—Política pública.
+6 Es política pública del Gobierno de Puerto Rico establecer una respuesta
+7 interagencial uniforme, interoperable, oportuna y segura para la recepción,
+8 identificación, referido, coordinación y seguimiento general de los casos de posible
+9 explotación financiera contra adultos mayores y adultos con impedimentos.
+10 La implantación de esta política pública estará dirigida a:
+11 (a) generar un número único de caso desde el primer registro;
+12 (b) mantener un registro interagencial de coordinación que permita conocer las
+13 entidades intervinientes, el estado general y las actuaciones esenciales del caso, sin
+14 sustituir los expedientes originales de cada entidad;
+15 (c) evitar referidos, entrevistas, requerimientos e investigaciones innecesariamente
+16 duplicados;
+17 (d) encaminar cada asunto a las entidades con competencia protectora,
+18 investigativa, regulatoria o de procesamiento penal conforme al derecho aplicable;
+
+5
+1 (e) facilitar la coordinación de investigaciones concurrentes sin alterar la
+2 jurisdicción legal de las agencias;
+3 (f) preservar oportunamente la evidencia pertinente;
+4 (g) proteger la confidencialidad, privacidad, integridad y seguridad de la
+5 información;
+6 (h) respetar la dignidad, voluntad, autonomía y derechos de la persona afectada;
+7 y
+8 (i) producir estadísticas uniformes y agregadas que permitan evaluar la respuesta
+9 gubernamental.
+10 Artículo 3.—Aplicabilidad y preservación de jurisdicciones.
+11 Esta Ley aplicará a los referidos de posible explotación financiera contra adultos
+12 mayores y adultos con impedimentos recibidos o atendidos por entidades del Gobierno
+13 de Puerto Rico y a las actuaciones de coordinación que se registren en el Sistema
+14 Uniforme.
+15 Las entidades participantes estarán sujetas a los deberes de registro,
+16 encaminamiento, cooperación, actualización y seguridad establecidos en esta Ley, dentro
+17 de sus respectivas facultades legales.
+18 Ninguna disposición de esta Ley transferirá, ampliará, reducirá o hará exclusiva
+19 una jurisdicción investigativa, protectora, regulatoria o de procesamiento penal que otra
+20 ley haya asignado a una entidad. La identificación de una entidad como coordinadora de
+21 una vertiente del caso tendrá carácter operacional y no jurisdiccional.
+
+6
+1 Las instituciones privadas y personas naturales estarán sujetas únicamente a los
+2 deberes expresamente establecidos en esta Ley o en cualquier otra disposición legal
+3 aplicable.
+4 Las agencias y entidades federales podrán participar mediante acuerdos de
+5 colaboración, sujeto al derecho federal y sin quedar sometidas a deberes compulsorios
+6 que el Gobierno de Puerto Rico carezca de autoridad para imponer.
+7 Artículo 4.—Definiciones.
+8 Para propósitos de esta Ley, los siguientes términos tendrán el significado que se
+9 dispone:
+10 (a) Adulto con impedimento.—Tendrá el significado dispuesto en la Ley 76-2020,
+11 según enmendada, conocida como “Ley Especial para Prevenir la Explotación Financiera
+12 contra los Adultos Mayores y Adultos con Impedimentos”, o en la legislación que la
+13 sustituya.
+14 No será necesaria una determinación judicial de incapacidad para recibir o
+15 registrar un referido ni para activar los mecanismos de coordinación establecidos en esta
+16 Ley.
+17 (b) Adulto mayor.—Persona de sesenta (60) años o más, conforme a la Ley 121-
+18 2019, según enmendada, conocida como “Carta de Derechos y la Política Pública del
+19 Gobierno a favor de los Adultos Mayores”, o a la legislación que la sustituya.
+20 (c) Entidad participante.—Agencia, oficina, negociado, corporación pública o
+21 entidad reguladora integrada al Sistema Uniforme por mandato de esta Ley, por otra ley
+22 o mediante acuerdo interagencial válido.
+
+7
+1 (d) Explotación financiera.—Tendrá el significado establecido en la Ley 121-2019,
+2 según enmendada, la Ley 76-2020, según enmendada, y cualquier otra legislación
+3 especial aplicable.
+4 (e) Información razonable de posible explotación financiera.—Hechos,
+5 transacciones, documentos, observaciones o circunstancias específicas que, evaluadas en
+6 conjunto, permitan razonablemente sospechar que los recursos económicos de un adulto
+7 mayor o adulto con impedimento han sido o pueden ser utilizados sin autorización,
+8 mediante engaño, fraude, coerción, influencia indebida, abuso de confianza o en exceso
+9 de una facultad legalmente concedida.
+10 (f) Número único de caso.—Identificador generado por el Sistema Uniforme desde
+11 el primer registro y utilizado exclusivamente para relacionar los referidos, actuaciones y
+12 números de expediente internos de las entidades intervinientes.
+13 (g) Persona afectada.—Adulto mayor o adulto con impedimento que sea o pueda
+14 ser víctima de explotación financiera.
+15 (h) Registro interagencial de coordinación.—Conjunto limitado de datos
+16 operacionales asociado al número único de caso que identifica el referido, las entidades
+17 intervinientes, los números de expedientes internos, las actuaciones esenciales, el estado
+18 general y la determinación final, sin constituir un expediente investigativo consolidado.
+19 (i) Sistema Uniforme.—Plataforma tecnológica interagencial creada por esta Ley
+20 para registrar, identificar, relacionar, encaminar y dar seguimiento general a los casos de
+21 posible explotación financiera.
+22 Artículo 5.—Sistema Uniforme.
+
+8
+1 Se crea el Sistema Uniforme de Casos de Explotación Financiera como plataforma
+2 tecnológica de coordinación interagencial.
+3 El Sistema Uniforme permitirá, como mínimo:
+4 (a) verificar si existe un referido relacionado con la misma persona y hechos
+5 sustancialmente similares;
+6 (b) registrar el referido inicial, su fuente y la fecha de recepción;
+7 (c) generar automáticamente el número único de caso;
+8 (d) identificar las entidades a las cuales el asunto fue transmitido y el fundamento
+9 general de su intervención;
+10 (e) relacionar, mediante identificadores, los expedientes internos que cada entidad
+11 conserve bajo su propia custodia;
+12 (f) registrar el estado general del asunto, incluyendo, según corresponda: referido
+13 recibido; cernimiento; intervención protectora; evaluación regulatoria; investigación
+14 criminal; referido al Departamento de Justicia; remedio judicial; cerrado; o reabierto;
+15 (g) registrar actuaciones esenciales y solicitudes interagenciales pendientes;
+16 (h) identificar la entidad que coordina la investigación criminal cuando exista más
+17 de una agencia del orden público interviniendo, sin conferirle jurisdicción exclusiva;
+18 (i) registrar la determinación general y el cierre; y
+19 (j) generar estadísticas agregadas sin información personal identificable.
+20 El registro de un referido no constituirá una determinación de que ocurrió
+21 explotación financiera, no establecerá responsabilidad y no creará presunción alguna
+22 contra la persona señalada.
+
+9
+1 El Sistema Uniforme no sustituirá ni consolidará físicamente los expedientes
+2 originales de las entidades participantes. Solo incorporará la información mínima
+3 necesaria para la coordinación, salvo que una ley autorice expresamente la incorporación
+4 de información adicional.
+5 Artículo 6.—Administración tecnológica.
+6 La Puerto Rico Innovation and Technology Service desarrollará, implantará,
+7 administrará tecnológicamente y mantendrá el Sistema Uniforme, en el ejercicio de las
+8 facultades conferidas por la Ley 75-2019, según enmendada.
+9 En el cumplimiento de esta responsabilidad deberá:
+10 (a) establecer una arquitectura tecnológica segura e interoperable;
+11 (b) revisar y aprobar el diseño, desarrollo, adquisición, contratación, integración y
+12 modificación de los componentes tecnológicos del Sistema conforme a su ley orgánica;
+13 (c) implantar controles de acceso basados en función, jurisdicción y necesidad
+14 operacional;
+15 (d) mantener bitácoras de acceso, consulta, modificación, descarga e impresión;
+16 (e) establecer mecanismos de autenticación multifactor y cifrado;
+17 (f) desarrollar protocolos de continuidad, respaldo, recuperación y respuesta a
+18 incidentes;
+19 (g) realizar evaluaciones periódicas de seguridad y vulnerabilidad;
+20 (h) establecer mecanismos alternos para el registro y transmisión segura de
+21 referidos cuando el Sistema no esté disponible;
+
+10
+1 (i) establecer, en coordinación con las entidades propietarias de los datos, términos
+2 de conservación y disposición segura compatibles con las leyes aplicables; y
+3 (j) proveer asistencia técnica y adiestramiento a las entidades participantes.
+4 La administración tecnológica del Sistema Uniforme no concederá a PRITS
+5 autoridad investigativa, protectora, regulatoria ni de procesamiento penal. Su personal
+6 solo podrá acceder al contenido necesario para atender una situación técnica, de
+7 seguridad o auditoría debidamente documentada.
+8 Artículo 7.—Coordinación de la vertiente investigativa criminal.
+9 El Departamento de Seguridad Pública, por conducto del Negociado de
+10 Investigaciones Especiales, será el componente coordinador de la vertiente investigativa
+11 criminal del Sistema Uniforme en aquellos casos en que el Negociado posea jurisdicción
+12 conforme a la Ley 20-2017, según enmendada, o a cualquier otra ley aplicable, o cuando
+13 asuma válidamente una investigación conforme a dichas disposiciones.
+14 Esta designación no convertirá al Negociado de Investigaciones Especiales en la
+15 agencia investigativa exclusiva o universal de todos los referidos de explotación
+16 financiera, ni limitará la jurisdicción concurrente o independiente de la Policía de Puerto
+17 Rico u otra entidad del orden público.
+18 Dentro de su jurisdicción, el Negociado tendrá las siguientes responsabilidades:
+19 (a) recibir los referidos que la legislación vigente ordene transmitirle;
+20 (b) verificar si el asunto corresponde a un caso previamente registrado;
+21 (c) vincular sus actuaciones al número único correspondiente;
+
+11
+1 (d) determinar si posee jurisdicción investigativa y si procede asumir, continuar,
+2 apoyar o declinar la investigación criminal;
+3 (e) cuando asuma la investigación, identificar al investigador o unidad
+4 responsable y registrar esa determinación;
+5 (f) coordinar con la Policía de Puerto Rico y otras agencias del orden público
+6 cuando exista jurisdicción concurrente o una investigación relacionada;
+7 (g) recopilar y preservar evidencia conforme a derecho;
+8 (h) solicitar colaboración técnica, documental o investigativa dentro de las
+9 facultades legales de las entidades concernidas y sujeto a las restricciones de divulgación
+10 aplicables;
+11 (i) efectuar los referidos protectores, regulatorios o al Departamento de Justicia
+12 que correspondan; y
+13 (j) mantener actualizado en el Sistema el estado general de las actuaciones bajo su
+14 responsabilidad.
+15 Cuando el Negociado determine que carece de jurisdicción o que no asumirá la
+16 investigación, registrará esa determinación y el Sistema encaminará el asunto a la agencia
+17 competente, sin que ello retrase una intervención urgente.
+18 Nada de este Artículo menoscabará la autoridad constitucional o estatutaria del
+19 Departamento de Justicia; la autoridad de la Policía de Puerto Rico; las funciones
+20 protectoras del Departamento de la Familia, OPPEA y la Defensoría de las Personas con
+21 Impedimentos; la jurisdicción de las entidades reguladoras; ni la jurisdicción de las
+22 autoridades federales.
+
+12
+1 Artículo 8.—Entidades participantes.
+2 Participarán permanentemente en el Sistema Uniforme, dentro de sus respectivas
+3 competencias:
+4 (a) la Puerto Rico Innovation and Technology Service;
+5 (b) el Departamento de Seguridad Pública, por conducto del Negociado de
+6 Investigaciones Especiales;
+7 (c) el Departamento de Justicia;
+8 (d) el Departamento de la Familia;
+9 (e) la Policía de Puerto Rico;
+10 (f) la Oficina del Procurador de las Personas de Edad Avanzada;
+11 (g) la Defensoría de las Personas con Impedimentos;
+12 (h) la Oficina del Comisionado de Instituciones Financieras;
+13 (i) la Corporación Pública para la Supervisión y Seguro de Cooperativas de Puerto
+14 Rico; y
+15 (j) la Oficina del Comisionado de Seguros.
+16 Las entidades regulatorias accederán únicamente a la información pertinente y
+17 proporcional a los asuntos bajo su jurisdicción. No tendrán acceso general a casos ajenos
+18 a su competencia ni a información médica, social o investigativa que no sea necesaria
+19 para ejercer sus funciones.
+20 Podrán incorporarse otras entidades mediante disposición de ley o acuerdo
+21 interagencial cuando su participación resulte necesaria. La incorporación no concederá
+22 autoridad ni acceso más allá de lo permitido por el ordenamiento jurídico.
+
+13
+1 Artículo 9.—Recepción, registro y encaminamiento de referidos.
+2 Todo referido recibido directamente a través del Sistema Uniforme o incorporado
+3 por una entidad participante generará un número único de caso, sujeto a la verificación
+4 de duplicidades.
+5 La existencia del Sistema no eliminará ni sustituirá la Línea Dorada, los canales de
+6 denuncia o referido del Departamento de la Familia, OPPEA, la Policía de Puerto Rico, el
+7 Negociado de Investigaciones Especiales, las entidades reguladoras, las instituciones
+8 financieras ni cualquier otro mecanismo establecido por ley. La entidad que reciba un
+9 referido por un canal externo deberá registrarlo o relacionarlo con el Sistema tan pronto
+10 resulte operacionalmente posible y legalmente permitido.
+11 El Sistema encaminará el referido a todas las entidades que deban recibirlo
+12 conforme a la Ley 121-2019, según enmendada, la Ley 76-2020, según enmendada, las
+13 leyes orgánicas de las agencias y cualquier otra disposición aplicable.
+14 Cuando exista riesgo inminente de pérdida o transferencia de fondos o bienes,
+15 desalojo, falta de alimentos o medicamentos, interrupción de cuidado, peligro para la
+16 persona o destrucción de evidencia, el referido deberá registrarse y transmitirse
+17 inmediatamente y, de ser posible, dentro de veinticuatro (24) horas.
+18 En los demás casos, la entidad receptora registrará o relacionará el referido no más
+19 tarde del próximo día laborable después de haber recibido información suficiente para
+20 identificar razonablemente a la persona afectada y la naturaleza general del asunto.
+21 El referido incluirá, en la medida disponible: identificación de la persona afectada;
+22 descripción de los hechos; bienes o transacciones involucrados; identidad o relación
+
+14
+1 conocida de la persona señalada; evidencia disponible; entidades previamente
+2 notificadas; y cualquier circunstancia urgente.
+3 La ausencia de información completa no será fundamento para retrasar un
+4 referido urgente. Cuando el Sistema no esté disponible, se utilizará el mecanismo alterno
+5 establecido y la información se incorporará después de restablecido el servicio.
+6 Artículo 10.—Cernimiento y determinación de intervención.
+7 Cada entidad a la cual el Sistema transmita un referido realizará, dentro de su
+8 jurisdicción, el cernimiento o evaluación inicial que exijan su ley orgánica,
+9 reglamentación y protocolos.
+10 En los casos urgentes, las entidades concernidas acusarán recibo y activarán el
+11 procedimiento aplicable tan pronto como sea razonablemente posible. En los demás
+12 casos, registrarán en el Sistema, dentro de dos (2) días laborables, al menos uno de los
+13 siguientes estados: recibido; en cernimiento; aceptado para intervención; referido a otra
+14 entidad; o sin jurisdicción.
+15 El cernimiento no constituirá una determinación de responsabilidad ni obligará a
+16 iniciar una investigación criminal cuando los hechos no la justifiquen.
+17 Cuando el asunto presente posibles componentes protectores, regulatorios y
+18 criminales, las intervenciones podrán desarrollarse simultáneamente y ninguna deberá
+19 retrasarse únicamente porque otra entidad todavía esté realizando su evaluación.
+20 Si dos o más agencias del orden público asumen actuaciones investigativas sobre
+21 los mismos hechos, identificarán en el Sistema la entidad que coordinará
+
+15
+1 administrativamente la investigación criminal para evitar duplicidades. Esa designación
+2 no alterará la jurisdicción legal de ninguna de ellas.
+3 Una determinación de no intervención deberá expresar de forma general su
+4 fundamento y permitirá la reapertura si surge información adicional pertinente. No se
+5 incorporará al Sistema información cuya divulgación esté prohibida.
+6 Artículo 11.—Investigación criminal.
+7 La agencia del orden público que asuma una investigación criminal relacionada
+8 con un caso registrado deberá, dentro de sus facultades legales:
+9 (a) identificar al investigador o unidad responsable;
+10 (b) establecer un plan investigativo proporcional a la naturaleza y complejidad de
+11 los hechos;
+12 (c) identificar y preservar la evidencia pertinente;
+13 (d) coordinar entrevistas y solicitudes de información;
+14 (e) evitar gestiones innecesariamente duplicadas;
+15 (f) mantener comunicación, según corresponda, con las entidades protectoras y
+16 regulatorias intervinientes, así como con el Departamento de Justicia;
+17 (g) actualizar periódicamente el estado general del caso; y
+18 (h) determinar si procede un referido al Departamento de Justicia.
+19 Las agencias investigativas coordinarán las investigaciones concurrentes en la
+20 medida permitida por ley. No se considerará innecesaria una gestión repetida cuando sea
+21 necesaria para preservar cadena de custodia, autenticar evidencia, cumplir una norma
+
+16
+1 procesal o evidenciaria, investigar delitos distintos, proteger a una persona o satisfacer
+2 una exigencia legal independiente.
+3 Nada impedirá que la Policía de Puerto Rico, el Negociado de Investigaciones
+4 Especiales o el Departamento de Justicia actúen inmediatamente dentro de sus
+5 respectivas facultades.
+6 Artículo 12.—Intervención protectora.
+7 Cuando del referido surja riesgo para la salud, seguridad, vivienda, alimentación,
+8 medicamentos, tratamiento, cuidado o bienestar de la persona afectada, el Sistema
+9 transmitirá el referido al Departamento de la Familia y, según corresponda, a la Oficina
+10 del Procurador de las Personas de Edad Avanzada o a la Defensoría de las Personas con
+11 Impedimentos.
+12 Las entidades protectoras atenderán el asunto conforme a sus leyes, reglamentos
+13 y protocolos y podrán ejercer todos los remedios que les reconozca el ordenamiento
+14 jurídico.
+15 La intervención protectora podrá realizarse simultáneamente con una
+16 investigación criminal o evaluación regulatoria y no estará condicionada a la existencia
+17 de cargos penales.
+18 Las entidades protectoras registrarán únicamente la fecha del referido, el inicio de
+19 su intervención y el estado general de las medidas adoptadas, sin incorporar información
+20 protegida más allá de lo necesario para la coordinación.
+21 Artículo 13.—Referidos regulatorios.
+
+17
+1 Cuando los hechos involucren una institución financiera, cooperativa,
+2 aseguradora, entidad de servicios monetarios u otra persona o actividad regulada, el
+3 Sistema transmitirá el referido a la entidad reguladora con jurisdicción.
+4 La entidad reguladora evaluará, conforme a su ley orgánica y reglamentación, el
+5 cumplimiento de las normas aplicables, la suficiencia de los protocolos internos, la
+6 conservación de documentos, las acciones tomadas ante la conducta informada y la
+7 procedencia de medidas correctivas o regulatorias.
+8 La entidad reguladora registrará únicamente el estado general del referido como
+9 recibido, en evaluación, acción regulatoria iniciada o concluido, salvo que otra
+10 información pueda compartirse legalmente y resulte necesaria para la coordinación.
+11 La evaluación regulatoria no sustituirá ni retrasará una investigación criminal o
+12 intervención protectora.
+13 Artículo 14.—Referido al Departamento de Justicia.
+14 Cuando una agencia investigativa determine que existe evidencia suficiente para
+15 una evaluación para fines de procesamiento penal, remitirá el expediente investigativo al
+16 Departamento de Justicia conforme a derecho.
+17 El Departamento de Justicia podrá autorizar la radicación de cargos, solicitar
+18 investigación adicional, iniciar o recomendar acciones civiles, solicitar remedios
+19 judiciales, procurar restitución o recuperación de activos, referir asuntos a otras entidades
+20 o determinar el archivo conforme al ordenamiento aplicable.
+
+18
+1 El Departamento de Justicia registrará en el Sistema únicamente el estado general
+2 del referido y su determinación, sin divulgar información privilegiada, confidencial,
+3 protegida o relacionada con deliberaciones del Ministerio Público.
+4 Artículo 15.—Preservación de evidencia.
+5 La agencia investigativa con jurisdicción podrá emitir una notificación escrita de
+6 preservación cuando exista una investigación formalmente abierta, haya motivos
+7 razonables para creer que documentos o datos pertinentes pueden ser destruidos,
+8 alterados o eliminados, y la solicitud haya sido aprobada por un supervisor autorizado.
+9 La notificación podrá dirigirse a una agencia pública, institución financiera,
+10 cooperativa, aseguradora, proveedor de servicios, establecimiento de cuidado, entidad
+11 comercial o persona que, en el curso ordinario de sus funciones o negocios, posea,
+12 custodie o controle la información descrita.
+13 Cuando se trate de una persona natural que no actúe en una función profesional,
+14 comercial o fiduciaria, la preservación se solicitará mediante orden judicial u otro
+15 mecanismo expresamente autorizado por ley.
+16 La notificación deberá identificar con particularidad razonable las categorías de
+17 documentos o datos; explicar su pertinencia general; indicar el número único de caso;
+18 especificar el término de preservación; advertir que no autoriza por sí sola la divulgación
+19 o entrega; y proveer información de contacto del funcionario emisor.
+20 La notificación se limitará a información pertinente, no requerirá crear
+21 documentos inexistentes, no aplicará a información fuera de la posesión, custodia o
+22 control del receptor y no podrá ser irrazonablemente opresiva o excesivamente onerosa.
+
+19
+1 La entidad receptora preservará la información por un término inicial no mayor
+2 de noventa (90) días. El término podrá extenderse una sola vez por hasta noventa (90)
+3 días adicionales mediante notificación escrita y fundamentada. Cualquier preservación
+4 posterior requerirá orden judicial o autoridad legal independiente.
+5 La entidad receptora podrá solicitar, dentro de cinco (5) días laborables,
+6 modificación del alcance cuando el cumplimiento sea técnicamente imposible,
+7 excesivamente oneroso o no describa la información con suficiente particularidad. La
+8 solicitud no suspenderá la preservación de aquello que pueda identificarse
+9 razonablemente.
+10 La notificación no autorizará la inspección, producción, divulgación o entrega de
+11 información. Para obtenerla será necesario cumplir con la citación, orden judicial,
+12 consentimiento u otro mecanismo exigido por el derecho aplicable.
+13 Artículo 16.—Derechos de la persona afectada.
+14 La persona afectada tendrá derecho, sujeto a las limitaciones legales e
+15 investigativas aplicables, a:
+16 (a) ser tratada con dignidad, respeto y sensibilidad;
+17 (b) recibir el número único de caso cuando ello no comprometa su seguridad o una
+18 investigación;
+19 (c) conocer un medio de contacto con la entidad que atienda la vertiente principal
+20 de su asunto;
+21 (d) recibir orientación general sobre servicios y remedios disponibles;
+22 (e) solicitar acomodos razonables y asistencia comunicacional;
+
+20
+1 (f) solicitar información general sobre el estado del caso; y
+2 (g) ser informada de su cierre o referido final cuando la notificación no esté
+3 prohibida.
+4 El derecho a recibir información general no incluirá acceso a expedientes
+5 investigativos, evidencia, declaraciones, análisis, estrategias, información de terceros ni
+6 documentos sujetos a confidencialidad, privilegio o restricción legal.
+7 Cuando una investigación o intervención permanezca activa por más de noventa
+8 (90) días, la entidad responsable establecerá un mecanismo razonable de comunicación
+9 periódica con la persona afectada o su representante autorizado, siempre que ello no
+10 perjudique la investigación ni la seguridad de alguna persona.
+11 Artículo 17.—Autonomía y voluntad de la persona afectada.
+12 La edad, diagnóstico o existencia de un impedimento no constituirán, por sí solos,
+13 fundamento para presumir incapacidad, falta de consentimiento o explotación financiera.
+14 Una decisión financiera inusual, económicamente inconveniente o contraria a la
+15 opinión de familiares, cuidadores o funcionarios no constituirá por sí sola explotación
+16 financiera. La existencia de una donación, préstamo o transferencia a favor de un familiar
+17 tampoco constituirá por sí sola explotación financiera.
+18 Ninguna investigación o medida protectora se sustentará exclusivamente en la
+19 edad; el diagnóstico o impedimento; la naturaleza inusual de una transacción; la relación
+20 familiar; o la cuantía de la operación.
+21 En la evaluación se considerará, según resulte pertinente, la comprensión de la
+22 naturaleza y consecuencias de la decisión; la voluntad y preferencias expresadas; la
+
+21
+1 posible existencia de engaño, coacción, intimidación o influencia indebida; el beneficio o
+2 perjuicio aparente; la relación entre las partes; el alcance de cualquier poder o
+3 autorización; y cualquier conflicto de interés.
+4 La negativa de un familiar, cuidador, heredero, allegado o tercero a cooperar no
+5 impedirá la continuación de una investigación cuando exista información objetiva que la
+6 justifique.
+7 Cuando la persona afectada solicite que no continúe una investigación o
+8 intervención, la entidad competente evaluará la voluntariedad de la solicitud, la posible
+9 existencia de coacción o influencia indebida, los riesgos identificados y el derecho
+10 aplicable.
+11 Cuando resulte necesaria una evaluación profesional sobre capacidad, se realizará
+12 el referido a la entidad o profesional competente.
+13 Artículo 18.—Confidencialidad y uso de la información.
+14 La información identificable contenida en el Sistema Uniforme será confidencial y
+15 no constituirá información pública, excepto en la medida en que una ley disponga
+16 expresamente lo contrario. Las estadísticas agregadas que no permitan identificar
+17 personas podrán divulgarse conforme a esta Ley.
+18 La información solo podrá utilizarse para evaluar o investigar los hechos; proteger
+19 a la persona afectada; ejercer funciones de procesamiento penal o regulatorias; prestar
+20 servicios autorizados; realizar auditorías legalmente autorizadas; producir estadísticas
+21 agregadas; o formular política pública sin divulgar información identificable.
+
+22
+1 El acceso estará limitado a funcionarios autorizados conforme a la entidad,
+2 función, jurisdicción y necesidad operacional.
+3 Queda prohibido acceder a un caso sin necesidad oficial; divulgar información a
+4 personas no autorizadas; utilizarla para fines personales, comerciales, discriminatorios,
+5 político-partidistas o ajenos a una función oficial; descargar, copiar, imprimir, fotografiar,
+6 transmitir o reproducir información sin autorización; o alertar indebidamente a una
+7 persona señalada cuando ello pueda perjudicar a la persona afectada o una investigación.
+8 Si durante una intervención surge información sobre otra posible violación de ley,
+9 podrá referirse a la autoridad competente conforme al derecho aplicable y el fundamento
+10 del referido deberá documentarse.
+11 Artículo 19.—Información protegida o restringida.
+12 No se incorporará al Sistema Uniforme un Informe de Actividad Sospechosa o
+13 documento equivalente protegido por legislación federal; información que revele o
+14 permita inferir que dicho informe fue presentado; información cuya divulgación esté
+15 prohibida por legislación o reglamentación federal; comunicaciones protegidas por el
+16 privilegio abogado-cliente; producto del trabajo legal; información protegida por orden
+17 judicial; ni cualquier otro dato cuya inclusión esté prohibida por ley.
+18 Los hechos, transacciones y documentos subyacentes podrán incorporarse
+19 únicamente cuando su divulgación esté legalmente autorizada, resulte necesaria para la
+20 coordinación y no revele la existencia de un informe protegido.
+
+23
+1 Cada entidad será responsable de identificar, segregar y proteger la información
+2 sujeta a restricciones especiales y de conservar bajo su propia custodia los documentos
+3 que no deban incorporarse al Sistema.
+4 Artículo 20.—Seguridad del Sistema Uniforme.
+5 PRITS establecerá controles de seguridad consistentes con la Ley 75-2019, según
+6 enmendada, y con los estándares tecnológicos aplicables al Gobierno de Puerto Rico,
+7 incluyendo autenticación multifactor; acceso basado en funciones; principio de menor
+8 privilegio; cifrado; bitácoras inalterables; alertas por accesos irregulares; revisión
+9 periódica de usuarios; pruebas de vulnerabilidad y penetración; respaldo y recuperación;
+10 protocolos de respuesta a incidentes; y capacitación periódica.
+11 Todo incidente que pueda comprometer la confidencialidad, integridad o
+12 disponibilidad de la información deberá notificarse inmediatamente a PRITS y a las
+13 entidades propietarias de los datos afectados, así como a cualquier autoridad que deba
+14 ser notificada por ley.
+15 La notificación a las personas afectadas se realizará conforme a las leyes aplicables
+16 y tomando en consideración cualquier limitación legal necesaria para proteger una
+17 investigación en curso.
+18 Artículo 21.—Auditoría y fiscalización.
+19 Cada entidad participante evaluará anualmente el cumplimiento de sus deberes
+20 bajo esta Ley y corregirá las deficiencias que identifique dentro de su ámbito de
+21 autoridad.
+
+24
+1 El Departamento de Seguridad Pública, por conducto del Negociado de
+2 Investigaciones Especiales, evaluará el cumplimiento de las obligaciones
+3 correspondientes a la vertiente investigativa criminal bajo su responsabilidad, sin auditar
+4 ni dirigir las funciones sustantivas de otras agencias.
+5 PRITS realizará o contratará anualmente una auditoría tecnológica y de seguridad
+6 del Sistema Uniforme y podrá requerir la corrección de deficiencias tecnológicas
+7 conforme a la Ley 75-2019, según enmendada.
+8 La Oficina del Inspector General de Puerto Rico podrá realizar las auditorías que
+9 correspondan dentro de su jurisdicción.
+10 Los resultados generales y recomendaciones sistémicas se remitirán al Gobernador
+11 y a la Asamblea Legislativa, excluyendo información personal, investigativa, privilegiada
+12 o protegida.
+13 Artículo 22.—Incumplimiento y planes correctivos.
+14 Cuando una auditoría, evaluación o incidente revele un incumplimiento material
+15 de esta Ley, el jefe de la entidad responsable deberá adoptar un plan correctivo dentro de
+16 treinta (30) días desde la notificación de la deficiencia.
+17 El plan correctivo identificará la causa del incumplimiento; los procesos o casos
+18 afectados; las medidas inmediatas adoptadas; los recursos necesarios; el funcionario
+19 responsable; y el término para corregir la deficiencia.
+20 PRITS podrá requerir planes correctivos respecto a interoperabilidad, acceso,
+21 arquitectura, continuidad, ciberseguridad y demás materias tecnológicas sujetas a su
+
+25
+1 jurisdicción. El Departamento de Seguridad Pública podrá requerirlos respecto a las
+2 obligaciones internas del Negociado de Investigaciones Especiales.
+3 Ninguna entidad podrá imponer mediante esta Ley medidas disciplinarias o
+4 directrices sustantivas a otra entidad fuera de su autoridad orgánica. Las medidas
+5 disciplinarias se regirán por las leyes, reglamentos, convenios colectivos y garantías de
+6 debido proceso aplicables.
+7 Cuando una deficiencia sistémica persista y ponga en riesgo la protección de las
+8 personas o la seguridad del Sistema, podrá notificarse a la Oficina de Gerencia y
+9 Presupuesto, a la Oficina del Inspector General cuando corresponda y a las comisiones
+10 legislativas con jurisdicción.
+11 Artículo 23.—Estadísticas e informe anual.
+12 PRITS, en coordinación con el Departamento de Seguridad Pública y las demás
+13 entidades participantes, preparará un informe anual sobre la operación del Sistema
+14 Uniforme utilizando información agregada y sin datos personales identificables.
+15 El informe incluirá, según la información legalmente disponible: referidos
+16 recibidos; casos únicos creados; posibles duplicidades identificadas; fuentes de los
+17 referidos; municipios de incidencia; modalidades informadas; cantidad de adultos
+18 mayores y adultos con impedimentos afectados; relación conocida entre la persona
+19 afectada y la persona señalada; cuantía estimada de fondos o bienes involucrados;
+20 estados de los casos; intervenciones protectoras; evaluaciones regulatorias;
+21 investigaciones criminales iniciadas y concluidas; referidos al Departamento de Justicia;
+22 remedios o recuperación de activos informados; cierres y fundamentos generales;
+
+26
+1 tiempos promedio de trámite; casos activos por antigüedad; cumplimiento de términos
+2 operacionales; incidentes de seguridad; planes correctivos; y recomendaciones
+3 administrativas, presupuestarias, tecnológicas o legislativas.
+4 Las agencias no estarán obligadas a divulgar al Sistema información que por ley
+5 deba permanecer fuera de este. Para fines estadísticos podrán comunicar categorías
+6 agregadas cuando ello esté permitido.
+7 El informe será remitido a la Asamblea Legislativa en o antes del 31 de marzo de
+8 cada año y publicado en una página electrónica oficial.
+9 Artículo 24.—Relación con otros deberes y canales de referido.
+10 Los referidos requeridos por la Ley 121-2019, según enmendada, la Ley 76-2020,
+11 según enmendada, o cualquier otra legislación aplicable podrán canalizarse mediante el
+12 Sistema Uniforme cuando este permita cumplir íntegramente con las entidades
+13 destinatarias, términos, contenido y demás requisitos establecidos por la ley especial.
+14 El registro en el Sistema satisfará un deber de notificación únicamente cuando el
+15 Sistema confirme electrónicamente la transmisión a todas las entidades que deban recibir
+16 el referido. Si no existe confirmación, subsistirá el deber independiente de informar por
+17 el mecanismo aplicable.
+18 Nada de esta Ley eliminará o suspenderá la Línea Dorada, los números de
+19 emergencia, portales, formularios, oficinas, canales institucionales o mecanismos de
+20 denuncia y referido existentes. Las entidades procurarán integrar esos canales al Sistema
+21 de forma que la persona afectada no tenga que presentar nuevamente la misma
+22 información.
+
+27
+1 Cuando una ley especial exija una actuación adicional, una notificación distinta o
+2 un término más corto, prevalecerá dicho requisito.
+3 Artículo 25.—Reglamentación y protocolo interagencial.
+4 PRITS adoptará las normas técnicas necesarias sobre interoperabilidad,
+5 arquitectura, acceso, autenticación, continuidad, seguridad, conservación y disposición
+6 de datos, conforme a la Ley 75-2019, según enmendada.
+7 El Departamento de Seguridad Pública, por conducto del Negociado de
+8 Investigaciones Especiales, adoptará la reglamentación interna necesaria para sus
+9 funciones bajo esta Ley. Cada entidad participante atemperará sus procedimientos
+10 internos dentro de su propia jurisdicción.
+11 Dentro de ciento veinte (120) días de la aprobación de esta Ley, las entidades
+12 participantes adoptarán un Protocolo Interagencial de Operación que atienda, como
+13 mínimo: registro y encaminamiento de referidos; detección de duplicidades; campos
+14 mínimos del registro; estados del caso; coordinación de investigaciones concurrentes;
+15 referidos protectores, regulatorios y al Departamento de Justicia; preservación de
+16 evidencia; manejo de emergencias; cierre y reapertura; métricas; y procedimientos
+17 alternos cuando el Sistema no esté disponible.
+18 El Protocolo no podrá ampliar jurisdicciones, facultades investigativas, términos
+19 de preservación ni categorías de información accesible más allá de lo establecido por ley.
+20 Toda reglamentación que deba adoptarse como regla legislativa se tramitará
+21 conforme a la Ley 38-2017, según enmendada, conocida como “Ley de Procedimiento
+22 Administrativo Uniforme del Gobierno de Puerto Rico”.
+
+28
+1 Artículo 26.—Implantación.
+2 La implantación se realizará conforme al siguiente calendario:
+3 (a) dentro de sesenta (60) días desde la aprobación de esta Ley, PRITS y las
+4 entidades participantes completarán un inventario de sistemas, bases de datos,
+5 formularios, canales y flujos de referido existentes;
+6 (b) dentro de noventa (90) días, PRITS presentará un plan de implantación que
+7 incluya arquitectura preliminar, integración con sistemas existentes, evaluación de
+8 costos, necesidades de personal, riesgos tecnológicos, controles de privacidad,
+9 cronograma y fuentes potenciales de financiamiento;
+10 (c) dentro de ciento veinte (120) días, deberá estar disponible un mecanismo
+11 provisional seguro para registrar referidos, detectar duplicidades básicas y generar
+12 números únicos;
+13 (d) dentro de ciento ochenta (180) días, comenzará una fase piloto con todas las
+14 entidades participantes permanentes que estén técnicamente preparadas, priorizando
+15 aquellas obligadas por ley a recibir referidos de explotación financiera; y
+16 (e) dentro de trescientos sesenta (360) días, el Sistema Uniforme deberá estar
+17 disponible para las entidades participantes permanentes, salvo que PRITS certifique por
+18 escrito una imposibilidad técnica o de seguridad específica y presente un plan correctivo
+19 con fecha cierta de cumplimiento.
+20 El mecanismo provisional será administrado tecnológicamente por PRITS y
+21 deberá incluir formulario uniforme, registro central provisional, generación de número
+22 único, confirmación de transmisión y mecanismos seguros de intercambio.
+
+29
+1 Antes de incorporar información financiera o investigativa sensitiva, PRITS
+2 certificará que el componente correspondiente superó pruebas razonables de seguridad,
+3 privacidad, continuidad y aceptación operacional.
+4 Durante los primeros dos (2) años, PRITS y el Departamento de Seguridad Pública,
+5 con insumo de las demás entidades participantes, remitirán informes trimestrales de
+6 progreso a la Asamblea Legislativa.
+7 Artículo 27.—Transición de casos activos.
+8 Dentro de ciento ochenta (180) días desde el inicio de la fase piloto, las entidades
+9 participantes identificarán los casos activos de explotación financiera bajo su custodia
+10 que puedan ser relacionados razonablemente con el Sistema.
+11 Cuando dos o más expedientes correspondan sustancialmente a los mismos
+12 hechos y persona afectada, se relacionarán mediante un número único sin destruir,
+13 consolidar físicamente ni alterar los expedientes internos.
+14 La transición no afectará la cadena de custodia; no interrumpirá investigaciones o
+15 procedimientos; no alterará términos prescriptivos o jurisdiccionales; no invalidará
+16 actuaciones previas; y no autorizará acceso a documentos cuya divulgación esté
+17 restringida.
+18 Artículo 28.—Recursos.
+19 Las entidades concernidas utilizarán los recursos legalmente disponibles para
+20 comenzar la planificación e implantación de esta Ley, sin que ello se interprete como una
+21 determinación de que los recursos existentes son suficientes para su operación
+22 permanente.
+
+30
+1 Dentro de noventa (90) días, la Oficina de Gerencia y Presupuesto, PRITS, el
+2 Departamento de Seguridad Pública y las demás entidades participantes identificarán
+3 fondos estatales y federales, recursos de seguridad pública y protección de víctimas,
+4 fondos de modernización tecnológica, asistencia técnica, acuerdos colaborativos y
+5 cualquier otra fuente legalmente disponible.
+6 Si los recursos resultan insuficientes, la Oficina de Gerencia y Presupuesto
+7 identificará y recomendará, según corresponda, los recursos necesarios para desarrollar,
+8 implantar, mantener y asegurar el Sistema Uniforme.
+9 Nada impedirá solicitar o aceptar fondos federales, asistencia técnica, donativos o
+10 recursos tecnológicos compatibles con esta Ley, siempre que se proteja la
+11 confidencialidad de la información, la independencia de las investigaciones y las
+12 restricciones aplicables al uso de los fondos.
+13 Artículo 29.—Interpretación.
+14 Esta Ley se interpretará de manera armónica con la Ley 20-2017, según
+15 enmendada; la Ley 75-2019, según enmendada; la Ley 76-2020, según enmendada; la Ley
+16 121-2019, según enmendada; y la legislación aplicable sobre servicios protectores,
+17 instituciones financieras, cooperativas, seguros, justicia, privacidad, tecnología
+18 gubernamental, evidencia y debido proceso.
+19 Nada de lo dispuesto en esta Ley limitará la autoridad investigativa de la Policía
+20 de Puerto Rico; convertirá en exclusiva la jurisdicción concurrente del Negociado de
+21 Investigaciones Especiales; limitará la función protectora del Departamento de la Familia,
+22 OPPEA o la Defensoría de las Personas con Impedimentos; alterará la autoridad del
+
+31
+1 Departamento de Justicia; ampliará o reducirá la jurisdicción de una entidad reguladora;
+2 autorizará acceso a información sin cumplir con los requisitos legales aplicables;
+3 modificará los elementos de un delito; presumirá incapacidad por razón de edad o
+4 impedimento; impedirá utilizar un remedio disponible; ni vinculará a entidades federales
+5 más allá de lo permitido por el derecho federal.
+6 En caso de conflicto con una disposición especial que establezca mayores
+7 protecciones de confidencialidad, privacidad, debido proceso o conservación de
+8 evidencia, prevalecerá la disposición especial.
+9 Artículo 30.—Ausencia de responsabilidad implícita.
+10 Ningún incumplimiento de esta Ley constituirá por sí solo un delito, una causa de
+11 acción civil, una presunción de negligencia, una determinación de responsabilidad, un
+12 fundamento para excluir evidencia o un derecho sustantivo a favor de una persona
+13 investigada, salvo que otra ley disponga expresamente lo contrario.
+14 Esta disposición no limitará las acciones disciplinarias, administrativas, civiles o
+15 penales autorizadas por otras leyes respecto a la conducta independiente que haya
+16 ocasionado el incumplimiento.
+17 Artículo 31.—Separabilidad.
+18 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, artículo, disposición o
+19 parte de esta Ley fuera declarada nula o inconstitucional por un tribunal con jurisdicción,
+20 la determinación no afectará las restantes disposiciones ni su aplicación a otras personas
+21 o circunstancias.
+22 Artículo 32.—Vigencia.
+
+32
+1 Esta Ley entrará en vigor inmediatamente después de su aprobación para fines de
+2 planificación, adopción de normas y protocolos, identificación de recursos, desarrollo
+3 tecnológico y establecimiento del mecanismo provisional.
+4 Los deberes de utilización del número único y registro en el Sistema serán
+5 exigibles a partir de la certificación del mecanismo provisional por PRITS, la cual deberá
+6 emitirse no más tarde de ciento veinte (120) días después de la aprobación de esta Ley,
+7 salvo que PRITS certifique por escrito una condición de seguridad que impida
+8 razonablemente su puesta en operación y presente simultáneamente un plan correctivo
+9 con fecha cierta de cumplimiento.
