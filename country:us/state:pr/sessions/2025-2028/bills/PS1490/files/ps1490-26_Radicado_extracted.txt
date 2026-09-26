@@ -1,0 +1,255 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1490
+24 de septiembre de 2026
+Presentado por el señor Rivera Schatz
+Referido a
+LEY
+Para establecer la “Ley del Portal Integrado de Servicios para Personas con
+Impedimentos y Personas con Discapacidad de Puerto Rico”; añadir un nuevo
+Artículo 5A a la ley 229-2003, según enmendada, conocida como “Ley Para
+Garantizar el Acceso de Información a las Personas con Impedimentos”, a los fines
+de establecer el Portal Integrado de Servicios para Personas con Impedimentos y
+Personas con Discapacidad de Puerto Rico; disponer su integración a la página
+cibernética oficial de la Oficina de Protección y Defensa de las Personas con
+Impedimentos; disponer la colaboración de las agencias e instrumentalidades
+gubernamentales, municipios y entidades participantes; establecer las
+responsabilidades de la Oficina de Protección y Defensa de las Personas con
+Impedimentos y de la “Puerto Rico Innovation and Technology Service”; y para
+otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Sección 1 del Artículo II de la Constitución de Puerto Rico reconoce que la
+dignidad del ser humano es inviolable y que todas las personas son iguales ante la ley.
+En cumplimiento con este principio, el Gobierno de Puerto Rico ha adoptado diversas
+medidas dirigidas a garantizar que las personas con impedimentos puedan ejercer
+plenamente sus derechos y tengan acceso efectivo a los servicios, programas y
+beneficios disponibles.
+La política pública dirigida a las personas con impedimentos no se limita a
+reconocer derechos, sino que requiere que los servicios gubernamentales y comunitarios
+
+2
+destinados a esta población sean accesibles y que la información necesaria para
+obtenerlos pueda ser localizada de manera sencilla, clara y efectiva.
+En Puerto Rico existen múltiples agencias, instrumentalidades públicas,
+municipios y entidades privadas y sin fines de lucro que ofrecen servicios dirigidos a
+personas con impedimentos o discapacidad. Estos servicios comprenden, entre otros,
+programas de salud, rehabilitación, educación, empleo, vivienda, transportación,
+asistencia económica, asistencia tecnológica, servicios legales, orientación, protección de
+derechos, apoyo a familiares y cuidadores, entre otros servicios.
+Sin embargo, la existencia de múltiples programas y proveedores puede
+dificultar que una persona conozca qué servicios están disponibles, qué entidad los
+ofrece, cuáles son los requisitos para recibirlos y dónde debe acudir para solicitarlos.
+Esta situación puede ser particularmente onerosa para una persona con impedimentos,
+sus familiares, cuidadores o cualquier persona que procure asistencia para un miembro
+de su familia.
+Actualmente, la información sobre estos servicios se encuentra dispersa entre
+diferentes páginas electrónicas y plataformas gubernamentales. Como resultado, una
+persona puede verse obligada a identificar primero qué agencia administra un
+determinado programa antes de poder localizar la información necesaria para
+solicitarlo. La fragmentación de la información puede constituir una barrera adicional
+para las personas con impedimentos, sus familiares, representantes y cuidadores. El
+acceso efectivo a un servicio no depende únicamente de que este exista, sino también de
+que la persona pueda conocer su existencia, identificar la entidad que lo ofrece y
+determinar cómo puede acceder al mismo.
+La Ley 229-2003, según enmendada, conocida como “Ley para Garantizar el
+Acceso de Información a las Personas con Impedimentos”, reconoce la importancia de
+garantizar que las personas con impedimentos puedan tener acceso a la información y a
+los servicios que ofrece el Gobierno mediante medios electrónicos accesibles.
+Por su parte, la Ley 75-2019, según enmendada, creó la “Puerto Rico Innovation
+and Technology Service”, conocida como PRITS, y le asignó responsabilidades
+relacionadas con la política pública, coordinación e infraestructura tecnológica e
+
+3
+informática del Gobierno de Puerto Rico. La utilización de la infraestructura y los
+estándares tecnológicos existentes permite desarrollar mecanismos digitales que
+faciliten el acceso a la información sin que las estructuras tecnológicas gubernamentales
+estén duplicadas.
+La Asamblea Legislativa reconoce que la transformación digital del Gobierno
+constituye una herramienta para reducir las barreras de información que enfrentan las
+personas con impedimentos. Por ello, mediante esta Ley se establece el “Portal
+Integrado de Servicios para Personas con Impedimentos y Personas con Discapacidad
+de Puerto Rico”, como un componente digital de la página cibernética oficial de la
+Oficina de Protección y Defensa de las Personas con Impedimentos. El Portal permitirá
+identificar servicios según la categoría, ubicación y la población a la que se dirigen,
+entre otros.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.—Título.
+2 Esta Ley se conocerá y podrá citarse como “Ley del Portal Integrado de Servicios
+3 para Personas con Impedimentos y Personas con Discapacidad de Puerto Rico”.
+4 Sección 2.— Se añade un nuevo Artículo 5-A a la Ley 229-2003, según enmendada,
+5 conocida como “Ley para Garantizar el Acceso de Información a las Personas con
+6 Impedimentos”, para que lea como sigue:
+7 “Artículo 5-A.—Portal Integrado de Servicios para Personas con Impedimentos y
+8 Personas con Discapacidad de Puerto Rico.
+9 Se establece el “Portal Integrado de Servicios para Personas con Impedimentos y
+10 Personas con Discapacidad de Puerto Rico”, en adelante el “Portal”, como un
+11 componente digital especializado de información y referencia, integrado a la
+12 infraestructura y los portales digitales existentes del Gobierno de Puerto Rico.
+
+4
+1 El Portal tendrá como propósito facilitar la identificación y localización de
+2 información sobre programas, servicios, beneficios, ayudas y recursos disponibles para
+3 las personas con impedimentos o discapacidad, sus familiares, representantes y
+4 cuidadores.
+5 El Portal estará disponible mediante la página electrónica oficial de la Defensoría de
+6 las Personas con Impedimentos, sin perjuicio de que pueda integrarse o enlazarse con
+7 otros portales y plataformas digitales gubernamentales, conforme a las políticas,
+8 estándares y tecnológica establecidos por la “Puerto Rico Innovation and Technology
+9 Service”.
+10 La creación, configuración, integración, diseño, programación, mantenimiento y
+11 demás aspectos tecnológicos del Portal se realizarán utilizando la infraestructura,
+12 plataformas, sistemas, estándares y componentes tecnológicos del Gobierno de Puerto
+13 Rico.”
+14 Sección 3.—Contenido del Portal.
+15 El Portal contará con un directorio de información pública sobre programas,
+16 servicios, beneficios, ayudas y recursos disponibles para las personas con impedimentos
+17 o discapacidad.
+18 La información podrá organizarse y localizarse, como mínimo, mediante los
+19 siguientes criterios:
+20 (a) tipo o categoría de servicio;
+21 (b) región;
+22 (c) municipio;
+
+5
+1 (d) población o grupo al que se dirige el servicio; y
+2 (e) agencia, instrumentalidad, municipio o entidad que ofrece el servicio;
+3 Cada registro podrá incluir, cuando la información esté disponible y resulte
+4 aplicable:
+5 (1) nombre del programa o servicio;
+6 (2) descripción del servicio;
+7 (3) entidad responsable de ofrecerlo;
+8 (4) dirección física;
+9 (5) municipio y región;
+10 (6) número de teléfono;
+11 (7) correo electrónico;
+12 (8) horario de servicio;
+13 (9) enlace a la página electrónica oficial del programa;
+14 (10) enlace directo al formulario, solicitud, sistema de citas o trámite electrónico,
+15 cuando exista; y
+16 (16) cualquier otra información de carácter público que la Defensoría determine
+17 necesaria para facilitar la identificación y localización del servicio.
+18 La información contenida en el Portal deberá identificar claramente la entidad
+19 responsable de cada programa o servicio.
+20 Sección 4.—Enlaces a servicios.
+21 Cuando una agencia, instrumentalidad, municipio o entidad participante disponga
+22 de un formulario, solicitud, sistema de citas, trámite electrónico, plataforma o cualquier
+
+6
+1 otro mecanismo digital relacionado con un servicio incluido en el Portal, se incorporará
+2 un enlace al servicio, solicitud o trámite identificado.
+3 Sección 5.—Responsabilidad de la Defensoría de las Personas con Impedimentos.
+4 La Defensoría de las Personas con Impedimentos tendrá a su cargo la coordinación
+5 del contenido informativo del Portal.
+6 A tales fines, la Defensoría:
+7 (a) establecerá criterios para la inclusión de información sobre servicios;
+8 (b) coordinará con las agencias, instrumentalidades y municipios la recopilación de
+9 información pública relacionada con los servicios que administran o proveen;
+10 (c) identificará la entidad responsable de cada servicio incluido; y
+11 (d) procurará que la información se presente de manera clara, sencilla y accesible.
+12 Las funciones de la Defensoría bajo este Artículo estarán limitadas a la coordinación
+13 y administración del contenido informativo del Portal.
+14 Sección 6.—Colaboración de las entidades públicas.
+15 Las entidades públicas que administren o provean servicios dirigidos, total o
+16 parcialmente, a personas con impedimentos o discapacidad colaborarán con la
+17 Defensoría en la identificación y actualización de la información pública relacionada
+18 con dichos servicios.
+19 Las agencias de la Rama Ejecutiva coordinarán los aspectos tecnológicos
+20 relacionados con el Portal conforme a las disposiciones de la Ley 75-2019, según
+21 enmendada, conocida como "Ley de la Puerto Rico Innovation and Technology Service"
+22 y a las políticas, estándares y directrices establecidas por la PRITS.
+
+7
+1 Sección 7.—Participación de municipios y entidades no gubernamentales.
+2 La Defensoría podrá incorporar al Portal información de carácter público sobre
+3 servicios ofrecidos por los municipios, organizaciones sin fines de lucro y otras
+4 entidades que presten servicios a personas con impedimentos o discapacidad.
+5 La incorporación de la información sobre una entidad privada o sin fines de lucro al
+6 Portal no constituirá un endoso gubernamental de dicha entidad ni garantizará la
+7 disponibilidad, elegibilidad, calidad o continuidad del servicio ofrecido.
+8 La Defensoría podrá establecer criterios objetivos para la inclusión de información
+9 sobre entidades no gubernamentales y podrá requerir información razonablemente
+10 necesaria para verificar la existencia y naturaleza del servicio ofrecido.
+11 Sección 8.—Participación de PRITS.
+12 La “Puerto Rico Innovation and Technology Service” colaborará con la Defensoría
+13 en los aspectos tecnológicos relacionados con el Portal, conforme a las facultades y
+14 responsabilidades que le confiere la Ley 75-2019, según enmendada.
+15 La participación de PRITS podrá incluir, entre otros asuntos:
+16 (a) arquitectura tecnológica;
+17 (b) integración con la infraestructura digital gubernamental existente;
+18 (c) cumplimiento con las políticas, estándares y directrices tecnológicas aplicables;
+19 (d) accesibilidad digital;
+20 (e) seguridad de la información; y
+21 (g) mecanismos tecnológicos que faciliten la actualización de la información.
+22 Sección 9.—Accesibilidad digital.
+
+8
+1 El Portal deberá diseñarse, desarrollarse, implementarse y mantenerse de
+2 conformidad con las disposiciones de esta Ley, las Guías de Accesibilidad y los
+3 estándares, políticas y directrices tecnológicas establecidos por la “Puerto Rico
+4 Innovation and Technology Service”.
+5 El Portal deberá procurar que la información pueda ser utilizada por personas que
+6 empleen lectores de pantalla, dispositivos de asistencia tecnológica u otras herramientas
+7 de acceso.
+8 Sección 10.—Información personal y confidencialidad.
+9 El Portal tendrá carácter informativo y no constituirá un expediente individual de
+10 servicios.
+11 Nada de lo dispuesto en esta Ley autorizará la recopilación, acceso, intercambio o
+12 integración de expedientes individuales, historiales médicos, información protegida o
+13 información confidencial de las personas con impedimentos mediante el Portal.
+14 Sección 11.—Implementación.
+15 Dentro de los ciento ochenta (180) días siguientes a la aprobación de esta Ley, la
+16 Defensoría, en coordinación con PRITS, desarrollará un plan para la implementación
+17 del Portal.
+18 El plan deberá considerar, como mínimo:
+19 (a) la estructura y organización del Portal;
+20 (b) las categorías iniciales de servicios;
+21 (c) los mecanismos para recopilar, validar y actualizar información;
+22 (d) las agencias e instrumentalidades que serán incorporadas inicialmente;
+
+9
+1 (e) los criterios para la incorporación de municipios y entidades no
+2 gubernamentales;
+3 (f) los mecanismos de accesibilidad digital;
+4 (g) las medidas de seguridad aplicables;
+5 (h) los recursos administrativos y tecnológicos disponibles; y
+6 (i) un calendario proyectado para la puesta en funcionamiento del Portal.
+7 La implementación se realizará de manera progresiva y estará sujeta a la
+8 disponibilidad de recursos y a la infraestructura tecnológica existente del Gobierno de
+9 Puerto Rico.
+10 Sección 12.—Informes.
+11 Dentro de los doce (12) meses siguientes a la puesta en funcionamiento del Portal, la
+12 Defensoría presentará a la Secretaría de cada Cuerpo de la Asamblea Legislativa un
+13 informe sobre su implementación.
+14 El informe podrá incluir, entre otros:
+15 (a) la cantidad de servicios incorporados;
+16 (b) las agencias, instrumentalidades, municipios y entidades participantes;
+17 (c) las regiones y municipios cubiertos;
+18 (d) las actualizaciones realizadas;
+19 (e) problemas de accesibilidad identificados y atendidos; y
+20 (f) recomendaciones para mejorar el acceso a la información.
+21 Posteriormente, la Defensoría podrá incluir información relacionada con el Portal en
+22 los informes que rinda conforme a las leyes aplicables, sin que se requiera la
+
+10
+1 preparación de un informe separado cuando dicha información ya forme parte de otro
+2 informe requerido por ley.
+3 Sección 13.—Reglamentación y normas internas.
+4 La Defensoría podrá adoptar las normas y reglamentos necesarios para implementar
+5 las disposiciones relacionadas con el Portal.
+6 Las disposiciones de carácter tecnológico se desarrollarán en coordinación con
+7 PRITS.
+8 Sección 14.—Separabilidad.
+9 Si cualquier cláusula, párrafo, artículo o disposición de esta Ley fuere declarada nula
+10 o inconstitucional por un tribunal con jurisdicción competente, dicha determinación no
+11 afectará las demás disposiciones de esta Ley.
+12 Sección 15.—Vigencia.
+13 Esta Ley comenzará a regir inmediatamente después de su aprobación.
