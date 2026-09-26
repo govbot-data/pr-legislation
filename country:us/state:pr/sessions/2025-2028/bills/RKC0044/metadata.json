@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RKC0044",
   "title": "Para designar la Sala de Primera Ayuda de la Asamblea Legislativa de Puerto Rico, ubicada en El Capitolio, con el nombre de \u201cDr. Miguel \u00c1ngel Talavera Ruiz\u201d en reconocimiento y agradecimiento por sus treinta y tres a\u00f1os de servicios m\u00e9dicos en la Asamblea Legislativa; y para otros fines relacionados.",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
   ],
@@ -200,31 +200,49 @@
       "_processing": {
         "log_file_created": "2026-09-15T10:24:36Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2026-09-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:28:50Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Adriana   Guti\u00e9rrez Col\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Adriana   Guti\\u00e9rrez Col\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Lisie J. Burgos Mu\u00f1iz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Lisie J. Burgos Mu\\u00f1iz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nelie  Lebr\u00f3n Robles - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nelie  Lebr\\u00f3n Robles - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miembros  PPD - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros  PPD - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -244,19 +262,11 @@
       "organization_id": null
     },
     {
-      "name": "Miembros  PPD - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Adriana   Guti\u00e9rrez Col\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Miembros  PPD - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Nelie  Lebr\u00f3n Robles - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Nelie  Lebr\\u00f3n Robles - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Adriana   Guti\\u00e9rrez Col\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -305,6 +315,17 @@
       ],
       "date": "2026-09-14",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/162116/RKC0044 enrolado.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -323,7 +344,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:24:36Z",
+    "logs_latest_update": "2026-09-26T10:28:50Z",
     "text_extraction_latest_update": "2026-09-15T10:29:54.212584Z"
   }
 }

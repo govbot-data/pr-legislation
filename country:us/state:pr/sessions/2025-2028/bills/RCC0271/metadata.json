@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "RCC0271",
   "title": "Para ordenar a la Departamento de Agricultura y a la Junta de Planificaci\u00f3n de Puerto Rico de acuerdo con lo establecido a liberar de las restricciones y condiciones sobre preservaci\u00f3n e indivisi\u00f3n previamente impuestas y anotadas seg\u00fan dispuesto en la Ley N\u00fam. 107 de 3 de julio de 1974, seg\u00fan enmendada, del predio de terreno marcado con el n\u00famero diecisiete (17) en el Plano de Subdivisi\u00f3n de la finca \u201cVega Redonda\u201d, seg\u00fan consta en la Escritura de Compraventa con Restricciones N\u00famero Diecinueve (19), otorgada en el Municipio de San Juan, Puerto Rico, el nueve (9) de junio de 1988, sobre la Finca N\u00famero Siete Mil Seiscientos Treinta y Seis (7,636), inscrita al Folio N\u00famero Noventa y Tres (93) del Tomo Ciento Trece (113) de Comer\u00edo, en el Registro de la Propiedad de Barranquitas, Inscripci\u00f3n Primera e inscrita a favor de Don Cruz Sierra Gonzalez, fallecido y su viuda Do\u00f1a Armanda M\u00e9ndez Rodr\u00edguez, de 100 a\u00f1os de edad.\u201d",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
   ],
@@ -242,6 +242,26 @@
       "_processing": {
         "log_file_created": "2026-09-15T10:24:36Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen no concurre con enmiendas",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:28:50Z"
+      }
+    },
+    {
+      "description": "Se solicita Comisi\u00f3n de Conferencia",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:28:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -361,7 +381,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:24:36Z",
+    "logs_latest_update": "2026-09-26T10:28:50Z",
     "text_extraction_latest_update": "2026-09-15T10:28:58.071212Z"
   }
 }

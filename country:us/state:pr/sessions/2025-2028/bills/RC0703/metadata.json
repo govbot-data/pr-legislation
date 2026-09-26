@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0703",
-  "title": "Para ordenar a la Comisi\u00f3n de Region Este-Central de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre las condiciones estructurales y seguridad de la carretera PR-3, espec\u00edficamente en el sector conocido como \u201cLa Pica\u201d en el municipio de Yabucoa, incluyendo los constantes deslizamientos de terreno, derrumbes, da\u00f1os al pavimento, sistemas de drenaje y el impacto sobre la seguridad de los conductores y residentes; evaluar el estado actual de los trabajos realizados y proyectados por el Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP); y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de la Regi\u00f3n Este Central de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre las condiciones estructurales y de seguridad vial en la Carretera PR-3, espec\u00edficamente en el sector conocido como \u201cLa Pica\u201d en el Municipio de Yabucoa, incluyendo los constantes deslizamientos de terreno, derrumbes, da\u00f1os al pavimento, sistemas de drenaje y el impacto sobre la seguridad de los conductores y residentes; evaluar el estado actual de los trabajos realizados y proyectados por el Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP); y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -94,6 +94,62 @@
       "_processing": {
         "log_file_created": "2026-09-24T11:22:15Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:28:50Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:28:50Z"
+      }
+    },
+    {
+      "description": "Aprobada por C\u00e1mara por unanimidad",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:28:50Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:28:50Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:28:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -140,6 +196,17 @@
       ],
       "date": "2026-09-21",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161246/RC0703 ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-24",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -158,7 +225,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-24T11:22:15Z",
+    "logs_latest_update": "2026-09-26T10:28:50Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-09-24T11:26:30.229993Z"

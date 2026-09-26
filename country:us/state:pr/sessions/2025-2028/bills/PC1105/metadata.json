@@ -72,9 +72,51 @@
       "_processing": {
         "log_file_created": "2026-08-25T05:48:54Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:28:50Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:28:50Z"
+      }
+    },
+    {
+      "description": "Remitido a Comisi\u00f3n de Calendarios de la C\u00e1mara",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:28:50Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "V\u00edctor  L Par\u00e9s Otero - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"V\\u00edctor  L Par\\u00e9s Otero - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Jos\u00e9 J. P\u00e9rez Cordero - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -84,11 +126,51 @@
       "organization_id": null
     },
     {
-      "name": "V\u00edctor  L Par\u00e9s Otero - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Mar\u00eda de Lourdes  Ramos  Rivera - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"V\\u00edctor  L Par\\u00e9s Otero - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Ramos  Rivera - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis  P\u00e9rez Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis  P\\u00e9rez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yashira M. Lebr\u00f3n  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yashira M. Lebr\\u00f3n  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elinette  Gonz\u00e1lez Aguayo - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Elinette  Gonz\\u00e1lez Aguayo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilson J. Rom\u00e1n L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilson J. Rom\\u00e1n L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisie J. Burgos Mu\u00f1iz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lisie J. Burgos Mu\\u00f1iz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -103,6 +185,28 @@
         }
       ],
       "date": "2026-02-03",
+      "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160326/PC1105-i.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-24",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/160326/PC1105-ee.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-24",
       "classification": ""
     }
   ],
@@ -122,7 +226,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T05:48:54Z",
+    "logs_latest_update": "2026-09-26T10:28:50Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-09-24T11:27:46.059831Z"
