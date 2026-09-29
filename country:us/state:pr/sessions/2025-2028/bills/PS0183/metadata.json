@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0183",
-  "title": "Para enmendar los articulos 2, 3, 4, 5, 6, 8 y 9 de la Ley 166-1995, seg\u00fan enmendada,\nconocida como la \"Ley del Programa de Desarrollo Artesanal\", a los fines de\ntransferirle al Banco de Desarrollo Econ\u00f3mico para Puerto Rico, la responsabilidad\nde facilitar lineas de garantia o cr\u00e9dito para la concesi\u00f3n de pr\u00e9stamos, incentivos, o\ncualquier otra ayuda econ\u00f3mica a la clase artesanal para el establecimiento,\noperaci\u00f3n, ampliaci\u00f3n o mejoramiento de talleres de producci\u00f3ry elaboraci\u00f3n y\nconfecci\u00f3n de artesanias; hacer correcciones t\u00e9cnicas en la Ley, conforme al estado de\nderecho acfual; y para otros fines relacionados.",
+  "title": "Para enmendar los Art\u00edculos 2, 3, 4, 5, 6, 8 y 9 de la Ley 166-1995, seg\u00fan enmendada, conocida como la \"Ley del Programa de Desarrollo Artesanal\", a los fines de transferirle al Banco de Desarrollo Econ\u00f3mico para Puerto Rico, la responsabilidad de facilitar l\u00edneas de garant\u00eda o cr\u00e9dito para la concesi\u00f3n de pr\u00e9stamos, o cualquier otra ayuda econ\u00f3mica a la clase artesanal para el establecimiento, operaci\u00f3n, ampliaci\u00f3n o mejoramiento de talleres de producci6n, elaboraci6n y confecci\u00f3n de artesan\u00edas; hacer correcciones t\u00e9cnicas en la Ley, conforme al estado de derecho actual; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -258,6 +258,16 @@
       "_processing": {
         "log_file_created": "2026-09-19T09:52:06Z"
       }
+    },
+    {
+      "description": "Ley 198-2026",
+      "date": "2026-09-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T11:31:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -370,6 +380,17 @@
       ],
       "date": "2026-09-10",
       "classification": ""
+    },
+    {
+      "note": "Ley 198-2026",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152821/0198s0183.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-26",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -388,7 +409,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-19T09:52:06Z",
+    "logs_latest_update": "2026-09-29T11:31:21Z",
     "text_extraction_latest_update": "2026-09-19T09:55:06.375705Z"
   }
 }
