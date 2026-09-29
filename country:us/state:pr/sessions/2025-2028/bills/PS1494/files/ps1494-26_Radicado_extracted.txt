@@ -1,0 +1,369 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1494
+28 de septiembre de 2026
+Presentado por la señora Álvarez Conde
+Referido a
+LEY
+Para enmendar los Artículos 2 y 13 de la Ley 75-2019, según enmendada, conocida como
+“Ley de la Puerto Rico Innovation and Technology Service”, a los fines de
+actualizar la política pública sobre el acceso a los servicios gubernamentales; añadir
+un nuevo Artículo 9-A a dicha Ley para crear la Alianza para la Equidad Digital de
+Puerto Rico y el establecimiento de un Protocolo Uniforme de Servicios Alternos
+coordinado centralmente por la Puerto Rico Innovation and Technology Service
+(PRITS); enmendar los Artículos 3 y 7 de la Ley 151-2004, según enmendada,
+conocida como “Ley de Gobierno Electrónico”; disponer sobre el aprovechamiento
+de la infraestructura comunitaria ya existente y de fondos estatales y federales
+disponibles para estos propósitos; ordenar el desarrollo de programas de
+alfabetización digital dirigidos prioritariamente a las personas de edad avanzada;
+establecer mecanismos de financiamiento, medición y rendición de cuentas; y para
+otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La brecha digital se puede definir como la disociación de ciertos grupos, en
+ocasiones generaciones, respecto al acceso y la utilización de la tecnología. Este
+fenómeno es particularmente evidente en nuestra población de adultos mayores.
+Mientras que las personas más jóvenes o de edad media, habiéndose relacionado con un
+mundo digitalizado, no enfrentan muchos retos en el uso de la tecnología en la mayoría
+de los aspectos de la vida cotidiana, aquellas personas de mayor edad, que se formaron
+
+2
+sin acceso a computadoras y teléfonos celulares, enfrentan grandes retos a la hora de
+usar el recurso tecnológico para cualquier tarea. Incluso, muchos se ven impedidos de
+realizar tareas relativamente sencillas pero indispensables en un mundo sumamente
+digitalizado, a menos que sean asistidos por terceros.
+En años recientes, se han promulgado varias políticas públicas diseñadas con el
+propósito de integrar efectivamente la tecnología en la administración pública,
+particularmente en el ofrecimiento de servicios, tales como la Ley 75-2019, estableciendo
+el “Puerto Rico Innovation and Technology Service”, con el propósito de desarrollar la
+infraestructura tecnológica del gobierno; y la Ley 151-2004, conocida como la “Ley de
+Gobierno Electrónico”, para incorporar la tecnología de información a través de la
+política pública. Sin embargo, a pesar de estas leyes, necesarias para lograr mayores
+eficiencias en la gerencia pública, algunos ciudadanos han expresado que ciertas
+agencias carecen de un ofrecimiento alternativo al tecnológico, resultando esto en un
+reto para aquellos que procuran servicios del gobierno y no cuentan con una
+computadora, acceso a internet o el dominio en el manejo de estos.
+Esta Asamblea Legislativa había atendido previamente esta problemática
+mediante el P. del S. 347, radicado el 19 de febrero de 2025. No obstante, la Comisión de
+Ciencia, Tecnología e Inteligencia Artificial del Senado de Puerto Rico rindió, el 24 de
+septiembre de 2025, un Informe Negativo sobre dicha medida. Si bien la Comisión
+reconoció como loable el objetivo de garantizar la inclusión de las personas que no
+cuentan con recursos tecnológicos, concluyó que el mecanismo original —que ordenaba
+a cada agencia, individualmente y sin financiamiento asignado, diseñar su propio
+protocolo— podía generar redundancia normativa, falta de coordinación interagencial,
+fragmentación en la calidad de los servicios, y el riesgo de desincentivar los esfuerzos
+de digitalización ya en curso, incluyendo los Centros de Servicios Integrados de la
+Puerto Rico Innovation and Technology Service (PRITS).
+Esta Asamblea Legislativa acoge las observaciones de la Comisión y presenta esta
+medida con un enfoque revisado que atiende, una a una, las preocupaciones señaladas
+en el Informe Negativo, sin apartarse del propósito esencial de que ningún ciudadano
+
+3
+quede excluido de los servicios gubernamentales por razón de la brecha digital. En
+lugar de un mandato disperso y sin fondos, esta Ley crea una estructura de
+coordinación central a cargo de PRITS, mediante un Protocolo Uniforme de Servicios
+Alternos aplicable a todas las agencias, y dispone que dicho Protocolo se nutra de la
+infraestructura comunitaria que ya existe, en vez de crearle duplicidad.
+En el diseño de esta medida se han considerado las mejores prácticas
+identificadas por organizaciones dedicadas a la defensa de las personas de edad
+avanzada, entre ellas AARP, que mantiene oficinas en los cincuenta estados, Puerto
+Rico y las Islas Vírgenes de Estados Unidos y que ha abogado activamente ante
+gobiernos estatales sobre la equidad digital de las personas mayores de cincuenta años.
+La experiencia de AARP en otras jurisdicciones, incluyendo su colaboración en Puerto
+Rico para el uso de fondos federales en “centros de conectividad” ubicados en
+bibliotecas, centros comunitarios y edificios municipales, apunta a que las estrategias
+más efectivas combinan, al menos, cuatro elementos: (i) alianzas multisectoriales entre
+el gobierno, el sector privado de las telecomunicaciones y organizaciones sin fines de
+lucro; (ii) el aprovechamiento de espacios comunitarios ya existentes como puntos de
+acceso, asistencia y capacitación; (iii) programas de alfabetización digital dirigidos
+específicamente a las personas de mayor edad; y (iv) la canalización de fondos federales
+disponibles para estos propósitos, como los correspondientes a la Digital Equity Act y al
+programa de Broadband Equity, Access, and Deployment (BEAD), de manera que las
+iniciativas no impongan cargas presupuestarias adicionales no atendidas a las agencias.
+Esta Ley es cónsona, además, con la política pública de envejecimiento activo
+establecida en la Ley 121-2019, según enmendada, y con la Carta de Derechos de las
+Personas de Edad Avanzada, que reconocen el derecho de este sector poblacional a
+participar plenamente en la vida social, económica y cívica del País.
+Consideramos de suma importancia el establecimiento de políticas públicas que
+combatan las desigualdades sociales, incluyendo aquellas desventajas creadas por la
+brecha digital que tanto afecta a nuestros adultos de mayor edad, mediante un
+mecanismo viable, coordinado y con fuentes de financiamiento identificadas.
+
+4
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se enmienda el Artículo 2 de la Ley 75-2019, según enmendada, para
+1
+que lea como sigue:
+2
+“Artículo 2. --- Declaración de Política Pública.
+3
+Es política pública del Gobierno de Puerto Rico que las tecnologías de
+4
+información y comunicación sean administradas de forma tal, que se alcance un nivel
+5
+óptimo de eficiencia, se solucione el problema de integración entre las tecnologías de
+6
+información y comunicación de las agencias gubernamentales, y se facilite así el
+7
+intercambio de información, se fomente la transparencia en la información y la
+8
+ejecución del Gobierno, se expanda la disponibilidad y el acceso a los servicios
+9
+gubernamentales, se promueva la interacción de nuestros habitantes con las tecnologías
+10
+de información y comunicación, y se fomenten las iniciativas públicas y privadas que
+11
+propendan a eliminar la brecha digital en nuestra sociedad. La política pública que se
+12
+adopta y promulga es cónsona con el objetivo de lograr que la tecnología y el uso de
+13
+ésta se inserte más en la cotidianidad de la vida de nuestros ciudadanos, sin que
+14
+represente una carga onerosa al momento de procurar los servicios gubernamentales,
+15
+garantizando en todo momento el acceso equitativo a dichos servicios para las personas que no
+16
+cuenten con los medios o el dominio del recurso tecnológico, mediante alternativas coordinadas
+17
+centralmente y sustentadas en alianzas con el sector privado, organizaciones sin fines de lucro y
+18
+la infraestructura comunitaria existente. Además, es de vital importancia que se fomente el
+19
+desenvolvimiento de la industria de las tecnologías de información como un ente de
+20
+
+5
+desarrollo y crecimiento económico en el Gobierno de Puerto Rico. De tal forma, esta
+1
+Ley crea un nuevo andamiaje de gobierno innovador, atemperando las exigencias del
+2
+siglo XXI y capaz de valerse de la tecnología para cumplir con las expectativas de la
+3
+ciudadanía y con los estándares modernos de gobernanza.”
+4
+Sección 2.- Se añade un nuevo Artículo 9-A a la Ley 75-2019, según enmendada,
+5
+para que lea como sigue:
+6
+“Artículo 9-A. --- Alianza para la Equidad Digital de Puerto Rico; Protocolo Uniforme
+7
+de Servicios Alternos.
+8
+(a) Se crea la Alianza para la Equidad Digital de Puerto Rico (en adelante, “la Alianza”),
+9
+adscrita a la Puerto Rico Innovation and Technology Service (PRITS), como mecanismo
+10
+permanente de coordinación multisectorial para el diseño, la implementación y la evaluación de
+11
+las estrategias dirigidas a garantizar el acceso equitativo de la ciudadanía a los servicios
+12
+gubernamentales, independientemente de si cuenta con los medios o el dominio del recurso
+13
+tecnológico.
+14
+(b) La Alianza estará compuesta por: el Director Ejecutivo o Directora Ejecutiva de
+15
+PRITS, o su representante, quien la presidirá; el Procurador o Procuradora de las Personas de
+16
+Edad Avanzada; un representante del Departamento de Estado; un representante de la Oficina
+17
+de Gerencia y Presupuesto; hasta tres (3) representantes de organizaciones sin fines de lucro
+18
+dedicadas a la defensa de las personas de edad avanzada o a la equidad digital, incluyendo, de
+19
+estar disponible, un representante de AARP Puerto Rico; un representante de la industria de
+20
+telecomunicaciones; un representante de la Federación de Alcaldes; y un represenante de la
+21
+Asociación de Alcaldes.
+22
+
+6
+(c) No más tarde de ciento ochenta (180) días luego de la aprobación de esta Ley, la
+1
+Alianza recomendará a PRITS el contenido de un Protocolo Uniforme de Servicios Alternos (en
+2
+adelante, “el Protocolo”), aplicable a todas las agencias e instrumentalidades del Gobierno de
+3
+Puerto Rico, que disponga, como mínimo: los servicios de asistencia presencial y telefónica que
+4
+toda agencia deberá ofrecer a las personas que no cuenten con acceso o dominio del recurso
+5
+tecnológico; los estándares mínimos de tiempo de espera y trato al ciudadano; el aprovechamiento
+6
+de la infraestructura ya existente, incluyendo los Centros de Servicios Integrados, las bibliotecas
+7
+públicas, los centros de personas de edad avanzada que operan al amparo de la Ley 121-2019,
+8
+según enmendada, y las oficinas municipales, como puntos de acceso, orientación y asistencia; y
+9
+las fuentes de financiamiento disponibles para su implementación, incluyendo fondos estatales y
+10
+fondos federales destinados a la equidad digital.
+11
+(d) PRITS adoptará el Protocolo mediante reglamento, y todas las agencias deberán
+12
+implementarlo. No se requerirá, ni se autorizará, la creación de protocolos individuales
+13
+adicionales por agencia para atender la misma necesidad, a fin de evitar duplicidad normativa y
+14
+la fragmentación de los servicios.
+15
+(e) PRITS identificará y procurará activamente fondos federales disponibles para el
+16
+financiamiento del Protocolo y de los programas de alfabetización digital dispuestos en esta Ley,
+17
+incluyendo, sin que se entienda como una limitación, fondos bajo la Digital Equity Act y el
+18
+programa de Broadband Equity, Access, and Deployment (BEAD), e incluirá en su petición
+19
+presupuestaria anual ante la Oficina de Gerencia y Presupuesto una partida específica para estos
+20
+propósitos, de manera que la implementación del Protocolo no constituya un mandato sin
+21
+financiamiento.
+22
+
+7
+(f) PRITS, en coordinación con la Alianza, la Procuraduría de las Personas de Edad
+1
+Avanzada y organizaciones sin fines de lucro, desarrollará e implementará programas de
+2
+alfabetización digital dirigidos prioritariamente a las personas de edad avanzada, utilizando los
+3
+espacios comunitarios señalados en el inciso (c) de este Artículo.
+4
+(g) PRITS recopilará anualmente datos sobre el acceso y el uso de la tecnología por parte
+5
+de la población de edad avanzada en Puerto Rico, pudiendo utilizar, entre otras, la Encuesta
+6
+sobre la Comunidad de Puerto Rico (American Community Survey) del Negociado del Censo
+7
+federal, y someterá a la Asamblea Legislativa un informe anual sobre el progreso en la
+8
+implementación del Protocolo y de los programas de alfabetización digital.”
+9
+Sección 3.- Se enmienda el inciso (f) del Artículo 13 de la Ley 75-2019, según
+10
+enmendada, para que lea como sigue:
+11
+“Artículo 12. --- Deberes y Responsabilidades de las Agencias.
+12
+Para cumplir cabalmente con los objetivos y la política pública establecida en esta
+13
+Ley, las agencias tendrán que cumplir con los siguientes deberes y responsabilidades:
+14
+(a) ...
+15
+...
+16
+(f) Considerar el impacto del desarrollo de servicios electrónicos en personas que no
+17
+tienen acceso a Internet y llevar a cabo los esfuerzos necesarios, mediante programas y
+18
+alianzas con el sector privado y con organizaciones sin fines de lucro, para asegurar que
+19
+todos los sectores de la sociedad logren acceso a los servicios del Gobierno por canales
+20
+telemáticos. Adoptar e implementar el Protocolo Uniforme de Servicios Alternos aprobado por
+21
+la Puerto Rico Innovation and Technology Service conforme al Artículo 9-A de esta Ley, para
+22
+
+8
+brindar los servicios gubernamentales a aquellas personas que no tienen los medios o no dominan
+1
+el recurso tecnológico.
+2
+(g) ...”
+3
+Sección 4.- Se enmienda el Artículo 3 de la Ley 151-2004, según enmendada, para
+4
+que lea como sigue:
+5
+“Artículo 3. - Política Pública.
+6
+El Gobierno del Estado Libre Asociado de Puerto Rico adopta como política
+7
+pública la incorporación de las tecnologías de información a los procedimientos
+8
+gubernamentales, a la prestación de servicios y a la difusión de información, mediante
+9
+una estrategia enfocada en el ciudadano, orientada a la obtención de logros y que
+10
+fomente activamente la innovación. El Gobierno garantizará que los ciudadanos reciban los
+11
+servicios gubernamentales independientemente de si cuentan con los medios o el dominio del
+12
+recurso tecnológico, mediante el Protocolo Uniforme de Servicios Alternos establecido conforme
+13
+al Artículo 9-A de la Ley 75-2019, según enmendada.”
+14
+Sección 5.- Se enmienda el Artículo 7 de la Ley 151-2004, según enmendada, para
+15
+que lea como sigue:
+16
+“Artículo 7. - Deberes de las Agencias.
+17
+Con relación a la consecución de los propósitos de esta Ley, los Jefes de agencias
+18
+e instrumentalidades tendrán los siguientes deberes:
+19
+(a) ...
+20
+...
+21
+(f) Considerar el impacto del desarrollo de estos servicios en personas que no tienen
+22
+
+9
+acceso a Internet y llevar a cabo los esfuerzos necesarios, mediante programas y
+1
+alianzas con el sector privado y con organizaciones sin fines de lucro, para asegurar que
+2
+todos los sectores de la sociedad logren acceso a los mismos. Adoptar e implementar el
+3
+Protocolo Uniforme de Servicios Alternos aprobado por la Puerto Rico Innovation and
+4
+Technology Service conforme al Artículo 9-A de la Ley 75-2019, según enmendada, para brindar
+5
+los servicios gubernamentales a aquellas personas que no tienen los medios o no dominan el
+6
+recurso tecnológico.
+7
+(g) ...”
+8
+Sección 6.- Reglamentación.
+9
+No más tarde de ciento ochenta (180) días a partir de la aprobación de esta Ley,
+10
+la Puerto Rico Innovation and Technology Service, en coordinación con la Alianza para
+11
+la Equidad Digital de Puerto Rico, deberá adoptar el Protocolo Uniforme de Servicios
+12
+Alternos y promulgar la reglamentación necesaria para dar fiel cumplimiento a las
+13
+disposiciones de esta Ley.
+14
+Sección 7.- Separabilidad.
+15
+Si cualquier parte de esta Ley fuera anulada o declarada inconstitucional, la
+16
+resolución, dictamen o sentencia a tal efecto dictada no afectará, perjudicará, ni
+17
+invalidará el remanente de esta Ley. El efecto de dicha sentencia quedará limitado a la
+18
+parte de esta que así hubiere sido anulada o declarada inconstitucional.
+19
+Sección 8.- Vigencia.
+20
+Esta Ley comenzará a regir inmediatamente después de su aprobación.
+21

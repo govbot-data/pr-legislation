@@ -1,0 +1,220 @@
+Title: 
+Official Title: 
+Source: versions - Radicado
+Media Type: application/pdf
+
+================================================================================
+
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 4ta. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1494
+28 de septiembre de 2026
+Presentado por la señora Álvarez Conde
+Referido a la Comisión de
+LEY
+Para crear la “Ley del Comité de Coordinación Multisectorial y Comunitaria”, con el
+propósito de facilitar una respuesta coordinada durante un estado de emergencia y
+brindar apoyo a los esfuerzos de recuperación del gobierno; disponer sobre su
+composición y operación; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+Puerto Rico ha enfrentado múltiples emergencias en las últimas décadas, entre
+estas, huracanes, terremotos y pandemias, que han evidenciado vulnerabilidades
+significativas tanto en la capacidad de respuesta del gobierno como de recuperación de
+las comunidades. Eventos como el huracán María demostraron que, ante la magnitud
+de un desastre, la primera línea de respuesta no siempre es el gobierno central, sino las
+propias comunidades, organizaciones sin fines de lucro y organizaciones de base de fe,
+quienes respondieron de manera inmediata para atender necesidades esenciales cuando
+los sistemas formales se vieron limitados.
+La doctrina federal de manejo de emergencias reconoce este principio mediante
+el enfoque denominado “Whole Community”. A nivel federal, la Federal Emergency
+Management Agency ha desarrollado marcos y sistemas ampliamente adoptados para
+la gestión de emergencias, incluyendo el National Incident Management System
+
+2
+(NIMS), el Incident Command System (ICS) y programas comunitarios como
+el Community Emergency Response Team (CERT). Estos modelos han demostrado ser
+herramientas efectivas para la organización de voluntarios, la coordinación
+interagencial y la reducción del impacto de desastres.
+El National Incident Management System (NIMS) y el National Response
+Framework contemplan la participación coordinada de los gobiernos estatales y
+territoriales, los municipios, las organizaciones no gubernamentales, las organizaciones
+comunitarias y de base de fe, y el sector privado en las distintas etapas de preparación,
+respuesta y recuperación ante un desastre. Estos modelos parten del reconocimiento de
+que ningún gobierno posee, por sí solo, todos los recursos, capacidades, información e
+infraestructura necesarios para responder adecuadamente a una emergencia de gran
+magnitud.
+De igual forma, la Federal Emergency Management Agency reconoce la
+importancia de establecer, antes de que ocurra un desastre, mecanismos de
+coordinación con organizaciones voluntarias, entidades sin fines de lucro y otros
+componentes de la sociedad civil. La planificación previa permite identificar
+capacidades, establecer puntos de contacto, definir responsabilidades, coordinar la
+distribución de recursos y donativos, reducir la duplicación de esfuerzos y evitar que
+las estructuras de colaboración tengan que ser improvisadas una vez declarada una
+emergencia.
+Puerto Rico conoce las consecuencias de tener que organizar estos esfuerzos en
+medio de una catástrofe. Después del huracán María surgieron múltiples iniciativas
+públicas, privadas y comunitarias para canalizar voluntarios, alimentos, suministros,
+donativos y otros recursos. Aquella experiencia demostró la necesidad de contar
+permanentemente con una estructura previamente constituida, transparente y
+multisectorial, cuyos integrantes, responsabilidades y mecanismos de coordinación
+estén establecidos antes de una emergencia y no dependan de la creación improvisada
+de entidades o mecanismos extraordinarios luego de ocurrido el desastre.
+
+3
+Por tal razón, esta Ley establece el Comité de Coordinación Multisectorial y
+Comunitaria como estructura permanente de coordinación multisectorial entre el
+Gobierno, los municipios, el sector privado, las organizaciones comunitarias y sin fines
+de lucro, las organizaciones de base de fe y aquellos sectores cuya infraestructura,
+conocimiento o capacidad operacional resulte indispensable para la preparación,
+respuesta y recuperación de Puerto Rico.
+La Comité no sustituirá las facultades del Negociado para el Manejo de
+Emergencias y Administración de Desastres ni la estructura gubernamental de mando
+durante una emergencia. Su propósito será garantizar que las capacidades existentes
+fuera del Gobierno sean identificadas, coordinadas e incorporadas previamente a la
+planificación de emergencias, de manera que Puerto Rico no tenga que comenzar a
+construir esas relaciones cuando la emergencia ya haya ocurrido.
+La ausencia de una estructura integral que permita uniformar el registro,
+capacitación, certificación, coordinación e interoperabilidad de estos recursos limita el
+aprovechamiento de las capacidades existentes y dificulta una respuesta comunitaria
+más organizada, rápida y efectiva. La Asamblea Legislativa entiende necesario crear
+una estructura formal que integre todos estos componentes bajo una política pública
+coherente, moderna y efectiva. Esta Ley procura consolidar colaboraciones estratégicas
+que complemente las responsabilidades del gobierno y de los primeros respondedores,
+fortaleciendo la resiliencia de nuestras comunidades y la capacidad de Puerto Rico para
+responder y recuperarse ante emergencias.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título
+2 Esta Ley se conocerá y podrá ser citada como la “Ley del Comité de Coordinación
+3 Multisectorial y Comunitaria”.
+4 Artículo 2.- Comité de Coordinación Multisectorial y Comunitaria
+
+4
+1 Se crea el Comité de Coordinación de la Comunidad para el Manejo de Emergencias,
+2 (en adelante “el Comité”), como organismo permanente de enlace, planificación y
+3 coordinación entre las organizaciones no gubernamentales, comunitarias, de base de fe
+4 y del sector privado con el sistema de manejo de emergencias del Gobierno de Puerto
+5 Rico.
+6 El Comité tendrá como propósito institucionalizar la participación de la comunidad y
+7 de los sectores no gubernamentales en la preparación, respuesta y recuperación ante
+8 emergencias, conforme a los principios de participación de toda la comunidad o Whole
+9 Community reconocidos dentro del sistema nacional de manejo de emergencias.
+10 Es política pública que la coordinación entre los diferentes sectores de la sociedad
+11 civil no debe comenzar después de declarada la emergencia. Las relaciones, puntos de
+12 contacto, capacidades y mecanismos de colaboración deben ser identificados
+13 previamente, de manera que puedan ser activados de forma organizada cuando ocurra
+14 un desastre.
+15 Artículo 3.- Administración y Reuniones de Trabajo
+16 El Comité será establecido y coordinado por el Departamento de Seguridad Publica
+17 (en adelante, “el Departamento”). El Departamento convocará y reunirá al Comité no
+18 menos de dos veces al año, siendo una de estas reuniones previo al inicio de la
+19 temporada de huracanes; y podrá ser convocado extraordinariamente cuando las
+20 circunstancias así lo requieran.
+21 El Departamento reunirá al Comité para actualizar y discutir los protocolos
+22 nacionales y regionales en caso de emergencias. La discusión de protocolos no se
+
+5
+1 limitará a escenarios derivados de eventos atmosféricos, como huracanes, sino también
+2 otros potenciales desastres naturales y humanos.
+3 Artículo 4.- Funciones del Comité
+4 El Comité servirá como mecanismo permanente de coordinación de la comunidad
+5 con el sistema de manejo de emergencias y tendrá, entre otras, las siguientes funciones:
+6 1. Identificar las organizaciones no gubernamentales y recursos comunitarios
+7 disponibles para responder ante una emergencia.
+8 2. Facilitar la incorporación de organizaciones comunitarias, sin fines de lucro, de
+9 base de fe y del sector privado a los procesos de planificación y preparación para
+10 emergencias.
+11 3. Mantener canales permanentes de comunicación entre dichos sectores y el
+12 Negociado para el Manejo de Emergencias y Administración de Desastres.
+13 4. Identificar capacidades, servicios y recursos que puedan ser activados o
+14 coordinados durante una emergencia.
+15 5. Identificar necesidades de las comunidades y poblaciones vulnerables que deban
+16 ser consideradas en los planes gubernamentales de preparación y respuesta.
+17 6. Promover acuerdos colaborativos, protocolos y mecanismos de coordinación
+18 entre organizaciones participantes y las entidades gubernamentales
+19 correspondientes.
+20 7. Participar en ejercicios, simulacros y procesos de planificación relacionados con
+21 el manejo de emergencias.
+
+6
+1 8. Colaborar en la coordinación de voluntarios, organizaciones comunitarias y
+2 bienes o servicios donados cuando ello sea necesario durante una emergencia.
+3 9. Formular recomendaciones después de cada emergencia significativa sobre
+4 deficiencias, necesidades u oportunidades para mejorar la coordinación entre el
+5 Gobierno y la comunidad.
+6 Nada de lo dispuesto en este Artículo se interpretará como una transferencia al
+7 Comité de facultades gubernamentales de dirección, mando o control de una
+8 emergencia. El Comité constituirá un mecanismo de coordinación y enlace con los
+9 sectores comunitarios y no gubernamentales.
+10 Artículo 5.- Composición del Comité
+11 El Departamento de Seguridad Pública reglamentará la representación y
+12 participación en el Comité de todos los sectores civiles indispensables para el manejo de
+13 la emergencia.
+14 Serán indispensable la participación en el Comité un representante de los siguientes
+15 sectores y organizaciones de la sociedad civil:
+16 1. La Cruz Roja Americana, Capítulo de Puerto Rico
+17 2. La organización United Way de Puerto Rico
+18 3. Un representante del Cuerpo Interdenominacional de Capellanes, conforme a la
+19 Ley 20-2017, según enmendada.
+20 4. El Centro Unido de Detallistas
+21 5. La Asociación de Industriales de Puerto Rico
+22 6. La Cámara de Mercadeo, Industria y Distribución de Alimentos (MIDA)
+
+7
+1 7. La Asociación de Agricultores de Puerto Rico
+2 8. La Asociación Americana de Personas Jubiladas (AARP Puerto Rico)
+3 9. La Red por los Derechos de la Niñez y Juventud de Puerto Rico
+4 10. La Red Nacional de Albergues de Violencia de Género en Puerto Rico
+5 11. La Guardia Estatal de Puerto Rico.
+6 12. El Servicio Nacional de Meteorología
+7 13. La Asociación de Alcaldes de Puerto Rico
+8 14. La Federación de Alcaldes de Puerto Rico
+9 El Departamento se asegurará que haya un representante por cada sector. El
+10 representante deberá contar los medios para canalizar y comunicar los pormenores del
+11 protocolo a la mayoría de los integrantes de su sector.
+12 El Departamento integrará a las reuniones de trabajo del Comité representantes de
+13 las agencias gubernamentales indispensables en los esfuerzos de manejo de
+14 emergencias y recuperación comunitaria.
+15 El Departamento, junto a la Policía de Puerto Rico, establecerán aquellos protocolos
+16 necesarios para facilitar la circulación vial, operación y apoyo comunitario de estas
+17 instituciones civiles durante la emergencia.
+18 Artículo 6.- Plataforma Digital
+19 El Departamento de Seguridad Pública, en coordinación con la Puerto Rico
+20 Innovation and Technology Service, establecerá una plataforma digital que facilite la
+21 coordinación entre entidades que forman el Comité de Coordinación Multisectorial y
+
+8
+1 Comunitaria, y de los recursos identificados y destinados para el manejo de
+2 emergencias y recuperación de desastres.
+3 Artículo 7.- Recopilación de Estadística y Análisis
+4 El Departamento de Seguridad Pública, en colaboración con el Instituto de
+5 Estadística de Puerto Rico, establecerá procedimientos internos para la recopilación,
+6 manejo y análisis de estadística sobre el manejo de emergencias. La recopilación de
+7 estadística servirá para mejorar las respuestas a futuras emergencias. La estadística
+8 recopilada deberá tomar en cuenta el tipo de emergencia, comunidades y/o cantidad de
+9 personas afectadas por la emergencia, funcionarios destinados para el manejo de la
+10 emergencias y recuperación, voluntariado, tiempo de respuesta y recuperación, así
+11 como cualquier otra información pertinente a los propósitos de este Artículo.
+12 Artículo 8.- Informes a la Asamblea Legislativa
+13 El Departamento de Seguridad Pública rendirá un informe anual a la Asamblea
+14 Legislativa, a través de la Secretaría de los Cuerpos Legislativos, sobre el cumplimiento
+15 con las disposiciones de esta Ley, que incluya, pero sin limitarse a, las reuniones
+16 celebradas del comité, participación de sus miembros, esfuerzos realizados para el
+17 desarrollo y ejecución de protocolos de emergencia y recuperación de desastres.
+18 Artículo 9.- Cláusula de Salvedad
+19 Esta Ley no pretende crear una estructura paralela al sistema gubernamental de
+20 manejo de emergencias, sino institucionalizar el componente comunitario y no
+21 gubernamental que los modelos federales de manejo de emergencias reconocen como
+22 parte de una respuesta integral.
+
+9
+1
+2 Artículo 10.- Reglamentación y Ejecución
+3 El Departamento de Seguridad Pública adoptará aquella reglamentación necesaria
+4 para dar fiel cumplimiento a las disposiciones de esta Ley en un periodo que no
+5 excederá de ciento ochenta (180) días a partir de su vigencia.
+6 El Departamento de Seguridad Pública ejecutará las disposiciones de esta Ley una
+7 vez completado el proceso de reglamentación.
+8 Artículo 11.- Vigencia
+9 Esta Ley entrará en vigor inmediatamente después de su aprobación.
