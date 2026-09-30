@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0253",
-  "title": "Para ordenar a las comisiones de Asuntos de la Mujer y de Salud de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre la atenci\u00f3n a las v\u00edctimas de violencia dom\u00e9stica en las instituciones hospitalarias y de salud; la implantaci\u00f3n de los protocolos requeridos y el cumplimiento con los mismos; y para otros fines relacionados.",
+  "title": "Para ordenar a las comisiones de Asuntos de la Mujer; y de Salud de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre los protocolos existentes en las facilidades de salud p\u00fablicas y privadas para atender a las v\u00edctimas y sobrevivientes de violencia dom\u00e9stica; la respuesta que proveen dichas facilidades ante estos casos; la efectividad de las medidas implantadas en dichos protocolos; la capacitaci\u00f3n del personal y la orientaci\u00f3n y los servicios ofrecidos a las v\u00edctimas; as\u00ed como la deseabilidad de establecer medidas adicionales que fortalezcan la intervenci\u00f3n m\u00e9dica y el seguimiento a las personas afectadas; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-09-29T11:31:21Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:38:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +184,17 @@
       ],
       "date": "2025-10-15",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154950/RC0253-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -190,7 +213,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-29T11:31:21Z",
+    "logs_latest_update": "2026-09-30T11:38:38Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-09-29T11:34:47.192136Z"

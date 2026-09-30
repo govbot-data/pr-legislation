@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "PC0660",
   "title": "Para declarar Patrimonio del Pueblo de Puerto Rico la colecci\u00f3n arqueol\u00f3gica conocida como las Piedras del Padre Nazario, descubierta a finales del siglo XIX en Guayanilla, y ordenar al Instituto de Cultura Puertorrique\u00f1a establecer un plan para su protecci\u00f3n, conservaci\u00f3n, estudio, divulgaci\u00f3n y posible repatriaci\u00f3n; y para otros fines relacionados.",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
@@ -114,6 +114,52 @@
       "_processing": {
         "log_file_created": "2026-09-29T11:31:21Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:38:38Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:38:38Z"
+      }
+    },
+    {
+      "description": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:38:38Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:38:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -160,6 +206,28 @@
       ],
       "date": "2026-09-24",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155858/PC0660 votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-28",
+      "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado al Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155858/PC0660-Texto.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -178,7 +246,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-29T11:31:21Z",
+    "logs_latest_update": "2026-09-30T11:38:38Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-09-29T11:34:27.510457Z"

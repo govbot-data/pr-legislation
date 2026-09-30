@@ -2,7 +2,7 @@
   "legislative_session": "2025-2028",
   "identifier": "PC0315",
   "title": "Para enmendar Art\u00edculo 2.3 en su inciso 52 y a\u00f1adir un nuevo inciso 115, de la Ley 58-2020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Electoral de Puerto Rico de 2020\u201d, a los fines de aclarar la diferencia entre un local de propaganda y propaganda pol\u00edtica; y para otros fines relacionados.",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
@@ -272,6 +272,16 @@
       "_processing": {
         "log_file_created": "2026-09-19T09:52:06Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:38:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -413,7 +423,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-19T09:52:06Z",
+    "logs_latest_update": "2026-09-30T11:38:38Z",
     "text_extraction_latest_update": "2026-09-19T09:55:06.393169Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0254",
-  "title": "Para ordenar a la Comisi\u00f3n de Salud de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre el tr\u00e1mite administrativo que tienen que realizan los ciudadanos en el Departamento de Salud para obtener un permiso de exhumaci\u00f3n de cad\u00e1veres, los derechos que tienen que pagar, el uso que se le asigna a estos fondos, el proceso de rendici\u00f3n de cuentas sobre estos fondos, y los sistemas que se utilizan para realizar dicho tr\u00e1mite; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Salud de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre los procedimientos establecidos en la Ley 258-2012, conocida como \u201cLey de Servicios Funerarios de Puerto Rico\u201d, el Reglamento General de Salud Ambiental y el Reglamento de Servicios Funerarios en cuanto al tr\u00e1mite que deben cumplir los ciudadanos ante el Departamento de Salud para obtener un permiso de exhumaci\u00f3n de cad\u00e1veres, los derechos que tienen que pagar, la utilizaci\u00f3n de los fondos recaudados, los mecanismos de rendici\u00f3n de cuentas; y los sistemas que se utilizan para realizar dicho tr\u00e1mite; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -148,6 +148,18 @@
       "_processing": {
         "log_file_created": "2026-09-29T11:31:21Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:38:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -194,6 +206,17 @@
       ],
       "date": "2025-09-08",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154951/RC0254-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -212,7 +235,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-29T11:31:21Z",
+    "logs_latest_update": "2026-09-30T11:38:38Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-09-29T11:35:45.346955Z"

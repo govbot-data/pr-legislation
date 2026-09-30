@@ -158,6 +158,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:23Z"
       }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:38:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -226,6 +236,17 @@
       ],
       "date": "2026-06-19",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159751/rs0398a-26 Enmendada por la RS 607 (1).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -244,7 +265,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:23Z",
+    "logs_latest_update": "2026-09-30T11:38:38Z",
     "text_extraction_latest_update": "2026-07-22T06:25:35.011906Z"
   }
 }

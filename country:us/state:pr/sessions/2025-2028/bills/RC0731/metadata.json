@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0731",
-  "title": "Para ordenar a la Comisi\u00f3n de Recursos Naturales, Asuntos Ambientales y Reciclaje de la C\u00e1mara de Representantes de Puerto Rico realizar un estudio exhaustivo sobre las distintas alternativas que se est\u00e9n implementando o podr\u00edan implementarse para la captaci\u00f3n, almacenamiento y aprovechamiento del agua proveniente de la precipitaci\u00f3n pluvial; evaluar la viabilidad de su adopci\u00f3n en Puerto Rico; identificar posibles fuentes de financiamiento estatal y federal para estos fines; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Recursos Naturales de la C\u00e1mara de Representantes de Puerto Rico realizar un estudio exhaustivo sobre las distintas alternativas que se est\u00e9n implementando o podr\u00edan implementarse para la captaci\u00f3n, almacenamiento y aprovechamiento del agua proveniente de la precipitaci\u00f3n pluvial; evaluar la viabilidad de su adopci\u00f3n en Puerto Rico; identificar posibles fuentes de financiamiento estatal y federal; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -126,6 +126,18 @@
       "_processing": {
         "log_file_created": "2026-09-29T11:31:21Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:38:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +184,17 @@
       ],
       "date": "2026-09-14",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/161541/RC0731-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2026-09-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -190,7 +213,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-29T11:31:21Z",
+    "logs_latest_update": "2026-09-30T11:38:38Z",
     "text_extraction_unavailable": {
       "reason": "no_versions_found",
       "checked_at": "2026-09-07T10:14:09.683321Z"
