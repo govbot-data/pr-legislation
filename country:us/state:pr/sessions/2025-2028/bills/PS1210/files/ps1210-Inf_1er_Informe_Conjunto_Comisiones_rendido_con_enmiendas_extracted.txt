@@ -1,0 +1,646 @@
+Title: 
+Official Title: 
+Source: versions - 1er Informe Conjunto Comisiones rendido con enmiendas
+Media Type: application/pdf
+
+================================================================================
+
+/^r
+)RIGINAL
+RErllEIDtl tEF29ff,ptt 3 : ? 1
+TRBI4ITES Y P€CORES SEHNNO PP
+C,OBIERNO DE PUERTO RICO
+20.".
+Asamblea
+4b.Sesi6n
+I.egislativa
+Ordinaria
+SENADO DE PUERTO RICO
+P. del S. L2L0
+TNFORME POSTTTVO CONILTNTO
+/
+.', de sepuem bre d,e 2026
+AL SENADO DE PUERTO RICO:
+l*as comisiones de Gobiemo; y de Ciencia, Tecnologia e Inteligencia Artificial del
+senado de Puerto Rico, previo estudio y consideraci6n iet r.oyecti del senado 1210,
+recomiendan a este Alto Cuerpo su aprobaci6n con las enmiendas al entirillado que se
+acompafra.
+ALCANCE DE LA MEDIDA
+El Proyecto del Senado 1210 (en adelante, p. del S. 1210), segrln presentado,
+tiene como prop6sito de "enmendar el inciso (f) del Articulo 5 de i" re"y zs-lzorr, ,egri,,
+enmendada, conocida como "[ry de la puerto Rico Irmovation and Technoligy
+q services", a los fines de incolporar el desarrollo y la implementaci6n de ,na aplicaci8n
+tecnol6gica basada en inteligencia artificial (IA), para el monitoreo eficiente,
+transparente y automatizado de los procesos de subasta pfblica en el Gobierno de
+Puerto Rico; y para otros fines relacionados,,.
+l,Y
+ANALISIS DE LA MEDIDA
+"LEY DE LA PUERTo RIco INNovATIoN AND TEcHNoLoGY sERvI cE,,Lw 75.2o1g
+Innovation and rechnology service", cre6 la puerto Rico lnnovation and rechnology
+service, en adelante "PRITS", como una oficina adscrita a la oficina del GobemadJi.
+su prop6sito principal es establecer una eskuctura centralizada para formular,
+implantar y coordinar la politica pfblica del Gobiemo de puerto Rico en materia de
+innovaci6n, informaci6n, transformaci6n digital y tecnologias de informaci6n y
+comunicaci6n.
+
+Infirme Posititlo Coniunto obe el P, tlcl5.7270
+C-omisiona de Gobicrno; y de Ciercia, T*nologia e lnteligmcia Anifcial
+Pigina 2
+El Articulo 6 constituye una de las disposiciones medulales de la [cy, pues
+contiene el catilogo general de fi.rnciones, facultades y deberes conferidos a PRITS y
+al Principal Ejecutivo de Innovaci6n e Informaci6n del Gobiemo de Puerto Rico (PEtr).
+Estas facultades abarcan desde la formulaci6n de politica pdblica tecnol6gica hasta la
+revisi6n y aprobaci6n de proyectos concretos de bases de datos, sistemas de
+informaci6n, contrataciones teorol6gicas, migraciones, actualizaciones y
+adquisiciones de equipo por parte de las agencias'
+Entre otras firniiones, PRITS time la resporuabilidad de implantar y coordinar
+la politica ptiblica gubernamental sobre innovaci6n y tecnologia; ofrecer servicios a
+agencias, corporaciones piblicas y municipios; Promover Proyectos colaborativos con
+ei sector privado y la icademi desarrollar plataformas digitales interagenciales;
+mejorar el portal- principal del Gobierno; establec€r est6ndares de seguridad
+'
+informitica; coordiirar Ii arquitectura tecnol6gica gubernamental; reducir la
+duplicaci6n de costos; evaluar los nombramientos de los oficiales de inform6tica de
+Ias agencias; y revisar, evaluar y aprobar los proyectos tecnol6gicos que pretendan
+adoptar las entidades de la Rama Eiecutiva.
+En el contexto de esta estructura de gobemanza tecnol68ica, el inciso (fl del
+Articulo 6 dispone que PRITS y el PEtr tendrdn la fi:nci6n de:
+Implementar sistemas de rmdici6n de cuentas que propicien el
+mejoramiento continuo y la innovaci6n mediante la alineaci6n de Ia
+organizaci6n a las expectativas y metas. Estos sistemas, a su vez, deben
+coitribuir a la utiliza&6n m6s eficiente de los recursos Subemamentales
+y a la transparencia en la gesti6n gubemamental.
+El inciso (f) vincula la rendici6n de cuentas con tres objetivos principales. El
+rimero es el mejoramiento continuo. Esto supone que los sistemas
+Promover
+lantados deben permitir identificar deficiencias, medir resultados, corregir
+desviaciones y modificar los procesos administrativos o tecnol6gicos que no est6n
+produciendo los resultados esperados.
+. 1A Et segundo obietivo es fomentar la innovaci6n. La rendici6n de cuentas
+(
+py
+I tP contempladi por la no debe operar exclusivamente como un mecanismo de
+A,
+fiscatizaci6n posterior o de identificaci6n de incumplimientos. Tambi6n debe Senerar
+informaci6n que permita desarrollar soluciones nuevas, modemizar Procesos,
+eliminar prdcticas ob*l"tas y adoptar tecnologias o modelos administrativos mds
+eficientes.
+y
+El tercer objetivo es alinear la organizaci6n con las expectativas metas
+gubemamentales. Esta expresi6n requiere que las operaciones, proyectos, inversiones
+I contrataciones tecnol6gicas respondan a objetivos previamente identificados. Por
+ianto, la rendici6n de cuentas no puede limitarse a determinar si se utilizaron
+correctamente los fondos asignados. Tambi6n debe evaluar si los proyectos
+
+Inlome Pwitirn Conjmto *be el p. del S. 7270
+Comisiottes de Gobietno; y ile Ciencia, Tearologta e lnteligmcia Artifcial
+Pfgina 3
+tecnol6gicos cumplen con la politica priblica, el plan Estrat€gico de lnnovaci6n y
+Tecnologra y las metas operacionales establecidas por pRITS I -r e p n o d r i c la i6 s n a gencias. El
+inciso establece, adem6s, dos resultados que los sistemas de J" *"r,tm
+necesariamente deben promover, es decir, la utilizaci6n eficiente de los recursos
+gubemamentales y la transparencia en la gesti6n p(blica.
+La medida busca enmendar el inciso (f) del Articuro 6 de ta r,ey 2F2019, segin
+enmendada, para asignar expresamente a pRITS la responsabilid"i d" d.r"rroiiu.,
+y
+imglant_ar supervisar una plataforma digital id.^, basada en inteligencia
+artificial, que permita monitorear en tiempo real tod ^ o u s ^ n Io s procesos de subast, p",ibli."
+bajo la jurisdicci6n del Gobiemo de puerto Rico. La platafo^rma tendria como obyetivos
+detectar irregularidades y patrones aHpicos, opti-iru, la adrninishaci6n de las
+subastas, fortalecer la transparencia y facilita; el acceso priblico a informaci6n
+gefinelte, a la vez que deberri cumplir con los m6s altos estiindares de seguridad
+inform{tica y protecci6n de datos personales. para su desarrollo y oper#i6n., el
+qroyecto exige la coordinaci6n de pRITS con la Administraci6n a^e se*lcios
+Generales, la oficina del Inspector General, la oficina de Etica cru"-*".tut y
+cualquier otra agencia pertinente. Ademds, dispone que pRITS incluya en su informe
+q anual a.la Asamblea Legislativa un resrunen aet"ttrdo sobre el funcionamiento, los
+resultados, los obstiiculos y las recomendaciones relacionados con el uso de
+inteligencia artificial en eI monitoreo de las subastas priblicas.
+ALCANCE DEL INFORME
+llal Las Comisiones de Gobiemo; y de Ciencia, Tecnologia e Inteligencia Artificial
+del senado de Puerto Rico,. como parte del estudio y evaluaci6n del p. del s. 1210,
+solicitaron memoriales explicativos a las siguientes eritidades:
+1. Adminishaci6n de Servicios Generales
+2.
+Oficina de Etica Gubemamental
+3.
+Oficina del Inspector General
+4.
+Puerto Rico Innovation and Technology Serrdce (pRITS)
+La oficina de Etica Gubemamental, la oficina del Inspector Generar y la puerto
+Rico Innovation and Technology service ro*"ii".o" ,*
+respectivos memoriales
+explicativos. La Administraci6n de servicios c"n"i"te, no present6 memorial
+explicativo.
+OFICINA DE ETTCA CUBERNAMENTAL
+toda pr L o a p O u f e ic s i t n a a q d u e e E e ti s ca ta b G r u e b zc e a m m am ay e o n r ta e l s e c n o d n o t s r a o l e e l s p s . o de b l r e 5. _ lo 12 s 1 0 p . ro E c x e p s re o s s 6 d q e u e s u ,, b a a p s o ta y s a
+
+bthntE Positioo C.oniwto sbrc el P. tlel5.7270
+Comisiona dc Cobierao; y ilc Ciencb, Trcaologla e lnteligencb Artifcial
+Plgiaa 4
+formales, asi como aquellos mecanismos para rllur fiscalizaci6n miis eficiente".
+Fundamenta su posici6n en que la medida Procura fortalecer la integridad,
+transparencia y equidad de las subastas priblicas y permifuia "monitorear en tiempo
+real los procesos de subasta, analizar los datos para identificar Patlones sospechosos
+y ge^eri. alertas autometicas sobre posibles irregularidades". Asimismo, reconoc€ la
+impo*ancia de la colaboraci6n interagencial "para erradicar la com.rpci6n y promover
+la integridad en el servicio priblico" y manifiesta su disposici6n para colaborar- corr
+PRrrs y hs dem6s agencias concemidas en la evaluaci6n e implementaci6n de la
+herramienta tecnol6gica propuesta.
+No obstante,la oEG recomienda que la plataforma incorpore mecanismos para
+y
+identificar y alertar sobre posibles conflictos de intereses; genere "rePortes claros
+accesibles,, para las entidides fiscalizadoras y, cuando la ley 1o permita, para la
+ciudadania; y garantice "la transparencia en los algoriknos y criterios utilizados por
+la inteligencia irtificial", de manera que puedan realizarse auditorias independientes.
+o
+Tambi6i propone evaluaciones peri6dicas para evitar sesgos discriminaci6n
+algoritmica controles de acceso, encriPtaci6n, pollticas de manejo de, datos- y
+caiacitaci6n del personal; canales seguros y confidenciales para dent'ncias
+cirrdadurras; y la aiopci6n de guias y protocolos que as€guren que el uso de la
+inteligencia u*ifi.i"l i aiuste 4 bs principios 6ticos y a la normativa vi'€nte"-
+Finalirente, considera ,,fundamental qre r" pro.rt"t los comentarios de todas las
+y
+agencias" mencionadas en la medida, particularmente los de PRITS la
+Administraci6n de Servicios Generales.
+OFICINA DEL INSPECTOR GENERAL
+La Oficina del InsPector General endosa de manera condicionada el P' del S'
+10. Reconoce "el valor y Ia pertinencia" de la medida como un esfuerzo dirigido a
+fortalecer Ia integridad de los procesos de subasta Ptib lica, asi como que la
+incorporaci6n de herramientas tecnol6gicas "puede contribuir significativamente al
+fortalecimiento de la eficiencia administrativa, la transP arencia enla gesti6n Priblica Y
+a rendici6n de cuentas en el uso de fondos priblicos"' No obstante, advierte que el
+Proyecto "requiere mayor delimitaci6n en aspectos operacionales, normativos Y de
+implementaci6n" y recomienda establecer un P lazo para desarrolLar e implantar Ia
+plataforma; definirlos conceptos de "intetgencia artificial" e "irregularidad"; precisar
+Ias funciones y resPonsabilidades de cada agenoa; yarmonizar el P. del S. 1210 con el
+P. del S A . d 7 e 3 m 1p 6s a , ra l e a v it O ar I G "d u re p c li o c m id i a e d nd d a e f q u u n e cio l n a e s s ir o r e c g o u n l f a li r c id to s ad ju e ri s s d d ic e c te io c n ta a d le a s s " . P or la
+lataforma sean canalzadas a esa Oficina "para su evaluaci6n y, conlorme Pro ceda,
+P su investigaci6n o referido a las autoridades pertinentes"; que su exPeriencia
+fiscalizadora las tipologias de irregularidades previamente identificadas se
+incorporen al d Y iseno funcional de la herramienta; y que la OIC eletza una funci6n de
+
+Infome Positioo Conjunto xbrc el p. clel S. 1270
+Conisions de Gobienn; y de Cimcit, Teoulogla e Inteligmcia Anifcial
+Pdgina 5
+"auditoria independiente sobre el funcionamiento de la herramienta", incluyendo la
+verificaci6n de los pariimetros de detecci6r! los indicadores de desempeno, Ia
+integridad de los procesos automatizados y la trazabilidad de los hillazgos.
+Asimismo, propone que la plataforma adopte un enfoque preventivo mediante aleitas
+tempranas, aniilisis predictivo de riesgos y recomendaciones de mitigaci6n anteriores
+a la adjudicaci6n, de modo que "no solo detecte, sino que contribula activamente a
+evitar la ocurrencia de actos contrarios a la integridad de los procesos de contrataci6n
+priblica". Finalmente, considera imprescindible que el iol de la OIG quede
+expresamente delimitado y que s€ preserven sus facultades fiscalizadoras bajo las
+Ley es 1,5-2017 y 73-2019.
+PUERTO RICO INNOVATION AND TECHNOLOGY SERVICE
+La Puerto Rico lnnovation and rechnology service no endosa el p. del s. 1210
+tal y como est6 redactado. concluye que "no noi encontramos en posici6n de avalar
+la medida en este momento,,. Aunque reconoce que la propuesta ,,persigue un
+prop6sito legitimo y loable dirigido a fortalecer la transparencia g,rbe-rme-ntat, la
+rendici6n _de cuentas y lo_s mecanismos tecnor6gicos- aplicable-s a procesos de
+contrataci6n pdblica", PRITS advierte que la incolporaci6n de inteligencia artificial
+"por si sola, no garantiza transparmcia, eficiencia o detecci6ri adecuada de
+irrgqulari{ales", pues su efectividad depende de la calidad de los datos, la
+W uniformidad de los procesos, los parrimekoi de validaci6n y la supervisi6n humana.
+Asimismo, recomienda evaluar. primero si los objetivor a" r" medida pueden
+alcanzarse mediante "integraci6n, _interoperabilidad o expansi6n de sistemas ya
+exis,tentes", particularmente la plataformaJ.E.D.I. adrninistraia po. r" aaii"irt r.ior,
+de servicios c,enerales y las iniciativas de modemizaci6n e integraci6r, .elacionadas
+con el sistema ERP gubemamental, a fin de evitar duplicidad ie usfue.zos, costor,
+incompatibilidades y fragmentaci6n tecnol6gica.
+PRITS sefrala, ademds, que el proy-ecto no desarrona adecuadamente las
+consideraciones operacionale+ igr*r, p."rrpr"rt"ri"s y reg,latorias rr.""ru.i",
+t \, l o . o fl r n em ^l o 1 . , r : o : r T e , ll 1 o, p r t e lj c i o lr m T ie " n d a a p lic a a n b a l l e iz u a r t o l d o o s s c ro o s s t p o r s o c d e e ro s d e d s I a s r u r b o a ll s o t , a in p t t e ib g l r ic a a c i6 d n e , l
+infraestrucfura, mantenimiento, licenciamiento, adiestramiento y recursos humanosi
+identificar las entidades y los sistemas qu" ,.ii* impactados; determinar c6mo [a
+plataforma interactuaria con ros distintor'*";;;;;g"lt"torios y sistemas de compras
+" d . e * . i t f - ' q E n 'D l"? 'I ' y y " e d s e p l e E ra R r p y a e n v t a e lu s a d r e e l o f r , d n e c n io a n r a m el i e d n e to s , a i f r i o te [J g ra d c e io u n n a y c n a u p e a v c a id a h d e e rr s a m re i a e r n es ta ,,
+independiente mediante una enmienda a la Ley ZilOl;.
+IMPACTO FISCAL MUNICIPAL
+
+lnfonne Positioo Conjrmto sbre el P . tbl 5 . 7270
+Comisiones ilc Gobierno; y de Ciencb, Teotologla e Inteligencb Artifcial
+Pdgina 6
+lal*y
+En cumplimiento con el Articulo 1.007 de 107-2020, segrin enmendada,
+conocida como "C6digo Municipal de Puerto Rico", las Comisiones de Gobiemo; y de
+Ciencia, Tecnologia e Inteligencia Artificial del Senado de Puerto Rico certifican que el
+P. del S. 1210 no impone una obligaci6n econ6mica en el presupuesto de los gobiemos
+municipales.
+CONCLUSI6N
+las Comisiones de Gobiemo; y de Ciencia, Tecnologia e Inteligencia Artificial
+del Senado de Puerto Rico, luego de examinar el P. del S. 1210, la Icy 7*2019, segliu,].
+enmendada, los memoriales explicativos recibidos y las enmiendas contenidas en el
+entirillado que s€ acomPafra, concluyen que la medida merece aprobaci6n con
+enmiendas. il Proyecto persigue un prop6sito legitimo de politica priblica al exigir el
+uso de herramientas de inteligencia artificial para fortalecer la transparencia, la
+eficiencia, la fiscalizaci6n y la integridad de los procesos de subasta pdblica del
+Gobiemo de Puerto Rico. Sin embar8o, el texto radicado establecia un mandato amplio
+para desarrollar una plataforma nueva sin definir adecuadamente su alcanc€, sus
+par6metros de operaci6n, la distribuci6n de responsabilidades entre las agencias
+concemidas, su relaci6n con los sistemas existentes ni las fuentes de financiamiento
+necesarias para su implantaci6n.
+El primer cambio sustantivo consiste en amPliar la enmienda ProPuesta Para
+incorporar al Articulo 3 de la ky 7!2019 definiciones de "inteligencia artificial",
+"irregularidad" y "Plataforma". Estas definiciones son necesarlas para delimitar las
+tecnologias y actuaciones sujetas a la ky, establecer criterios uniformes Para su
+implantaci6n y evitar que una alerta generada por un sistema automatizado sea
+interpretada como una determinaci6n final de incumplimiento o responsabfidad. De
+a forma, el entirillado recono{e que los resultados producidos por la inteligencia
+artificial tienen cardcter preliminar y requieren evaluaci6n posterior Por funcionarios
+.^^
+. con autoridad legal.
+, ( l/" Asimismo] el entirillado modifica el enfoque original de Ia medida Para evitar
+\rf' que la aprobaci6n del proyecto conlleve autom6ticamente la creaci6n de una
+y
+\l ;ilJ;; tecnol6gica independiente' En su lugar' dispole que PRITS la
+'G.ne.ales
+Administraci6n de Eervicios evahien primero las plataformas, bases de
+datosysistemasexistentes,incluyendo].E.D.I.ylossistemasvinculadosalEnterpri*
+Resouice planning gubemamental. se dar6 prioridad a la .inte.gnci6n, adaptaci6n,
+meioramiento o"efansi6n de dichas herramientas cuando ello resulte t6crica y
+fiscalmente vi"rte. 'E"te cambio responde a la necesidad de evitar duplicidad de
+sistemas,esfuer,o'p"'"r"ro',incompatibilidadestecrrol6gicasyelusoinnecesariode
+fondos Priblicos.
+
+lnforme Posititn Conjunto nbte el p . rlel S. 1210
+Comisiones de Gobieno; y de Ciencia, Tearobgta e Inteligmcia Anifrcial
+pigina
+7
+La medida tambi6n fue enmendada para delimitar con mayor precisi6n las
+ftmciones de las agencias concemidas. pRfrs tendrii u r, .u.go el ^componente
+tecnol6gico de la plataforma, incluyendo su desarrollo, integraci6n, mantenirniento y
+seguridad. La Adminishaci6n de Servicios Generales establecer{ y validari{ las reglas
+operacionales a las compras y subastas bajo su jurisdicci6n. La cjficina del Inspe&or
+General colaborard en la identificaci6n de indicadores de riesgo, recibir{ los haliazgos
+correspondientes a entidades bajo su jurisdicci6n y podrd auditar el funcionamiento
+de la herramienta. Por su parte, la oficina de Etica bubemamental colaborard en Ia
+identificaci6n y prevenci6n de posibles conflictos de intereses y otros riesgos €ticos.
+Esta distribuci6n permite aprovechar la pericia especializada de cada entid"ad y evita
+que PRITS asuma funciones adjudicativas, investigativas o fiscalizadoras iue el
+ordenamiento juridico confiere a otras atencias.
+El entirillado tambi6n aclara que la inteligencia artificial serd una herramienta
+de apoyo y no un sustituto del yuicio humiro. En consecuencia, las alertas y
+recomendaciones generadas por la plataforma serdn de cariicter preliminar. Ning,na
+persona podr6 ser descalificada, ning*na propuesta podrri sei rechazada, ni"una
+subasta podrii_ser adjudicada, cancelaJa o reieridu pu." i.,vestigaci6n exclusivamente
+como resultado de una determinaci6n automatizada. Toda -acfuaci6n qr" puad"
+afectar los derechos o intereses de ,n participante deberd est"r p.e.eaiJa io, r,
+-procesales.
+evaluaci6n de personal autorizado y iiustarse a las garantias Esta
+salvaguarda procura evitar decisiones automdticas care.rt"s de c-ontexto, errores
+algoritmicos y posibles menoscabos al debido proceso de ley.
+Ademds, las enmiendas estabrecen un- plan de imilementaci6n que deberii
+incluir un inventario de los sistemas existentes, un anrilisis a" ir,t"rop".'"uital y
+posibles duplicidades, la distribuci6n de responsabilidades entre las asencias
+participantes, los estdndares.aplicables de ciberse'gurid"a, pri"*iJ"a,d;;;;;"
+* id ' e o n : ti . f I ic a o c T i6 p n p T de e n su c s ia f u a e r n g t o e r s it m de ic f a in , a a n s c i i c a o m m ie o n , to - . " T J a i m i. b "d id o n , d " e * ta * ll . a * d p o r d " e l l o " s p c " o " s L to i s ir i v " a ra
+y de t . 6 d r e m sa in rr o o s ll a e r s p un e c p if - i r c o o g s ra . m Es a t e p _ i p lo r t o o c e y s o se p re e q r u m ie it r i e rd u q n u c e a r l e a n d im ar p io r a d n e t a " c 1 i6 "" n r . d io e f l " a o r m , - e . d t i u da ,
+responda a una evaluaci6n t6cnica y fisiar previa, en lugar de parti. a" u p."rr.r.io.,
+de que la creaci6n inmediata de una plataiorr"" ;";;; constituye necesariamente la
+altemativa m6s adecuada.
+De igual forma, se fortalece la rendici6n de cuentas mediante ra ampliaci6n del
+f9*: anual que pRITS deberd presentar h;;;;L"
+L,egislativa. Dicho informe
+induird el estado de desarrollo e'integraci6n " a" r"
+f-r"t"ror*a, ros fondos utilizados,
+las agencias y sistemas incorporadosja cantidad y,,"trrut"ru
+generar de las alertas
+generadas, los resultados de las evaluacior,u, aJirr,p".to
+algoritmico, los errores,
+l s a es s S os o incidentes de seguridad identificados, rrs mJdidas correctivas adoptadas y
+recomendaciones legislativas, administrutirru, o teorotO$cas q;;'ilfi"
+
+Infonte Positioo Coniunto sobte el P del S' 7270
+Comisioncs de Gobiemo; y de Ciencb, Tecnobgio e Inteligencia Aniftcial
+Pdgiaa E
+necesarias. Esta informaci6n permitire a la Asamblea l,egislativa evaluar de forma
+continua la efectividad, confiabilidad y costo de la herramienta.
+Finalmente, el entirillado atiende las preocupaciones presupuestarias mediante
+una vigencia escalonada. La Ley entrard en vigor inmediatamente para fines de
+p."p"ri. el plan de implementaci6n, evaluar los sistemas existmtes, determinar los
+identificar las fuentes de financiamiento. sin embargo, las disposiciones que
+" re o q ri u o i r e r " a n la contrataci6n, adquisici6n, desarrollo, integraci6n o implantaci6n de la
+plaiaforma no comenzardn a iegir hasta que PRITS certifique al Gobemador.y a. la
+^.rlsamblea tcgislativa que se han identificado y se encuentran disponibles los fondos
+necesarios p"r" r, implementaci6n y operaci6n continua. Esta estructura evita
+imponer un mandato rir, fir,u.,.iu-i"nto, a la vez que Permite tealizar los estudios y
+g- eitiones preliminares necesarios para determinar su viabilidad'
+poi tanto, las enmiendas no alteran el prop6sito central del P. del S. 1210, sino
+que sustituyen un mandato general e indeterminado Por un marco iuridico mas claro.
+H entirillado define los .or,i"pto., da prioridad al uso e integraci6n de los sistemas
+existentes, delimita las responsabilidades de las agencias, Preserva la intervcnci6n
+humana, establece un proc;so ordenado de implementaci6n, fortalece la fiscalizaci6n
+legislativa y condicio;a la inversi6n priblica a la disponibilidad de fondos. De esta
+manera, se Promueve un uso responsable, transParente y fiscalmcnte prudente de la
+inteligencii artificial en los procesos de contrataci6n priblica, mientras se Preservan
+las facultades de las agencias concemidas.
+poR TODO LO ANTES EXPLTESTO, las comisiones de Gobiemo; y de Ciencia,
+Tecnologia e lnteligencia Artificial del senado de Puerto Rico tienen a bien presentar
+ante esti Alto Crierpo eI lnforme Positivo sobre el Proyecto del Senado 1210
+recomendando su aprobaci6n con enmiendas al entirillado electr6nico que se
+acompafra.
+RESPETUOSAMENTE SOMETIDO'
+4/k".{"k
+Ho I edo L6pez
+Presidente
+ente
+Comisi6n de Ciencia, Tecnologia e
+Inteligencia Artificial
+Senado de Puerto Rico
+Senado de Puerto Rico
+
+(ENTTRTLLADO ELECTRoMCO)
+GOBIERNO DE PUERTO RICO
+.".
+20 Asamblea .'
+3 Sesi6n
+Legislativa
+Ordinaria
+SENADO DE PUERTO RICO
+P. del S. L2L0
+23 de abril de 2026
+Presentado por el sr.:i.or Reyes Berrios
+Referido alas Comisiones de Gobierno; y de Cimcit, Tecnologia e lnteligencia Artifuial
+LEY
+Para enmendar e-iaAr{gaa-**er*e lw Articulos 3 u 6 de la L"ey 75-2079, r;g6n
+enmendada, conocida como "l*y de la Puerto Rico Innovation and Technolow
+Se*iees Sm-dce", a los fines
+" inesularidad" :y para otros fines relacionados.
+ExPosIcI6NDEMorIvos
+h/
+/ /
+w La I*y 7s20r9, segin enmendada, cre6 la puerto Rico lnnovation and rechnology
+service (en adelante "pRITs') con la encomienda de desarrollar, coordinar y promover
+la innovaci6n tecnol6gica y la transformaci6n digital en la administraci6n pdblica. Esta
+funci6n es de vital importancia para modemizar la gesti6n gubemamentar y promover
+una administraci6n
+m6s eficiente, transparente y accesible para la ciudadania.
+Ante la revoruci6n tecnol6gica mundial y el auge de la intetgencia artificial (IA),
+se
+impone la adopci6n de herramientas tecnol6gicas que permitan el
+monitoreo
+automatizado, en tiempo real, y con capacidad analitica avanzada de los procesos
+
+1
+priblicos. como es sabido, la IA entre otras cosas, puede detectar Patrones atipicos,
+validar documentos y garantizar la correcta ejecuci6n de las etapas de las subastas
+pfblicas. Esto se alinea con las politicas priblicas del Gobiemo de Puerto Rico, que buscan
+promover la modemizaci6n tecnol6gica para mejorar la gesti6n y la rendici6n de cuentas.
+La actual Administraci6n tiene como prioridad incluir elementos de lA a los fines
+de alcanzar una integraci6n digital de los servicios ofrecidos por diferentes agencias para
+poder ofrecer una experiencia mds fluida para los ciudadanos' Es por ello que la
+aplicaci6n de IA para las subastas ptiblicas se debe fundamentar en principios ya
+establecidos en la l*y 75-2019 , y debe reconocer la innovaci6n tecnol6gica, la integraci6n
+de sistemas, y la transformaci6n digital como ejes estratEgicos para el desarrollo
+econ6mico y la gobernanza efectiva en Puerto Rico'
+La lan de esta itica blica debe considerar as efi tales
+utilizan distintas ola ststefias fiscales, ofosfafi s heredados u imientos
+ild administratirtos oara tionar suscofioras a subastas. ismo,la Administ de Seruicios
+tE-
+Generales adminisfia tq d.e berna tales incl do el istana otn
+Procuranmt D nte conocido o E.D.l. mimtras el i*no conti ua
+0n tecnol6 media tes temas ile
+desanol iniciatioas de
+lan de recutsos les En Resource lanni
+EI prop6sito de esta enmienda es incorporar el desarrollo y Ia implementaci6n de
+una aplicaci6n tecnol6gica basada en inteligencia artificial (IA)' para el monitoreo
+eficiente, transparente y automatizado de los procesos de subasta pribtca en Puerto Rico'
+
+3
+promoviendo asi la integridad, la eficiencia y la fiscalizaci6n en dichos procesos conforme
+a las politicas priblicas tecnol6gicas ya establecidas en la ky ZS-2019.
+la
+rd una dis uci6n clara . PR.IT ra a caf
+ile los componentes tecnol6sicos.la interwerabiltulad. la informdtica v la sobemanm de
+los sistemas de intelisencit artificial: la Administraci6n de Seruicios Generales aoortard su
+LA las su su uisdiccidn la del ln
+las func de fiscaltuclofl, canaliztci1n de hallazsos u auditoria independimte; u la
+Oficina de ttica Gu b ernament al c ol ab or ar d m la identificaci6n u weamci6n ile conflictos de
+inteleses u o nes?0s iticos.
+Ia olataforma deberd incomor,'ar un enfoque tioo, mediante indicadores de riesso.
+alertas t, nas mecan$mos rmt identi f an de e
+estas se materialicen. A su oez, deberd estab controlcs de acceso, mcflotaci6n, resis de
+q auditoria, eaaluaciones 6dicas de im al vorocedimientos para d.etectar acofreQt
+seseos, erfoTes o resuItados discriminntorios
+Por todo lo anterior, esta Asambrea Legisrativa entiende indispensable desarronar y
+operar rrn sistema innovador basado en inteligencia artificial para el monitoreo de
+ill procesos de subasta priblica, que fortifique la transparencia, la eficiencia y la confianza
+en la administraci6n priblica en puerto Rico.
+DECRtTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICOI
+I Secciln 1 .-Se enmienda el Articulo 3 de la lcu 75-2019. seQUn , conocida cofito
+2 la to lnn on and Seroice" afiadir nueaos fil m
+3 (n). oue leerin como siwe:
+4 'Articulo 3. - Definiciones.
+5 ara os ro tos esta los t6rminos iin el s o
+6 se dispone a continuaci6n:
+7
+
+4
+(l) Inteligencia artifcial.-Signirtca un sistema basado en mdquinas que, para obietioos
+2 definidos emlicita o imoIicitammte. infiere ile lu datw oue recibe c6mo oredicciones,
+3 recomenilaciotes . clasificaciones, contenido, alertas o decisiones aue puedan influir en entornos
+4
+frsicos o airtuales, u que ooeta con distintos niveles de autonomia u adaotabilidad.
+5 m cual tr6n om$rcn torcia
+6 desaiaci6n, conflicto de in . incumolimisnto o inilicador ile oue oueda ser contraio a
+7 las leves. reslamefltos, imisatos o rincioios aol a los de subasta La
+in
+8 identificaci6n ik una ifTesliaidad oor un sistema de intellseflcn constituird te
+9 una alerta preliminar u no una determinaci6n final dc incumplimim to, rcsoonsabiliilad
+l0 adminisfiatiaa, ciail o oenal.
+ll n Plat -s la lata o con to in dc sistemas tecno16
+t2 utilizados oafa lar, intercambiar analizar a monitorear informaciin relacionada con los
+l3 de su ta piblica mediante heramimtas ile automatizaciin e intelisencia artificial ."
+t4 secci6n 1-!. - se enmienda el Articulo 6 de la Ley 75-2079, segrin enmendada,
+,,ky
+conocida como de la Puerto Rico Innovation and Technology service" Para que se
+l6 como srSue:
+t7 ,,Articulo 5. - Funciones, facultades y deberes de la Puerto Rico lnnovation and
+18 Technology service y del Principal Eiecutivo de kmovaci6n e Informaci6n del Gobiemo
+19 (PEtr).
+a)SerlaoficinadelaRamaEjecutivaencar8adadeimPlantar,desarrollary
+20
+2l coordinarlapoliticaptiblicadelGobiemosobrelairurovaci6n,informaci6ny
+))
+tecnologia;
+
+5
+2
+3
+4
+5 (f) Implementar sistemas de rendici6n de cuentas que propicien el mejoramiento
+6 continuo y la innovaci6n mediante la alineaci6n de la organizaci6n a
+ras
+7 expectativas y metas. Estos sistemas, a su vez, deben contribuir a la utilizaci6n
+8 miis eficiente de los recursos gubemamentales y a la transparencia en la gesti6n
+9 gubemamental
+10
+I
+ikl-4ebieme
+2 de Puerte R:ee; tenrti-anCe la ikteeeitn tu inegul tr idede^, la
+J ffWtn4+lslre4w-! el eeeeee -ibliee a :nfsfifl rci6-1, es eendieiin
+I5
+r6 eenfikte:cli kd k le:nfernrei,n tesferde rera el re caeulta
+ieteie,e estas re t ras
+sw*W4w+eftdrAn
+t'7 ob\@s e trabaier en &er" ifu
+l8
+l9
+20
+PKITS
+ser,a
+2t
+del te de una Ia d tal utilice in li cn
+moflitorear los orocesos de subasta otiblica dc las entidades cle la Rama
+
+6
+Its
+I Eiecutioa sujetas a la iurisdicci'n de la Adninistruci6n de sefoicios Generales.
+, entiilades exefitas oodrdn inteerarce mediante o lfl . sin mmoscabo de
+3 las .facultades que lu recoaoz'can sus reslectioas leyes or8'inicas'-Antes de ilesanolhr
+4 uflL olatafonna nueoa, PRITS y la Adflinistfacifin de seruicios Geflerales eoalualan los
+5 sistemas existmtes, incluyendo I.E.D.I. y los sistemas rcbcionados con el Enterpise
+6 Resoufce Plannfug del Gobierno. se dara oioiilad a inteEaf meiorar o amPliaf dichos
+1 sistemas cuando ello sea ficnka y frscalfimte oi^bk. solo podrd desaffollafse una
+8 pl n cuando se iletetmine que los sistemas exrstmtes no oermitm cumplir
+lt
+9 adecuadamente con los proplsitos de este inciso. plataforma deberL Permitit la
+l0 iden 6n de atioicos nconsistmcias m docummtos, oosibles conflictw ile
+ll intereses otros indicadores dt abrtas el se to
+t2 dc las distintas e de las el uso te de los rccurgs cos
+13 u facilitar el acceso a infotmaci6n Piblica.
+Las alertas ! recomendaciones Smerailas Por la olataforma serdn de cardctq
+oreliminar y seruirin inicamente como hotamimtas de aPoyo' Ninguna Persona oodrd
+l,)q sr ruhaztda ni una subasta podti ser
+ser descalifcada, ninguna Pra\uesta Poilrd
+adiuilicaih. cancelaila o rcferida Para inoutiSaciin exclusioammte por una
+1'7
+18
+lE'
+l9 oersonal autoizado y cumPlir con el dcbido Ptocao de
+20 Para la imPlantaci1n y oPeraci1n ile la Plataforma:
+(1|PKtlstmdrlasucaryoeldcsanollointegraci1n,manteaimimtoyxguidad
+2l
+22 fu sus annPonentes tecaol6gias:
+
+7
+I (21 lo M*inbtrorfrn d, S*iri* @nolr, ,rtfuhrnd y oolidori l* ,rrl*
+2
+3 G, h Ortrin dd lrtprrro, funol ,ohborord rn k fufrfir*ifu fo indirdor*
+4 fo irtgo,rrtibiri lot full*g* qu, ,onrrp*fu, o *ridod* boio ,, iuirdirrfr,
+5 y podrd auditar eI funcionamimto ile la olataforma:
+6 Gl lo Ofiri* il, EHro Grb*o*td ,olrborori * lo id*tfiroriin y ,r*ri6,
+7 de Wsibbs anflktos ib interexs lt otros riesgos 6ticos. lt
+E (5, ,rolnuin orro "rridd *fur**rrol ,rrfrn*r, ,olrfurrrd ,onfr* o lo,
+9 facultailes que le confera su ley habilitailora,
+l0
+/&
+ul
+tioas idades. niaeles
+de mecantsmos de intercambio de
+tn n tm tos canal I . Nadadelod to en este
+lru
+lnc6o menoscabard las facultades adiudicatioas inaest , fiscalizadoras
+o
+l5
+I6
+t7
+l8
+Secci6n 3.-Plan ile imolementacifin.
+t9
+Dentrode los ta dtas ala
+ha en ta comencea
+20
+PRITS coordin con la Adm,flls 6ndeS
+erales Ia ctna del
+2t
+la clfla tica G amental remitird al aI Pre'pidente
+22
+del Senado vaI
+te de la Cd de ntantesufiDlan
+de taci6n
+
+8
+I El plan deberd incluir, como minimo:
+) (al ufl inaentaio dc las plataforfias. bases ile ilatos u sistemas eristmtes relacionados con
+3 cofiPrtts y subastas gubernafiefitalcs:
+4
+5 Resource Planning gubemamental Y atalquier otro sistema Pertinante:
+6 k\ la ileteftninacifin dr si los objetioos dc esta lzy e ateniler1n ngiliaflte la inteEaci6n,
+7 ewansi6n o ad taci6n de sbtemas ex$tefites, o mciliaate el ilesanollode una olataforma
+8 nueaa:
+9 (d| los eshindares ile ciberseqridad, oiaaciihd, SobqnanTa ile datos y transParmcia
+l0 alsoitmiu;
+1t
+t2 (f1 un estimado detallado de lw costos de desrrollo' inteEacihn' licenciamimto
+l3 ttuc ra mantenimiento tra to hu
+4 iden i6n de las tes esta les o
+5 la implemmtaci6n Y oPeraci1n recunmte dt la olataforma:
+(h\uaProwamapilotocuanilotesulteoiabbParaoaliilarelfuncionamientodela
+tw
+henamienta antes ile su imolantaci6n Smeral: u
+18 (i\ un calendario dc 4ecuci6n con metas ! tttminos esoecifrcw' El cabndaio ileberd
+la esti tro de I oeinticuatro tneses sl tes
+19
+20
+una toll
+2l existencia afcuns tilnicas o
+22 2{'- hforme Anual'
+Secci6n
+
+9
+I
+La Puerto Rico knovation and Technology Sewice incluird en su informe anual a la
+2
+Asamblea Legislativa, un resumen detallado sobre el funcionamiento, resultados,
+3 obst6culos y recomendaciones relacionados con la aplicaci6n y uso de inteligencia
+4
+artificial en el monitoreo de procesos de subasta pfblica. Este-inI€rme-€€-ffesenta"6
+5
+afie,
+6 El in se presettard dentro del t1rmino disouesto en el Art ulo 12 de la l*u 75-20L9 v
+7
+deberd inclulf , sl se entietda como una limitaci1n:
+8 I estado de Io in rcnet lementaci6n de Ia la
+(b
+9 los fondos illaiificados, oblisados u asl como los costos incurridos
+10 durante el afio fiscal:
+c las sistanas in ala
+la can las a las tidades
+3 lizadoras sin diau tn lon con ofe inoesti nfies en
+t4 curso;
+uw
+e los resultad., de las luaciones de to tmico incl do las tasas de
+t6
+rec lon tioos tiaos
+t7
+Ios efT0res incidcntes de 0 iden cadas las medidas
+l8 correctiaas tadas
+l9
+los ultados de las audi imtes real la ina del
+20 General: u
+2t
+las iones I aas administra estarias o tecnol
+))
+se estimen necesarias,
+
+10
+Seccidn 5.-Separ ahilidad.
+1
+2 Si cualouier cliusula. pdnafo, subpdnafo, oraci6n, palabra, btra. articulo, disoosiciln.
+3 secci6n. subxccihn. titulo. capitulo, subcaoitulo, acipite o Parte ilc *ta l-cy fuera arulada o
+4 ileclaruda inconstitucionnl, la iletetminacihn iuilicial a tales $ectos no alectard, Periuilicari ai
+5 inoalidard el rarunenk ile esta ltu.
+6 Secci6n 3-f .-Vigencia.
+7 EstaltY entrar'd
+8 en oigor inmediatammte ilespuis de su aprobaci1n para fircs ile la preparacian del plan dz
+9 implementnci6n. la eaaluaciin dc los sistemas existentes, la determinaci6n de los costos ula
+10 ti caci1n de las tes de nciamiento. Its d ieran la con taci6n
+1l adauisici6n desarrollo ,ln 6n o imolattaci|n de la olataforma comznzafin a regit despuis
+t2 de que PRITS al de Rico u a la Asamblea Lesislatioa aue se han
+identificado a se encuentran disponibles lw fondos necesarios oaru su imolemettaci6n u
+14
+continua.
+w

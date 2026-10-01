@@ -1,0 +1,252 @@
+Title: 
+Official Title: 
+Source: versions - Entirillado del Informe
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+(ENTIRILLADO ELECTRÓNICO)
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 3 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 1210
+23 de abril de 2026
+Presentado por el señor Reyes Berríos
+Referido a las Comisiones de Gobierno; y de Ciencia, Tecnología e Inteligencia Artificial
+LEY
+Para enmendar el inciso (f)del Artículo los Artículos 3 y 6 de la Ley 75-2019, según
+enmendada, conocida como “Ley de la Puerto Rico Innovation and Technology
+Services Service”, a los fines de incorporar el desarrollo y la implementación de una
+aplicación tecnológica basada en inteligencia artificial (IA) establecer el desarrollo,
+integración o expansión de una plataforma tecnológica que utilice sistemas de inteligencia
+artificial para el monitoreo eficiente, transparente y automatizado de los procesos de subasta
+pública en el Gobierno de Puerto Rico; definir los conceptos de “inteligencia artificial” e
+“irregularidad”; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley 75-2019, según enmendada, creó la Puerto Rico Innovation and Technology
+Service (en adelante “PRITS”) con la encomienda de desarrollar, coordinar y promover
+la innovación tecnológica y la transformación digital en la administración pública. Esta
+función es de vital importancia para modernizar la gestión gubernamental y promover
+una administración más eficiente, transparente y accesible para la ciudadanía.
+Ante la revolución tecnológica mundial y el auge de la inteligencia artificial (IA), se
+impone la adopción de herramientas tecnológicas que permitan el monitoreo
+automatizado, en tiempo real, y con capacidad analítica avanzada de los procesos
+
+2
+públicos. Como es sabido, la IA entre otras cosas, puede detectar patrones atípicos,
+validar documentos y garantizar la correcta ejecución de las etapas de las subastas
+públicas. Esto se alinea con las políticas públicas del Gobierno de Puerto Rico, que buscan
+promover la modernización tecnológica para mejorar la gestión y la rendición de cuentas.
+La actual Administración tiene como prioridad incluir elementos de IA a los fines
+de alcanzar una integración digital de los servicios ofrecidos por diferentes agencias para
+poder ofrecer una experiencia más fluida para los ciudadanos. Es por ello que la
+aplicación de IA para las subastas públicas se debe fundamentar en principios ya
+establecidos en la Ley 75-2019, y debe reconocer la innovación tecnológica, la integración
+de sistemas, y la transformación digital como ejes estratégicos para el desarrollo
+económico y la gobernanza efectiva en Puerto Rico.
+Además, esta herramienta contribuirá a consolidar la unificación digital del
+Gobierno, facilitando la interoperabilidad entre agencias y mejorando el acceso
+ciudadano a información veraz y oportuna, en apego a la Ley de Transparencia y Acceso
+a la Información Pública. Así mismo, la coordinación interagencial con la Administración
+de Servicios Generales asegurará la interoperabilidad administrativa y técnica necesaria
+para la exitosa implementación del sistema.
+La implantación de esta política pública debe considerar que las entidades gubernamentales
+utilizan distintas plataformas, sistemas fiscales, programas heredados y procedimientos
+administrativos para gestionar sus compras y subastas. Asimismo, la Administración de Servicios
+Generales administra plataformas de compras gubernamentales, incluyendo el sistema Joint E-
+Procurement Digital Intelligence, conocido como J.E.D.I., mientras el Gobierno continúa
+desarrollando iniciativas de integración financiera y tecnológica mediante sistemas de
+planificación de recursos empresariales o Enterprise Resource Planning.
+El propósito de esta enmienda es incorporar el desarrollo y la implementación de
+una aplicación tecnológica basada en inteligencia artificial (IA), para el monitoreo
+eficiente, transparente y automatizado de los procesos de subasta pública en Puerto Rico,
+
+3
+promoviendo así la integridad, la eficiencia y la fiscalización en dichos procesos conforme
+a las políticas públicas tecnológicas ya establecidas en la Ley 75-2019.
+La Ley procura establecer una distribución clara de responsabilidades. PRITS estará a cargo
+de los componentes tecnológicos, la interoperabilidad, la seguridad informática y la gobernanza de
+los sistemas de inteligencia artificial; la Administración de Servicios Generales aportará su
+competencia sobre las compras y subastas bajo su jurisdicción; la Oficina del Inspector General
+ejercerá las funciones de fiscalización, canalización de hallazgos y auditoría independiente; y la
+Oficina de Ética Gubernamental colaborará en la identificación y prevención de conflictos de
+intereses y otros riesgos éticos.
+La plataforma deberá incorporar un enfoque preventivo, mediante indicadores de riesgo,
+alertas tempranas y mecanismos que permitan identificar posibles irregularidades antes de que
+estas se materialicen. A su vez, deberá establecer controles de acceso, encriptación, registros de
+auditoría, evaluaciones periódicas de impacto algorítmico y procedimientos para detectar y corregir
+sesgos, errores o resultados discriminatorios.
+Por todo lo anterior, esta Asamblea Legislativa entiende indispensable desarrollar y
+operar un sistema innovador basado en inteligencia artificial para el monitoreo de
+procesos de subasta pública, que fortifique la transparencia, la eficiencia y la confianza
+en la administración pública en Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.—Se enmienda el Artículo 3 de la Ley 75-2019, según enmendada, conocida como
+2 “Ley de la Puerto Rico Innovation and Technology Service”, para añadir nuevos incisos (l), (m) y
+3 (n), que leerán como sigue:
+4 “Artículo 3. — Definiciones.
+5 Para los propósitos de esta Ley, los siguientes términos tendrán el significado que
+6 se dispone a continuación:
+7 …
+
+4
+1 (l) Inteligencia artificial.—Significa un sistema basado en máquinas que, para objetivos
+2 definidos explícita o implícitamente, infiere de los datos que recibe cómo generar predicciones,
+3 recomendaciones, clasificaciones, contenido, alertas o decisiones que pueden influir en entornos
+4 físicos o virtuales, y que opera con distintos niveles de autonomía y adaptabilidad.
+5 (m) Irregularidad.—Significa cualquier patrón, actuación, omisión, inconsistencia,
+6 desviación, conflicto de intereses, incumplimiento o indicador de riesgo que pueda ser contrario a
+7 las leyes, reglamentos, procedimientos o principios aplicables a los procesos de subasta pública. La
+8 identificación de una irregularidad por un sistema de inteligencia artificial constituirá únicamente
+9 una alerta preliminar y no una determinación final de incumplimiento, responsabilidad
+10 administrativa, civil o penal.
+11 (n) Plataforma.—Significa la plataforma o conjunto integrado de sistemas tecnológicos
+12 utilizados para recopilar, intercambiar, analizar y monitorear información relacionada con los
+13 procesos de subasta pública mediante herramientas de automatización e inteligencia artificial.”
+14 Sección 1 2. - Se enmienda el Artículo 6 de la Ley 75-2019, según enmendada,
+15 conocida como “Ley de la Puerto Rico Innovation and Technology Service” para que se
+16 lea como sigue:
+17 “Artículo 6. — Funciones, facultades y deberes de la Puerto Rico Innovation and
+18 Technology Service y del Principal Ejecutivo de Innovación e Información del Gobierno
+19 (PEII).
+20 a) Ser la Oficina de la Rama Ejecutiva encargada de implantar, desarrollar y
+21 coordinar la política pública del Gobierno sobre la innovación, información y
+22 tecnología;
+
+5
+1 …
+2 …
+3 …
+4 …
+5 (f) Implementar sistemas de rendición de cuentas que propicien el mejoramiento
+6 continuo y la innovación mediante la alineación de la organización a las
+7 expectativas y metas. Estos sistemas, a su vez, deben contribuir a la utilización
+8 más eficiente de los recursos gubernamentales y a la transparencia en la gestión
+9 gubernamental. Además, será responsable de desarrollar, implementar y supervisar
+10 una plataforma digital avanzada basada en inteligencia artificial para el monitoreo
+11 transparente y en tiempo real de todos los procesos de subasta pública bajo la jurisdicción
+12 del Gobierno de Puerto Rico, garantizando la detección de irregularidades, la
+13 optimización administrativa y el acceso público a información. Es condición
+14 indispensable que la aplicación cumpla con los más altos estándares de seguridad
+15 informática y protección de datos personales, para garantizar la integridad y
+16 confidencialidad de la información gestionada. Para el ejercicio de estas facultades, las
+17 siguientes agencias vendrán obligadas a trabajar en coordinación con PRITS: Oficina del
+18 Inspector General; la Administración de Servicios Generales; la Oficina de Ética
+19 Gubernamental, y cualquier otra agencia pertinente para garantizar que la aplicación
+20 cumpla con los requisitos legales y de transparencia necesarios. Además, PRITS será
+21 responsable del componente tecnológico de una plataforma digital que utilice inteligencia
+22 artificial para monitorear los procesos de subasta pública de las entidades de la Rama
+
+6
+1 Ejecutiva sujetas a la jurisdicción de la Administración de Servicios Generales. Las
+2 entidades exentas podrán integrarse mediante acuerdo interagencial, sin menoscabo de
+3 las facultades que les reconozcan sus respectivas leyes orgánicas. Antes de desarrollar
+4 una plataforma nueva, PRITS y la Administración de Servicios Generales evaluarán los
+5 sistemas existentes, incluyendo J.E.D.I. y los sistemas relacionados con el Enterprise
+6 Resource Planning del Gobierno. Se dará prioridad a integrar, mejorar o ampliar dichos
+7 sistemas cuando ello sea técnica y fiscalmente viable. Solo podrá desarrollarse una
+8 plataforma nueva cuando se determine que los sistemas existentes no permiten cumplir
+9 adecuadamente con los propósitos de este inciso. La plataforma deberá permitir la
+10 identificación de patrones atípicos, inconsistencias en documentos, posibles conflictos de
+11 intereses y otros indicadores de riesgo; generar alertas tempranas; facilitar el seguimiento
+12 de las distintas etapas de las subastas; promover el uso eficiente de los recursos públicos;
+13 y facilitar el acceso a información pública.
+14 Las alertas y recomendaciones generadas por la plataforma serán de carácter
+15 preliminar y servirán únicamente como herramientas de apoyo. Ninguna persona podrá
+16 ser descalificada, ninguna propuesta podrá ser rechazada, ni una subasta podrá ser
+17 adjudicada, cancelada o referida para investigación exclusivamente por una
+18 determinación automatizada. Toda acción deberá estar precedida por la evaluación de
+19 personal autorizado y cumplir con el debido proceso de ley.
+20 Para la implantación y operación de la plataforma:
+21 (1) PRITS tendrá a su cargo el desarrollo, integración, mantenimiento y seguridad
+22 de sus componentes tecnológicos;
+
+7
+1 (2) la Administración de Servicios Generales establecerá y validará las reglas
+2 operacionales a las compras y subastas bajo su jurisdicción;
+3 (3) la Oficina del Inspector General colaborará en la identificación de indicadores
+4 de riesgo, recibirá los hallazgos que correspondan a entidades bajo su jurisdicción
+5 y podrá auditar el funcionamiento de la plataforma;
+6 (4) la Oficina de Ética Gubernamental colaborará en la identificación y prevención
+7 de posibles conflictos de intereses y otros riesgos éticos; y
+8 (5) cualquier otra entidad gubernamental pertinente colaborará conforme a las
+9 facultades que le confiera su ley habilitadora.
+10 PRITS, la Administración de Servicios Generales, la Oficina del Inspector General
+11 y la Oficina de Ética Gubernamental establecerán mediante acuerdos interagenciales sus
+12 respectivas responsabilidades, niveles de acceso, mecanismos de intercambio de
+13 información y procedimientos para canalizar los hallazgos. Nada de lo dispuesto en este
+14 inciso menoscabará las facultades adjudicativas, investigativas, fiscalizadoras o
+15 reglamentarias conferidas por ley a las agencias concernidas;
+16 …
+17 …”
+18 Sección 3.—Plan de implementación.
+19 Dentro de los ciento ochenta (180) días siguientes a la fecha en que esta Ley comience a regir,
+20 PRITS, en coordinación con la Administración de Servicios Generales, la Oficina del Inspector
+21 General y la Oficina de Ética Gubernamental, preparará y remitirá al Gobernador, al Presidente
+22 del Senado y al Presidente de la Cámara de Representantes un plan de implementación.
+
+8
+1 El plan deberá incluir, como mínimo:
+2 (a) un inventario de las plataformas, bases de datos y sistemas existentes relacionados con
+3 compras y subastas gubernamentales;
+4 (b) un análisis de interoperabilidad y de posibles duplicidades con J.E.D.I., el Enterprise
+5 Resource Planning gubernamental y cualquier otro sistema pertinente;
+6 (c) la determinación de si los objetivos de esta Ley se atenderán mediante la integración,
+7 expansión o adaptación de sistemas existentes, o mediante el desarrollo de una plataforma
+8 nueva;
+9 (d) los estándares de ciberseguridad, privacidad, gobernanza de datos y transparencia
+10 algorítmica;
+11 (e) la distribución de funciones y responsabilidades entre las entidades participantes;
+12 (f) un estimado detallado de los costos de desarrollo, integración, licenciamiento,
+13 infraestructura, mantenimiento, adiestramiento y recursos humanos;
+14 (g) la identificación de las fuentes de fondos estatales, federales o privados que financiarán
+15 la implementación y operación recurrente de la plataforma;
+16 (h) un programa piloto, cuando resulte viable, para validar el funcionamiento de la
+17 herramienta antes de su implantación general; y
+18 (i) un calendario de ejecución con metas y términos específicos. El calendario deberá
+19 procurar que la plataforma esté operacional dentro de los veinticuatro (24) meses siguientes
+20 a la presentación del plan, salvo que PRITS certifique a la Asamblea Legislativa la
+21 existencia de circunstancias técnicas o fiscales que justifiquen una extensión.
+22 Sección 2 4.— Informe Anual.
+
+9
+1 La Puerto Rico Innovation and Technology Service incluirá en su informe anual a la
+2 Asamblea Legislativa, un resumen detallado sobre el funcionamiento, resultados,
+3 obstáculos y recomendaciones relacionados con la aplicación y uso de inteligencia
+4 artificial en el monitoreo de procesos de subasta pública. Este informe se presentará
+5 anualmente, no más tarde del 30 de junio de todo año.
+6 El informe se presentará dentro del término dispuesto en el Artículo 12 de la Ley 75-2019 y
+7 deberá incluir, sin que se entienda como una limitación:
+8 (a) el estado de desarrollo, integración e implementación de la plataforma;
+9 (b) los fondos identificados, obligados y desembolsados, así como los costos incurridos
+10 durante el año fiscal;
+11 (c) las agencias y sistemas integrados a la plataforma;
+12 (d) la cantidad y naturaleza general de las alertas generadas y canalizadas a las entidades
+13 fiscalizadoras, sin divulgar información confidencial o relacionada con investigaciones en
+14 curso;
+15 (e) los resultados de las evaluaciones de impacto algorítmico, incluyendo las tasas de
+16 precisión, falsos positivos y falsos negativos;
+17 (f) los sesgos, errores, incidentes de seguridad o deficiencias identificadas y las medidas
+18 correctivas adoptadas;
+19 (g) los resultados de las auditorías independientes realizadas por la Oficina del Inspector
+20 General; y
+21 (h) las recomendaciones legislativas, administrativas, presupuestarias o tecnológicas que
+22 se estimen necesarias.
+
+10
+1 Sección 5.—Separabilidad.
+2 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo, disposición,
+3 sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta Ley fuera anulada o
+4 declarada inconstitucional, la determinación judicial a tales efectos no afectará, perjudicará ni
+5 invalidará el remanente de esta Ley.
+6 Sección 3 6.—Vigencia.
+7 Esta Ley entrará en vigor inmediatamente después de su aprobación. Esta Ley entrará
+8 en vigor inmediatamente después de su aprobación para fines de la preparación del plan de
+9 implementación, la evaluación de los sistemas existentes, la determinación de los costos y la
+10 identificación de las fuentes de financiamiento. Las disposiciones que requieran la contratación,
+11 adquisición, desarrollo, integración o implantación de la plataforma comenzarán a regir después
+12 de que PRITS certifique al Gobernador de Puerto Rico y a la Asamblea Legislativa que se han
+13 identificado y se encuentran disponibles los fondos necesarios para su implementación y operación
+14 continua.
