@@ -150,6 +150,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:58:25Z"
       }
+    },
+    {
+      "description": "Reuni\u00f3n Ejecutiva: Audiencias #1",
+      "date": "2026-10-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T11:45:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -244,7 +254,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:58:25Z",
+    "logs_latest_update": "2026-10-01T11:45:13Z",
     "text_extraction_latest_update": "2026-07-22T06:31:35.561735Z"
   }
 }
